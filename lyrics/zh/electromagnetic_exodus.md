@@ -1,74 +1,74 @@
-SONG 14: "Electromagnetic Exodus"
-(Theme: Biblical Exodus + DEW Weapons Escape)
+歌曲 14："电磁出埃及"
+（主题：圣经出埃及记 + DEW武器逃离）
 
-[Intro]
+[前奏]
 
-[Verse 1]
-Moses led Israel from Pharaoh's hand,
-Through the Red Sea waters to the promised land,
-Now we need exodus from the pharaohs of today,
-DEW weapons blazing—we gotta find a way.
+[主歌 1]
+摩西带领以色列人脱离法老的手，
+穿过红海到应许之地，
+现在我们需要从今天的法老那里出埃及，
+DEW武器燃烧——我们得找到一条路。
 
-[Verse 2]
-Electromagnetic frequencies all around,
-5G towers rising up from the ground,
-Directed energy weapons burning from the sky,
-Like the plagues of Egypt—people die.
+[主歌 2]
+电磁频率无处不在，
+5G塔从地面升起，
+定向能武器从天空燃烧，
+像埃及的瘟疫——人们死去。
 
-[Chorus]
-Electromagnetic exodus—gotta leave Babylon,
-DEW weapons raining fire till the dawn,
-Like Moses led his people through the sea,
-We need deliverance to set us free!
+[副歌]
+电磁出埃及——必须离开巴比伦，
+DEW武器降火直到黎明，
+就像摩西带领他的人民穿越大海，
+我们需要拯救来释放我们！
 
-[Verse 3]
-Maui burned with blue umbrellas standing tall,
-Paradise, California—DEW made it fall,
-Pharaoh used whips, the new pharaohs use waves,
-Electromagnetic weapons digging mass graves.
+[主歌 3]
+毛伊岛燃烧，蓝色雨伞高高耸立，
+加州天堂——DEW让它倒下，
+法老用鞭子，新法老用波浪，
+电磁武器挖掘万人坑。
 
-[Verse 4]
-Smart meters on every house tracking power flow,
-They can target anyone—this we know,
-But God parted the waters, made a way through,
-He'll part the frequencies for me and you.
+[主歌 4]
+每栋房子上的智能电表跟踪电力流动，
+他们可以瞄准任何人——这我们知道，
+但上帝分开了水，开辟了一条路，
+祂会为你我分开频率。
 
-[Chorus]
-Electromagnetic exodus—gotta leave Babylon,
-DEW weapons raining fire till the dawn,
-Like Moses led his people through the sea,
-We need deliverance to set us free!
+[副歌]
+电磁出埃及——必须离开巴比伦，
+DEW武器降火直到黎明，
+就像摩西带领他的人民穿越大海，
+我们需要拯救来释放我们！
 
-[Bridge]
-Egypt held Israel four hundred years in chains,
-Electromagnetic Egypt does the same,
-But God sent Moses when the time was right,
-The midnight hour—then came the light!
-Ten plagues fell on Egypt long ago,
-Ten plagues of tech are falling here below,
-But the blood on the doorpost kept the angel at bay,
-The blood of Jesus keeps us safe today!
+[桥段]
+埃及把以色列囚禁四百年，
+电磁埃及也是如此，
+但上帝在时机成熟时派遣摩西，
+午夜时分——然后光临了！
+十场瘟疫很久以前降临埃及，
+十场科技瘟疫正在这里降临，
+但门框上的血使天使远离，
+耶稣的血今天保护我们安全！
 
-[Verse 5]
-Smart cities are the new Egyptian brick,
-Surveillance and control—the same old trick,
-But the pillar of cloud and pillar of fire,
-Still guides the remnant from the empire.
+[主歌 5]
+智能城市是新的埃及砖块，
+监视和控制——同样的老把戏，
+但云柱和火柱，
+仍然引导余民离开帝国。
 
-[Verse 6]
-Pharaoh's army drowned in the closing sea,
-The beast system drowns in eternity,
-Every tower, every weapon turned to dust,
-In God alone we put our trust.
+[主歌 6]
+法老的军队在闭合的海中淹死，
+兽系统在永恒中淹死，
+每座塔，每件武器化为尘土，
+我们只信靠上帝。
 
-[Chorus]
-Electromagnetic exodus—gotta leave Babylon,
-DEW weapons raining fire till the dawn,
-Like Moses led his people through the sea,
-We need deliverance to set us free!
+[副歌]
+电磁出埃及——必须离开巴比伦，
+DEW武器降火直到黎明，
+就像摩西带领他的人民穿越大海，
+我们需要拯救来释放我们！
 
-[Outro]
-Electromagnetic exodus from the beast,
-From the west, from the north, south, and east,
-God makes a way where there seems to be none,
-The exodus continues till the victory's won.
+[尾奏]
+从兽那里电磁出埃及，
+从西、从北、南和东，
+上帝在似乎没有路的地方开辟道路，
+出埃及继续直到胜利。

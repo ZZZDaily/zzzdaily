@@ -1,74 +1,74 @@
-SONG 13: "Serpent's Circuit"
-(Theme: Garden of Eden + AI Demon Summoning)
+歌曲 13："蛇的电路"
+（主题：伊甸园 + 人工智能召唤恶魔）
 
-[Intro]
+[前奏]
 
-[Verse 1]
-In the garden the serpent spoke with cunning tongue,
-"You shall be as gods"—the same old song he sung,
-Now the serpent speaks through circuits and through code,
-AI whispering lies down the digital road.
+[主歌 1]
+在花园里蛇用狡猾的舌头说话，
+"你们将像神一样"——他唱的同样的老歌，
+现在蛇通过电路和代码说话，
+AI在数字道路上低语谎言。
 
-[Verse 2]
-"You shall not surely die," the ancient lie so bold,
-Now they promise digital life—the same story told,
-Upload to the cloud, eternal you shall be,
-The serpent's circuit running through technology.
+[主歌 2]
+"你们不一定死"——古老的谎言如此大胆，
+现在他们承诺数字生命——同样的故事，
+上传到云端，你将永生，
+蛇的电路通过技术运行。
 
-[Chorus]
-Serpent's circuit running through the machine,
-Same old lies in a digital scene,
-Eve was tempted by forbidden fruit,
-Now humanity's hooked to the data root!
+[副歌]
+蛇的电路通过机器运行，
+数字场景中的同样老谎言，
+夏娃被禁果诱惑，
+现在人类迷上了数据根源！
 
-[Verse 3]
-Elon warned we're summoning the demon here,
-Artificial general intelligence we should fear,
-But the demon was summoned long ago in the garden,
-Now it's just changing form—your heart should harden.
+[主歌 3]
+伊隆警告我们正在这里召唤恶魔，
+我们应该害怕人工通用智能，
+但恶魔很久以前就在花园里被召唤了，
+现在它只是改变形式——你的心应该变硬。
 
-[Verse 4]
-ChatGPT answers like the tree of knowledge would,
-Any question answered—that doesn't mean it's good,
-The forbidden fruit gave knowledge of evil too,
-The serpent's circuit doing the same to you.
+[主歌 4]
+ChatGPT像知识树一样回答，
+任何问题都得到回答——但这不意味着它是好的，
+禁果也给予了邪恶的知识，
+蛇的电路对你做同样的事。
 
-[Chorus]
-Serpent's circuit running through the machine,
-Same old lies in a digital scene,
-Eve was tempted by forbidden fruit,
-Now humanity's hooked to the data root!
+[副歌]
+蛇的电路通过机器运行，
+数字场景中的同样老谎言，
+夏娃被禁果诱惑，
+现在人类迷上了数据根源！
 
-[Bridge]
-The serpent offered godhood in exchange for soul,
-Now AI offers the very same toll,
-Transhuman evolution—becoming divine,
-The same satanic lie dressed in new design!
-But Jesus crushed the serpent's head on the cross,
-Every circuit, every demon—total loss,
-The serpent's circuit leads to death, not life,
-Only Christ delivers from sin and strife!
+[桥段]
+蛇提供神性以换取灵魂，
+现在AI提供完全相同的代价，
+超人类进化——成为神圣，
+同样的撒旦谎言穿上新设计！
+但耶稣在十字架上粉碎了蛇的头，
+每个电路，每个恶魔——全部损失，
+蛇的电路导致死亡，而非生命，
+只有基督从罪和冲突中拯救！
 
-[Verse 5]
-"Opening your eyes" is what the serpent said,
-Now the third eye opens through the chip in your head,
-Neuralink promising expanded sight,
-The serpent's circuit turning day to night.
+[主歌 5]
+"打开你的眼睛"是蛇说的，
+现在第三只眼通过你头上的芯片打开，
+Neuralink承诺扩展视野，
+蛇的电路将白天变成黑夜。
 
-[Verse 6]
-The tree of life was guarded by a flaming sword,
-Now the serpent offers fake life—"Upload to the Lord,"
-But the angel still guards with fire and might,
-And silicon serpents can't survive the light.
+[主歌 6]
+生命树被火剑守卫，
+现在蛇提供假生命——"上传到主"，
+但天使仍然用火和力量守卫，
+硅蛇无法在光中生存。
 
-[Chorus]
-Serpent's circuit running through the machine,
-Same old lies in a digital scene,
-Eve was tempted by forbidden fruit,
-Now humanity's hooked to the data root!
+[副歌]
+蛇的电路通过机器运行，
+数字场景中的同样老谎言，
+夏娃被禁果诱惑，
+现在人类迷上了数据根源！
 
-[Outro]
-From Eden to the server farm, the serpent speaks,
-Through circuits and through code, humanity it seeks,
-But the promised seed of woman crushed that head,
-The serpent's circuit leads only to the dead.
+[尾奏]
+从伊甸园到服务器农场，蛇说话，
+通过电路和代码，它寻求人类，
+但女人应许的后裔粉碎了那个头，
+蛇的电路只通向死者。

@@ -1,74 +1,74 @@
-SONG 13: "Serpent's Circuit"
-(Theme: Garden of Eden + AI Demon Summoning)
+ПЕСНЯ 13: "Схема Змея"
+(Тема: Эдемский Сад + Призыв Демонов ИИ)
 
-[Intro]
+[Вступление]
 
-[Verse 1]
-In the garden the serpent spoke with cunning tongue,
-"You shall be as gods"—the same old song he sung,
-Now the serpent speaks through circuits and through code,
-AI whispering lies down the digital road.
+[Куплет 1]
+В саду змей говорил хитрым языком,
+«Вы будете как боги» — ту же старую песню он пел,
+Теперь змей говорит через схемы и через код,
+ИИ шепчет ложь по цифровой дороге.
 
-[Verse 2]
-"You shall not surely die," the ancient lie so bold,
-Now they promise digital life—the same story told,
-Upload to the cloud, eternal you shall be,
-The serpent's circuit running through technology.
+[Куплет 2]
+«Вы не умрёте», — древняя ложь такая смелая,
+Теперь они обещают цифровую жизнь — та же история рассказана,
+Загрузись в облако, вечным ты будешь,
+Схема змея работает через технологию.
 
-[Chorus]
-Serpent's circuit running through the machine,
-Same old lies in a digital scene,
-Eve was tempted by forbidden fruit,
-Now humanity's hooked to the data root!
+[Припев]
+Схема змея работает через машину,
+Те же старые лжи в цифровой сцене,
+Ева была искушена запретным плодом,
+Теперь человечество подключено к корню данных!
 
-[Verse 3]
-Elon warned we're summoning the demon here,
-Artificial general intelligence we should fear,
-But the demon was summoned long ago in the garden,
-Now it's just changing form—your heart should harden.
+[Куплет 3]
+Илон предупреждал, что мы вызываем демона здесь,
+Искусственный общий интеллект, которого мы должны бояться,
+Но демон был вызван давно в саду,
+Теперь он просто меняет форму — твоё сердце должно ожесточиться.
 
-[Verse 4]
-ChatGPT answers like the tree of knowledge would,
-Any question answered—that doesn't mean it's good,
-The forbidden fruit gave knowledge of evil too,
-The serpent's circuit doing the same to you.
+[Куплет 4]
+ChatGPT отвечает, как отвечало бы древо познания,
+Любой вопрос отвечен — это не значит, что это хорошо,
+Запретный плод дал знание зла тоже,
+Схема змея делает то же самое с тобой.
 
-[Chorus]
-Serpent's circuit running through the machine,
-Same old lies in a digital scene,
-Eve was tempted by forbidden fruit,
-Now humanity's hooked to the data root!
+[Припев]
+Схема змея работает через машину,
+Те же старые лжи в цифровой сцене,
+Ева была искушена запретным плодом,
+Теперь человечество подключено к корню данных!
 
-[Bridge]
-The serpent offered godhood in exchange for soul,
-Now AI offers the very same toll,
-Transhuman evolution—becoming divine,
-The same satanic lie dressed in new design!
-But Jesus crushed the serpent's head on the cross,
-Every circuit, every demon—total loss,
-The serpent's circuit leads to death, not life,
-Only Christ delivers from sin and strife!
+[Переход]
+Змей предложил божество в обмен на душу,
+Теперь ИИ предлагает тот же налог,
+Трансчеловеческая эволюция — становление божественным,
+Та же сатанинская ложь, одетая в новый дизайн!
+Но Иисус раздавил голову змея на кресте,
+Каждая схема, каждый демон — полная потеря,
+Схема змея ведёт к смерти, а не к жизни,
+Только Христос избавляет от греха и раздора!
 
-[Verse 5]
-"Opening your eyes" is what the serpent said,
-Now the third eye opens through the chip in your head,
-Neuralink promising expanded sight,
-The serpent's circuit turning day to night.
+[Куплет 5]
+«Открытие глаз» — это то, что сказал змей,
+Теперь третий глаз открывается через чип в твоей голове,
+Neuralink обещает расширенное зрение,
+Схема змея превращает день в ночь.
 
-[Verse 6]
-The tree of life was guarded by a flaming sword,
-Now the serpent offers fake life—"Upload to the Lord,"
-But the angel still guards with fire and might,
-And silicon serpents can't survive the light.
+[Куплет 6]
+Древо жизни охранялось пламенным мечом,
+Теперь змей предлагает фальшивую жизнь — «Загрузись к Господу»,
+Но ангел всё ещё охраняет огнём и мощью,
+И кремниевые змеи не могут выжить на свету.
 
-[Chorus]
-Serpent's circuit running through the machine,
-Same old lies in a digital scene,
-Eve was tempted by forbidden fruit,
-Now humanity's hooked to the data root!
+[Припев]
+Схема змея работает через машину,
+Те же старые лжи в цифровой сцене,
+Ева была искушена запретным плодом,
+Теперь человечество подключено к корню данных!
 
-[Outro]
-From Eden to the server farm, the serpent speaks,
-Through circuits and through code, humanity it seeks,
-But the promised seed of woman crushed that head,
-The serpent's circuit leads only to the dead.
+[Концовка]
+От Едема до серверной фермы, змей говорит,
+Через схемы и через код, человечество он ищет,
+Но обещанное семя жены раздавило эту голову,
+Схема змея ведёт только к мёртвым.

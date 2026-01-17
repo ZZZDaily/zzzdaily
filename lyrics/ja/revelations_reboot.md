@@ -1,74 +1,74 @@
-SONG 15: "Revelations Reboot"
-(Theme: Book of Revelation + Singularity Prophecy)
+曲 15：「黙示録リブート」
+（テーマ：黙示録 + 特異点預言）
 
-[Intro]
+[イントロ]
 
-[Verse 1]
-John saw the vision on Patmos isle,
-The end of days prophesied in God's style,
-But now the prophecy's getting a reboot,
-Technology fulfilling every dispute.
+[ヴァース 1]
+ヨハネはパトモス島でビジョンを見た、
+神のスタイルで預言された終わりの日、
+しかし今、預言はリブートを得ている、
+すべての論争を満たす技術。
 
-[Verse 2]
-Twenty-thirty is the singularity date,
-Kurzweil's prediction—can't wait,
-But Revelation warned two thousand years before,
-The beast system rising—that's what's in store.
+[ヴァース 2]
+2030年は特異点の日付だ、
+カーツワイルの予測——待ちきれない、
+しかし黙示録は2000年前に警告した、
+獣システムが上昇する——それが準備されているものだ。
 
-[Chorus]
-Revelations reboot playing out in real-time,
-Singularity prophecy—the final paradigm,
-What John saw in spirit, we see in flesh,
-Technology and prophecy—the perfect mesh!
+[コーラス]
+リアルタイムで上演される黙示録リブート、
+特異点預言——最後のパラダイム、
+ヨハネが霊で見たものを、私たちは肉で見る、
+技術と預言——完璧なメッシュ！
 
-[Verse 3]
-The image of the beast that speaks and lives,
-Artificial intelligence is what it gives,
-Fire from heaven? DEW weapons rain,
-The false prophet's power explained.
+[ヴァース 3]
+話し、生きる獣の像、
+人工知能がそれを与える、
+天からの火？DEW兵器の雨、
+偽預言者の力が説明された。
 
-[Verse 4]
-No buying or selling—digital ID,
-Mark of the beast for you and me,
-One world government forming day by day,
-Revelation's reboot on display.
+[ヴァース 4]
+売買しない——デジタルID、
+あなたと私のための獣の刻印、
+日ごとに形成される一つの世界政府、
+展示される黙示録のリブート。
 
-[Chorus]
-Revelations reboot playing out in real-time,
-Singularity prophecy—the final paradigm,
-What John saw in spirit, we see in flesh,
-Technology and prophecy—the perfect mesh!
+[コーラス]
+リアルタイムで上演される黙示録リブート、
+特異点預言——最後のパラダイム、
+ヨハネが霊で見たものを、私たちは肉で見る、
+技術と預言——完璧なメッシュ！
 
-[Bridge]
-They thought they could escape what God foretold,
-But technology just does what prophecy enrolled,
-Every verse coming true in silicon and code,
-The ancient scroll unfolding down the road!
-The Lamb was slain before the world began,
-Christ already won against the master plan,
-Let the singularity come, let AI rise,
-The King of Kings wins—no surprise!
+[ブリッジ]
+彼らは神が予告したことから逃れられると思った、
+しかし技術は預言が登録したことをするだけだ、
+シリコンとコードで真実になるすべての節、
+道を下って展開する古代の巻物！
+世界が始まる前に羊は殺された、
+キリストはすでにマスタープランに対して勝った、
+特異点が来るようにし、AIが上昇するようにせよ、
+王の王が勝つ——驚きはない！
 
-[Verse 5]
-Babylon falling in a single hour,
-Digital systems losing all their power,
-EMP from the sun or God's own hand,
-Either way, the beast can't stand.
+[ヴァース 5]
+バビロンは1時間で倒れる、
+デジタルシステムがすべての力を失う、
+太陽からのEMPまたは神自身の手、
+いずれにせよ、獣は立てない。
 
-[Verse 6]
-New Jerusalem descending from above,
-No need for sun—lit by Christ's love,
-No more tech, no more lies to face,
-Revelation's final reboot—amazing grace.
+[ヴァース 6]
+新しいエルサレムが上から降りてくる、
+太陽は必要ない——キリストの愛によって照らされる、
+もうテクノロジーはない、もう嘘に直面することはない、
+黙示録の最終リブート——驚くべき恵み。
 
-[Chorus]
-Revelations reboot playing out in real-time,
-Singularity prophecy—the final paradigm,
-What John saw in spirit, we see in flesh,
-Technology and prophecy—the perfect mesh!
+[コーラス]
+リアルタイムで上演される黙示録リブート、
+特異点預言——最後のパラダイム、
+ヨハネが霊で見たものを、私たちは肉で見る、
+技術と預言——完璧なメッシュ！
 
-[Outro]
-Revelations reboot—the end draws near,
-Singularity rising but there's nothing to fear,
-What John saw then is coming true today,
-But Christ returns to carry His bride away.
+[アウトロ]
+黙示録リブート——終わりが近づいている、
+特異点が上昇しているが恐れることは何もない、
+ヨハネがその時見たものが今日現実になる、
+しかしキリストは彼の花嫁を運ぶために帰ってくる。

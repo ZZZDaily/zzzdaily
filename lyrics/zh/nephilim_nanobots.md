@@ -1,74 +1,74 @@
-SONG 7: "Nephilim Nanobots"
-(Theme: Biblical Giants + Transhumanist Enhancement)
+歌曲 7："拿非利人纳米机器人"
+（主题：圣经巨人 + 超人类主义增强）
 
-[Intro]
+[前奏]
 
-[Verse 1]
-Genesis six—the sons of God came down,
-Took daughters of men from every town,
-Nephilim giants—corrupted DNA,
-Now they're doing the same thing in a different way.
+[主歌 1]
+创世记第六章——上帝的儿子降临，
+从每个城镇带走人的女儿，
+拿非利巨人——腐败的DNA，
+现在他们以不同的方式做同样的事情。
 
-[Verse 2]
-Nanobots rewriting your genetic code,
-Transhumanist enhancement down the road,
-CRISPR and mRNA changing who you are,
-Nephilim technology from a distant star.
+[主歌 2]
+纳米机器人重写你的遗传密码，
+超人类主义增强在路上，
+CRISPR和mRNA改变你是谁，
+来自遥远星球的拿非利技术。
 
-[Chorus]
-Nephilim nanobots swimming in your blood,
-Corrupting human DNA like the ancient flood,
-Giants walked the earth in days of old,
-Now synthetic beings emerge—souls bought and sold!
+[副歌]
+拿非利纳米机器人在你的血液中游泳，
+像古代洪水一样腐蚀人类DNA，
+巨人在古代行走在地球上，
+现在合成生物出现——灵魂被买卖！
 
-[Verse 3]
-"As in the days of Noah," Jesus said,
-Genetic manipulation—humanity misled,
-The fallen angels tried to corrupt the seed,
-Now nanobots finish what demons decreed.
+[主歌 3]
+"像挪亚的日子一样，"耶稣说，
+基因操纵——人类被误导，
+堕落天使试图腐蚀种子，
+现在纳米机器人完成恶魔所命令的。
 
-[Verse 4]
-Super soldiers rising, enhanced and tall,
-DARPA programs answering the call,
-Human 2.0 they want to create,
-Nephilim reborn—a corrupted state.
+[主歌 4]
+超级士兵崛起，增强和高大，
+DARPA计划响应呼召，
+他们想创造人类2.0，
+拿非利重生——腐败的状态。
 
-[Chorus]
-Nephilim nanobots swimming in your blood,
-Corrupting human DNA like the ancient flood,
-Giants walked the earth in days of old,
-Now synthetic beings emerge—souls bought and sold!
+[副歌]
+拿非利纳米机器人在你的血液中游泳，
+像古代洪水一样腐蚀人类DNA，
+巨人在古代行走在地球上，
+现在合成生物出现——灵魂被买卖！
 
-[Bridge]
-God sent the flood to wipe the slate clean,
-Nephilim destroyed—no more to be seen,
-But the enemy returns with technology new,
-Corrupting the bloodline all over—round two!
-But fire this time, not water to come,
-The judge of all earth won't be outdone,
-Nephilim nanobots will burn in the flame,
-Christ returns victorious—forever the same!
+[桥段]
+上帝派洪水来清洗石板，
+拿非利被摧毁——再也看不到，
+但敌人用新技术回来，
+再次腐蚀血统——第二轮！
+但这次是火，不是水来，
+全地的审判者不会被超越，
+拿非利纳米机器人将在火焰中燃烧，
+基督胜利归来——永远不变！
 
-[Verse 5]
-They call it evolution, call it progress too,
-But it's Genesis six happening to me and you,
-Mixing iron and clay, Daniel saw it clear,
-The final kingdom where Nephilim appear.
+[主歌 5]
+他们称之为进化，也称之为进步，
+但这是创世记第六章发生在你我身上，
+混合铁和泥，但以理看得很清楚，
+拿非利出现的最后王国。
 
-[Verse 6]
-Your body is a temple, Paul said it true,
-Now they're desecrating it with nanotech through,
-But the pure in blood who refuse the mark,
-Will shine like stars even in the dark.
+[主歌 6]
+你的身体是圣殿，保罗说得对，
+现在他们用纳米技术亵渎它，
+但拒绝印记的纯血者，
+即使在黑暗中也会像星星一样闪耀。
 
-[Chorus]
-Nephilim nanobots swimming in your blood,
-Corrupting human DNA like the ancient flood,
-Giants walked the earth in days of old,
-Now synthetic beings emerge—souls bought and sold!
+[副歌]
+拿非利纳米机器人在你的血液中游泳，
+像古代洪水一样腐蚀人类DNA，
+巨人在古代行走在地球上，
+现在合成生物出现——灵魂被买卖！
 
-[Outro]
-Nephilim walked and Nephilim fell,
-Their nanobot children will meet the same hell,
-What God destroyed once, He'll destroy again,
-The pure bloodline of Christ will remain—Amen.
+[尾奏]
+拿非利行走，拿非利倒下，
+他们的纳米机器人孩子将遇到同样的地狱，
+上帝曾经摧毁的，祂会再次摧毁，
+基督的纯血统将保留——阿门。

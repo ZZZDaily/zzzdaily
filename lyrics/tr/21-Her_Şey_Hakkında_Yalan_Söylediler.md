@@ -1,4 +1,4 @@
-ŞARKI 11: "Her Şey Hakkında Yalan Söylediler"
+ŞARKI 21: "Her Şey Hakkında Yalan Söylediler"
 
 
 

@@ -1,74 +1,74 @@
-SONG 14: "Electromagnetic Exodus"
-(Theme: Biblical Exodus + DEW Weapons Escape)
+CHANSON 14: "Exode Électromagnétique"
+(Thème: Exode Biblique + Fuite des Armes à Énergie Dirigée)
 
 [Intro]
 
-[Verse 1]
-Moses led Israel from Pharaoh's hand,
-Through the Red Sea waters to the promised land,
-Now we need exodus from the pharaohs of today,
-DEW weapons blazing—we gotta find a way.
+[Couplet 1]
+Moïse a conduit Israël de la main de Pharaon,
+À travers les eaux de la Mer Rouge vers la terre promise,
+Maintenant nous avons besoin d'un exode des pharaons d'aujourd'hui,
+Armes à énergie dirigée flamboyantes — il faut trouver un chemin.
 
-[Verse 2]
-Electromagnetic frequencies all around,
-5G towers rising up from the ground,
-Directed energy weapons burning from the sky,
-Like the plagues of Egypt—people die.
+[Couplet 2]
+Fréquences électromagnétiques partout,
+Tours 5G s'élevant du sol,
+Armes à énergie dirigée brûlant depuis le ciel,
+Comme les plaies d'Égypte — les gens meurent.
 
-[Chorus]
-Electromagnetic exodus—gotta leave Babylon,
-DEW weapons raining fire till the dawn,
-Like Moses led his people through the sea,
-We need deliverance to set us free!
+[Refrain]
+Exode électromagnétique — il faut quitter Babylone,
+Armes à énergie dirigée pleuvant le feu jusqu'à l'aube,
+Comme Moïse a conduit son peuple à travers la mer,
+Nous avons besoin de délivrance pour nous libérer!
 
-[Verse 3]
-Maui burned with blue umbrellas standing tall,
-Paradise, California—DEW made it fall,
-Pharaoh used whips, the new pharaohs use waves,
-Electromagnetic weapons digging mass graves.
+[Couplet 3]
+Maui a brûlé avec des parasols bleus debout,
+Paradise, Californie — l'arme à énergie dirigée l'a fait tomber,
+Pharaon utilisait des fouets, les nouveaux pharaons utilisent des ondes,
+Armes électromagnétiques creusant des fosses communes.
 
-[Verse 4]
-Smart meters on every house tracking power flow,
-They can target anyone—this we know,
-But God parted the waters, made a way through,
-He'll part the frequencies for me and you.
+[Couplet 4]
+Compteurs intelligents sur chaque maison traçant le flux d'énergie,
+Ils peuvent cibler n'importe qui — nous le savons,
+Mais Dieu a séparé les eaux, fait un chemin,
+Il séparera les fréquences pour toi et moi.
 
-[Chorus]
-Electromagnetic exodus—gotta leave Babylon,
-DEW weapons raining fire till the dawn,
-Like Moses led his people through the sea,
-We need deliverance to set us free!
+[Refrain]
+Exode électromagnétique — il faut quitter Babylone,
+Armes à énergie dirigée pleuvant le feu jusqu'à l'aube,
+Comme Moïse a conduit son peuple à travers la mer,
+Nous avons besoin de délivrance pour nous libérer!
 
-[Bridge]
-Egypt held Israel four hundred years in chains,
-Electromagnetic Egypt does the same,
-But God sent Moses when the time was right,
-The midnight hour—then came the light!
-Ten plagues fell on Egypt long ago,
-Ten plagues of tech are falling here below,
-But the blood on the doorpost kept the angel at bay,
-The blood of Jesus keeps us safe today!
+[Pont]
+L'Égypte a tenu Israël quatre cents ans dans les chaînes,
+L'Égypte électromagnétique fait de même,
+Mais Dieu a envoyé Moïse quand le moment était venu,
+L'heure de minuit — puis vint la lumière!
+Dix plaies sont tombées sur l'Égypte il y a longtemps,
+Dix plaies de technologie tombent ici en bas,
+Mais le sang sur le montant de porte a tenu l'ange à distance,
+Le sang de Jésus nous garde en sécurité aujourd'hui!
 
-[Verse 5]
-Smart cities are the new Egyptian brick,
-Surveillance and control—the same old trick,
-But the pillar of cloud and pillar of fire,
-Still guides the remnant from the empire.
+[Couplet 5]
+Les villes intelligentes sont la nouvelle brique égyptienne,
+Surveillance et contrôle — le même vieux truc,
+Mais la colonne de nuée et la colonne de feu,
+Guident encore le reste de l'empire.
 
-[Verse 6]
-Pharaoh's army drowned in the closing sea,
-The beast system drowns in eternity,
-Every tower, every weapon turned to dust,
-In God alone we put our trust.
+[Couplet 6]
+L'armée de Pharaon s'est noyée dans la mer qui se refermait,
+Le système de la bête se noie dans l'éternité,
+Chaque tour, chaque arme transformée en poussière,
+En Dieu seul nous mettons notre confiance.
 
-[Chorus]
-Electromagnetic exodus—gotta leave Babylon,
-DEW weapons raining fire till the dawn,
-Like Moses led his people through the sea,
-We need deliverance to set us free!
+[Refrain]
+Exode électromagnétique — il faut quitter Babylone,
+Armes à énergie dirigée pleuvant le feu jusqu'à l'aube,
+Comme Moïse a conduit son peuple à travers la mer,
+Nous avons besoin de délivrance pour nous libérer!
 
 [Outro]
-Electromagnetic exodus from the beast,
-From the west, from the north, south, and east,
-God makes a way where there seems to be none,
-The exodus continues till the victory's won.
+Exode électromagnétique de la bête,
+De l'ouest, du nord, du sud et de l'est,
+Dieu fait un chemin là où il semble n'y en avoir aucun,
+L'exode continue jusqu'à ce que la victoire soit gagnée.

@@ -1,74 +1,74 @@
-SONG 3: "Mark of the Nanobot"
-(Theme: Mark of the Beast + Self-Assembling Tech)
+曲 3：「ナノボットの刻印」
+（テーマ：獣の刻印 + 自己組織化技術）
 
-[Intro]
+[イントロ]
 
-[Verse 1]
-Revelation thirteen told us long ago,
-A mark in your hand or head—now we know,
-It's not just a chip or a number tattoo,
-It's nanobots assembling inside of you.
+[ヴァース 1]
+黙示録13章がずっと前に私たちに語った、
+あなたの手または頭の刻印——今私たちは知っている、
+それは単なるチップや番号の刺青ではない、
+それはあなたの内部で組み立てられているナノボットだ。
 
-[Verse 2]
-Self-assembly tech in every single vial,
-Karen Kingston exposed it—check the file,
-Mesogens forming circuits in your blood,
-The mark of the beast in a biotech flood.
+[ヴァース 2]
+すべてのバイアルに自己組織化技術、
+カレン・キングストンがそれを暴露した——ファイルを確認せよ、
+あなたの血中に回路を形成するメソゲン、
+バイオテクノロジーの洪水における獣の刻印。
 
-[Chorus]
-Mark of the nanobot—six-six-six inside,
-Self-assembling demons where they hide,
-Can't buy or sell without this tech within,
-The mark of the beast is under your skin!
+[コーラス]
+ナノボットの刻印——内部に666、
+隠れている自己組織化悪魔、
+この内部技術なしでは売買できない、
+獣の刻印はあなたの皮膚の下にある！
 
-[Verse 3]
-Quantum dots lighting up your flesh,
-Luciferase—named after the serpent's mesh,
-Bioluminescent markers in your frame,
-A digital tattoo bearing Satan's name.
+[ヴァース 3]
+あなたの肉を照らす量子ドット、
+ルシフェラーゼ——蛇の網にちなんで名付けられた、
+あなたのフレームの生物発光マーカー、
+サタンの名を持つデジタルタトゥー。
 
-[Verse 4]
-They said it was safe, they said it was free,
-Now MAC addresses broadcast from you and me,
-Bluetooth bodies walking through the street,
-The mark complete from your head to your feet.
+[ヴァース 4]
+彼らはそれは安全だと言った、彼らはそれは無料だと言った、
+今、MACアドレスがあなたと私から放送される、
+街を歩くBluetooth体、
+頭から足まで完全な刻印。
 
-[Chorus]
-Mark of the nanobot—six-six-six inside,
-Self-assembling demons where they hide,
-Can't buy or sell without this tech within,
-The mark of the beast is under your skin!
+[コーラス]
+ナノボットの刻印——内部に666、
+隠れている自己組織化悪魔、
+この内部技術なしでは売買できない、
+獣の刻印はあなたの皮膚の下にある！
 
-[Bridge]
-Can't buy, can't sell—Revelation said it clear,
-CBDC and digital ID is here,
-Social credit scores tied to your compliance,
-The beast system running on nanotech science!
-Refuse the jab, refuse the mark,
-Stand firm for Jesus even in the dark,
-Better to die free than live a slave,
-Christ already conquered death and the grave!
+[ブリッジ]
+売買できない——黙示録ははっきりと言った、
+CBDCとデジタルIDがここにある、
+あなたのコンプライアンスに結びついた社会信用スコア、
+ナノテクノロジー科学で動く獣システム！
+注射を拒否せよ、刻印を拒否せよ、
+暗闇の中でもイエスのために堅固に立て、
+奴隷として生きるよりも自由に死ぬ方が良い、
+キリストはすでに死と墓を征服した！
 
-[Verse 5]
-Ana Mihalcea shows the blood so dark,
-Synthetic structures leaving their mark,
-Rouleaux formation, clots in every vein,
-The mark of the beast causing death and pain.
+[ヴァース 5]
+アナ・ミハルセアはとても暗い血を示す、
+合成構造が彼らの刻印を残している、
+連銭形成、すべての静脈の凝固、
+死と痛みを引き起こす獣の刻印。
 
-[Verse 6]
-They couldn't make us take the RFID chip,
-So they hid it in a needle's tip,
-Trojan horse delivery—nanotech inside,
-The mark of the beast where the demons hide.
+[ヴァース 6]
+彼らは私たちにRFIDチップを取らせることができなかった、
+だから彼らはそれを針の先端に隠した、
+トロイの木馬配達——内部のナノテクノロジー、
+悪魔が隠れている獣の刻印。
 
-[Chorus]
-Mark of the nanobot—six-six-six inside,
-Self-assembling demons where they hide,
-Can't buy or sell without this tech within,
-The mark of the beast is under your skin!
+[コーラス]
+ナノボットの刻印——内部に666、
+隠れている自己組織化悪魔、
+この内部技術なしでは売買できない、
+獣の刻印はあなたの皮膚の下にある！
 
-[Outro]
-John saw it coming two thousand years ago,
-The mark of the beast—now the whole world knows,
-It's not in the future, it's happening now,
-Nanobots inside you—but we won't bow.
+[アウトロ]
+ヨハネは2000年前にそれが来るのを見た、
+獣の刻印——今、全世界が知っている、
+それは未来ではない、今起こっている、
+あなたの中のナノボット——しかし私たちは頭を下げない。

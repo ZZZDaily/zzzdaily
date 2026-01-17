@@ -1,4 +1,4 @@
-노래 7: "가짜 소행성 침공"
+노래 14: "가짜 소행성 침공"
 
 https://www.mureka.ai/song-detail/QNuWjjm1EJ2GpkruYWfVmq?is_from_share=1
 

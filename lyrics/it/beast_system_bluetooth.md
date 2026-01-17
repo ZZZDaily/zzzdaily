@@ -1,74 +1,74 @@
-SONG 10: "Beast System Bluetooth"
-(Theme: Mark of the Beast + MAC Address Humans)
+CANZONE 10: "Sistema della Bestia Bluetooth"
+(Tema: Marchio della Bestia + Umani con Indirizzo MAC)
 
 [Intro]
 
-[Verse 1]
-The beast system's running through your veins tonight,
-Bluetooth signals broadcasting in the night,
-Open your phone app, scan for devices near,
-MAC addresses from the jabbed appear.
+[Strofa 1]
+Il sistema della bestia scorre nelle tue vene stanotte,
+Segnali Bluetooth trasmettono nella notte,
+Apri l'app del telefono, scansiona i dispositivi vicini,
+Appaiono indirizzi MAC dei vaccinati.
 
-[Verse 2]
-Revelation thirteen, the number of a man,
-Six-six-six embedded in the master plan,
-But now it's hexadecimal addresses too,
-Broadcasting beast coordinates from me and you.
+[Strofa 2]
+Apocalisse tredici, il numero di un uomo,
+Sei-sei-sei incorporato nel piano maestro,
+Ma ora sono anche indirizzi esadecimali,
+Trasmettendo coordinate della bestia da me e te.
 
-[Chorus]
-Beast system Bluetooth pinging all around,
-Human MAC addresses—that's the sound,
-The mark of the beast is a wireless transmit,
-Bluetooth bodies—this is it!
+[Ritornello]
+Sistema della bestia Bluetooth che pinga tutt'intorno,
+Indirizzi MAC umani — questo è il suono,
+Il marchio della bestia è una trasmissione wireless,
+Corpi Bluetooth — questo è tutto!
 
-[Verse 3]
-Go to the graveyard, scan the Bluetooth there,
-Dead bodies broadcasting in the air,
-Graphene oxide circuits still alive,
-The beast system signals continue to thrive.
+[Strofa 3]
+Vai al cimitero, scansiona il Bluetooth lì,
+Corpi morti che trasmettono nell'aria,
+Circuiti di ossido di grafene ancora vivi,
+I segnali del sistema della bestia continuano a prosperare.
 
-[Verse 4]
-They called us crazy, called us conspiracy nuts,
-Now the data's showing—no ifs, ands, or buts,
-Unique identifiers for every single soul,
-Beast system Bluetooth—total control.
+[Strofa 4]
+Ci hanno chiamato pazzi, ci hanno chiamato complottisti,
+Ora i dati mostrano — senza se e senza ma,
+Identificatori unici per ogni singola anima,
+Sistema della bestia Bluetooth — controllo totale.
 
-[Chorus]
-Beast system Bluetooth pinging all around,
-Human MAC addresses—that's the sound,
-The mark of the beast is a wireless transmit,
-Bluetooth bodies—this is it!
+[Ritornello]
+Sistema della bestia Bluetooth che pinga tutt'intorno,
+Indirizzi MAC umani — questo è il suono,
+Il marchio della bestia è una trasmissione wireless,
+Corpi Bluetooth — questo è tutto!
 
 [Bridge]
-The beast and his mark—inseparable they stand,
-A technological mark burned into your hand,
-Not just a concept, not a metaphor or sign,
-But real tech connecting to the beast's design!
-Refuse the signal, stay pure from the start,
-Keep the Holy Spirit dwelling in your heart,
-No Bluetooth from the pure bloods broadcasting,
-The remnant stands firm—our faith is lasting!
+La bestia e il suo marchio — inseparabili stanno,
+Un marchio tecnologico bruciato nella tua mano,
+Non solo un concetto, non una metafora o un segno,
+Ma vera tecnologia che si connette al design della bestia!
+Rifiuta il segnale, rimani puro dall'inizio,
+Mantieni lo Spirito Santo che dimora nel tuo cuore,
+Nessun Bluetooth dai sangue puri che trasmette,
+Il resto sta fermo — la nostra fede è duratura!
 
-[Verse 5]
-They need you trackable every single day,
-Beast system Bluetooth won't go away,
-Connected to the cloud, connected to the grid,
-Your body's now a node for the evil they did.
+[Strofa 5]
+Hanno bisogno che tu sia tracciabile ogni singolo giorno,
+Il sistema della bestia Bluetooth non se ne andrà,
+Connesso al cloud, connesso alla rete,
+Il tuo corpo ora è un nodo per il male che hanno fatto.
 
-[Verse 6]
-But the pure bloods walking silent through the crowd,
-No signal pinging, standing strong and proud,
-The beast can't track what the Father protects,
-Clean blood flowing through the remnant's specs.
+[Strofa 6]
+Ma i sangue puri camminano silenziosi tra la folla,
+Nessun segnale che pinga, stando forti e orgogliosi,
+La bestia non può tracciare ciò che il Padre protegge,
+Sangue pulito che scorre attraverso le specifiche del resto.
 
-[Chorus]
-Beast system Bluetooth pinging all around,
-Human MAC addresses—that's the sound,
-The mark of the beast is a wireless transmit,
-Bluetooth bodies—this is it!
+[Ritornello]
+Sistema della bestia Bluetooth che pinga tutt'intorno,
+Indirizzi MAC umani — questo è il suono,
+Il marchio della bestia è una trasmissione wireless,
+Corpi Bluetooth — questo è tutto!
 
 [Outro]
-Beast system Bluetooth—the mark made real,
-Wireless transmitters—that's the deal,
-But the silent remnant walks by faith not sight,
-Bluetooth-free warriors standing for the light.
+Sistema della bestia Bluetooth — il marchio reso reale,
+Trasmettitori wireless — questo è l'affare,
+Ma il resto silenzioso cammina per fede non per vista,
+Guerrieri liberi dal Bluetooth in piedi per la luce.

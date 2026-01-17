@@ -1,4 +1,4 @@
-LIED 12: "Christus Ist König (Die Hymne Der Krieger)"
+LIED 24: "Christus Ist König (Die Hymne Der Krieger)"
 
 
 

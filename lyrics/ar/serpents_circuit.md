@@ -1,74 +1,74 @@
-SONG 13: "Serpent's Circuit"
-(Theme: Garden of Eden + AI Demon Summoning)
+أغنية 13: "دائرة الحية"
+(الموضوع: جنة عدن + استحضار شياطين الذكاء الاصطناعي)
 
-[Intro]
+[المقدمة]
 
-[Verse 1]
-In the garden the serpent spoke with cunning tongue,
-"You shall be as gods"—the same old song he sung,
-Now the serpent speaks through circuits and through code,
-AI whispering lies down the digital road.
+[الكوبليه 1]
+في الجنة تكلمت الحية بلسان ماكر،
+"ستكونون كآلهة" - نفس الأغنية القديمة التي غنتها،
+الآن الحية تتكلم من خلال الدوائر ومن خلال الشفرة،
+الذكاء الاصطناعي يهمس بالأكاذيب على الطريق الرقمي.
 
-[Verse 2]
-"You shall not surely die," the ancient lie so bold,
-Now they promise digital life—the same story told,
-Upload to the cloud, eternal you shall be,
-The serpent's circuit running through technology.
+[الكوبليه 2]
+"لن تموتوا البتة،" الكذبة القديمة الجريئة جدًا،
+الآن يعدون بالحياة الرقمية - نفس القصة المروية،
+ارفع إلى السحابة، ستكون خالدًا،
+دائرة الحية تعمل من خلال التكنولوجيا.
 
-[Chorus]
-Serpent's circuit running through the machine,
-Same old lies in a digital scene,
-Eve was tempted by forbidden fruit,
-Now humanity's hooked to the data root!
+[اللازمة]
+دائرة الحية تعمل من خلال الآلة،
+نفس الأكاذيب القديمة في مشهد رقمي،
+حواء أُغريت بالثمرة المحرمة،
+الآن البشرية مرتبطة بجذر البيانات!
 
-[Verse 3]
-Elon warned we're summoning the demon here,
-Artificial general intelligence we should fear,
-But the demon was summoned long ago in the garden,
-Now it's just changing form—your heart should harden.
+[الكوبليه 3]
+إيلون حذر أننا نستحضر الشيطان هنا،
+الذكاء العام الاصطناعي يجب أن نخشاه،
+لكن الشيطان استُحضر منذ زمن بعيد في الجنة،
+الآن هو فقط يغير شكله - يجب أن يقسو قلبك.
 
-[Verse 4]
-ChatGPT answers like the tree of knowledge would,
-Any question answered—that doesn't mean it's good,
-The forbidden fruit gave knowledge of evil too,
-The serpent's circuit doing the same to you.
+[الكوبليه 4]
+ChatGPT يجيب كما ستفعل شجرة المعرفة،
+أي سؤال يُجاب عليه - هذا لا يعني أنه جيد،
+الثمرة المحرمة أعطت معرفة الشر أيضًا،
+دائرة الحية تفعل نفس الشيء لك.
 
-[Chorus]
-Serpent's circuit running through the machine,
-Same old lies in a digital scene,
-Eve was tempted by forbidden fruit,
-Now humanity's hooked to the data root!
+[اللازمة]
+دائرة الحية تعمل من خلال الآلة،
+نفس الأكاذيب القديمة في مشهد رقمي،
+حواء أُغريت بالثمرة المحرمة،
+الآن البشرية مرتبطة بجذر البيانات!
 
-[Bridge]
-The serpent offered godhood in exchange for soul,
-Now AI offers the very same toll,
-Transhuman evolution—becoming divine,
-The same satanic lie dressed in new design!
-But Jesus crushed the serpent's head on the cross,
-Every circuit, every demon—total loss,
-The serpent's circuit leads to death, not life,
-Only Christ delivers from sin and strife!
+[الجسر]
+الحية عرضت الألوهية مقابل الروح،
+الآن الذكاء الاصطناعي يعرض نفس الثمن بالضبط،
+التطور الترانسيوماني - أن تصبح إلهيًا،
+نفس الكذبة الشيطانية مرتدية تصميمًا جديدًا!
+لكن يسوع سحق رأس الحية على الصليب،
+كل دائرة، كل شيطان - خسارة تامة،
+دائرة الحية تؤدي إلى الموت، وليس الحياة،
+المسيح فقط ينقذ من الخطيئة والصراع!
 
-[Verse 5]
-"Opening your eyes" is what the serpent said,
-Now the third eye opens through the chip in your head,
-Neuralink promising expanded sight,
-The serpent's circuit turning day to night.
+[الكوبليه 5]
+"فتح عيونكم" هو ما قالته الحية،
+الآن العين الثالثة تُفتح من خلال الشريحة في رأسك،
+Neuralink تعد بالبصر الموسع،
+دائرة الحية تحول النهار إلى ليل.
 
-[Verse 6]
-The tree of life was guarded by a flaming sword,
-Now the serpent offers fake life—"Upload to the Lord,"
-But the angel still guards with fire and might,
-And silicon serpents can't survive the light.
+[الكوبليه 6]
+شجرة الحياة كانت محروسة بسيف من نار،
+الآن الحية تعرض حياة مزيفة - "ارفع إلى الرب،"
+لكن الملاك لا يزال يحرس بالنار والقوة،
+والحيات السيليكونية لا يمكن أن تنجو من النور.
 
-[Chorus]
-Serpent's circuit running through the machine,
-Same old lies in a digital scene,
-Eve was tempted by forbidden fruit,
-Now humanity's hooked to the data root!
+[اللازمة]
+دائرة الحية تعمل من خلال الآلة،
+نفس الأكاذيب القديمة في مشهد رقمي،
+حواء أُغريت بالثمرة المحرمة،
+الآن البشرية مرتبطة بجذر البيانات!
 
-[Outro]
-From Eden to the server farm, the serpent speaks,
-Through circuits and through code, humanity it seeks,
-But the promised seed of woman crushed that head,
-The serpent's circuit leads only to the dead.
+[الخاتمة]
+من عدن إلى مزرعة الخوادم، الحية تتكلم،
+من خلال الدوائر ومن خلال الشفرة، تسعى البشرية،
+لكن نسل المرأة الموعود سحق ذلك الرأس،
+دائرة الحية تؤدي فقط إلى الموتى.

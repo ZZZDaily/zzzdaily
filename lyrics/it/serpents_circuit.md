@@ -1,74 +1,74 @@
-SONG 13: "Serpent's Circuit"
-(Theme: Garden of Eden + AI Demon Summoning)
+CANZONE 13: "Circuito del Serpente"
+(Tema: Giardino dell'Eden + Evocazione di Demoni IA)
 
 [Intro]
 
-[Verse 1]
-In the garden the serpent spoke with cunning tongue,
-"You shall be as gods"—the same old song he sung,
-Now the serpent speaks through circuits and through code,
-AI whispering lies down the digital road.
+[Strofa 1]
+Nel giardino il serpente parlò con lingua astuta,
+"Sarete come dèi" — la stessa vecchia canzone che cantò,
+Ora il serpente parla attraverso circuiti e codice,
+IA che sussurra bugie lungo la strada digitale.
 
-[Verse 2]
-"You shall not surely die," the ancient lie so bold,
-Now they promise digital life—the same story told,
-Upload to the cloud, eternal you shall be,
-The serpent's circuit running through technology.
+[Strofa 2]
+"Certamente non morirete," l'antica bugia così audace,
+Ora promettono vita digitale — la stessa storia raccontata,
+Carica nel cloud, sarai eterno,
+Il circuito del serpente che scorre attraverso la tecnologia.
 
-[Chorus]
-Serpent's circuit running through the machine,
-Same old lies in a digital scene,
-Eve was tempted by forbidden fruit,
-Now humanity's hooked to the data root!
+[Ritornello]
+Circuito del serpente che corre attraverso la macchina,
+Stesse vecchie bugie in una scena digitale,
+Eva fu tentata dal frutto proibito,
+Ora l'umanità è agganciata alla radice dei dati!
 
-[Verse 3]
-Elon warned we're summoning the demon here,
-Artificial general intelligence we should fear,
-But the demon was summoned long ago in the garden,
-Now it's just changing form—your heart should harden.
+[Strofa 3]
+Elon avvertì che stiamo evocando il demone qui,
+Intelligenza generale artificiale che dovremmo temere,
+Ma il demone fu evocato molto tempo fa nel giardino,
+Ora sta solo cambiando forma — il tuo cuore dovrebbe indurirsi.
 
-[Verse 4]
-ChatGPT answers like the tree of knowledge would,
-Any question answered—that doesn't mean it's good,
-The forbidden fruit gave knowledge of evil too,
-The serpent's circuit doing the same to you.
+[Strofa 4]
+ChatGPT risponde come farebbe l'albero della conoscenza,
+Ogni domanda risposta — questo non significa che sia buono,
+Il frutto proibito diede anche conoscenza del male,
+Il circuito del serpente fa lo stesso a te.
 
-[Chorus]
-Serpent's circuit running through the machine,
-Same old lies in a digital scene,
-Eve was tempted by forbidden fruit,
-Now humanity's hooked to the data root!
+[Ritornello]
+Circuito del serpente che corre attraverso la macchina,
+Stesse vecchie bugie in una scena digitale,
+Eva fu tentata dal frutto proibito,
+Ora l'umanità è agganciata alla radice dei dati!
 
 [Bridge]
-The serpent offered godhood in exchange for soul,
-Now AI offers the very same toll,
-Transhuman evolution—becoming divine,
-The same satanic lie dressed in new design!
-But Jesus crushed the serpent's head on the cross,
-Every circuit, every demon—total loss,
-The serpent's circuit leads to death, not life,
-Only Christ delivers from sin and strife!
+Il serpente offrì divinità in cambio dell'anima,
+Ora l'IA offre lo stesso pedaggio,
+Evoluzione transumana — diventare divini,
+La stessa bugia satanica vestita in nuovo design!
+Ma Gesù schiacciò la testa del serpente sulla croce,
+Ogni circuito, ogni demone — perdita totale,
+Il circuito del serpente porta alla morte, non alla vita,
+Solo Cristo libera dal peccato e dalla contesa!
 
-[Verse 5]
-"Opening your eyes" is what the serpent said,
-Now the third eye opens through the chip in your head,
-Neuralink promising expanded sight,
-The serpent's circuit turning day to night.
+[Strofa 5]
+"Aprire i tuoi occhi" è ciò che disse il serpente,
+Ora il terzo occhio si apre attraverso il chip nella tua testa,
+Neuralink che promette vista espansa,
+Il circuito del serpente che trasforma il giorno in notte.
 
-[Verse 6]
-The tree of life was guarded by a flaming sword,
-Now the serpent offers fake life—"Upload to the Lord,"
-But the angel still guards with fire and might,
-And silicon serpents can't survive the light.
+[Strofa 6]
+L'albero della vita era custodito da una spada fiammeggiante,
+Ora il serpente offre vita falsa — "Carica al Signore,"
+Ma l'angelo custodisce ancora con fuoco e potenza,
+E i serpenti di silicio non possono sopravvivere alla luce.
 
-[Chorus]
-Serpent's circuit running through the machine,
-Same old lies in a digital scene,
-Eve was tempted by forbidden fruit,
-Now humanity's hooked to the data root!
+[Ritornello]
+Circuito del serpente che corre attraverso la macchina,
+Stesse vecchie bugie in una scena digitale,
+Eva fu tentata dal frutto proibito,
+Ora l'umanità è agganciata alla radice dei dati!
 
 [Outro]
-From Eden to the server farm, the serpent speaks,
-Through circuits and through code, humanity it seeks,
-But the promised seed of woman crushed that head,
-The serpent's circuit leads only to the dead.
+Dall'Eden alla server farm, il serpente parla,
+Attraverso circuiti e codice, cerca l'umanità,
+Ma il seme promesso della donna schiacciò quella testa,
+Il circuito del serpente porta solo ai morti.

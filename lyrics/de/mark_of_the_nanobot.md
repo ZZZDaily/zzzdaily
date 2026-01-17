@@ -1,74 +1,74 @@
-SONG 3: "Mark of the Nanobot"
-(Theme: Mark of the Beast + Self-Assembling Tech)
+LIED 3: "Malzeichen des Nanobots"
+(Thema: Malzeichen des Tieres + Selbstmontierende Technologie)
 
 [Intro]
 
-[Verse 1]
-Revelation thirteen told us long ago,
-A mark in your hand or head—now we know,
-It's not just a chip or a number tattoo,
-It's nanobots assembling inside of you.
+[Strophe 1]
+Offenbarung dreizehn sagte uns vor langer Zeit,
+Ein Malzeichen in deiner Hand oder Kopf – jetzt wissen wir,
+Es ist nicht nur ein Chip oder ein Zahlen-Tattoo,
+Es sind Nanobots, die sich in dir zusammensetzen.
 
-[Verse 2]
-Self-assembly tech in every single vial,
-Karen Kingston exposed it—check the file,
-Mesogens forming circuits in your blood,
-The mark of the beast in a biotech flood.
+[Strophe 2]
+Selbstmontierende Technologie in jeder einzelnen Ampulle,
+Karen Kingston enthüllte es – prüfe die Datei,
+Mesogene bilden Schaltkreise in deinem Blut,
+Das Malzeichen des Tieres in einer Biotech-Flut.
 
-[Chorus]
-Mark of the nanobot—six-six-six inside,
-Self-assembling demons where they hide,
-Can't buy or sell without this tech within,
-The mark of the beast is under your skin!
+[Refrain]
+Malzeichen des Nanobots – sechs-sechs-sechs drinnen,
+Selbstmontierende Dämonen, wo sie sich verstecken,
+Kann nicht kaufen oder verkaufen ohne diese Technologie darin,
+Das Malzeichen des Tieres ist unter deiner Haut!
 
-[Verse 3]
-Quantum dots lighting up your flesh,
-Luciferase—named after the serpent's mesh,
-Bioluminescent markers in your frame,
-A digital tattoo bearing Satan's name.
+[Strophe 3]
+Quantenpunkte erhellen dein Fleisch,
+Luciferase – benannt nach dem Netz der Schlange,
+Biolumineszierende Marker in deinem Rahmen,
+Ein digitales Tattoo, das Satans Namen trägt.
 
-[Verse 4]
-They said it was safe, they said it was free,
-Now MAC addresses broadcast from you and me,
-Bluetooth bodies walking through the street,
-The mark complete from your head to your feet.
+[Strophe 4]
+Sie sagten, es sei sicher, sie sagten, es sei kostenlos,
+Jetzt senden MAC-Adressen von dir und mir,
+Bluetooth-Körper gehen durch die Straße,
+Das Malzeichen komplett von deinem Kopf bis zu deinen Füßen.
 
-[Chorus]
-Mark of the nanobot—six-six-six inside,
-Self-assembling demons where they hide,
-Can't buy or sell without this tech within,
-The mark of the beast is under your skin!
+[Refrain]
+Malzeichen des Nanobots – sechs-sechs-sechs drinnen,
+Selbstmontierende Dämonen, wo sie sich verstecken,
+Kann nicht kaufen oder verkaufen ohne diese Technologie darin,
+Das Malzeichen des Tieres ist unter deiner Haut!
 
 [Bridge]
-Can't buy, can't sell—Revelation said it clear,
-CBDC and digital ID is here,
-Social credit scores tied to your compliance,
-The beast system running on nanotech science!
-Refuse the jab, refuse the mark,
-Stand firm for Jesus even in the dark,
-Better to die free than live a slave,
-Christ already conquered death and the grave!
+Kann nicht kaufen, kann nicht verkaufen – Offenbarung sagte es klar,
+CBDC und digitale ID ist hier,
+Soziale Kreditsysteme an deine Compliance gebunden,
+Das Tiersystem läuft auf Nanotech-Wissenschaft!
+Verweigere die Spritze, verweigere das Malzeichen,
+Stehe fest für Jesus selbst im Dunkeln,
+Besser frei sterben als als Sklave leben,
+Christus eroberte bereits Tod und Grab!
 
-[Verse 5]
-Ana Mihalcea shows the blood so dark,
-Synthetic structures leaving their mark,
-Rouleaux formation, clots in every vein,
-The mark of the beast causing death and pain.
+[Strophe 5]
+Ana Mihalcea zeigt das Blut so dunkel,
+Synthetische Strukturen hinterlassen ihr Malzeichen,
+Geldrollenbildung, Gerinnsel in jeder Ader,
+Das Malzeichen des Tieres verursacht Tod und Schmerz.
 
-[Verse 6]
-They couldn't make us take the RFID chip,
-So they hid it in a needle's tip,
-Trojan horse delivery—nanotech inside,
-The mark of the beast where the demons hide.
+[Strophe 6]
+Sie konnten uns nicht dazu bringen, den RFID-Chip zu nehmen,
+Also versteckten sie ihn in einer Nadelspitze,
+Trojanisches Pferd-Lieferung – Nanotechnologie drinnen,
+Das Malzeichen des Tieres, wo die Dämonen sich verstecken.
 
-[Chorus]
-Mark of the nanobot—six-six-six inside,
-Self-assembling demons where they hide,
-Can't buy or sell without this tech within,
-The mark of the beast is under your skin!
+[Refrain]
+Malzeichen des Nanobots – sechs-sechs-sechs drinnen,
+Selbstmontierende Dämonen, wo sie sich verstecken,
+Kann nicht kaufen oder verkaufen ohne diese Technologie darin,
+Das Malzeichen des Tieres ist unter deiner Haut!
 
 [Outro]
-John saw it coming two thousand years ago,
-The mark of the beast—now the whole world knows,
-It's not in the future, it's happening now,
-Nanobots inside you—but we won't bow.
+Johannes sah es vor zweitausend Jahren kommen,
+Das Malzeichen des Tieres – jetzt weiß die ganze Welt,
+Es ist nicht in der Zukunft, es passiert jetzt,
+Nanobots in dir – aber wir beugen uns nicht.

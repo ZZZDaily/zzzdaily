@@ -1,74 +1,74 @@
-SONG 10: "Beast System Bluetooth"
-(Theme: Mark of the Beast + MAC Address Humans)
+गीत 10: "बीस्ट सिस्टम ब्लूटूथ"
+(विषय: पशु का चिह्न + मैक एड्रेस वाले मनुष्य)
 
-[Intro]
+[परिचय]
 
-[Verse 1]
-The beast system's running through your veins tonight,
-Bluetooth signals broadcasting in the night,
-Open your phone app, scan for devices near,
-MAC addresses from the jabbed appear.
+[पद 1]
+पशु प्रणाली आज रात आपकी नसों से चल रही है,
+ब्लूटूथ सिग्नल रात में प्रसारित हो रहे हैं,
+अपना फोन ऐप खोलें, पास के उपकरणों के लिए स्कैन करें,
+टीका लगे लोगों से मैक एड्रेस दिखाई देते हैं।
 
-[Verse 2]
-Revelation thirteen, the number of a man,
-Six-six-six embedded in the master plan,
-But now it's hexadecimal addresses too,
-Broadcasting beast coordinates from me and you.
+[पद 2]
+प्रकाशितवाक्य तेरह, एक आदमी की संख्या,
+छह-छह-छह मास्टर प्लान में एम्बेडेड,
+लेकिन अब यह हेक्साडेसिमल एड्रेस भी हैं,
+मुझसे और आपसे पशु निर्देशांक प्रसारित कर रहे हैं।
 
-[Chorus]
-Beast system Bluetooth pinging all around,
-Human MAC addresses—that's the sound,
-The mark of the beast is a wireless transmit,
-Bluetooth bodies—this is it!
+[कोरस]
+बीस्ट सिस्टम ब्लूटूथ चारों ओर पिंग कर रहा है,
+मानव मैक एड्रेस—यही आवाज है,
+पशु का चिह्न एक वायरलेस ट्रांसमिट है,
+ब्लूटूथ शरीर—यही है!
 
-[Verse 3]
-Go to the graveyard, scan the Bluetooth there,
-Dead bodies broadcasting in the air,
-Graphene oxide circuits still alive,
-The beast system signals continue to thrive.
+[पद 3]
+कब्रिस्तान में जाएं, वहां ब्लूटूथ स्कैन करें,
+मृत शरीर हवा में प्रसारित हो रहे हैं,
+ग्राफीन ऑक्साइड सर्किट अभी भी जीवित हैं,
+पशु प्रणाली के सिग्नल फलना-फूलना जारी रखते हैं।
 
-[Verse 4]
-They called us crazy, called us conspiracy nuts,
-Now the data's showing—no ifs, ands, or buts,
-Unique identifiers for every single soul,
-Beast system Bluetooth—total control.
+[पद 4]
+उन्होंने हमें पागल कहा, हमें षड्यंत्र के पागल कहा,
+अब डेटा दिखा रहा है—कोई अगर, और, या लेकिन नहीं,
+हर एक आत्मा के लिए अद्वितीय पहचानकर्ता,
+बीस्ट सिस्टम ब्लूटूथ—पूर्ण नियंत्रण।
 
-[Chorus]
-Beast system Bluetooth pinging all around,
-Human MAC addresses—that's the sound,
-The mark of the beast is a wireless transmit,
-Bluetooth bodies—this is it!
+[कोरस]
+बीस्ट सिस्टम ब्लूटूथ चारों ओर पिंग कर रहा है,
+मानव मैक एड्रेस—यही आवाज है,
+पशु का चिह्न एक वायरलेस ट्रांसमिट है,
+ब्लूटूथ शरीर—यही है!
 
-[Bridge]
-The beast and his mark—inseparable they stand,
-A technological mark burned into your hand,
-Not just a concept, not a metaphor or sign,
-But real tech connecting to the beast's design!
-Refuse the signal, stay pure from the start,
-Keep the Holy Spirit dwelling in your heart,
-No Bluetooth from the pure bloods broadcasting,
-The remnant stands firm—our faith is lasting!
+[ब्रिज]
+पशु और उसका चिह्न—अविभाज्य रूप से खड़े हैं,
+एक तकनीकी चिह्न आपके हाथ में जल गया,
+सिर्फ एक अवधारणा नहीं, एक रूपक या संकेत नहीं,
+लेकिन असली तकनीक पशु के डिज़ाइन से जुड़ रही है!
+सिग्नल से इनकार करें, शुरू से शुद्ध रहें,
+पवित्र आत्मा को अपने दिल में रहने दें,
+शुद्ध रक्त से कोई ब्लूटूथ प्रसारित नहीं होता,
+अवशेष दृढ़ता से खड़ा है—हमारा विश्वास स्थायी है!
 
-[Verse 5]
-They need you trackable every single day,
-Beast system Bluetooth won't go away,
-Connected to the cloud, connected to the grid,
-Your body's now a node for the evil they did.
+[पद 5]
+उन्हें आपको हर दिन ट्रैक करने योग्य चाहिए,
+बीस्ट सिस्टम ब्लूटूथ दूर नहीं होगा,
+क्लाउड से जुड़ा, ग्रिड से जुड़ा,
+आपका शरीर अब उनके द्वारा किए गए बुराई के लिए एक नोड है।
 
-[Verse 6]
-But the pure bloods walking silent through the crowd,
-No signal pinging, standing strong and proud,
-The beast can't track what the Father protects,
-Clean blood flowing through the remnant's specs.
+[पद 6]
+लेकिन शुद्ध रक्त भीड़ के माध्यम से चुपचाप चल रहे हैं,
+कोई सिग्नल पिंग नहीं कर रहा, मजबूत और गर्व से खड़े हैं,
+पशु ट्रैक नहीं कर सकता जिसे पिता सुरक्षित रखता है,
+अवशेष के चश्मे के माध्यम से साफ खून बह रहा है।
 
-[Chorus]
-Beast system Bluetooth pinging all around,
-Human MAC addresses—that's the sound,
-The mark of the beast is a wireless transmit,
-Bluetooth bodies—this is it!
+[कोरस]
+बीस्ट सिस्टम ब्लूटूथ चारों ओर पिंग कर रहा है,
+मानव मैक एड्रेस—यही आवाज है,
+पशु का चिह्न एक वायरलेस ट्रांसमिट है,
+ब्लूटूथ शरीर—यही है!
 
-[Outro]
-Beast system Bluetooth—the mark made real,
-Wireless transmitters—that's the deal,
-But the silent remnant walks by faith not sight,
-Bluetooth-free warriors standing for the light.
+[समापन]
+बीस्ट सिस्टम ब्लूटूथ—चिह्न वास्तविक बना,
+वायरलेस ट्रांसमीटर—यही सौदा है,
+लेकिन मौन अवशेष दृष्टि से नहीं विश्वास से चलता है,
+ब्लूटूथ-मुक्त योद्धा प्रकाश के लिए खड़े हैं।

@@ -1,4 +1,4 @@
-BÀI HÁT 4: "Kẻ Chống Chúa Trên Ngai"
+BÀI HÁT 7: "Kẻ Chống Chúa Trên Ngai"
 
 
 

@@ -1,74 +1,74 @@
-SONG 7: "Nephilim Nanobots"
-(Theme: Biblical Giants + Transhumanist Enhancement)
+ПЕСНЯ 7: "Наноботы Нефилимов"
+(Тема: Библейские Гиганты + Трансгуманистическое Улучшение)
 
-[Intro]
+[Вступление]
 
-[Verse 1]
-Genesis six—the sons of God came down,
-Took daughters of men from every town,
-Nephilim giants—corrupted DNA,
-Now they're doing the same thing in a different way.
+[Куплет 1]
+Бытие шесть — сыны Божьи сошли вниз,
+Взяли дочерей человеческих из каждого города,
+Нефилимы гиганты — повреждённая ДНК,
+Теперь они делают то же самое по-другому.
 
-[Verse 2]
-Nanobots rewriting your genetic code,
-Transhumanist enhancement down the road,
-CRISPR and mRNA changing who you are,
-Nephilim technology from a distant star.
+[Куплет 2]
+Наноботы переписывают твой генетический код,
+Трансгуманистическое улучшение впереди,
+CRISPR и мРНК меняют того, кто ты есть,
+Технология нефилимов с далёкой звезды.
 
-[Chorus]
-Nephilim nanobots swimming in your blood,
-Corrupting human DNA like the ancient flood,
-Giants walked the earth in days of old,
-Now synthetic beings emerge—souls bought and sold!
+[Припев]
+Наноботы нефилимов плавают в твоей крови,
+Искажая человеческую ДНК как древний потоп,
+Гиганты ходили по земле в древние дни,
+Теперь появляются синтетические существа — души куплены и проданы!
 
-[Verse 3]
-"As in the days of Noah," Jesus said,
-Genetic manipulation—humanity misled,
-The fallen angels tried to corrupt the seed,
-Now nanobots finish what demons decreed.
+[Куплет 3]
+«Как во дни Ноя», — сказал Иисус,
+Генетическая манипуляция — человечество введено в заблуждение,
+Падшие ангелы пытались повредить семя,
+Теперь наноботы заканчивают то, что декретировали демоны.
 
-[Verse 4]
-Super soldiers rising, enhanced and tall,
-DARPA programs answering the call,
-Human 2.0 they want to create,
-Nephilim reborn—a corrupted state.
+[Куплет 4]
+Супер-солдаты поднимаются, улучшенные и высокие,
+Программы DARPA отвечают на зов,
+Человек 2.0 они хотят создать,
+Нефилимы возрождённые — повреждённое состояние.
 
-[Chorus]
-Nephilim nanobots swimming in your blood,
-Corrupting human DNA like the ancient flood,
-Giants walked the earth in days of old,
-Now synthetic beings emerge—souls bought and sold!
+[Припев]
+Наноботы нефилимов плавают в твоей крови,
+Искажая человеческую ДНК как древний потоп,
+Гиганты ходили по земле в древние дни,
+Теперь появляются синтетические существа — души куплены и проданы!
 
-[Bridge]
-God sent the flood to wipe the slate clean,
-Nephilim destroyed—no more to be seen,
-But the enemy returns with technology new,
-Corrupting the bloodline all over—round two!
-But fire this time, not water to come,
-The judge of all earth won't be outdone,
-Nephilim nanobots will burn in the flame,
-Christ returns victorious—forever the same!
+[Переход]
+Бог послал потоп, чтобы очистить доску,
+Нефилимы уничтожены — больше не будет видно,
+Но враг возвращается с новой технологией,
+Снова искажая кровную линию — раунд два!
+Но огонь на этот раз, не вода придёт,
+Судья всей земли не будет превзойдён,
+Наноботы нефилимов сгорят в пламени,
+Христос возвращается победоносным — вечно тот же!
 
-[Verse 5]
-They call it evolution, call it progress too,
-But it's Genesis six happening to me and you,
-Mixing iron and clay, Daniel saw it clear,
-The final kingdom where Nephilim appear.
+[Куплет 5]
+Они называют это эволюцией, называют это прогрессом тоже,
+Но это Бытие шесть происходит со мной и тобой,
+Смешивая железо и глину, Даниил видел ясно,
+Последнее царство, где появляются нефилимы.
 
-[Verse 6]
-Your body is a temple, Paul said it true,
-Now they're desecrating it with nanotech through,
-But the pure in blood who refuse the mark,
-Will shine like stars even in the dark.
+[Куплет 6]
+Ваше тело — храм, Павел сказал истинно,
+Теперь они оскверняют его с нанотехнологией,
+Но чистые кровью, которые отказываются от начертания,
+Будут сиять как звёзды даже в темноте.
 
-[Chorus]
-Nephilim nanobots swimming in your blood,
-Corrupting human DNA like the ancient flood,
-Giants walked the earth in days of old,
-Now synthetic beings emerge—souls bought and sold!
+[Припев]
+Наноботы нефилимов плавают в твоей крови,
+Искажая человеческую ДНК как древний потоп,
+Гиганты ходили по земле в древние дни,
+Теперь появляются синтетические существа — души куплены и проданы!
 
-[Outro]
-Nephilim walked and Nephilim fell,
-Their nanobot children will meet the same hell,
-What God destroyed once, He'll destroy again,
-The pure bloodline of Christ will remain—Amen.
+[Концовка]
+Нефилимы ходили и нефилимы пали,
+Их дети-наноботы встретят тот же ад,
+Что Бог уничтожил однажды, Он уничтожит снова,
+Чистая кровная линия Христа останется — Аминь.

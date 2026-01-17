@@ -1,74 +1,74 @@
-SONG 9: "Tribulation Tech"
-(Theme: End Times Tribulation + Smart Dust Surveillance)
+ПЕСНЯ 9: "Технология Скорби"
+(Тема: Скорбь Последних Времён + Наблюдение Умной Пылью)
 
-[Intro]
+[Вступление]
 
-[Verse 1]
-The tribulation's coming, seven years of hell,
-Smart dust in the atmosphere—surveillance fell,
-Daniel's seventieth week approaching fast,
-And the tech they've built will make it last.
+[Куплет 1]
+Скорбь приходит, семь лет ада,
+Умная пыль в атмосфере — наблюдение упало,
+Семидесятая неделя Даниила приближается быстро,
+И технология, которую они построили, заставит это длиться.
 
-[Verse 2]
-Smart dust particles floating in the air,
-Recording everything, everywhere,
-Matthew twenty-four said nothing would be hid,
-Now technology fulfills what the scripture did.
+[Куплет 2]
+Частицы умной пыли плавают в воздухе,
+Записывая всё, везде,
+Матфея двадцать четыре сказал, ничто не будет скрыто,
+Теперь технология исполняет то, что сделало писание.
 
-[Chorus]
-Tribulation tech watching every move,
-Smart dust surveillance—nothing left to prove,
-The time of trouble like never before,
-Technology opens the tribulation door!
+[Припев]
+Технология скорби наблюдает за каждым движением,
+Наблюдение умной пылью — нечего доказывать,
+Время беды, как никогда раньше,
+Технология открывает дверь скорби!
 
-[Verse 3]
-Revelation says no buying or selling without the mark,
-CBDC and digital ID light up the dark,
-Smart city prisons where you can't escape,
-The tribulation tech sealing your fate.
+[Куплет 3]
+Откровение говорит, нет покупки или продажи без начертания,
+CBDC и цифровой ID освещают тьму,
+Умные городские тюрьмы, откуда нельзя сбежать,
+Технология скорби запечатывает твою судьбу.
 
-[Verse 4]
-Fifteen-minute cities keep you in your zone,
-Surveillance cameras watching, you're never alone,
-Social credit scores determining your worth,
-The great tribulation birthed on earth.
+[Куплет 4]
+Пятнадцатиминутные города держат тебя в твоей зоне,
+Камеры наблюдения смотрят, ты никогда не один,
+Оценки социального кредита определяют твою ценность,
+Великая скорбь рождается на земле.
 
-[Chorus]
-Tribulation tech watching every move,
-Smart dust surveillance—nothing left to prove,
-The time of trouble like never before,
-Technology opens the tribulation door!
+[Припев]
+Технология скорби наблюдает за каждым движением,
+Наблюдение умной пылью — нечего доказывать,
+Время беды, как никогда раньше,
+Технология открывает дверь скорби!
 
-[Bridge]
-Two witnesses prophesy in those days,
-While the beast system hunts them through the maze,
-But God protects His own through fire and flood,
-Sealed by the Spirit, bought by the blood!
-The tech can't touch what God has sealed,
-One hundred forty-four thousand revealed,
-Through tribulation they'll emerge refined,
-Smart dust can't track the Father's assigned!
+[Переход]
+Два свидетеля пророчествуют в те дни,
+Пока система зверя охотится на них через лабиринт,
+Но Бог защищает Своих через огонь и потоп,
+Запечатаны Духом, куплены кровью!
+Технология не может коснуться того, что Бог запечатал,
+Сто сорок четыре тысячи раскрыты,
+Через скорбь они выйдут очищенными,
+Умная пыль не может отследить назначенных Отцом!
 
-[Verse 5]
-Internet of Things tracking your location,
-Smart home devices—digital damnation,
-Everything connected to the grid of lies,
-Big Brother watching through digital eyes.
+[Куплет 5]
+Интернет вещей отслеживает твоё местоположение,
+Умные домашние устройства — цифровое проклятие,
+Всё подключено к сети лжи,
+Большой Брат смотрит цифровыми глазами.
 
-[Verse 6]
-But in the midst of trouble, God provides,
-A remnant protected where the faithful hides,
-Tribulation tech will fail in the end,
-When Christ returns with the angels He sends.
+[Куплет 6]
+Но посреди беды Бог обеспечивает,
+Остаток защищён, где верные скрываются,
+Технология скорби потерпит неудачу в конце,
+Когда Христос вернётся с ангелами, которых Он посылает.
 
-[Chorus]
-Tribulation tech watching every move,
-Smart dust surveillance—nothing left to prove,
-The time of trouble like never before,
-Technology opens the tribulation door!
+[Припев]
+Технология скорби наблюдает за каждым движением,
+Наблюдение умной пылью — нечего доказывать,
+Время беды, как никогда раньше,
+Технология открывает дверь скорби!
 
-[Outro]
-Tribulation tech making prophecy real,
-Seven years of trouble with a digital seal,
-But the saints overcome by the blood of the Lamb,
-And the word of their testimony—that's the plan.
+[Концовка]
+Технология скорби делает пророчество реальным,
+Семь лет беды с цифровой печатью,
+Но святые побеждают кровью Агнца,
+И словом своего свидетельства — это план.

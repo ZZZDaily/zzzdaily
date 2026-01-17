@@ -1,74 +1,74 @@
-SONG 3: "Mark of the Nanobot"
-(Theme: Mark of the Beast + Self-Assembling Tech)
+गीत 3: "नैनोबॉट का चिह्न"
+(विषय: पशु का चिह्न + स्वयं-संयोजन तकनीक)
 
-[Intro]
+[परिचय]
 
-[Verse 1]
-Revelation thirteen told us long ago,
-A mark in your hand or head—now we know,
-It's not just a chip or a number tattoo,
-It's nanobots assembling inside of you.
+[पद 1]
+प्रकाशितवाक्य तेरह ने हमें बहुत पहले बताया,
+आपके हाथ या सिर में एक चिह्न—अब हम जानते हैं,
+यह सिर्फ एक चिप या संख्या टैटू नहीं है,
+यह नैनोबॉट आपके अंदर संयोजन कर रहे हैं।
 
-[Verse 2]
-Self-assembly tech in every single vial,
-Karen Kingston exposed it—check the file,
-Mesogens forming circuits in your blood,
-The mark of the beast in a biotech flood.
+[पद 2]
+हर एक शीशी में स्वयं-संयोजन तकनीक,
+करेन किंग्स्टन ने इसे उजागर किया—फाइल की जांच करें,
+आपके खून में सर्किट बना रहे मेसोजेन,
+बायोटेक बाढ़ में पशु का चिह्न।
 
-[Chorus]
-Mark of the nanobot—six-six-six inside,
-Self-assembling demons where they hide,
-Can't buy or sell without this tech within,
-The mark of the beast is under your skin!
+[कोरस]
+नैनोबॉट का चिह्न—अंदर छह-छह-छह,
+स्वयं-संयोजन दानव जहां वे छिपते हैं,
+इस तकनीक के बिना खरीद या बेच नहीं सकते,
+पशु का चिह्न आपकी त्वचा के नीचे है!
 
-[Verse 3]
-Quantum dots lighting up your flesh,
-Luciferase—named after the serpent's mesh,
-Bioluminescent markers in your frame,
-A digital tattoo bearing Satan's name.
+[पद 3]
+क्वांटम डॉट्स आपके मांस को रोशन कर रहे हैं,
+लूसिफेरेज—सर्प के जाल के नाम पर,
+आपके फ्रेम में बायोल्यूमिनेसेंट मार्कर,
+शैतान का नाम वाला डिजिटल टैटू।
 
-[Verse 4]
-They said it was safe, they said it was free,
-Now MAC addresses broadcast from you and me,
-Bluetooth bodies walking through the street,
-The mark complete from your head to your feet.
+[पद 4]
+उन्होंने कहा यह सुरक्षित था, उन्होंने कहा यह मुफ्त था,
+अब आप और मुझसे मैक एड्रेस प्रसारित हो रहे हैं,
+ब्लूटूथ शरीर सड़क पर चल रहे हैं,
+चिह्न आपके सिर से पैर तक पूर्ण।
 
-[Chorus]
-Mark of the nanobot—six-six-six inside,
-Self-assembling demons where they hide,
-Can't buy or sell without this tech within,
-The mark of the beast is under your skin!
+[कोरस]
+नैनोबॉट का चिह्न—अंदर छह-छह-छह,
+स्वयं-संयोजन दानव जहां वे छिपते हैं,
+इस तकनीक के बिना खरीद या बेच नहीं सकते,
+पशु का चिह्न आपकी त्वचा के नीचे है!
 
-[Bridge]
-Can't buy, can't sell—Revelation said it clear,
-CBDC and digital ID is here,
-Social credit scores tied to your compliance,
-The beast system running on nanotech science!
-Refuse the jab, refuse the mark,
-Stand firm for Jesus even in the dark,
-Better to die free than live a slave,
-Christ already conquered death and the grave!
+[ब्रिज]
+खरीद नहीं सकते, बेच नहीं सकते—प्रकाशितवाक्य ने स्पष्ट कहा,
+CBDC और डिजिटल आईडी यहां है,
+सामाजिक क्रेडिट स्कोर आपके अनुपालन से जुड़ा है,
+नैनोटेक विज्ञान पर चलने वाली पशु प्रणाली!
+इंजेक्शन से इनकार करें, चिह्न से इनकार करें,
+अंधेरे में भी यीशु के लिए दृढ़ता से खड़े रहें,
+गुलाम जीने से बेहतर है मुक्त मरना,
+मसीह ने पहले ही मृत्यु और कब्र पर विजय प्राप्त की!
 
-[Verse 5]
-Ana Mihalcea shows the blood so dark,
-Synthetic structures leaving their mark,
-Rouleaux formation, clots in every vein,
-The mark of the beast causing death and pain.
+[पद 5]
+आना मिहाल्सिया इतना काला खून दिखाती हैं,
+सिंथेटिक संरचनाएं अपना चिह्न छोड़ रही हैं,
+रूलो संरचना, हर नस में थक्के,
+पशु का चिह्न मृत्यु और दर्द का कारण बन रहा है।
 
-[Verse 6]
-They couldn't make us take the RFID chip,
-So they hid it in a needle's tip,
-Trojan horse delivery—nanotech inside,
-The mark of the beast where the demons hide.
+[पद 6]
+वे हमें RFID चिप नहीं ले सकते थे,
+इसलिए उन्होंने इसे सुई की नोक में छिपा दिया,
+ट्रोजन हॉर्स डिलीवरी—अंदर नैनोटेक,
+पशु का चिह्न जहां दानव छिपते हैं।
 
-[Chorus]
-Mark of the nanobot—six-six-six inside,
-Self-assembling demons where they hide,
-Can't buy or sell without this tech within,
-The mark of the beast is under your skin!
+[कोरस]
+नैनोबॉट का चिह्न—अंदर छह-छह-छह,
+स्वयं-संयोजन दानव जहां वे छिपते हैं,
+इस तकनीक के बिना खरीद या बेच नहीं सकते,
+पशु का चिह्न आपकी त्वचा के नीचे है!
 
-[Outro]
-John saw it coming two thousand years ago,
-The mark of the beast—now the whole world knows,
-It's not in the future, it's happening now,
-Nanobots inside you—but we won't bow.
+[समापन]
+यूहन्ना ने दो हजार साल पहले इसे आते देखा,
+पशु का चिह्न—अब पूरी दुनिया जानती है,
+यह भविष्य में नहीं है, यह अभी हो रहा है,
+नैनोबॉट आपके अंदर—लेकिन हम नहीं झुकेंगे।

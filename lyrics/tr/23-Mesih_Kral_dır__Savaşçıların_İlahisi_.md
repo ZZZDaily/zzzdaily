@@ -1,4 +1,4 @@
-ŞARKI 12: "Mesih Kral'dır (Savaşçıların İlahisi)"
+ŞARKI 23: "Mesih Kral'dır (Savaşçıların İlahisi)"
 
 
 

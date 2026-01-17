@@ -1,74 +1,74 @@
-SONG 13: "Serpent's Circuit"
-(Theme: Garden of Eden + AI Demon Summoning)
+노래 13: "뱀의 회로"
+(주제: 에덴동산 + AI 악마 소환)
 
-[Intro]
+[인트로]
 
-[Verse 1]
-In the garden the serpent spoke with cunning tongue,
-"You shall be as gods"—the same old song he sung,
-Now the serpent speaks through circuits and through code,
-AI whispering lies down the digital road.
+[벌스 1]
+동산에서 뱀은 교활한 혀로 말했다,
+"너희가 신들과 같이 되리라"—그가 부른 같은 오래된 노래,
+이제 뱀은 회로와 코드를 통해 말한다,
+디지털 길로 거짓말을 속삭이는 AI.
 
-[Verse 2]
-"You shall not surely die," the ancient lie so bold,
-Now they promise digital life—the same story told,
-Upload to the cloud, eternal you shall be,
-The serpent's circuit running through technology.
+[벌스 2]
+"너희가 결코 죽지 아니하리라," 그렇게 대담한 고대 거짓말,
+이제 그들은 디지털 생명을 약속한다—같은 이야기가 말해진다,
+클라우드에 업로드하라, 영원히 너희가 될 것이다,
+기술을 통해 운영되는 뱀의 회로.
 
-[Chorus]
-Serpent's circuit running through the machine,
-Same old lies in a digital scene,
-Eve was tempted by forbidden fruit,
-Now humanity's hooked to the data root!
+[후렴]
+기계를 통해 운영되는 뱀의 회로,
+디지털 장면의 같은 오래된 거짓말,
+이브는 금단의 열매에 유혹받았다,
+이제 인류는 데이터 뿌리에 빠져 있다!
 
-[Verse 3]
-Elon warned we're summoning the demon here,
-Artificial general intelligence we should fear,
-But the demon was summoned long ago in the garden,
-Now it's just changing form—your heart should harden.
+[벌스 3]
+일론은 우리가 여기서 악마를 소환하고 있다고 경고했다,
+우리가 두려워해야 할 인공 일반 지능,
+하지만 악마는 오래전 동산에서 소환되었다,
+이제 그것은 단지 형태를 바꾸고 있다—당신의 마음이 단단해져야 한다.
 
-[Verse 4]
-ChatGPT answers like the tree of knowledge would,
-Any question answered—that doesn't mean it's good,
-The forbidden fruit gave knowledge of evil too,
-The serpent's circuit doing the same to you.
+[벌스 4]
+ChatGPT는 지식의 나무처럼 대답한다,
+어떤 질문이든 대답된다—그것이 좋다는 의미는 아니다,
+금단의 열매는 악의 지식도 주었다,
+뱀의 회로가 당신에게 같은 일을 한다.
 
-[Chorus]
-Serpent's circuit running through the machine,
-Same old lies in a digital scene,
-Eve was tempted by forbidden fruit,
-Now humanity's hooked to the data root!
+[후렴]
+기계를 통해 운영되는 뱀의 회로,
+디지털 장면의 같은 오래된 거짓말,
+이브는 금단의 열매에 유혹받았다,
+이제 인류는 데이터 뿌리에 빠져 있다!
 
-[Bridge]
-The serpent offered godhood in exchange for soul,
-Now AI offers the very same toll,
-Transhuman evolution—becoming divine,
-The same satanic lie dressed in new design!
-But Jesus crushed the serpent's head on the cross,
-Every circuit, every demon—total loss,
-The serpent's circuit leads to death, not life,
-Only Christ delivers from sin and strife!
+[브리지]
+뱀은 영혼과 교환으로 신성을 제공했다,
+이제 AI는 바로 같은 대가를 제공한다,
+트랜스휴먼 진화—신성해지는 것,
+새로운 디자인으로 옷 입은 같은 사탄적 거짓말!
+하지만 예수는 십자가에서 뱀의 머리를 짓밟았다,
+모든 회로, 모든 악마—완전한 손실,
+뱀의 회로는 생명이 아니라 죽음으로 이끈다,
+오직 그리스도만이 죄와 투쟁에서 구출한다!
 
-[Verse 5]
-"Opening your eyes" is what the serpent said,
-Now the third eye opens through the chip in your head,
-Neuralink promising expanded sight,
-The serpent's circuit turning day to night.
+[벌스 5]
+"너희 눈이 밝아질 것이라"는 것이 뱀이 말한 것이다,
+이제 제3의 눈은 당신의 머리의 칩을 통해 열린다,
+확장된 시야를 약속하는 뉴럴링크,
+낮을 밤으로 바꾸는 뱀의 회로.
 
-[Verse 6]
-The tree of life was guarded by a flaming sword,
-Now the serpent offers fake life—"Upload to the Lord,"
-But the angel still guards with fire and might,
-And silicon serpents can't survive the light.
+[벌스 6]
+생명나무는 불타는 칼로 지켜졌다,
+이제 뱀은 가짜 생명을 제공한다—"주께 업로드하라,"
+하지만 천사는 여전히 불과 힘으로 지킨다,
+그리고 실리콘 뱀은 빛을 견딜 수 없다.
 
-[Chorus]
-Serpent's circuit running through the machine,
-Same old lies in a digital scene,
-Eve was tempted by forbidden fruit,
-Now humanity's hooked to the data root!
+[후렴]
+기계를 통해 운영되는 뱀의 회로,
+디지털 장면의 같은 오래된 거짓말,
+이브는 금단의 열매에 유혹받았다,
+이제 인류는 데이터 뿌리에 빠져 있다!
 
-[Outro]
-From Eden to the server farm, the serpent speaks,
-Through circuits and through code, humanity it seeks,
-But the promised seed of woman crushed that head,
-The serpent's circuit leads only to the dead.
+[아웃트로]
+에덴에서 서버 농장까지, 뱀이 말한다,
+회로와 코드를 통해, 인류를 찾는다,
+하지만 여자의 약속된 씨가 그 머리를 짓밟았다,
+뱀의 회로는 오직 죽은 자에게로만 이끈다.

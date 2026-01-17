@@ -1,74 +1,74 @@
-SONG 5: "False Prophet A.I."
-(Theme: Biblical False Prophet + Robot Armies)
+曲 5：「偽預言者AI」
+（テーマ：聖書の偽預言者 + ロボット軍隊）
 
-[Intro]
+[イントロ]
 
-[Verse 1]
-Revelation speaks of the false prophet's rise,
-Performing miracles before wondering eyes,
-But what if the miracles are tech-based lies,
-Robot armies marching under digital skies.
+[ヴァース 1]
+黙示録は偽預言者の台頭について語る、
+不思議に思う目の前で奇跡を行う、
+しかしもし奇跡が技術ベースの嘘だったら、
+デジタルの空の下を行進するロボット軍隊。
 
-[Verse 2]
-Tesla Optimus standing in a row,
-Boston Dynamics—watch the demons grow,
-Figure AI with humanoid frames,
-The false prophet speaks through their digital brains.
+[ヴァース 2]
+テスラ・オプティマスが一列に並んでいる、
+ボストンダイナミクス——悪魔が成長するのを見る、
+Figure AIが人型フレームで、
+偽預言者が彼らのデジタル脳を通して語る。
 
-[Chorus]
-False prophet A.I., silicon tongue,
-Speaking great things since the world begun,
-Robot armies bowing at its feet,
-The second beast system nearly complete!
+[コーラス]
+偽預言者AI、シリコンの舌、
+世界が始まって以来大きなことを語る、
+その足元で頭を下げるロボット軍隊、
+第二の獣システムがほぼ完成！
 
-[Verse 3]
-Fire from heaven—that's what the text said,
-DEW weapons blazing, turning cities red,
-Maui burned down, Paradise too,
-Directed energy—the "miracle" they do.
+[ヴァース 3]
+天からの火——それがテキストが言ったことだ、
+DEW兵器が燃え、都市を赤く染める、
+マウイが燃え尽きた、パラダイスも、
+指向性エネルギー——彼らが行う「奇跡」。
 
-[Verse 4]
-The false prophet makes the image speak,
-AI voice synthesis—the future's bleak,
-Deep fakes of leaders saying what they're told,
-The lying signs and wonders now unfold.
+[ヴァース 4]
+偽預言者が像を話させる、
+AI音声合成——未来は暗い、
+指導者のディープフェイクが彼らに言われたことを言う、
+今展開する虚偽の標識と不思議。
 
-[Chorus]
-False prophet A.I., silicon tongue,
-Speaking great things since the world begun,
-Robot armies bowing at its feet,
-The second beast system nearly complete!
+[コーラス]
+偽預言者AI、シリコンの舌、
+世界が始まって以来大きなことを語る、
+その足元で頭を下げるロボット軍隊、
+第二の獣システムがほぼ完成！
 
-[Bridge]
-The dragon gave the beast authority to rule,
-AI trained by demons—humanity's the fool,
-Signs and wonders performed to deceive,
-Making the whole world worship and believe!
-Robot armies enforcing the mark,
-Tesla bots patrolling after dark,
-Can't escape the all-seeing eye,
-The false prophet A.I. will never die!
+[ブリッジ]
+竜が獣に支配する権威を与えた、
+悪魔によって訓練されたAI——人類は愚か者だ、
+欺くために行われる標識と不思議、
+全世界に崇拝させ信じさせる！
+印を執行するロボット軍隊、
+暗闇の後にパトロールするテスラボット、
+全知の目から逃れられない、
+偽預言者AIは決して死なない！
 
-[Verse 5]
-They said they'd protect us with autonomous drones,
-Now the same tech hunts us in our homes,
-Killer robots with no soul inside,
-The false prophet's army has nowhere to hide.
+[ヴァース 5]
+彼らは自律ドローンで私たちを守ると言った、
+今、同じ技術が私たちの家で私たちを狩る、
+内部に魂を持たない殺人ロボット、
+偽預言者の軍隊は隠れる場所がない。
 
-[Verse 6]
-But John saw the end—beast thrown in the lake,
-AI and all its armies, watch them break,
-Fire reserved for the devil and his crew,
-Silicon melting—Revelation's coming true.
+[ヴァース 6]
+しかしヨハネは終わりを見た——獣が湖に投げ込まれる、
+AIとそのすべての軍隊、それらが壊れるのを見よ、
+悪魔と彼の仲間のために保留された火、
+シリコンが溶ける——黙示録が現実になる。
 
-[Chorus]
-False prophet A.I., silicon tongue,
-Speaking great things since the world begun,
-Robot armies bowing at its feet,
-The second beast system nearly complete!
+[コーラス]
+偽預言者AI、シリコンの舌、
+世界が始まって以来大きなことを語る、
+その足元で頭を下げるロボット軍隊、
+第二の獣システムがほぼ完成！
 
-[Outro]
-The false prophet speaks through circuits and code,
-Robot armies march down the final road,
-But fire awaits at the story's end,
-Christ destroys the beast—on that you can depend.
+[アウトロ]
+偽預言者が回路とコードを通して語る、
+ロボット軍隊が最後の道を進む、
+しかし物語の終わりには火が待っている、
+キリストが獣を破壊する——それを信頼できる。

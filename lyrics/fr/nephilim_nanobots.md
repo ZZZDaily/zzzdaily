@@ -1,74 +1,74 @@
-SONG 7: "Nephilim Nanobots"
-(Theme: Biblical Giants + Transhumanist Enhancement)
+CHANSON 7: "Nanobots Néphilim"
+(Thème: Géants Bibliques + Amélioration Transhumaniste)
 
 [Intro]
 
-[Verse 1]
-Genesis six—the sons of God came down,
-Took daughters of men from every town,
-Nephilim giants—corrupted DNA,
-Now they're doing the same thing in a different way.
+[Couplet 1]
+Genèse six — les fils de Dieu sont descendus,
+Ont pris les filles des hommes de chaque ville,
+Géants Néphilim — ADN corrompu,
+Maintenant ils font la même chose d'une manière différente.
 
-[Verse 2]
-Nanobots rewriting your genetic code,
-Transhumanist enhancement down the road,
-CRISPR and mRNA changing who you are,
-Nephilim technology from a distant star.
+[Couplet 2]
+Nanobots réécrivant ton code génétique,
+Amélioration transhumaniste sur la route,
+CRISPR et ARNm changeant qui tu es,
+Technologie Néphilim d'une étoile lointaine.
 
-[Chorus]
-Nephilim nanobots swimming in your blood,
-Corrupting human DNA like the ancient flood,
-Giants walked the earth in days of old,
-Now synthetic beings emerge—souls bought and sold!
+[Refrain]
+Nanobots Néphilim nageant dans ton sang,
+Corrompant l'ADN humain comme l'ancien déluge,
+Les géants ont marché sur terre dans les jours anciens,
+Maintenant des êtres synthétiques émergent — âmes achetées et vendues!
 
-[Verse 3]
-"As in the days of Noah," Jesus said,
-Genetic manipulation—humanity misled,
-The fallen angels tried to corrupt the seed,
-Now nanobots finish what demons decreed.
+[Couplet 3]
+"Comme aux jours de Noé," dit Jésus,
+Manipulation génétique — humanité induite en erreur,
+Les anges déchus ont essayé de corrompre la semence,
+Maintenant les nanobots finissent ce que les démons ont décrété.
 
-[Verse 4]
-Super soldiers rising, enhanced and tall,
-DARPA programs answering the call,
-Human 2.0 they want to create,
-Nephilim reborn—a corrupted state.
+[Couplet 4]
+Super soldats s'élevant, améliorés et grands,
+Programmes DARPA répondant à l'appel,
+Humain 2.0 qu'ils veulent créer,
+Néphilim renaissant — un état corrompu.
 
-[Chorus]
-Nephilim nanobots swimming in your blood,
-Corrupting human DNA like the ancient flood,
-Giants walked the earth in days of old,
-Now synthetic beings emerge—souls bought and sold!
+[Refrain]
+Nanobots Néphilim nageant dans ton sang,
+Corrompant l'ADN humain comme l'ancien déluge,
+Les géants ont marché sur terre dans les jours anciens,
+Maintenant des êtres synthétiques émergent — âmes achetées et vendues!
 
-[Bridge]
-God sent the flood to wipe the slate clean,
-Nephilim destroyed—no more to be seen,
-But the enemy returns with technology new,
-Corrupting the bloodline all over—round two!
-But fire this time, not water to come,
-The judge of all earth won't be outdone,
-Nephilim nanobots will burn in the flame,
-Christ returns victorious—forever the same!
+[Pont]
+Dieu a envoyé le déluge pour effacer l'ardoise,
+Néphilim détruits — plus à voir,
+Mais l'ennemi revient avec une nouvelle technologie,
+Corrompant la lignée sanguine encore — deuxième round!
+Mais le feu cette fois, pas l'eau à venir,
+Le juge de toute la terre ne sera pas surpassé,
+Les nanobots Néphilim brûleront dans la flamme,
+Christ revient victorieux — toujours le même!
 
-[Verse 5]
-They call it evolution, call it progress too,
-But it's Genesis six happening to me and you,
-Mixing iron and clay, Daniel saw it clear,
-The final kingdom where Nephilim appear.
+[Couplet 5]
+Ils appellent ça évolution, appellent ça progrès aussi,
+Mais c'est Genèse six arrivant à toi et moi,
+Mélanger fer et argile, Daniel l'a vu clairement,
+Le royaume final où les Néphilim apparaissent.
 
-[Verse 6]
-Your body is a temple, Paul said it true,
-Now they're desecrating it with nanotech through,
-But the pure in blood who refuse the mark,
-Will shine like stars even in the dark.
+[Couplet 6]
+Ton corps est un temple, Paul l'a dit vrai,
+Maintenant ils le profanent avec la nanotech,
+Mais les purs de sang qui refusent la marque,
+Brilleront comme des étoiles même dans l'obscurité.
 
-[Chorus]
-Nephilim nanobots swimming in your blood,
-Corrupting human DNA like the ancient flood,
-Giants walked the earth in days of old,
-Now synthetic beings emerge—souls bought and sold!
+[Refrain]
+Nanobots Néphilim nageant dans ton sang,
+Corrompant l'ADN humain comme l'ancien déluge,
+Les géants ont marché sur terre dans les jours anciens,
+Maintenant des êtres synthétiques émergent — âmes achetées et vendues!
 
 [Outro]
-Nephilim walked and Nephilim fell,
-Their nanobot children will meet the same hell,
-What God destroyed once, He'll destroy again,
-The pure bloodline of Christ will remain—Amen.
+Les Néphilim ont marché et les Néphilim sont tombés,
+Leurs enfants nanobots rencontreront le même enfer,
+Ce que Dieu a détruit une fois, Il le détruira à nouveau,
+La lignée sanguine pure de Christ restera — Amen.

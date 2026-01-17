@@ -1,4 +1,4 @@
-CANCIÓN 7: "Documentos Antiguos"
+CANCIÓN 83: "Documentos Antiguos"
 (Tema: Una misteriosa investigación sobre archivos clasificados, verdades censuradas, y lo que los gobiernos pueden saber pero no revelarán.)
 
 [Introducción]

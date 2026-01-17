@@ -1,74 +1,74 @@
-SONG 9: "Tribulation Tech"
-(Theme: End Times Tribulation + Smart Dust Surveillance)
+노래 9: "대환난 기술"
+(주제: 종말의 대환난 + 스마트 더스트 감시)
 
-[Intro]
+[인트로]
 
-[Verse 1]
-The tribulation's coming, seven years of hell,
-Smart dust in the atmosphere—surveillance fell,
-Daniel's seventieth week approaching fast,
-And the tech they've built will make it last.
+[벌스 1]
+대환난이 오고 있다, 7년의 지옥,
+대기 중의 스마트 더스트—감시가 내렸다,
+빠르게 다가오는 다니엘의 70번째 주,
+그리고 그들이 건설한 기술이 그것을 지속시킬 것이다.
 
-[Verse 2]
-Smart dust particles floating in the air,
-Recording everything, everywhere,
-Matthew twenty-four said nothing would be hid,
-Now technology fulfills what the scripture did.
+[벌스 2]
+공중에 떠다니는 스마트 더스트 입자,
+모든 것을, 어디에서나 기록하며,
+마태복음 24장은 아무것도 숨겨지지 않을 것이라고 말했다,
+이제 기술이 성경이 한 것을 이행한다.
 
-[Chorus]
-Tribulation tech watching every move,
-Smart dust surveillance—nothing left to prove,
-The time of trouble like never before,
-Technology opens the tribulation door!
+[후렴]
+모든 움직임을 보는 대환난 기술,
+스마트 더스트 감시—증명할 것이 아무것도 남지 않았다,
+전에 없었던 고난의 시간,
+기술이 대환난의 문을 연다!
 
-[Verse 3]
-Revelation says no buying or selling without the mark,
-CBDC and digital ID light up the dark,
-Smart city prisons where you can't escape,
-The tribulation tech sealing your fate.
+[벌스 3]
+요한계시록은 표 없이는 사고팔 수 없다고 말한다,
+CBDC와 디지털 ID가 어둠을 밝힌다,
+당신이 탈출할 수 없는 스마트 시티 감옥,
+당신의 운명을 봉인하는 대환난 기술.
 
-[Verse 4]
-Fifteen-minute cities keep you in your zone,
-Surveillance cameras watching, you're never alone,
-Social credit scores determining your worth,
-The great tribulation birthed on earth.
+[벌스 4]
+15분 도시는 당신을 당신의 구역에 유지한다,
+감시 카메라가 보고 있다, 당신은 결코 혼자가 아니다,
+당신의 가치를 결정하는 사회 신용 점수,
+지구에서 탄생한 대환난.
 
-[Chorus]
-Tribulation tech watching every move,
-Smart dust surveillance—nothing left to prove,
-The time of trouble like never before,
-Technology opens the tribulation door!
+[후렴]
+모든 움직임을 보는 대환난 기술,
+스마트 더스트 감시—증명할 것이 아무것도 남지 않았다,
+전에 없었던 고난의 시간,
+기술이 대환난의 문을 연다!
 
-[Bridge]
-Two witnesses prophesy in those days,
-While the beast system hunts them through the maze,
-But God protects His own through fire and flood,
-Sealed by the Spirit, bought by the blood!
-The tech can't touch what God has sealed,
-One hundred forty-four thousand revealed,
-Through tribulation they'll emerge refined,
-Smart dust can't track the Father's assigned!
+[브리지]
+두 증인이 그 날들에 예언한다,
+짐승 시스템이 미로를 통해 그들을 사냥하는 동안,
+하지만 하나님은 불과 홍수를 통해 그분의 것을 보호한다,
+성령으로 봉인되고, 피로 사신!
+기술은 하나님이 봉인한 것을 만질 수 없다,
+14만 4천 명이 드러났다,
+대환난을 통해 그들은 정제되어 나타날 것이다,
+스마트 더스트는 아버지가 지정한 것을 추적할 수 없다!
 
-[Verse 5]
-Internet of Things tracking your location,
-Smart home devices—digital damnation,
-Everything connected to the grid of lies,
-Big Brother watching through digital eyes.
+[벌스 5]
+당신의 위치를 추적하는 사물 인터넷,
+스마트 홈 장치—디지털 저주,
+거짓말의 그리드에 연결된 모든 것,
+디지털 눈을 통해 보는 빅 브라더.
 
-[Verse 6]
-But in the midst of trouble, God provides,
-A remnant protected where the faithful hides,
-Tribulation tech will fail in the end,
-When Christ returns with the angels He sends.
+[벌스 6]
+하지만 고난의 한가운데서, 하나님은 제공하신다,
+신실한 자가 숨는 곳에서 보호받는 남은 자,
+대환난 기술은 결국 실패할 것이다,
+그리스도가 그분이 보내시는 천사들과 함께 돌아오실 때.
 
-[Chorus]
-Tribulation tech watching every move,
-Smart dust surveillance—nothing left to prove,
-The time of trouble like never before,
-Technology opens the tribulation door!
+[후렴]
+모든 움직임을 보는 대환난 기술,
+스마트 더스트 감시—증명할 것이 아무것도 남지 않았다,
+전에 없었던 고난의 시간,
+기술이 대환난의 문을 연다!
 
-[Outro]
-Tribulation tech making prophecy real,
-Seven years of trouble with a digital seal,
-But the saints overcome by the blood of the Lamb,
-And the word of their testimony—that's the plan.
+[아웃트로]
+예언을 현실로 만드는 대환난 기술,
+디지털 봉인과 함께 7년의 고난,
+하지만 성도들은 어린양의 피로 이긴다,
+그리고 그들의 증거의 말로—그것이 계획이다.

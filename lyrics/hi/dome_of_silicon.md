@@ -1,74 +1,74 @@
-SONG 1: "सिलिकॉन का गुंबद"
-(Theme: Flat Earth Firmament + AI Digital Prison)
+गीत 1: "सिलिकॉन का गुंबद"
+(विषय: समतल पृथ्वी आकाश + एआई डिजिटल जेल)
 
-[Intro]
+[परिचय]
 
-[Verse 1]
-They built a prison underneath the dome,
-Silicon valleys where the demons roam,
-Firmament above us solid as steel,
-But they've built another one—digital and real.
+[पद 1]
+उन्होंने गुंबद के नीचे एक जेल बनाई,
+सिलिकॉन घाटियां जहां दानव घूमते हैं,
+हमारे ऊपर आकाश स्टील जैसा ठोस,
+लेकिन उन्होंने एक और बनाया है—डिजिटल और वास्तविक।
 
-[Verse 2]
-Genesis tells us waters above the sky,
-Now they're drowning us in data, algorithm lies,
-God's ceiling keeps the waters held at bay,
-Their ceiling keeps the truth locked away.
+[पद 2]
+उत्पत्ति हमें आकाश के ऊपर पानी के बारे में बताती है,
+अब वे हमें डेटा में डुबो रहे हैं, एल्गोरिदम झूठ,
+भगवान की छत पानी को खाड़ी में रखती है,
+उनकी छत सच्चाई को बंद रखती है।
 
-[Chorus]
-Dome of silicon, dome of glass,
-Two prisons built to hold the mass,
-One made by God to protect His creation,
-One made by man for our digital damnation!
+[कोरस]
+सिलिकॉन का गुंबद, कांच का गुंबद,
+जनता को पकड़ने के लिए बनाई गई दो जेलें,
+एक भगवान द्वारा अपनी रचना की रक्षा के लिए बनाई गई,
+एक मनुष्य द्वारा हमारे डिजिटल अभिशाप के लिए बनाई गई!
 
-[Verse 3]
-They couldn't break through the firmament wall,
-So they built the metaverse to trap us all,
-"Space is fake" so they made cyberspace,
-Another false reality shoved in your face.
+[पद 3]
+वे आकाश की दीवार को तोड़ नहीं सके,
+इसलिए उन्होंने हम सभी को फंसाने के लिए मेटावर्स बनाया,
+"अंतरिक्ष नकली है" तो उन्होंने साइबरस्पेस बनाया,
+एक और झूठी वास्तविकता आपके चेहरे में धकेल दी।
 
-[Verse 4]
-Elon says we might be in a simulation,
-Preparing your mind for the great migration,
-Upload your soul to the cloud they say,
-While the real dome above keeps heaven at bay.
+[पद 4]
+एलन कहते हैं कि हम एक सिमुलेशन में हो सकते हैं,
+महान प्रवासन के लिए अपने मन को तैयार करना,
+वे कहते हैं अपनी आत्मा को क्लाउड पर अपलोड करें,
+जबकि ऊपर असली गुंबद स्वर्ग को खाड़ी में रखता है।
 
-[Chorus]
-Dome of silicon, dome of glass,
-Two prisons built to hold the mass,
-One made by God to protect His creation,
-One made by man for our digital damnation!
+[कोरस]
+सिलिकॉन का गुंबद, कांच का गुंबद,
+जनता को पकड़ने के लिए बनाई गई दो जेलें,
+एक भगवान द्वारा अपनी रचना की रक्षा के लिए बनाई गई,
+एक मनुष्य द्वारा हमारे डिजिटल अभिशाप के लिए बनाई गई!
 
-[Bridge]
-The firmament holds—they cannot breach,
-So digital heavens is what they preach,
-Transhumanism is their tower of lies,
-Building to God but they can't reach the skies!
-Babel fell and so will this,
-Silicon dreams turn to the abyss,
-Christ is the door, the only way through,
-Not fiber optics—the Gospel is true!
+[ब्रिज]
+आकाश टिका हुआ है—वे भंग नहीं कर सकते,
+तो डिजिटल स्वर्ग वही है जो वे प्रचार करते हैं,
+ट्रांसह्यूमनिज्म उनके झूठ का टॉवर है,
+भगवान की ओर निर्माण कर रहे हैं लेकिन वे आकाश तक नहीं पहुंच सकते!
+बाबेल गिर गया और यह भी गिरेगा,
+सिलिकॉन सपने अगाध में बदल जाते हैं,
+मसीह दरवाजा है, एकमात्र रास्ता,
+फाइबर ऑप्टिक्स नहीं—सुसमाचार सच है!
 
-[Verse 5]
-P900 zoom shows no curve below,
-But the algorithm curves what you're allowed to know,
-Flat earth truth gets shadow banned quick,
-While they push the pear-shaped testicle trick.
+[पद 5]
+P900 ज़ूम नीचे कोई वक्र नहीं दिखाता,
+लेकिन एल्गोरिदम मोड़ता है कि आपको क्या जानने की अनुमति है,
+समतल पृथ्वी सत्य जल्दी छाया प्रतिबंधित हो जाता है,
+जबकि वे नाशपाती के आकार के अंडकोष चाल को धक्का देते हैं।
 
-[Verse 6]
-Smart dust falls from towers not stars,
-The firmament holds, can't escape to Mars,
-So they trap you in VR, AR, AI,
-Another dome of silicon—do or die.
+[पद 6]
+स्मार्ट धूल टावरों से गिरती है सितारों से नहीं,
+आकाश टिका हुआ है, मंगल ग्रह पर नहीं भाग सकता,
+इसलिए वे आपको VR, AR, AI में फंसाते हैं,
+सिलिकॉन का एक और गुंबद—करो या मरो।
 
-[Chorus]
-Dome of silicon, dome of glass,
-Two prisons built to hold the mass,
-One made by God to protect His creation,
-One made by man for our digital damnation!
+[कोरस]
+सिलिकॉन का गुंबद, कांच का गुंबद,
+जनता को पकड़ने के लिए बनाई गई दो जेलें,
+एक भगवान द्वारा अपनी रचना की रक्षा के लिए बनाई गई,
+एक मनुष्य द्वारा हमारे डिजिटल अभिशाप के लिए बनाई गई!
 
-[Outro]
-Two domes standing—one by God, one by man,
-Only one will hold according to the plan,
-Silicon crumbles when the Father calls,
-But the firmament stands while Babylon falls.
+[समापन]
+दो गुंबद खड़े हैं—एक भगवान द्वारा, एक मनुष्य द्वारा,
+योजना के अनुसार केवल एक टिकेगा,
+सिलिकॉन ढह जाता है जब पिता बुलाता है,
+लेकिन आकाश खड़ा रहता है जबकि बेबीलोन गिरता है।

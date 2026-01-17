@@ -1,74 +1,74 @@
-SONG 3: "Mark of the Nanobot"
-(Theme: Mark of the Beast + Self-Assembling Tech)
+歌曲 3："纳米机器人的印记"
+（主题：兽的印记 + 自组装技术）
 
-[Intro]
+[前奏]
 
-[Verse 1]
-Revelation thirteen told us long ago,
-A mark in your hand or head—now we know,
-It's not just a chip or a number tattoo,
-It's nanobots assembling inside of you.
+[主歌 1]
+启示录十三章很久以前告诉我们，
+手上或头上的印记——现在我们知道了，
+这不仅仅是芯片或数字纹身，
+这是在你体内组装的纳米机器人。
 
-[Verse 2]
-Self-assembly tech in every single vial,
-Karen Kingston exposed it—check the file,
-Mesogens forming circuits in your blood,
-The mark of the beast in a biotech flood.
+[主歌 2]
+每个小瓶中的自组装技术，
+凯伦·金斯顿揭露了它——查看文件，
+介晶在你的血液中形成电路，
+生物技术洪流中的兽印记。
 
-[Chorus]
-Mark of the nanobot—six-six-six inside,
-Self-assembling demons where they hide,
-Can't buy or sell without this tech within,
-The mark of the beast is under your skin!
+[副歌]
+纳米机器人的印记——内部六六六，
+自组装的恶魔隐藏的地方，
+没有这个内部技术就不能买卖，
+兽的印记在你皮肤下！
 
-[Verse 3]
-Quantum dots lighting up your flesh,
-Luciferase—named after the serpent's mesh,
-Bioluminescent markers in your frame,
-A digital tattoo bearing Satan's name.
+[主歌 3]
+量子点照亮你的肉体，
+荧光素酶——以蛇的网命名，
+你框架中的生物发光标记，
+带有撒旦名字的数字纹身。
 
-[Verse 4]
-They said it was safe, they said it was free,
-Now MAC addresses broadcast from you and me,
-Bluetooth bodies walking through the street,
-The mark complete from your head to your feet.
+[主歌 4]
+他们说这是安全的，他们说这是免费的，
+现在MAC地址从你我这里广播，
+蓝牙身体走在街上，
+从头到脚的完整印记。
 
-[Chorus]
-Mark of the nanobot—six-six-six inside,
-Self-assembling demons where they hide,
-Can't buy or sell without this tech within,
-The mark of the beast is under your skin!
+[副歌]
+纳米机器人的印记——内部六六六，
+自组装的恶魔隐藏的地方，
+没有这个内部技术就不能买卖，
+兽的印记在你皮肤下！
 
-[Bridge]
-Can't buy, can't sell—Revelation said it clear,
-CBDC and digital ID is here,
-Social credit scores tied to your compliance,
-The beast system running on nanotech science!
-Refuse the jab, refuse the mark,
-Stand firm for Jesus even in the dark,
-Better to die free than live a slave,
-Christ already conquered death and the grave!
+[桥段]
+不能买，不能卖——启示录说得很清楚，
+CBDC和数字身份在这里，
+社会信用评分与你的合规性挂钩，
+运行在纳米技术科学上的兽系统！
+拒绝注射，拒绝印记，
+即使在黑暗中也要为耶稣坚定，
+宁可自由死也不愿活着为奴，
+基督已经征服了死亡和坟墓！
 
-[Verse 5]
-Ana Mihalcea shows the blood so dark,
-Synthetic structures leaving their mark,
-Rouleaux formation, clots in every vein,
-The mark of the beast causing death and pain.
+[主歌 5]
+安娜·米哈尔奇亚展示如此黑暗的血液，
+合成结构留下它们的印记，
+缗钱状形成，每条静脉中的血栓，
+兽的印记造成死亡和痛苦。
 
-[Verse 6]
-They couldn't make us take the RFID chip,
-So they hid it in a needle's tip,
-Trojan horse delivery—nanotech inside,
-The mark of the beast where the demons hide.
+[主歌 6]
+他们无法让我们接受RFID芯片，
+所以他们把它藏在针尖里，
+特洛伊木马交付——内部纳米技术，
+兽的印记恶魔隐藏的地方。
 
-[Chorus]
-Mark of the nanobot—six-six-six inside,
-Self-assembling demons where they hide,
-Can't buy or sell without this tech within,
-The mark of the beast is under your skin!
+[副歌]
+纳米机器人的印记——内部六六六，
+自组装的恶魔隐藏的地方，
+没有这个内部技术就不能买卖，
+兽的印记在你皮肤下！
 
-[Outro]
-John saw it coming two thousand years ago,
-The mark of the beast—now the whole world knows,
-It's not in the future, it's happening now,
-Nanobots inside you—but we won't bow.
+[尾奏]
+约翰两千年前看到它的到来，
+兽的印记——现在全世界都知道，
+这不是在未来，而是现在正在发生，
+你体内的纳米机器人——但我们不会鞠躬。

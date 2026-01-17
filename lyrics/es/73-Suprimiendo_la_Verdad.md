@@ -1,4 +1,4 @@
-CANCIÓN 2: "Suprimiendo la Verdad"
+CANCIÓN 73: "Suprimiendo la Verdad"
 (Tema: Una exploración de aquellos que ocultan o esconden el conocimiento, basado en Romanos 1 sobre la verdad siendo encubierta en injusticia.)
 
 [Introducción]

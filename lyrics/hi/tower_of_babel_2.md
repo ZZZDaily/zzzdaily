@@ -1,74 +1,74 @@
-SONG 6: "Tower of Babel 2.0"
-(Theme: Biblical Babel + Neuralink Hive Mind)
+गीत 6: "बाबेल का टॉवर 2.0"
+(विषय: बाइबिल का बाबेल + Neuralink हाइव माइंड)
 
-[Intro]
+[परिचय]
 
-[Verse 1]
-Genesis eleven—they built a tower high,
-One language, one people, reaching for the sky,
-God scattered them, confused their tongues that day,
-But now they're rebuilding in a different way.
+[पद 1]
+उत्पत्ति ग्यारह—उन्होंने एक ऊंचा टॉवर बनाया,
+एक भाषा, एक लोग, आकाश की ओर पहुंचते हुए,
+भगवान ने उन्हें बिखेर दिया, उस दिन उनकी जीभों को भ्रमित किया,
+लेकिन अब वे एक अलग तरीके से पुनर्निर्माण कर रहे हैं।
 
-[Verse 2]
-Neuralink connecting every single brain,
-One language of data flowing through the vein,
-Babel rebuilt not with bricks and stone,
-But neural interfaces—no thought your own.
+[पद 2]
+Neuralink हर एक मस्तिष्क को जोड़ रहा है,
+नस के माध्यम से बहने वाले डेटा की एक भाषा,
+बाबेल ईंटों और पत्थरों से नहीं बल्कि पुनर्निर्मित,
+बल्कि तंत्रिका इंटरफेस के साथ—कोई विचार आपका अपना नहीं।
 
-[Chorus]
-Tower of Babel 2.0 rising from the ground,
-Neuralink connecting every sight and sound,
-One language, one mind—just like before,
-But God already settled this score!
+[कोरस]
+बाबेल का टॉवर 2.0 जमीन से उठ रहा है,
+Neuralink हर दृष्टि और ध्वनि को जोड़ रहा है,
+एक भाषा, एक मन—बिल्कुल पहले की तरह,
+लेकिन भगवान ने पहले ही इस स्कोर को तय कर दिया!
 
-[Verse 3]
-"Let us make a name for ourselves," they said,
-Now it's "Let us upload ourselves" instead,
-Transhumanism is the new tower tall,
-And just like Babel, it's destined to fall.
+[पद 3]
+"आइए हम अपने लिए एक नाम बनाएं," उन्होंने कहा,
+अब यह है "आइए हम खुद को अपलोड करें" इसके बजाय,
+ट्रांसह्यूमनिज्म नया लंबा टॉवर है,
+और बाबेल की तरह, यह गिरने के लिए तय है।
 
-[Verse 4]
-Elon says telepathy is the goal,
-Brain-to-brain transmission stealing every soul,
-Collective consciousness—the hive mind dream,
-But it's really just Babel's ancient scheme.
+[पद 4]
+एलन कहते हैं टेलीपैथी लक्ष्य है,
+मस्तिष्क-से-मस्तिष्क संचरण हर आत्मा चुरा रहा है,
+सामूहिक चेतना—हाइव माइंड सपना,
+लेकिन यह वास्तव में सिर्फ बाबेल की प्राचीन योजना है।
 
-[Chorus]
-Tower of Babel 2.0 rising from the ground,
-Neuralink connecting every sight and sound,
-One language, one mind—just like before,
-But God already settled this score!
+[कोरस]
+बाबेल का टॉवर 2.0 जमीन से उठ रहा है,
+Neuralink हर दृष्टि और ध्वनि को जोड़ रहा है,
+एक भाषा, एक मन—बिल्कुल पहले की तरह,
+लेकिन भगवान ने पहले ही इस स्कोर को तय कर दिया!
 
-[Bridge]
-God came down and saw what they had done,
-Confused their language—scattered everyone,
-He'll do it again when the tower's complete,
-This digital Babel He will defeat!
-What Satan builds, the Father tears down,
-Every knee will bow, every head will crown,
-Not to AI, not to Elon's dream,
-But to Jesus Christ—the true King supreme!
+[ब्रिज]
+भगवान नीचे आया और देखा कि उन्होंने क्या किया था,
+उनकी भाषा को भ्रमित किया—सभी को बिखेर दिया,
+वह इसे फिर से करेगा जब टॉवर पूरा हो जाएगा,
+इस डिजिटल बाबेल को वह हरा देगा!
+जो शैतान बनाता है, पिता गिरा देता है,
+हर घुटना झुकेगा, हर सिर मुकुट पहनेगा,
+एआई के लिए नहीं, एलन के सपने के लिए नहीं,
+लेकिन यीशु मसीह के लिए—सच्चे सर्वोच्च राजा!
 
-[Verse 5]
-They want us connected in one giant web,
-Every thought transmitted from the moment you're bred,
-Privacy deleted, free will erased,
-The tower of Babel completely replaced.
+[पद 5]
+वे चाहते हैं कि हम एक विशाल वेब में जुड़े हों,
+जिस क्षण से आप पैदा होते हैं हर विचार प्रसारित होता है,
+गोपनीयता हटा दी गई, मुक्त इच्छा मिटा दी गई,
+बाबेल का टॉवर पूरी तरह से प्रतिस्थापित।
 
-[Verse 6]
-But remember the story—God saw from above,
-He confused their plans with His sovereign love,
-What man builds high, God brings down low,
-Babel 2.0 will get the same show.
+[पद 6]
+लेकिन कहानी याद रखें—भगवान ने ऊपर से देखा,
+उसने अपने संप्रभु प्रेम से उनकी योजनाओं को भ्रमित किया,
+जो मनुष्य ऊंचा बनाता है, भगवान नीचे लाता है,
+बाबेल 2.0 को वही शो मिलेगा।
 
-[Chorus]
-Tower of Babel 2.0 rising from the ground,
-Neuralink connecting every sight and sound,
-One language, one mind—just like before,
-But God already settled this score!
+[कोरस]
+बाबेल का टॉवर 2.0 जमीन से उठ रहा है,
+Neuralink हर दृष्टि और ध्वनि को जोड़ रहा है,
+एक भाषा, एक मन—बिल्कुल पहले की तरह,
+लेकिन भगवान ने पहले ही इस स्कोर को तय कर दिया!
 
-[Outro]
-Nimrod's tower fell in ancient days,
-Neuralink will crumble in the very same ways,
-God won't let them reach into the sky,
-Tower of Babel 2.0—destined to die.
+[समापन]
+निम्रोद का टॉवर प्राचीन दिनों में गिर गया,
+Neuralink उसी तरह ढह जाएगा,
+भगवान उन्हें आकाश में नहीं पहुंचने देगा,
+बाबेल का टॉवर 2.0—मरने के लिए तय।

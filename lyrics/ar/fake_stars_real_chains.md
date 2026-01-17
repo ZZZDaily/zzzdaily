@@ -1,74 +1,74 @@
-SONG 11: "Fake Stars, Real Chains"
-(Theme: Fake Space/Stars + Digital ID Enslavement)
+أغنية 11: "نجوم مزيفة، سلاسل حقيقية"
+(الموضوع: الفضاء/النجوم المزيفة + استعباد الهوية الرقمية)
 
-[Intro]
+[المقدمة]
 
-[Verse 1]
-They told us stars were suns a trillion miles away,
-But they're lights in the firmament—Genesis says,
-The same liars that gave us fake space above,
-Now give us digital chains disguised as love.
+[الكوبليه 1]
+قالوا لنا أن النجوم شموس على بعد تريليون ميل،
+لكنها أضواء في الجلد - يقول سفر التكوين،
+نفس الكذابين الذين أعطونا الفضاء المزيف فوق،
+الآن يعطوننا سلاسل رقمية متنكرة كحب.
 
-[Verse 2]
-If they lied about the cosmos, they'll lie about your name,
-Digital ID 2026—it's all the same game,
-Fake stars in the sky, fake freedom below,
-Real chains around your neck that they don't want you to know.
+[الكوبليه 2]
+إذا كذبوا عن الكون، سيكذبون عن اسمك،
+الهوية الرقمية 2026 - كلها نفس اللعبة،
+نجوم مزيفة في السماء، حرية مزيفة أدناه،
+سلاسل حقيقية حول رقبتك لا يريدون أن تعرفها.
 
-[Chorus]
-Fake stars, real chains—the pattern's always there,
-Lies about the heavens, lies about the air,
-Space is fake but the slavery is real,
-Digital ID is the final deal!
+[اللازمة]
+نجوم مزيفة، سلاسل حقيقية - النمط موجود دائمًا،
+أكاذيب عن السماوات، أكاذيب عن الهواء،
+الفضاء مزيف لكن العبودية حقيقية،
+الهوية الرقمية هي الصفقة النهائية!
 
-[Verse 3]
-NASA steals trillions for lights on the dome,
-While WEF plans to track you from your home,
-Fake moon landings, real surveillance state,
-Fake asteroids coming, real lockdown fate.
+[الكوبليه 3]
+ناسا تسرق تريليونات لأضواء على القبة،
+بينما المنتدى الاقتصادي العالمي يخطط لتتبعك من منزلك،
+هبوط مزيف على القمر، دولة مراقبة حقيقية،
+كويكبات مزيفة قادمة، مصير إغلاق حقيقي.
 
-[Verse 4]
-They couldn't put satellites in space that's fake,
-So ground-based towers are all it takes,
-Starlink's not in orbit—check the facts,
-While digital ID puts chains on your backs.
+[الكوبليه 4]
+لم يتمكنوا من وضع أقمار صناعية في الفضاء المزيف،
+لذا الأبراج الأرضية هي كل ما يلزم،
+ستارلينك ليس في المدار - تحقق من الحقائق،
+بينما الهوية الرقمية تضع سلاسل على ظهورك.
 
-[Chorus]
-Fake stars, real chains—the pattern's always there,
-Lies about the heavens, lies about the air,
-Space is fake but the slavery is real,
-Digital ID is the final deal!
+[اللازمة]
+نجوم مزيفة، سلاسل حقيقية - النمط موجود دائمًا،
+أكاذيب عن السماوات، أكاذيب عن الهواء،
+الفضاء مزيف لكن العبودية حقيقية،
+الهوية الرقمية هي الصفقة النهائية!
 
-[Bridge]
-Job thirty-eight asks where were you when I laid earth's foundation,
-The stars sing together for God's creation,
-Not balls of gas but angels bright,
-While they wrap you in digital chains tight!
-The same deceiver from the garden of old,
-Lies about the stars, buys and sells your soul,
-Fake space program, real beast system rise,
-Open your eyes to both sets of lies!
+[الجسر]
+أيوب ثمانية وثلاثون يسأل أين كنت عندما وضعت أساس الأرض،
+النجوم تغني معًا لخلق الله،
+ليست كرات من الغاز بل ملائكة مشرقة،
+بينما يلفونك في سلاسل رقمية ضيقة!
+نفس المخادع من جنة قديمة،
+أكاذيب عن النجوم، يشتري ويبيع روحك،
+برنامج فضاء مزيف، صعود نظام وحش حقيقي،
+افتح عينيك على مجموعتي الأكاذيب!
 
-[Verse 5]
-They need the globe to make you feel small,
-Insignificant speck, nothing at all,
-But flat earth truth restores your worth,
-You're the reason God made the earth.
+[الكوبليه 5]
+يحتاجون إلى الكرة الأرضية لجعلك تشعر بالصغر،
+ذرة تافهة، لا شيء على الإطلاق،
+لكن حقيقة الأرض المسطحة تستعيد قيمتك،
+أنت السبب في أن الله خلق الأرض.
 
-[Verse 6]
-Digital ID makes you feel like a number,
-A data point tracked while the masses slumber,
-But in Christ you're known by name and face,
-Neither fake stars nor chains can take your place.
+[الكوبليه 6]
+الهوية الرقمية تجعلك تشعر وكأنك رقم،
+نقطة بيانات تُتتبع بينما الجماهير نائمة،
+لكن في المسيح أنت معروف بالاسم والوجه،
+لا النجوم المزيفة ولا السلاسل يمكنها أن تأخذ مكانك.
 
-[Chorus]
-Fake stars, real chains—the pattern's always there,
-Lies about the heavens, lies about the air,
-Space is fake but the slavery is real,
-Digital ID is the final deal!
+[اللازمة]
+نجوم مزيفة، سلاسل حقيقية - النمط موجود دائمًا،
+أكاذيب عن السماوات، أكاذيب عن الهواء،
+الفضاء مزيف لكن العبودية حقيقية،
+الهوية الرقمية هي الصفقة النهائية!
 
-[Outro]
-Fake stars above, real chains below,
-Two different lies from the same evil flow,
-But the truth of the earth and the freedom in Christ,
-Breaks both deceptions—that's the sacrifice.
+[الخاتمة]
+نجوم مزيفة فوق، سلاسل حقيقية أدناه،
+كذبتان مختلفتان من نفس التدفق الشرير،
+لكن حقيقة الأرض والحرية في المسيح،
+تكسر كلا الخدعتين - هذه هي التضحية.

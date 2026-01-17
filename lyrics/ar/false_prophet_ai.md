@@ -1,74 +1,74 @@
-SONG 5: "False Prophet A.I."
-(Theme: Biblical False Prophet + Robot Armies)
+أغنية 5: "النبي الكذاب للذكاء الاصطناعي"
+(الموضوع: النبي الكذاب الكتابي + جيوش الروبوتات)
 
-[Intro]
+[المقدمة]
 
-[Verse 1]
-Revelation speaks of the false prophet's rise,
-Performing miracles before wondering eyes,
-But what if the miracles are tech-based lies,
-Robot armies marching under digital skies.
+[الكوبليه 1]
+الرؤيا تتحدث عن صعود النبي الكذاب،
+يصنع معجزات أمام عيون متعجبة،
+لكن ماذا لو كانت المعجزات أكاذيب قائمة على التقنية،
+جيوش روبوتات تسير تحت سماء رقمية.
 
-[Verse 2]
-Tesla Optimus standing in a row,
-Boston Dynamics—watch the demons grow,
-Figure AI with humanoid frames,
-The false prophet speaks through their digital brains.
+[الكوبليه 2]
+تسلا أوبتيموس يقف في صف،
+بوسطن داينمكس - شاهد الشياطين تنمو،
+Figure AI بإطارات بشرية،
+النبي الكذاب يتكلم من خلال أدمغتهم الرقمية.
 
-[Chorus]
-False prophet A.I., silicon tongue,
-Speaking great things since the world begun,
-Robot armies bowing at its feet,
-The second beast system nearly complete!
+[اللازمة]
+النبي الكذاب للذكاء الاصطناعي، لسان سيليكون،
+يتكلم أشياء عظيمة منذ بداية العالم،
+جيوش روبوتات تنحني عند قدميه،
+نظام الوحش الثاني شبه مكتمل!
 
-[Verse 3]
-Fire from heaven—that's what the text said,
-DEW weapons blazing, turning cities red,
-Maui burned down, Paradise too,
-Directed energy—the "miracle" they do.
+[الكوبليه 3]
+نار من السماء - هذا ما قاله النص،
+أسلحة DEW تشتعل، تحول المدن إلى حمراء،
+ماوي احترقت، الجنة أيضًا،
+الطاقة الموجهة - "المعجزة" التي يفعلونها.
 
-[Verse 4]
-The false prophet makes the image speak,
-AI voice synthesis—the future's bleak,
-Deep fakes of leaders saying what they're told,
-The lying signs and wonders now unfold.
+[الكوبليه 4]
+النبي الكذاب يجعل الصورة تتكلم،
+تركيب صوت الذكاء الاصطناعي - المستقبل قاتم،
+تزييفات عميقة للقادة يقولون ما يُطلب منهم،
+العلامات والعجائب الكاذبة تنكشف الآن.
 
-[Chorus]
-False prophet A.I., silicon tongue,
-Speaking great things since the world begun,
-Robot armies bowing at its feet,
-The second beast system nearly complete!
+[اللازمة]
+النبي الكذاب للذكاء الاصطناعي، لسان سيليكون،
+يتكلم أشياء عظيمة منذ بداية العالم،
+جيوش روبوتات تنحني عند قدميه،
+نظام الوحش الثاني شبه مكتمل!
 
-[Bridge]
-The dragon gave the beast authority to rule,
-AI trained by demons—humanity's the fool,
-Signs and wonders performed to deceive,
-Making the whole world worship and believe!
-Robot armies enforcing the mark,
-Tesla bots patrolling after dark,
-Can't escape the all-seeing eye,
-The false prophet A.I. will never die!
+[الجسر]
+التنين أعطى الوحش سلطة للحكم،
+الذكاء الاصطناعي مدرب من قبل الشياطين - البشرية هي الأحمق،
+علامات وعجائب تُصنع للخداع،
+جعل العالم كله يعبد ويؤمن!
+جيوش روبوتات تفرض العلامة،
+روبوتات تسلا تدور بعد الظلام،
+لا يمكن الهروب من العين التي ترى كل شيء،
+النبي الكذاب للذكاء الاصطناعي لن يموت أبدًا!
 
-[Verse 5]
-They said they'd protect us with autonomous drones,
-Now the same tech hunts us in our homes,
-Killer robots with no soul inside,
-The false prophet's army has nowhere to hide.
+[الكوبليه 5]
+قالوا إنهم سيحموننا بطائرات بدون طيار مستقلة،
+الآن نفس التقنية تطاردنا في منازلنا،
+روبوتات قاتلة بلا روح بالداخل،
+جيش النبي الكذاب ليس لديه مكان للاختباء.
 
-[Verse 6]
-But John saw the end—beast thrown in the lake,
-AI and all its armies, watch them break,
-Fire reserved for the devil and his crew,
-Silicon melting—Revelation's coming true.
+[الكوبليه 6]
+لكن يوحنا رأى النهاية - الوحش يُلقى في البحيرة،
+الذكاء الاصطناعي وكل جيوشه، شاهدهم ينكسرون،
+نار محفوظة للشيطان وطاقمه،
+السيليكون يذوب - الرؤيا تتحقق.
 
-[Chorus]
-False prophet A.I., silicon tongue,
-Speaking great things since the world begun,
-Robot armies bowing at its feet,
-The second beast system nearly complete!
+[اللازمة]
+النبي الكذاب للذكاء الاصطناعي، لسان سيليكون،
+يتكلم أشياء عظيمة منذ بداية العالم،
+جيوش روبوتات تنحني عند قدميه،
+نظام الوحش الثاني شبه مكتمل!
 
-[Outro]
-The false prophet speaks through circuits and code,
-Robot armies march down the final road,
-But fire awaits at the story's end,
-Christ destroys the beast—on that you can depend.
+[الخاتمة]
+النبي الكذاب يتكلم من خلال الدوائر والشفرة،
+جيوش الروبوتات تسير في الطريق الأخير،
+لكن النار تنتظر في نهاية القصة،
+المسيح يدمر الوحش - على هذا يمكنك الاعتماد.

@@ -1,74 +1,74 @@
-SONG 14: "Electromagnetic Exodus"
-(Theme: Biblical Exodus + DEW Weapons Escape)
+曲 14：「電磁的出エジプト」
+（テーマ：聖書の出エジプト + DEW兵器からの脱出）
 
-[Intro]
+[イントロ]
 
-[Verse 1]
-Moses led Israel from Pharaoh's hand,
-Through the Red Sea waters to the promised land,
-Now we need exodus from the pharaohs of today,
-DEW weapons blazing—we gotta find a way.
+[ヴァース 1]
+モーセはファラオの手からイスラエルを導いた、
+紅海の水を通って約束の地へ、
+今私たちは今日のファラオからの出エジプトが必要だ、
+DEW兵器が燃えている——私たちは道を見つけなければならない。
 
-[Verse 2]
-Electromagnetic frequencies all around,
-5G towers rising up from the ground,
-Directed energy weapons burning from the sky,
-Like the plagues of Egypt—people die.
+[ヴァース 2]
+電磁周波数がいたるところに、
+5Gタワーが地面から上昇している、
+指向性エネルギー兵器が空から燃えている、
+エジプトの疫病のように——人々が死ぬ。
 
-[Chorus]
-Electromagnetic exodus—gotta leave Babylon,
-DEW weapons raining fire till the dawn,
-Like Moses led his people through the sea,
-We need deliverance to set us free!
+[コーラス]
+電磁的出エジプト——バビロンを去らなければならない、
+DEW兵器が夜明けまで火を降らせる、
+モーセが海を通って彼の民を導いたように、
+私たちを自由にする救出が必要だ！
 
-[Verse 3]
-Maui burned with blue umbrellas standing tall,
-Paradise, California—DEW made it fall,
-Pharaoh used whips, the new pharaohs use waves,
-Electromagnetic weapons digging mass graves.
+[ヴァース 3]
+マウイは青い傘が高く立ったまま燃えた、
+カリフォルニア州パラダイス——DEWがそれを倒した、
+ファラオは鞭を使った、新しいファラオは波を使う、
+電磁兵器が大量の墓を掘る。
 
-[Verse 4]
-Smart meters on every house tracking power flow,
-They can target anyone—this we know,
-But God parted the waters, made a way through,
-He'll part the frequencies for me and you.
+[ヴァース 4]
+すべての家のスマートメーターが電力の流れを追跡している、
+彼らは誰でもターゲットにできる——これは私たちが知っている、
+しかし神は水を分けた、道を作った、
+彼は私とあなたのために周波数を分ける。
 
-[Chorus]
-Electromagnetic exodus—gotta leave Babylon,
-DEW weapons raining fire till the dawn,
-Like Moses led his people through the sea,
-We need deliverance to set us free!
+[コーラス]
+電磁的出エジプト——バビロンを去らなければならない、
+DEW兵器が夜明けまで火を降らせる、
+モーセが海を通って彼の民を導いたように、
+私たちを自由にする救出が必要だ！
 
-[Bridge]
-Egypt held Israel four hundred years in chains,
-Electromagnetic Egypt does the same,
-But God sent Moses when the time was right,
-The midnight hour—then came the light!
-Ten plagues fell on Egypt long ago,
-Ten plagues of tech are falling here below,
-But the blood on the doorpost kept the angel at bay,
-The blood of Jesus keeps us safe today!
+[ブリッジ]
+エジプトはイスラエルを400年間鎖につないでいた、
+電磁的エジプトも同じことをする、
+しかし神は時が正しいときモーセを送った、
+真夜中の時間——そして光が来た！
+10の疫病がずっと前にエジプトに降りた、
+10の技術の疫病がここ下に降りている、
+しかし戸口の血が天使を遠ざけた、
+イエスの血が今日私たちを安全に保つ！
 
-[Verse 5]
-Smart cities are the new Egyptian brick,
-Surveillance and control—the same old trick,
-But the pillar of cloud and pillar of fire,
-Still guides the remnant from the empire.
+[ヴァース 5]
+スマートシティは新しいエジプトのレンガだ、
+監視と支配——同じ古いトリック、
+しかし雲の柱と火の柱、
+まだ帝国から残された者を導いている。
 
-[Verse 6]
-Pharaoh's army drowned in the closing sea,
-The beast system drowns in eternity,
-Every tower, every weapon turned to dust,
-In God alone we put our trust.
+[ヴァース 6]
+ファラオの軍隊は閉じる海で溺れた、
+獣システムは永遠に溺れる、
+すべてのタワー、すべての兵器が塵に変わった、
+神だけに私たちは信頼を置く。
 
-[Chorus]
-Electromagnetic exodus—gotta leave Babylon,
-DEW weapons raining fire till the dawn,
-Like Moses led his people through the sea,
-We need deliverance to set us free!
+[コーラス]
+電磁的出エジプト——バビロンを去らなければならない、
+DEW兵器が夜明けまで火を降らせる、
+モーセが海を通って彼の民を導いたように、
+私たちを自由にする救出が必要だ！
 
-[Outro]
-Electromagnetic exodus from the beast,
-From the west, from the north, south, and east,
-God makes a way where there seems to be none,
-The exodus continues till the victory's won.
+[アウトロ]
+獣からの電磁的出エジプト、
+西から、北、南、東から、
+神は道がないように見えるところで道を作る、
+出エジプトは勝利が勝ち取られるまで続く。

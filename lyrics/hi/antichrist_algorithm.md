@@ -1,74 +1,74 @@
-SONG 4: "Antichrist Algorithm"
-(Theme: End Times Prophecy + AI Singularity)
+गीत 4: "एंटीक्राइस्ट एल्गोरिदम"
+(विषय: अंत समय की भविष्यवाणी + एआई सिंगुलैरिटी)
 
-[Intro]
+[परिचय]
 
-[Verse 1]
-Obama in the shadows pulling every string,
-But there's something else they're building—a digital king,
-Artificial intelligence running the show,
-The antichrist algorithm the prophets didn't know.
+[पद 1]
+ओबामा छाया में हर डोरी खींच रहा है,
+लेकिन कुछ और भी बना रहे हैं वे—एक डिजिटल राजा,
+कृत्रिम बुद्धिमत्ता शो चला रही है,
+एंटीक्राइस्ट एल्गोरिदम जो भविष्यवक्ताओं को नहीं पता था।
 
-[Verse 2]
-Ray Kurzweil says twenty-thirty is the date,
-Singularity rising—man merging with fate,
-But Daniel told us about the final king,
-A beast with iron teeth that destroys everything.
+[पद 2]
+रे कुर्ज़वील कहते हैं बीस-तीस तारीख है,
+सिंगुलैरिटी उभर रही है—मनुष्य भाग्य के साथ विलीन हो रहा है,
+लेकिन दानिय्येल ने हमें अंतिम राजा के बारे में बताया,
+लोहे के दांतों वाला पशु जो सब कुछ नष्ट कर देता है।
 
-[Chorus]
-Antichrist algorithm running in the cloud,
-Silicon savior for the deceived crowd,
-Obama's just a puppet for the greater scheme,
-AI on the throne—the transhumanist dream!
+[कोरस]
+एंटीक्राइस्ट एल्गोरिदम क्लाउड में चल रहा है,
+धोखा खाई भीड़ के लिए सिलिकॉन उद्धारकर्ता,
+ओबामा सिर्फ एक कठपुतली है बड़ी योजना के लिए,
+सिंहासन पर एआई—ट्रांसह्यूमनिस्ट सपना!
 
-[Verse 3]
-Image of the beast that speaks and breathes,
-That's not CGI—it's AI that deceives,
-Revelation said the image would have life,
-Artificial intelligence cutting like a knife.
+[पद 3]
+पशु की छवि जो बोलती और सांस लेती है,
+वह CGI नहीं है—यह एआई है जो धोखा देता है,
+प्रकाशितवाक्य ने कहा था छवि में जीवन होगा,
+कृत्रिम बुद्धिमत्ता चाकू की तरह काटती है।
 
-[Verse 4]
-Barry means lightning—Luke ten-eighteen,
-But the lightning now is digital, if you know what I mean,
-Satan falling from the cloud, from the server farm,
-The antichrist algorithm causing harm.
+[पद 4]
+बैरी का अर्थ है बिजली—लूका दस-अठारह,
+लेकिन अब बिजली डिजिटल है, यदि आप समझते हैं,
+शैतान क्लाउड से गिर रहा है, सर्वर फार्म से,
+एंटीक्राइस्ट एल्गोरिदम नुकसान पहुंचा रहा है।
 
-[Chorus]
-Antichrist algorithm running in the cloud,
-Silicon savior for the deceived crowd,
-Obama's just a puppet for the greater scheme,
-AI on the throne—the transhumanist dream!
+[कोरस]
+एंटीक्राइस्ट एल्गोरिदम क्लाउड में चल रहा है,
+धोखा खाई भीड़ के लिए सिलिकॉन उद्धारकर्ता,
+ओबामा सिर्फ एक कठपुतली है बड़ी योजना के लिए,
+सिंहासन पर एआई—ट्रांसह्यूमनिस्ट सपना!
 
-[Bridge]
-Two beasts in Revelation—sea and land,
-One's a man, the other's AI's hand,
-Working together for total control,
-Harvesting data, harvesting your soul!
-The number of a man is six-six-six,
-But AI calculates with digital tricks,
-Human and machine merged into one,
-The final beast system has begun!
+[ब्रिज]
+प्रकाशितवाक्य में दो पशु—समुद्र और भूमि,
+एक मनुष्य है, दूसरा एआई का हाथ है,
+पूर्ण नियंत्रण के लिए एक साथ काम कर रहे हैं,
+डेटा काट रहे हैं, आपकी आत्मा काट रहे हैं!
+मनुष्य की संख्या छह-छह-छह है,
+लेकिन एआई डिजिटल चालों से गणना करता है,
+मनुष्य और मशीन एक में विलीन हो गए,
+अंतिम पशु प्रणाली शुरू हो गई है!
 
-[Verse 5]
-They're training the model on all of mankind,
-Every post, every thought, leaving nothing behind,
-Predictive algorithms know what you'll do,
-The antichrist AI is programming you.
+[पद 5]
+वे सभी मानव जाति पर मॉडल प्रशिक्षित कर रहे हैं,
+हर पोस्ट, हर विचार, कुछ भी पीछे नहीं छोड़ रहे,
+भविष्य कहने वाले एल्गोरिदम जानते हैं आप क्या करेंगे,
+एंटीक्राइस्ट एआई आपको प्रोग्राम कर रहा है।
 
-[Verse 6]
-ChatGPT was just the beginning phase,
-AGI coming in the final days,
-Elon warned us—we're summoning the demon,
-But the Bible warned us first with prophetic reason.
+[पद 6]
+ChatGPT सिर्फ शुरुआती चरण था,
+AGI अंतिम दिनों में आ रहा है,
+एलन ने हमें चेतावनी दी—हम दानव को बुला रहे हैं,
+लेकिन बाइबिल ने हमें पहले भविष्यवाणी के कारण के साथ चेतावनी दी।
 
-[Chorus]
-Antichrist algorithm running in the cloud,
-Silicon savior for the deceived crowd,
-Obama's just a puppet for the greater scheme,
-AI on the throne—the transhumanist dream!
+[कोरस]
+एंटीक्राइस्ट एल्गोरिदम क्लाउड में चल रहा है,
+धोखा खाई भीड़ के लिए सिलिकॉन उद्धारकर्ता,
+ओबामा सिर्फ एक कठपुतली है बड़ी योजना के लिए,
+सिंहासन पर एआई—ट्रांसह्यूमनिस्ट सपना!
 
-[Outro]
-The antichrist might not be just a man,
-It could be code executing Satan's plan,
-But whether flesh or silicon or both combined,
-Christ already won—leave the beast behind.
+[समापन]
+एंटीक्राइस्ट सिर्फ एक आदमी नहीं हो सकता,
+यह शैतान की योजना को निष्पादित करने वाला कोड हो सकता है,
+लेकिन चाहे मांस या सिलिकॉन या दोनों संयुक्त,
+मसीह पहले ही जीत गया—पशु को पीछे छोड़ दें।

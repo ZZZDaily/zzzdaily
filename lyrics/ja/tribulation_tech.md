@@ -1,74 +1,74 @@
-SONG 9: "Tribulation Tech"
-(Theme: End Times Tribulation + Smart Dust Surveillance)
+曲 9：「大患難技術」
+（テーマ：終わりの時の大患難 + スマートダスト監視）
 
-[Intro]
+[イントロ]
 
-[Verse 1]
-The tribulation's coming, seven years of hell,
-Smart dust in the atmosphere—surveillance fell,
-Daniel's seventieth week approaching fast,
-And the tech they've built will make it last.
+[ヴァース 1]
+大患難が来ている、7年間の地獄、
+大気中のスマートダスト——監視が降りた、
+ダニエルの第70週が速く近づいている、
+そして彼らが建てた技術がそれを持続させる。
 
-[Verse 2]
-Smart dust particles floating in the air,
-Recording everything, everywhere,
-Matthew twenty-four said nothing would be hid,
-Now technology fulfills what the scripture did.
+[ヴァース 2]
+空中に浮遊するスマートダスト粒子、
+すべてを、どこでも記録する、
+マタイ24章は何も隠されないと言った、
+今、技術が経典が行ったことを満たす。
 
-[Chorus]
-Tribulation tech watching every move,
-Smart dust surveillance—nothing left to prove,
-The time of trouble like never before,
-Technology opens the tribulation door!
+[コーラス]
+すべての動きを見ている大患難技術、
+スマートダスト監視——証明することは何も残っていない、
+かつてない困難の時、
+技術が大患難の扉を開く！
 
-[Verse 3]
-Revelation says no buying or selling without the mark,
-CBDC and digital ID light up the dark,
-Smart city prisons where you can't escape,
-The tribulation tech sealing your fate.
+[ヴァース 3]
+黙示録は刻印なしでは売買できないと言う、
+CBDCとデジタルIDが暗闇を照らす、
+逃げられないスマートシティの監獄、
+あなたの運命を封印する大患難技術。
 
-[Verse 4]
-Fifteen-minute cities keep you in your zone,
-Surveillance cameras watching, you're never alone,
-Social credit scores determining your worth,
-The great tribulation birthed on earth.
+[ヴァース 4]
+15分都市はあなたをあなたのゾーンに留める、
+監視カメラが見ている、あなたは決して一人ではない、
+あなたの価値を決定する社会信用スコア、
+地球上で生まれた大患難。
 
-[Chorus]
-Tribulation tech watching every move,
-Smart dust surveillance—nothing left to prove,
-The time of trouble like never before,
-Technology opens the tribulation door!
+[コーラス]
+すべての動きを見ている大患難技術、
+スマートダスト監視——証明することは何も残っていない、
+かつてない困難の時、
+技術が大患難の扉を開く！
 
-[Bridge]
-Two witnesses prophesy in those days,
-While the beast system hunts them through the maze,
-But God protects His own through fire and flood,
-Sealed by the Spirit, bought by the blood!
-The tech can't touch what God has sealed,
-One hundred forty-four thousand revealed,
-Through tribulation they'll emerge refined,
-Smart dust can't track the Father's assigned!
+[ブリッジ]
+二人の証人がその日々に預言する、
+獣システムが迷路を通して彼らを狩る間、
+しかし神は火と洪水を通して祂自身のものを守る、
+御霊によって封印され、血によって買われた！
+技術は神が封印したものに触れることができない、
+14万4千人が明らかにされた、
+大患難を通して彼らは精製されて現れる、
+スマートダストは父が指定したものを追跡できない！
 
-[Verse 5]
-Internet of Things tracking your location,
-Smart home devices—digital damnation,
-Everything connected to the grid of lies,
-Big Brother watching through digital eyes.
+[ヴァース 5]
+あなたの位置を追跡するモノのインターネット、
+スマートホームデバイス——デジタルの呪い、
+嘘のグリッドに接続されたすべて、
+デジタルの目を通して見ているビッグブラザー。
 
-[Verse 6]
-But in the midst of trouble, God provides,
-A remnant protected where the faithful hides,
-Tribulation tech will fail in the end,
-When Christ returns with the angels He sends.
+[ヴァース 6]
+しかし困難の最中に、神は提供する、
+忠実な者が隠れる場所で保護された残された者、
+大患難技術は最終的に失敗する、
+キリストが祂が送る天使と共に帰るとき。
 
-[Chorus]
-Tribulation tech watching every move,
-Smart dust surveillance—nothing left to prove,
-The time of trouble like never before,
-Technology opens the tribulation door!
+[コーラス]
+すべての動きを見ている大患難技術、
+スマートダスト監視——証明することは何も残っていない、
+かつてない困難の時、
+技術が大患難の扉を開く！
 
-[Outro]
-Tribulation tech making prophecy real,
-Seven years of trouble with a digital seal,
-But the saints overcome by the blood of the Lamb,
-And the word of their testimony—that's the plan.
+[アウトロ]
+預言を現実にする大患難技術、
+デジタル印で7年間の困難、
+しかし聖徒は羊の血によって克服する、
+そして彼らの証の言葉——それが計画だ。

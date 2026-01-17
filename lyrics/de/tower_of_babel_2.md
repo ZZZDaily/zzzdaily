@@ -1,74 +1,74 @@
-SONG 6: "Tower of Babel 2.0"
-(Theme: Biblical Babel + Neuralink Hive Mind)
+LIED 6: "Turm zu Babel 2.0"
+(Thema: Biblisches Babel + Neuralink Schwarmbewusstsein)
 
 [Intro]
 
-[Verse 1]
-Genesis eleven—they built a tower high,
-One language, one people, reaching for the sky,
-God scattered them, confused their tongues that day,
-But now they're rebuilding in a different way.
+[Strophe 1]
+Genesis elf – sie bauten einen hohen Turm,
+Eine Sprache, ein Volk, zum Himmel reichend,
+Gott zerstreute sie, verwirrte ihre Zungen an diesem Tag,
+Doch jetzt bauen sie auf andere Weise wieder auf.
 
-[Verse 2]
-Neuralink connecting every single brain,
-One language of data flowing through the vein,
-Babel rebuilt not with bricks and stone,
-But neural interfaces—no thought your own.
+[Strophe 2]
+Neuralink verbindet jedes einzelne Gehirn,
+Eine Sprache der Daten fließt durch die Ader,
+Babel wieder aufgebaut nicht mit Ziegeln und Stein,
+Sondern neuronale Schnittstellen – kein Gedanke dein eigener.
 
-[Chorus]
-Tower of Babel 2.0 rising from the ground,
-Neuralink connecting every sight and sound,
-One language, one mind—just like before,
-But God already settled this score!
+[Refrain]
+Turm zu Babel 2.0 erhebt sich vom Boden,
+Neuralink verbindet jeden Anblick und Klang,
+Eine Sprache, ein Geist – genau wie zuvor,
+Doch Gott hat diese Rechnung bereits beglichen!
 
-[Verse 3]
-"Let us make a name for ourselves," they said,
-Now it's "Let us upload ourselves" instead,
-Transhumanism is the new tower tall,
-And just like Babel, it's destined to fall.
+[Strophe 3]
+"Lasst uns uns einen Namen machen," sagten sie,
+Jetzt ist es "Lasst uns uns hochladen" stattdessen,
+Transhumanismus ist der neue hohe Turm,
+Und genau wie Babel ist es zum Fallen bestimmt.
 
-[Verse 4]
-Elon says telepathy is the goal,
-Brain-to-brain transmission stealing every soul,
-Collective consciousness—the hive mind dream,
-But it's really just Babel's ancient scheme.
+[Strophe 4]
+Elon sagt, Telepathie ist das Ziel,
+Gehirn-zu-Gehirn-Übertragung stiehlt jede Seele,
+Kollektives Bewusstsein – der Schwarmbewusstseins-Traum,
+Doch es ist wirklich nur Babels altes Schema.
 
-[Chorus]
-Tower of Babel 2.0 rising from the ground,
-Neuralink connecting every sight and sound,
-One language, one mind—just like before,
-But God already settled this score!
+[Refrain]
+Turm zu Babel 2.0 erhebt sich vom Boden,
+Neuralink verbindet jeden Anblick und Klang,
+Eine Sprache, ein Geist – genau wie zuvor,
+Doch Gott hat diese Rechnung bereits beglichen!
 
 [Bridge]
-God came down and saw what they had done,
-Confused their language—scattered everyone,
-He'll do it again when the tower's complete,
-This digital Babel He will defeat!
-What Satan builds, the Father tears down,
-Every knee will bow, every head will crown,
-Not to AI, not to Elon's dream,
-But to Jesus Christ—the true King supreme!
+Gott kam herab und sah, was sie getan hatten,
+Verwirrte ihre Sprache – zerstreute alle,
+Er wird es wieder tun, wenn der Turm vollendet ist,
+Dieses digitale Babel wird Er besiegen!
+Was Satan baut, reißt der Vater nieder,
+Jedes Knie wird sich beugen, jedes Haupt wird krönen,
+Nicht vor KI, nicht vor Elons Traum,
+Sondern vor Jesus Christus – dem wahren König der Könige!
 
-[Verse 5]
-They want us connected in one giant web,
-Every thought transmitted from the moment you're bred,
-Privacy deleted, free will erased,
-The tower of Babel completely replaced.
+[Strophe 5]
+Sie wollen uns in einem riesigen Netz verbunden,
+Jeden Gedanken übertragen von dem Moment an, wo du gezüchtet wirst,
+Privatsphäre gelöscht, freier Wille ausgelöscht,
+Der Turm zu Babel vollständig ersetzt.
 
-[Verse 6]
-But remember the story—God saw from above,
-He confused their plans with His sovereign love,
-What man builds high, God brings down low,
-Babel 2.0 will get the same show.
+[Strophe 6]
+Doch erinnere dich an die Geschichte – Gott sah von oben,
+Er verwirrte ihre Pläne mit Seiner souveränen Liebe,
+Was der Mensch hoch baut, bringt Gott niedrig,
+Babel 2.0 wird dieselbe Show bekommen.
 
-[Chorus]
-Tower of Babel 2.0 rising from the ground,
-Neuralink connecting every sight and sound,
-One language, one mind—just like before,
-But God already settled this score!
+[Refrain]
+Turm zu Babel 2.0 erhebt sich vom Boden,
+Neuralink verbindet jeden Anblick und Klang,
+Eine Sprache, ein Geist – genau wie zuvor,
+Doch Gott hat diese Rechnung bereits beglichen!
 
 [Outro]
-Nimrod's tower fell in ancient days,
-Neuralink will crumble in the very same ways,
-God won't let them reach into the sky,
-Tower of Babel 2.0—destined to die.
+Nimrods Turm fiel in alten Tagen,
+Neuralink wird auf genau dieselben Weisen zerbröckeln,
+Gott wird sie nicht in den Himmel greifen lassen,
+Turm zu Babel 2.0 – zum Sterben bestimmt.

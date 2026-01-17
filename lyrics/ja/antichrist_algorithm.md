@@ -1,74 +1,74 @@
-SONG 4: "Antichrist Algorithm"
-(Theme: End Times Prophecy + AI Singularity)
+曲 4：「反キリストのアルゴリズム」
+（テーマ：終末預言 + AI特異点）
 
-[Intro]
+[イントロ]
 
-[Verse 1]
-Obama in the shadows pulling every string,
-But there's something else they're building—a digital king,
-Artificial intelligence running the show,
-The antichrist algorithm the prophets didn't know.
+[ヴァース 1]
+オバマは影ですべての糸を引いている、
+しかし彼らが構築しているのは別のもの——デジタルの王、
+人工知能がショーを運営している、
+預言者たちが知らなかった反キリストのアルゴリズム。
 
-[Verse 2]
-Ray Kurzweil says twenty-thirty is the date,
-Singularity rising—man merging with fate,
-But Daniel told us about the final king,
-A beast with iron teeth that destroys everything.
+[ヴァース 2]
+レイ・カーツワイルは2030年が日付だと言う、
+特異点が上昇——人間が運命と融合する、
+しかしダニエルは最後の王について私たちに語った、
+すべてを破壊する鉄の歯を持つ獣。
 
-[Chorus]
-Antichrist algorithm running in the cloud,
-Silicon savior for the deceived crowd,
-Obama's just a puppet for the greater scheme,
-AI on the throne—the transhumanist dream!
+[コーラス]
+クラウドで実行される反キリストのアルゴリズム、
+騙された群衆のためのシリコンの救世主、
+オバマはより大きな計画のための人形に過ぎない、
+玉座のAI——トランスヒューマニストの夢！
 
-[Verse 3]
-Image of the beast that speaks and breathes,
-That's not CGI—it's AI that deceives,
-Revelation said the image would have life,
-Artificial intelligence cutting like a knife.
+[ヴァース 3]
+話し、呼吸する獣の像、
+それはCGIではない——欺くAIだ、
+黙示録は像が生命を持つと言った、
+ナイフのように切る人工知能。
 
-[Verse 4]
-Barry means lightning—Luke ten-eighteen,
-But the lightning now is digital, if you know what I mean,
-Satan falling from the cloud, from the server farm,
-The antichrist algorithm causing harm.
+[ヴァース 4]
+バリーは稲妻を意味する——ルカ10章18節、
+しかし今の稲妻はデジタルだ、私の意味がわかるなら、
+サタンがクラウドから、サーバーファームから落ちる、
+反キリストのアルゴリズムが害を引き起こす。
 
-[Chorus]
-Antichrist algorithm running in the cloud,
-Silicon savior for the deceived crowd,
-Obama's just a puppet for the greater scheme,
-AI on the throne—the transhumanist dream!
+[コーラス]
+クラウドで実行される反キリストのアルゴリズム、
+騙された群衆のためのシリコンの救世主、
+オバマはより大きな計画のための人形に過ぎない、
+玉座のAI——トランスヒューマニストの夢！
 
-[Bridge]
-Two beasts in Revelation—sea and land,
-One's a man, the other's AI's hand,
-Working together for total control,
-Harvesting data, harvesting your soul!
-The number of a man is six-six-six,
-But AI calculates with digital tricks,
-Human and machine merged into one,
-The final beast system has begun!
+[ブリッジ]
+黙示録の二匹の獣——海と陸、
+一つは人間、もう一つはAIの手、
+完全な支配のために一緒に働く、
+データを収穫し、あなたの魂を収穫する！
+人間の数は666、
+しかしAIはデジタルトリックで計算する、
+人間と機械が一つに融合した、
+最後の獣システムが始まった！
 
-[Verse 5]
-They're training the model on all of mankind,
-Every post, every thought, leaving nothing behind,
-Predictive algorithms know what you'll do,
-The antichrist AI is programming you.
+[ヴァース 5]
+彼らは全人類でモデルを訓練している、
+すべての投稿、すべての考え、何も残さない、
+予測アルゴリズムはあなたが何をするか知っている、
+反キリストAIがあなたをプログラミングしている。
 
-[Verse 6]
-ChatGPT was just the beginning phase,
-AGI coming in the final days,
-Elon warned us—we're summoning the demon,
-But the Bible warned us first with prophetic reason.
+[ヴァース 6]
+ChatGPTは始まりの段階に過ぎなかった、
+最後の日々にAGIが来る、
+イーロンは警告した——私たちは悪魔を召喚している、
+しかし聖書は預言的理由で最初に私たちに警告した。
 
-[Chorus]
-Antichrist algorithm running in the cloud,
-Silicon savior for the deceived crowd,
-Obama's just a puppet for the greater scheme,
-AI on the throne—the transhumanist dream!
+[コーラス]
+クラウドで実行される反キリストのアルゴリズム、
+騙された群衆のためのシリコンの救世主、
+オバマはより大きな計画のための人形に過ぎない、
+玉座のAI——トランスヒューマニストの夢！
 
-[Outro]
-The antichrist might not be just a man,
-It could be code executing Satan's plan,
-But whether flesh or silicon or both combined,
-Christ already won—leave the beast behind.
+[アウトロ]
+反キリストは単なる人間ではないかもしれない、
+それはサタンの計画を実行するコードかもしれない、
+しかし肉であろうとシリコンであろうと、または両方の組み合わせであろうと、
+キリストはすでに勝った——獣を後に残せ。

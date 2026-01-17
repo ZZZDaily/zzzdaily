@@ -1,74 +1,74 @@
-SONG 11: "Fake Stars, Real Chains"
-(Theme: Fake Space/Stars + Digital ID Enslavement)
+歌曲 11："假星星，真锁链"
+（主题：假太空/星星 + 数字身份奴役）
 
-[Intro]
+[前奏]
 
-[Verse 1]
-They told us stars were suns a trillion miles away,
-But they're lights in the firmament—Genesis says,
-The same liars that gave us fake space above,
-Now give us digital chains disguised as love.
+[主歌 1]
+他们告诉我们星星是万亿英里外的太阳，
+但它们是穹苍中的灯——创世记这样说，
+给我们假太空的同样骗子，
+现在给我们伪装成爱的数字锁链。
 
-[Verse 2]
-If they lied about the cosmos, they'll lie about your name,
-Digital ID 2026—it's all the same game,
-Fake stars in the sky, fake freedom below,
-Real chains around your neck that they don't want you to know.
+[主歌 2]
+如果他们对宇宙撒谎，他们也会对你的名字撒谎，
+数字身份2026——都是同样的游戏，
+天空中的假星星，下面的假自由，
+你脖子上他们不想让你知道的真锁链。
 
-[Chorus]
-Fake stars, real chains—the pattern's always there,
-Lies about the heavens, lies about the air,
-Space is fake but the slavery is real,
-Digital ID is the final deal!
+[副歌]
+假星星，真锁链——模式总是存在，
+关于天堂的谎言，关于空气的谎言，
+太空是假的但奴役是真的，
+数字身份是最后的交易！
 
-[Verse 3]
-NASA steals trillions for lights on the dome,
-While WEF plans to track you from your home,
-Fake moon landings, real surveillance state,
-Fake asteroids coming, real lockdown fate.
+[主歌 3]
+NASA为穹顶上的灯偷取数万亿，
+而世界经济论坛计划从你家追踪你，
+假登月，真监控国家，
+假小行星来临，真封锁命运。
 
-[Verse 4]
-They couldn't put satellites in space that's fake,
-So ground-based towers are all it takes,
-Starlink's not in orbit—check the facts,
-While digital ID puts chains on your backs.
+[主歌 4]
+他们无法在假太空中放置卫星，
+所以地面塔就是所需的一切，
+星链不在轨道上——查看事实，
+而数字身份把锁链放在你背上。
 
-[Chorus]
-Fake stars, real chains—the pattern's always there,
-Lies about the heavens, lies about the air,
-Space is fake but the slavery is real,
-Digital ID is the final deal!
+[副歌]
+假星星，真锁链——模式总是存在，
+关于天堂的谎言，关于空气的谎言，
+太空是假的但奴役是真的，
+数字身份是最后的交易！
 
-[Bridge]
-Job thirty-eight asks where were you when I laid earth's foundation,
-The stars sing together for God's creation,
-Not balls of gas but angels bright,
-While they wrap you in digital chains tight!
-The same deceiver from the garden of old,
-Lies about the stars, buys and sells your soul,
-Fake space program, real beast system rise,
-Open your eyes to both sets of lies!
+[桥段]
+约伯记三十八章问当我立地基时你在哪里，
+星星为上帝的创造一起歌唱，
+不是气体球而是明亮的天使，
+而他们用数字锁链紧紧缠绕你！
+同样的骗子来自古老的花园，
+对星星撒谎，买卖你的灵魂，
+假太空计划，真兽系统崛起，
+睁开眼睛看两套谎言！
 
-[Verse 5]
-They need the globe to make you feel small,
-Insignificant speck, nothing at all,
-But flat earth truth restores your worth,
-You're the reason God made the earth.
+[主歌 5]
+他们需要地球仪让你感到渺小，
+微不足道的尘埃，什么都不是，
+但平面地球真相恢复你的价值，
+你是上帝创造地球的原因。
 
-[Verse 6]
-Digital ID makes you feel like a number,
-A data point tracked while the masses slumber,
-But in Christ you're known by name and face,
-Neither fake stars nor chains can take your place.
+[主歌 6]
+数字身份让你感觉像一个号码，
+一个被追踪的数据点，当大众沉睡时，
+但在基督里你以名字和面孔被认识，
+假星星和锁链都无法取代你的位置。
 
-[Chorus]
-Fake stars, real chains—the pattern's always there,
-Lies about the heavens, lies about the air,
-Space is fake but the slavery is real,
-Digital ID is the final deal!
+[副歌]
+假星星，真锁链——模式总是存在，
+关于天堂的谎言，关于空气的谎言，
+太空是假的但奴役是真的，
+数字身份是最后的交易！
 
-[Outro]
-Fake stars above, real chains below,
-Two different lies from the same evil flow,
-But the truth of the earth and the freedom in Christ,
-Breaks both deceptions—that's the sacrifice.
+[尾奏]
+上面的假星星，下面的真锁链，
+来自同样邪恶流的两个不同谎言，
+但地球的真相和基督里的自由，
+打破两种欺骗——这就是牺牲。

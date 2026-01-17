@@ -1,74 +1,74 @@
-SONG 3: "Mark of the Nanobot"
-(Theme: Mark of the Beast + Self-Assembling Tech)
+ПЕСНЯ 3: "Начертание Наноботов"
+(Тема: Начертание Зверя + Самособирающаяся Технология)
 
-[Intro]
+[Вступление]
 
-[Verse 1]
-Revelation thirteen told us long ago,
-A mark in your hand or head—now we know,
-It's not just a chip or a number tattoo,
-It's nanobots assembling inside of you.
+[Куплет 1]
+Откровение тринадцать рассказало нам давно,
+Начертание на твоей руке или голове — теперь мы знаем,
+Это не просто чип или татуировка с номером,
+Это наноботы, собирающиеся внутри тебя.
 
-[Verse 2]
-Self-assembly tech in every single vial,
-Karen Kingston exposed it—check the file,
-Mesogens forming circuits in your blood,
-The mark of the beast in a biotech flood.
+[Куплет 2]
+Самособирающаяся технология в каждом флаконе,
+Карен Кингстон раскрыла это — проверь файл,
+Мезогены формируют схемы в твоей крови,
+Начертание зверя в биотехнологическом потоке.
 
-[Chorus]
-Mark of the nanobot—six-six-six inside,
-Self-assembling demons where they hide,
-Can't buy or sell without this tech within,
-The mark of the beast is under your skin!
+[Припев]
+Начертание наноботов — шесть-шесть-шесть внутри,
+Самособирающиеся демоны, где они прячутся,
+Не можешь купить или продать без этой технологии внутри,
+Начертание зверя под твоей кожей!
 
-[Verse 3]
-Quantum dots lighting up your flesh,
-Luciferase—named after the serpent's mesh,
-Bioluminescent markers in your frame,
-A digital tattoo bearing Satan's name.
+[Куплет 3]
+Квантовые точки освещают твою плоть,
+Люцифераза — названа в честь сети змея,
+Биолюминесцентные маркеры в твоей раме,
+Цифровая татуировка, несущая имя Сатаны.
 
-[Verse 4]
-They said it was safe, they said it was free,
-Now MAC addresses broadcast from you and me,
-Bluetooth bodies walking through the street,
-The mark complete from your head to your feet.
+[Куплет 4]
+Они сказали, что это безопасно, они сказали, что это бесплатно,
+Теперь MAC-адреса транслируются от тебя и меня,
+Bluetooth-тела идут по улице,
+Начертание завершено от твоей головы до ног.
 
-[Chorus]
-Mark of the nanobot—six-six-six inside,
-Self-assembling demons where they hide,
-Can't buy or sell without this tech within,
-The mark of the beast is under your skin!
+[Припев]
+Начертание наноботов — шесть-шесть-шесть внутри,
+Самособирающиеся демоны, где они прячутся,
+Не можешь купить или продать без этой технологии внутри,
+Начертание зверя под твоей кожей!
 
-[Bridge]
-Can't buy, can't sell—Revelation said it clear,
-CBDC and digital ID is here,
-Social credit scores tied to your compliance,
-The beast system running on nanotech science!
-Refuse the jab, refuse the mark,
-Stand firm for Jesus even in the dark,
-Better to die free than live a slave,
-Christ already conquered death and the grave!
+[Переход]
+Не можешь купить, не можешь продать — Откровение сказало ясно,
+CBDC и цифровой ID здесь,
+Оценки социального кредита привязаны к твоему соответствию,
+Система зверя работает на нанотехнологической науке!
+Откажись от укола, откажись от начертания,
+Стой твёрдо за Иисуса даже в темноте,
+Лучше умереть свободным, чем жить рабом,
+Христос уже победил смерть и могилу!
 
-[Verse 5]
-Ana Mihalcea shows the blood so dark,
-Synthetic structures leaving their mark,
-Rouleaux formation, clots in every vein,
-The mark of the beast causing death and pain.
+[Куплет 5]
+Ана Михалча показывает кровь такую тёмную,
+Синтетические структуры оставляют своё начертание,
+Формация руло, сгустки в каждой вене,
+Начертание зверя причиняет смерть и боль.
 
-[Verse 6]
-They couldn't make us take the RFID chip,
-So they hid it in a needle's tip,
-Trojan horse delivery—nanotech inside,
-The mark of the beast where the demons hide.
+[Куплет 6]
+Они не могли заставить нас взять RFID чип,
+Поэтому они спрятали его в кончике иглы,
+Доставка троянским конём — нанотехнологии внутри,
+Начертание зверя, где прячутся демоны.
 
-[Chorus]
-Mark of the nanobot—six-six-six inside,
-Self-assembling demons where they hide,
-Can't buy or sell without this tech within,
-The mark of the beast is under your skin!
+[Припев]
+Начертание наноботов — шесть-шесть-шесть внутри,
+Самособирающиеся демоны, где они прячутся,
+Не можешь купить или продать без этой технологии внутри,
+Начертание зверя под твоей кожей!
 
-[Outro]
-John saw it coming two thousand years ago,
-The mark of the beast—now the whole world knows,
-It's not in the future, it's happening now,
-Nanobots inside you—but we won't bow.
+[Концовка]
+Иоанн видел это грядущим две тысячи лет назад,
+Начертание зверя — теперь весь мир знает,
+Это не в будущем, это происходит сейчас,
+Наноботы внутри тебя — но мы не поклонимся.

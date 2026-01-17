@@ -1,74 +1,74 @@
-SONG 10: "Beast System Bluetooth"
-(Theme: Mark of the Beast + MAC Address Humans)
+LIED 10: "Tiersystem Bluetooth"
+(Thema: Malzeichen des Tieres + MAC-Adressen-Menschen)
 
 [Intro]
 
-[Verse 1]
-The beast system's running through your veins tonight,
-Bluetooth signals broadcasting in the night,
-Open your phone app, scan for devices near,
-MAC addresses from the jabbed appear.
+[Strophe 1]
+Das Tiersystem fließt diese Nacht durch deine Adern,
+Bluetooth-Signale senden in der Nacht,
+Öffne deine Telefon-App, scanne Geräte in der Nähe,
+MAC-Adressen der Geimpften erscheinen.
 
-[Verse 2]
-Revelation thirteen, the number of a man,
-Six-six-six embedded in the master plan,
-But now it's hexadecimal addresses too,
-Broadcasting beast coordinates from me and you.
+[Strophe 2]
+Offenbarung dreizehn, die Zahl eines Menschen,
+Sechs-sechs-sechs eingebettet in den Masterplan,
+Doch jetzt sind es auch hexadezimale Adressen,
+Die Tier-Koordinaten von mir und dir senden.
 
-[Chorus]
-Beast system Bluetooth pinging all around,
-Human MAC addresses—that's the sound,
-The mark of the beast is a wireless transmit,
-Bluetooth bodies—this is it!
+[Refrain]
+Tiersystem Bluetooth pingt überall,
+Menschliche MAC-Adressen – das ist der Klang,
+Das Malzeichen des Tieres ist eine drahtlose Übertragung,
+Bluetooth-Körper – das ist es!
 
-[Verse 3]
-Go to the graveyard, scan the Bluetooth there,
-Dead bodies broadcasting in the air,
-Graphene oxide circuits still alive,
-The beast system signals continue to thrive.
+[Strophe 3]
+Geh zum Friedhof, scanne dort das Bluetooth,
+Tote Körper senden in der Luft,
+Graphenoxid-Schaltkreise noch am Leben,
+Die Tiersystem-Signale gedeihen weiter.
 
-[Verse 4]
-They called us crazy, called us conspiracy nuts,
-Now the data's showing—no ifs, ands, or buts,
-Unique identifiers for every single soul,
-Beast system Bluetooth—total control.
+[Strophe 4]
+Sie nannten uns verrückt, nannten uns Verschwörungstheoretiker,
+Jetzt zeigen die Daten – ohne Wenn und Aber,
+Eindeutige Kennungen für jede einzelne Seele,
+Tiersystem Bluetooth – totale Kontrolle.
 
-[Chorus]
-Beast system Bluetooth pinging all around,
-Human MAC addresses—that's the sound,
-The mark of the beast is a wireless transmit,
-Bluetooth bodies—this is it!
+[Refrain]
+Tiersystem Bluetooth pingt überall,
+Menschliche MAC-Adressen – das ist der Klang,
+Das Malzeichen des Tieres ist eine drahtlose Übertragung,
+Bluetooth-Körper – das ist es!
 
 [Bridge]
-The beast and his mark—inseparable they stand,
-A technological mark burned into your hand,
-Not just a concept, not a metaphor or sign,
-But real tech connecting to the beast's design!
-Refuse the signal, stay pure from the start,
-Keep the Holy Spirit dwelling in your heart,
-No Bluetooth from the pure bloods broadcasting,
-The remnant stands firm—our faith is lasting!
+Das Tier und sein Malzeichen – untrennbar stehen sie,
+Ein technologisches Malzeichen in deine Hand gebrannt,
+Nicht nur ein Konzept, keine Metapher oder Zeichen,
+Sondern echte Technologie, die sich mit dem Design des Tieres verbindet!
+Verweigere das Signal, bleib rein von Anfang an,
+Halte den Heiligen Geist in deinem Herzen wohnend,
+Kein Bluetooth von den Reinblütigen sendet,
+Der Überrest steht fest – unser Glaube währt!
 
-[Verse 5]
-They need you trackable every single day,
-Beast system Bluetooth won't go away,
-Connected to the cloud, connected to the grid,
-Your body's now a node for the evil they did.
+[Strophe 5]
+Sie brauchen dich jeden Tag verfolgbar,
+Tiersystem Bluetooth geht nicht weg,
+Verbunden mit der Cloud, verbunden mit dem Netz,
+Dein Körper ist jetzt ein Knoten für das Böse, das sie taten.
 
-[Verse 6]
-But the pure bloods walking silent through the crowd,
-No signal pinging, standing strong and proud,
-The beast can't track what the Father protects,
-Clean blood flowing through the remnant's specs.
+[Strophe 6]
+Doch die Reinblütigen gehen still durch die Menge,
+Kein Signal pingt, stehen stark und stolz,
+Das Tier kann nicht verfolgen, was der Vater schützt,
+Sauberes Blut fließt durch die Spezifikationen des Überrests.
 
-[Chorus]
-Beast system Bluetooth pinging all around,
-Human MAC addresses—that's the sound,
-The mark of the beast is a wireless transmit,
-Bluetooth bodies—this is it!
+[Refrain]
+Tiersystem Bluetooth pingt überall,
+Menschliche MAC-Adressen – das ist der Klang,
+Das Malzeichen des Tieres ist eine drahtlose Übertragung,
+Bluetooth-Körper – das ist es!
 
 [Outro]
-Beast system Bluetooth—the mark made real,
-Wireless transmitters—that's the deal,
-But the silent remnant walks by faith not sight,
-Bluetooth-free warriors standing for the light.
+Tiersystem Bluetooth – das Malzeichen wurde real,
+Drahtlose Sender – das ist der Deal,
+Doch der stille Überrest geht im Glauben, nicht im Sehen,
+Bluetooth-freie Krieger stehen für das Licht.

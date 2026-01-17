@@ -1,74 +1,74 @@
-SONG 10: "Beast System Bluetooth"
-(Theme: Mark of the Beast + MAC Address Humans)
+歌曲 10："兽系统蓝牙"
+（主题：兽的印记 + MAC地址人类）
 
-[Intro]
+[前奏]
 
-[Verse 1]
-The beast system's running through your veins tonight,
-Bluetooth signals broadcasting in the night,
-Open your phone app, scan for devices near,
-MAC addresses from the jabbed appear.
+[主歌 1]
+兽系统今夜在你的血管中运行，
+蓝牙信号在夜晚广播，
+打开你的手机应用，扫描附近的设备，
+接种者的MAC地址出现了。
 
-[Verse 2]
-Revelation thirteen, the number of a man,
-Six-six-six embedded in the master plan,
-But now it's hexadecimal addresses too,
-Broadcasting beast coordinates from me and you.
+[主歌 2]
+启示录十三章，一个人的数目，
+六六六嵌入在总体计划中，
+但现在也是十六进制地址，
+从我和你那里广播兽的坐标。
 
-[Chorus]
-Beast system Bluetooth pinging all around,
-Human MAC addresses—that's the sound,
-The mark of the beast is a wireless transmit,
-Bluetooth bodies—this is it!
+[副歌]
+兽系统蓝牙四处ping，
+人类MAC地址——这就是声音，
+兽的印记是无线传输，
+蓝牙身体——就是这样！
 
-[Verse 3]
-Go to the graveyard, scan the Bluetooth there,
-Dead bodies broadcasting in the air,
-Graphene oxide circuits still alive,
-The beast system signals continue to thrive.
+[主歌 3]
+去墓地，在那里扫描蓝牙，
+死尸在空中广播，
+氧化石墨烯电路仍然活着，
+兽系统信号继续繁荣。
 
-[Verse 4]
-They called us crazy, called us conspiracy nuts,
-Now the data's showing—no ifs, ands, or buts,
-Unique identifiers for every single soul,
-Beast system Bluetooth—total control.
+[主歌 4]
+他们叫我们疯子，叫我们阴谋论者，
+现在数据显示——毫无疑问，
+每个灵魂都有独特标识符，
+兽系统蓝牙——完全控制。
 
-[Chorus]
-Beast system Bluetooth pinging all around,
-Human MAC addresses—that's the sound,
-The mark of the beast is a wireless transmit,
-Bluetooth bodies—this is it!
+[副歌]
+兽系统蓝牙四处ping，
+人类MAC地址——这就是声音，
+兽的印记是无线传输，
+蓝牙身体——就是这样！
 
-[Bridge]
-The beast and his mark—inseparable they stand,
-A technological mark burned into your hand,
-Not just a concept, not a metaphor or sign,
-But real tech connecting to the beast's design!
-Refuse the signal, stay pure from the start,
-Keep the Holy Spirit dwelling in your heart,
-No Bluetooth from the pure bloods broadcasting,
-The remnant stands firm—our faith is lasting!
+[桥段]
+兽和他的印记——不可分割，
+烧入你手中的技术印记，
+不仅仅是概念，不是隐喻或标志，
+而是连接到兽设计的真实技术！
+拒绝信号，从一开始保持纯洁，
+保持圣灵住在你心中，
+纯血者没有蓝牙广播，
+余民坚定不移——我们的信仰持久！
 
-[Verse 5]
-They need you trackable every single day,
-Beast system Bluetooth won't go away,
-Connected to the cloud, connected to the grid,
-Your body's now a node for the evil they did.
+[主歌 5]
+他们需要你每天都可追踪，
+兽系统蓝牙不会消失，
+连接到云端，连接到网格，
+你的身体现在是他们所做邪恶的节点。
 
-[Verse 6]
-But the pure bloods walking silent through the crowd,
-No signal pinging, standing strong and proud,
-The beast can't track what the Father protects,
-Clean blood flowing through the remnant's specs.
+[主歌 6]
+但纯血者在人群中默默行走，
+没有信号ping，坚强而自豪地站着，
+兽无法追踪天父保护的东西，
+干净的血液流过余民的规格。
 
-[Chorus]
-Beast system Bluetooth pinging all around,
-Human MAC addresses—that's the sound,
-The mark of the beast is a wireless transmit,
-Bluetooth bodies—this is it!
+[副歌]
+兽系统蓝牙四处ping，
+人类MAC地址——这就是声音，
+兽的印记是无线传输，
+蓝牙身体——就是这样！
 
-[Outro]
-Beast system Bluetooth—the mark made real,
-Wireless transmitters—that's the deal,
-But the silent remnant walks by faith not sight,
-Bluetooth-free warriors standing for the light.
+[尾奏]
+兽系统蓝牙——印记成真，
+无线发射器——这就是交易，
+但沉默的余民凭信心而非眼见行走，
+无蓝牙的战士为光明而战。

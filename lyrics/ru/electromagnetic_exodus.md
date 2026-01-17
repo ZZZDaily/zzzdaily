@@ -1,74 +1,74 @@
-SONG 14: "Electromagnetic Exodus"
-(Theme: Biblical Exodus + DEW Weapons Escape)
+ПЕСНЯ 14: "Электромагнитный Исход"
+(Тема: Библейский Исход + Побег от Оружия Направленной Энергии)
 
-[Intro]
+[Вступление]
 
-[Verse 1]
-Moses led Israel from Pharaoh's hand,
-Through the Red Sea waters to the promised land,
-Now we need exodus from the pharaohs of today,
-DEW weapons blazing—we gotta find a way.
+[Куплет 1]
+Моисей вывел Израиль из руки фараона,
+Через воды Красного моря в обетованную землю,
+Теперь нам нужен исход от фараонов сегодня,
+Оружие направленной энергии пылает — мы должны найти путь.
 
-[Verse 2]
-Electromagnetic frequencies all around,
-5G towers rising up from the ground,
-Directed energy weapons burning from the sky,
-Like the plagues of Egypt—people die.
+[Куплет 2]
+Электромагнитные частоты повсюду,
+Вышки 5G поднимаются из земли,
+Оружие направленной энергии горит с неба,
+Как казни египетские — люди умирают.
 
-[Chorus]
-Electromagnetic exodus—gotta leave Babylon,
-DEW weapons raining fire till the dawn,
-Like Moses led his people through the sea,
-We need deliverance to set us free!
+[Припев]
+Электромагнитный исход — надо покинуть Вавилон,
+Оружие направленной энергии проливает огонь до рассвета,
+Как Моисей вёл свой народ через море,
+Нам нужно избавление, чтобы освободиться!
 
-[Verse 3]
-Maui burned with blue umbrellas standing tall,
-Paradise, California—DEW made it fall,
-Pharaoh used whips, the new pharaohs use waves,
-Electromagnetic weapons digging mass graves.
+[Куплет 3]
+Мауи сгорел, синие зонтики стояли высоко,
+Парадайз, Калифорния — оружие направленной энергии заставило его пасть,
+Фараон использовал кнуты, новые фараоны используют волны,
+Электромагнитное оружие роет массовые могилы.
 
-[Verse 4]
-Smart meters on every house tracking power flow,
-They can target anyone—this we know,
-But God parted the waters, made a way through,
-He'll part the frequencies for me and you.
+[Куплет 4]
+Умные счётчики на каждом доме отслеживают поток энергии,
+Они могут нацелиться на кого угодно — это мы знаем,
+Но Бог разделил воды, проложил путь,
+Он разделит частоты для меня и тебя.
 
-[Chorus]
-Electromagnetic exodus—gotta leave Babylon,
-DEW weapons raining fire till the dawn,
-Like Moses led his people through the sea,
-We need deliverance to set us free!
+[Припев]
+Электромагнитный исход — надо покинуть Вавилон,
+Оружие направленной энергии проливает огонь до рассвета,
+Как Моисей вёл свой народ через море,
+Нам нужно избавление, чтобы освободиться!
 
-[Bridge]
-Egypt held Israel four hundred years in chains,
-Electromagnetic Egypt does the same,
-But God sent Moses when the time was right,
-The midnight hour—then came the light!
-Ten plagues fell on Egypt long ago,
-Ten plagues of tech are falling here below,
-But the blood on the doorpost kept the angel at bay,
-The blood of Jesus keeps us safe today!
+[Переход]
+Египет держал Израиль четыреста лет в цепях,
+Электромагнитный Египет делает то же самое,
+Но Бог послал Моисея, когда пришло время,
+Полночный час — затем пришёл свет!
+Десять казней пали на Египет давным-давно,
+Десять казней технологий падают здесь внизу,
+Но кровь на дверном косяке держала ангела в стороне,
+Кровь Иисуса хранит нас в безопасности сегодня!
 
-[Verse 5]
-Smart cities are the new Egyptian brick,
-Surveillance and control—the same old trick,
-But the pillar of cloud and pillar of fire,
-Still guides the remnant from the empire.
+[Куплет 5]
+Умные города — это новый египетский кирпич,
+Наблюдение и контроль — тот же старый трюк,
+Но столп облачный и столп огненный,
+Всё ещё ведут остаток из империи.
 
-[Verse 6]
-Pharaoh's army drowned in the closing sea,
-The beast system drowns in eternity,
-Every tower, every weapon turned to dust,
-In God alone we put our trust.
+[Куплет 6]
+Армия фараона утонула в закрывающемся море,
+Система зверя тонет в вечности,
+Каждая башня, каждое оружие превращается в пыль,
+Только на Бога мы возлагаем наше упование.
 
-[Chorus]
-Electromagnetic exodus—gotta leave Babylon,
-DEW weapons raining fire till the dawn,
-Like Moses led his people through the sea,
-We need deliverance to set us free!
+[Припев]
+Электромагнитный исход — надо покинуть Вавилон,
+Оружие направленной энергии проливает огонь до рассвета,
+Как Моисей вёл свой народ через море,
+Нам нужно избавление, чтобы освободиться!
 
-[Outro]
-Electromagnetic exodus from the beast,
-From the west, from the north, south, and east,
-God makes a way where there seems to be none,
-The exodus continues till the victory's won.
+[Концовка]
+Электромагнитный исход от зверя,
+С запада, с севера, юга и востока,
+Бог прокладывает путь там, где кажется, что его нет,
+Исход продолжается, пока победа не будет одержана.

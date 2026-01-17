@@ -1,74 +1,74 @@
-SONG 1: "シリコンのドーム"
-(Theme: Flat Earth Firmament + AI Digital Prison)
+曲 1：「シリコンのドーム」
+（テーマ：平面地球の天蓋 + AIデジタル監獄）
 
-[Intro]
+[イントロ]
 
-[Verse 1]
-They built a prison underneath the dome,
-Silicon valleys where the demons roam,
-Firmament above us solid as steel,
-But they've built another one—digital and real.
+[ヴァース 1]
+彼らはドームの下に監獄を建てた、
+悪魔が歩き回るシリコンバレー、
+私たちの上の天蓋は鋼のように固い、
+しかし彼らは別のものを建てた——デジタルで現実的な。
 
-[Verse 2]
-Genesis tells us waters above the sky,
-Now they're drowning us in data, algorithm lies,
-God's ceiling keeps the waters held at bay,
-Their ceiling keeps the truth locked away.
+[ヴァース 2]
+創世記は空の上の水について私たちに語る、
+今彼らはデータ、アルゴリズムの嘘で私たちを溺れさせている、
+神の天井は水を押さえている、
+彼らの天井は真実を閉じ込めている。
 
-[Chorus]
-Dome of silicon, dome of glass,
-Two prisons built to hold the mass,
-One made by God to protect His creation,
-One made by man for our digital damnation!
+[コーラス]
+シリコンのドーム、ガラスのドーム、
+大衆を保持するために建てられた二つの監獄、
+一つは神が彼の創造を保護するために作った、
+一つは人間が私たちのデジタルの呪いのために作った！
 
-[Verse 3]
-They couldn't break through the firmament wall,
-So they built the metaverse to trap us all,
-"Space is fake" so they made cyberspace,
-Another false reality shoved in your face.
+[ヴァース 3]
+彼らは天蓋の壁を突破できなかった、
+だから彼らは私たち全員を閉じ込めるためにメタバースを建てた、
+「宇宙は偽物だ」だから彼らはサイバースペースを作った、
+あなたの顔に押し込まれた別の偽の現実。
 
-[Verse 4]
-Elon says we might be in a simulation,
-Preparing your mind for the great migration,
-Upload your soul to the cloud they say,
-While the real dome above keeps heaven at bay.
+[ヴァース 4]
+イーロンは私たちがシミュレーションの中にいるかもしれないと言う、
+大移動のためにあなたの心を準備している、
+彼らは言う、あなたの魂をクラウドにアップロードせよと、
+上の本物のドームが天国を遠ざけている間。
 
-[Chorus]
-Dome of silicon, dome of glass,
-Two prisons built to hold the mass,
-One made by God to protect His creation,
-One made by man for our digital damnation!
+[コーラス]
+シリコンのドーム、ガラスのドーム、
+大衆を保持するために建てられた二つの監獄、
+一つは神が彼の創造を保護するために作った、
+一つは人間が私たちのデジタルの呪いのために作った！
 
-[Bridge]
-The firmament holds—they cannot breach,
-So digital heavens is what they preach,
-Transhumanism is their tower of lies,
-Building to God but they can't reach the skies!
-Babel fell and so will this,
-Silicon dreams turn to the abyss,
-Christ is the door, the only way through,
-Not fiber optics—the Gospel is true!
+[ブリッジ]
+天蓋は持ちこたえる——彼らは突破できない、
+だからデジタル天国が彼らが説くものだ、
+トランスヒューマニズムは彼らの嘘の塔だ、
+神に向かって建設するが空に到達できない！
+バベルは倒れ、これも倒れる、
+シリコンの夢は深淵に変わる、
+キリストはドア、唯一の道だ、
+光ファイバーではない——福音は真実だ！
 
-[Verse 5]
-P900 zoom shows no curve below,
-But the algorithm curves what you're allowed to know,
-Flat earth truth gets shadow banned quick,
-While they push the pear-shaped testicle trick.
+[ヴァース 5]
+P900ズームは下にカーブがないことを示す、
+しかしアルゴリズムはあなたが知ることを許されることを曲げる、
+平面地球の真実はすぐにシャドウバンされる、
+一方で彼らは洋ナシ型睾丸のトリックを推進する。
 
-[Verse 6]
-Smart dust falls from towers not stars,
-The firmament holds, can't escape to Mars,
-So they trap you in VR, AR, AI,
-Another dome of silicon—do or die.
+[ヴァース 6]
+スマートダストは星からではなくタワーから落ちる、
+天蓋は持ちこたえ、火星に逃げられない、
+だから彼らはあなたをVR、AR、AIに閉じ込める、
+別のシリコンのドーム——死活問題。
 
-[Chorus]
-Dome of silicon, dome of glass,
-Two prisons built to hold the mass,
-One made by God to protect His creation,
-One made by man for our digital damnation!
+[コーラス]
+シリコンのドーム、ガラスのドーム、
+大衆を保持するために建てられた二つの監獄、
+一つは神が彼の創造を保護するために作った、
+一つは人間が私たちのデジタルの呪いのために作った！
 
-[Outro]
-Two domes standing—one by God, one by man,
-Only one will hold according to the plan,
-Silicon crumbles when the Father calls,
-But the firmament stands while Babylon falls.
+[アウトロ]
+二つのドームが立っている——一つは神によって、一つは人によって、
+計画によれば一つだけが持ちこたえる、
+父が呼ぶときシリコンは崩れる、
+しかしバビロンが倒れる間、天蓋は立っている。

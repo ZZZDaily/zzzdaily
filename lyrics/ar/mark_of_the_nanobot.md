@@ -1,74 +1,74 @@
-SONG 3: "Mark of the Nanobot"
-(Theme: Mark of the Beast + Self-Assembling Tech)
+أغنية 3: "علامة النانوبوت"
+(الموضوع: علامة الوحش + التقنية ذاتية التجميع)
 
-[Intro]
+[المقدمة]
 
-[Verse 1]
-Revelation thirteen told us long ago,
-A mark in your hand or head—now we know,
-It's not just a chip or a number tattoo,
-It's nanobots assembling inside of you.
+[الكوبليه 1]
+الرؤيا ثلاثة عشر أخبرتنا منذ زمن بعيد،
+علامة في يدك أو رأسك - الآن نعرف،
+إنها ليست مجرد شريحة أو وشم رقم،
+إنها نانوبوتات تتجمع داخلك.
 
-[Verse 2]
-Self-assembly tech in every single vial,
-Karen Kingston exposed it—check the file,
-Mesogens forming circuits in your blood,
-The mark of the beast in a biotech flood.
+[الكوبليه 2]
+تقنية التجميع الذاتي في كل قنينة واحدة،
+كارين كينغستون كشفتها - تحقق من الملف،
+ميزوجينات تشكل دوائر في دمك،
+علامة الوحش في فيضان تكنولوجيا حيوية.
 
-[Chorus]
-Mark of the nanobot—six-six-six inside,
-Self-assembling demons where they hide,
-Can't buy or sell without this tech within,
-The mark of the beast is under your skin!
+[اللازمة]
+علامة النانوبوت - ستة ستة ستة بالداخل،
+شياطين ذاتية التجميع حيث تختبئ،
+لا يمكن الشراء أو البيع بدون هذه التقنية بالداخل،
+علامة الوحش تحت جلدك!
 
-[Verse 3]
-Quantum dots lighting up your flesh,
-Luciferase—named after the serpent's mesh,
-Bioluminescent markers in your frame,
-A digital tattoo bearing Satan's name.
+[الكوبليه 3]
+نقاط كمومية تضيء لحمك،
+لوسيفراز - مسمى على اسم شبكة الثعبان،
+علامات متوهجة حيويًا في إطارك،
+وشم رقمي يحمل اسم الشيطان.
 
-[Verse 4]
-They said it was safe, they said it was free,
-Now MAC addresses broadcast from you and me,
-Bluetooth bodies walking through the street,
-The mark complete from your head to your feet.
+[الكوبليه 4]
+قالوا إنه آمن، قالوا إنه مجاني،
+الآن عناوين MAC تبث مني ومنك،
+أجساد بلوتوث تمشي في الشارع،
+العلامة مكتملة من رأسك إلى قدميك.
 
-[Chorus]
-Mark of the nanobot—six-six-six inside,
-Self-assembling demons where they hide,
-Can't buy or sell without this tech within,
-The mark of the beast is under your skin!
+[اللازمة]
+علامة النانوبوت - ستة ستة ستة بالداخل،
+شياطين ذاتية التجميع حيث تختبئ،
+لا يمكن الشراء أو البيع بدون هذه التقنية بالداخل،
+علامة الوحش تحت جلدك!
 
-[Bridge]
-Can't buy, can't sell—Revelation said it clear,
-CBDC and digital ID is here,
-Social credit scores tied to your compliance,
-The beast system running on nanotech science!
-Refuse the jab, refuse the mark,
-Stand firm for Jesus even in the dark,
-Better to die free than live a slave,
-Christ already conquered death and the grave!
+[الجسر]
+لا يمكن الشراء، لا يمكن البيع - الرؤيا قالتها بوضوح،
+CBDC والهوية الرقمية هنا،
+درجات الائتمان الاجتماعي مربوطة بامتثالك،
+نظام الوحش يعمل على علم النانوتكنولوجي!
+ارفض الحقنة، ارفض العلامة،
+قف بثبات ليسوع حتى في الظلام،
+من الأفضل أن تموت حرًا من أن تعيش عبدًا،
+المسيح انتصر بالفعل على الموت والقبر!
 
-[Verse 5]
-Ana Mihalcea shows the blood so dark,
-Synthetic structures leaving their mark,
-Rouleaux formation, clots in every vein,
-The mark of the beast causing death and pain.
+[الكوبليه 5]
+آنا ميهالسيا تُظهر الدم المظلم جدًا،
+هياكل اصطناعية تترك علامتها،
+تشكيل رولو، جلطات في كل وريد،
+علامة الوحش تسبب الموت والألم.
 
-[Verse 6]
-They couldn't make us take the RFID chip,
-So they hid it in a needle's tip,
-Trojan horse delivery—nanotech inside,
-The mark of the beast where the demons hide.
+[الكوبليه 6]
+لم يتمكنوا من جعلنا نأخذ شريحة RFID،
+فأخفوها في طرف إبرة،
+تسليم حصان طروادة - نانوتكنولوجي بالداخل،
+علامة الوحش حيث تختبئ الشياطين.
 
-[Chorus]
-Mark of the nanobot—six-six-six inside,
-Self-assembling demons where they hide,
-Can't buy or sell without this tech within,
-The mark of the beast is under your skin!
+[اللازمة]
+علامة النانوبوت - ستة ستة ستة بالداخل،
+شياطين ذاتية التجميع حيث تختبئ،
+لا يمكن الشراء أو البيع بدون هذه التقنية بالداخل،
+علامة الوحش تحت جلدك!
 
-[Outro]
-John saw it coming two thousand years ago,
-The mark of the beast—now the whole world knows,
-It's not in the future, it's happening now,
-Nanobots inside you—but we won't bow.
+[الخاتمة]
+يوحنا رآها قادمة منذ ألفي عام،
+علامة الوحش - الآن العالم كله يعرف،
+إنها ليست في المستقبل، إنها تحدث الآن،
+نانوبوتات بداخلك - لكننا لن ننحني.

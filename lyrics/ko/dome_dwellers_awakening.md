@@ -1,74 +1,74 @@
-SONG 12: "Dome Dwellers Awakening"
-(Theme: Flat Earth Truth + Final Awakening for Humanity)
+노래 12: "돔 거주자들의 각성"
+(주제: 평평한 지구 진실 + 인류의 최종 각성)
 
-[Intro]
+[인트로]
 
-[Verse 1]
-They kept us sleeping under the dome so long,
-Pear-shaped testicle lies—believing wrong,
-But the dome dwellers waking, opening eyes,
-Seeing through both space and tech's disguise.
+[벌스 1]
+그들은 우리를 돔 아래에서 너무 오랫동안 잠들게 했다,
+배 모양의 고환 거짓말—잘못 믿으며,
+하지만 돔 거주자들이 깨어나고 있다, 눈을 뜨며,
+우주와 기술의 위장을 모두 꿰뚫어 본다.
 
-[Verse 2]
-Flat earth was the key that unlocked the door,
-Now we see the nanotech and so much more,
-One lie connected to the other strand,
-A web of deception across every land.
+[벌스 2]
+평평한 지구는 문을 열어준 열쇠였다,
+이제 우리는 나노기술과 훨씬 더 많은 것을 본다,
+하나의 거짓이 다른 가닥에 연결되어 있다,
+모든 땅을 가로지르는 속임수의 그물.
 
-[Chorus]
-Dome dwellers awakening to the truth at last,
-Flat earth breaking chains from the past,
-Seeing the firmament and the beast system too,
-The final awakening is coming through!
+[후렴]
+마침내 진실을 깨닫는 돔 거주자들의 각성,
+과거의 사슬을 깨는 평평한 지구,
+창공과 짐승 시스템을 모두 보며,
+최종 각성이 다가오고 있다!
 
-[Verse 3]
-P900 zoom revealed the plane,
-Blood microscopy revealed the bane,
-What they hid above connects to what's within,
-One matrix of lies covering every sin.
+[벌스 3]
+P900 줌이 평면을 드러냈다,
+혈액 현미경이 재앙을 드러냈다,
+그들이 위에 숨긴 것이 내부의 것과 연결된다,
+모든 죄를 덮고 있는 거짓의 매트릭스.
 
-[Verse 4]
-They couldn't maintain the globe without fake space,
-They can't maintain control without tracking your face,
-Two systems of bondage crumbling as one,
-The dome dwellers rising with the morning sun.
+[벌스 4]
+그들은 가짜 우주 없이 구를 유지할 수 없었다,
+당신의 얼굴을 추적하지 않고는 통제를 유지할 수 없다,
+하나로 무너지는 두 개의 속박 시스템,
+아침 해와 함께 일어나는 돔 거주자들.
 
-[Chorus]
-Dome dwellers awakening to the truth at last,
-Flat earth breaking chains from the past,
-Seeing the firmament and the beast system too,
-The final awakening is coming through!
+[후렴]
+마침내 진실을 깨닫는 돔 거주자들의 각성,
+과거의 사슬을 깨는 평평한 지구,
+창공과 짐승 시스템을 모두 보며,
+최종 각성이 다가오고 있다!
 
-[Bridge]
-Hosea four-six said perish from not knowing,
-But now the truth is flooding, overflowing,
-Flat earth led us down the rabbit hole,
-Now we see the war being waged for our soul!
-From space lies to vaccine lies—all connect,
-The same deceiver running the tech,
-But the dome dwellers see it all so clear,
-The awakening's here—the end is near!
+[브리지]
+호세아 4장 6절은 알지 못해 멸망한다고 말했다,
+하지만 지금 진실이 넘쳐나고 있다,
+평평한 지구가 우리를 토끼굴로 이끌었다,
+이제 우리는 우리 영혼을 위해 벌어지는 전쟁을 본다!
+우주 거짓말에서 백신 거짓말까지—모두 연결된다,
+기술을 운영하는 같은 속이는 자,
+하지만 돔 거주자들은 모든 것을 너무 명확하게 본다,
+각성이 여기 있다—끝이 가까이 있다!
 
-[Verse 5]
-Karen Kingston exposed the patents' truth,
-Eric Dubay exposed the globe's bad proof,
-Ana Mihalcea shows blood transformed,
-The awakened remnant weathering the storm.
+[벌스 5]
+카렌 킹스턴은 특허의 진실을 폭로했다,
+에릭 듀베이는 구의 나쁜 증거를 폭로했다,
+아나 미할체아는 변형된 혈액을 보여준다,
+폭풍우를 견디는 깨어난 남은 자들.
 
-[Verse 6]
-From firmament to nanobots, we see the scheme,
-Satan's matrix crumbling at the seams,
-The dome above reflects the truth below,
-As within, so without—now we know.
+[벌스 6]
+창공에서 나노봇까지, 우리는 계획을 본다,
+이음새가 무너지는 사탄의 매트릭스,
+위의 돔은 아래의 진실을 반영한다,
+안이 그렇듯, 밖도 그렇다—이제 우리는 안다.
 
-[Chorus]
-Dome dwellers awakening to the truth at last,
-Flat earth breaking chains from the past,
-Seeing the firmament and the beast system too,
-The final awakening is coming through!
+[후렴]
+마침내 진실을 깨닫는 돔 거주자들의 각성,
+과거의 사슬을 깨는 평평한 지구,
+창공과 짐승 시스템을 모두 보며,
+최종 각성이 다가오고 있다!
 
-[Outro]
-Dome dwellers awakening from sea to sea,
-Flat earth truth setting humanity free,
-And with that truth, all deceptions fall,
-The final awakening answering the call.
+[아웃트로]
+바다에서 바다까지 각성하는 돔 거주자들,
+인류를 자유롭게 하는 평평한 지구 진실,
+그리고 그 진실과 함께, 모든 속임수가 무너진다,
+부름에 응답하는 최종 각성.

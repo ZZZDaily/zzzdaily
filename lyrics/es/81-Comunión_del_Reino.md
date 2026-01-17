@@ -1,4 +1,4 @@
-CANCIÓN 6: "Comunión del Reino"
+CANCIÓN 81: "Comunión del Reino"
 (Tema: Una celebración de la comunidad y conexión entre creyentes que comparten verdades poco comunes y se apoyan mutuamente.)
 
 [Introducción]

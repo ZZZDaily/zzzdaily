@@ -1,74 +1,74 @@
-SONG 6: "Tower of Babel 2.0"
-(Theme: Biblical Babel + Neuralink Hive Mind)
+ПЕСНЯ 6: "Вавилонская Башня 2.0"
+(Тема: Библейский Вавилон + Коллективный Разум Neuralink)
 
-[Intro]
+[Вступление]
 
-[Verse 1]
-Genesis eleven—they built a tower high,
-One language, one people, reaching for the sky,
-God scattered them, confused their tongues that day,
-But now they're rebuilding in a different way.
+[Куплет 1]
+Бытие одиннадцать — они построили башню высокую,
+Один язык, один народ, достигая неба,
+Бог рассеял их, смешал их языки в тот день,
+Но теперь они перестраивают по-другому.
 
-[Verse 2]
-Neuralink connecting every single brain,
-One language of data flowing through the vein,
-Babel rebuilt not with bricks and stone,
-But neural interfaces—no thought your own.
+[Куплет 2]
+Neuralink соединяет каждый мозг,
+Один язык данных течёт через вену,
+Вавилон перестроен не с кирпичами и камнем,
+А нейронными интерфейсами — ни одна мысль не твоя.
 
-[Chorus]
-Tower of Babel 2.0 rising from the ground,
-Neuralink connecting every sight and sound,
-One language, one mind—just like before,
-But God already settled this score!
+[Припев]
+Вавилонская башня 2.0 поднимается с земли,
+Neuralink соединяет каждое зрение и звук,
+Один язык, один разум — как раньше,
+Но Бог уже разобрался с этим счётом!
 
-[Verse 3]
-"Let us make a name for ourselves," they said,
-Now it's "Let us upload ourselves" instead,
-Transhumanism is the new tower tall,
-And just like Babel, it's destined to fall.
+[Куплет 3]
+«Давайте сделаем себе имя», — говорили они,
+Теперь это «Давайте загрузим себя» вместо этого,
+Трансгуманизм — новая высокая башня,
+И, как и Вавилон, она обречена на падение.
 
-[Verse 4]
-Elon says telepathy is the goal,
-Brain-to-brain transmission stealing every soul,
-Collective consciousness—the hive mind dream,
-But it's really just Babel's ancient scheme.
+[Куплет 4]
+Илон говорит, что телепатия — это цель,
+Передача мозг к мозгу крадёт каждую душу,
+Коллективное сознание — мечта коллективного разума,
+Но это действительно просто древняя схема Вавилона.
 
-[Chorus]
-Tower of Babel 2.0 rising from the ground,
-Neuralink connecting every sight and sound,
-One language, one mind—just like before,
-But God already settled this score!
+[Припев]
+Вавилонская башня 2.0 поднимается с земли,
+Neuralink соединяет каждое зрение и звук,
+Один язык, один разум — как раньше,
+Но Бог уже разобрался с этим счётом!
 
-[Bridge]
-God came down and saw what they had done,
-Confused their language—scattered everyone,
-He'll do it again when the tower's complete,
-This digital Babel He will defeat!
-What Satan builds, the Father tears down,
-Every knee will bow, every head will crown,
-Not to AI, not to Elon's dream,
-But to Jesus Christ—the true King supreme!
+[Переход]
+Бог сошёл и увидел, что они сделали,
+Смешал их язык — рассеял всех,
+Он сделает это снова, когда башня будет завершена,
+Этот цифровой Вавилон Он победит!
+Что строит Сатана, Отец разрушает,
+Каждое колено преклонится, каждая голова увенчается,
+Не перед ИИ, не перед мечтой Илона,
+А перед Иисусом Христом — истинным верховным Царём!
 
-[Verse 5]
-They want us connected in one giant web,
-Every thought transmitted from the moment you're bred,
-Privacy deleted, free will erased,
-The tower of Babel completely replaced.
+[Куплет 5]
+Они хотят, чтобы мы были соединены в одну гигантскую сеть,
+Каждая мысль передаётся с момента твоего рождения,
+Приватность удалена, свободная воля стёрта,
+Вавилонская башня полностью заменена.
 
-[Verse 6]
-But remember the story—God saw from above,
-He confused their plans with His sovereign love,
-What man builds high, God brings down low,
-Babel 2.0 will get the same show.
+[Куплет 6]
+Но помни историю — Бог видел сверху,
+Он смешал их планы Своей суверенной любовью,
+Что человек строит высоко, Бог приносит вниз низко,
+Вавилон 2.0 получит то же шоу.
 
-[Chorus]
-Tower of Babel 2.0 rising from the ground,
-Neuralink connecting every sight and sound,
-One language, one mind—just like before,
-But God already settled this score!
+[Припев]
+Вавилонская башня 2.0 поднимается с земли,
+Neuralink соединяет каждое зрение и звук,
+Один язык, один разум — как раньше,
+Но Бог уже разобрался с этим счётом!
 
-[Outro]
-Nimrod's tower fell in ancient days,
-Neuralink will crumble in the very same ways,
-God won't let them reach into the sky,
-Tower of Babel 2.0—destined to die.
+[Концовка]
+Башня Нимрода пала в древние дни,
+Neuralink рухнет точно так же,
+Бог не позволит им достичь неба,
+Вавилонская башня 2.0 — обречена на смерть.

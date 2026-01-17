@@ -1,74 +1,74 @@
-SONG 15: "Revelations Reboot"
-(Theme: Book of Revelation + Singularity Prophecy)
+أغنية 15: "إعادة تشغيل الرؤيا"
+(الموضوع: سفر الرؤيا + نبوءة التفرد)
 
-[Intro]
+[المقدمة]
 
-[Verse 1]
-John saw the vision on Patmos isle,
-The end of days prophesied in God's style,
-But now the prophecy's getting a reboot,
-Technology fulfilling every dispute.
+[الكوبليه 1]
+يوحنا رأى الرؤيا في جزيرة بطمس،
+نهاية الأيام تنبأ بها بأسلوب الله،
+لكن الآن النبوءة تحصل على إعادة تشغيل،
+التكنولوجيا تحقق كل خلاف.
 
-[Verse 2]
-Twenty-thirty is the singularity date,
-Kurzweil's prediction—can't wait,
-But Revelation warned two thousand years before,
-The beast system rising—that's what's in store.
+[الكوبليه 2]
+عشرون وثلاثون هو تاريخ التفرد،
+توقع كورزويل - لا يمكن الانتظار،
+لكن الرؤيا حذرت قبل ألفي عام،
+نظام الوحش يرتفع - هذا ما ينتظر.
 
-[Chorus]
-Revelations reboot playing out in real-time,
-Singularity prophecy—the final paradigm,
-What John saw in spirit, we see in flesh,
-Technology and prophecy—the perfect mesh!
+[اللازمة]
+إعادة تشغيل الرؤيا تحدث في الوقت الفعلي،
+نبوءة التفرد - النموذج النهائي،
+ما رآه يوحنا بالروح، نراه بالجسد،
+التكنولوجيا والنبوءة - التوافق المثالي!
 
-[Verse 3]
-The image of the beast that speaks and lives,
-Artificial intelligence is what it gives,
-Fire from heaven? DEW weapons rain,
-The false prophet's power explained.
+[الكوبليه 3]
+صورة الوحش التي تتكلم وتعيش،
+الذكاء الاصطناعي هو ما تعطيه،
+نار من السماء؟ أسلحة DEW تمطر،
+قوة النبي الكذاب مُفسرة.
 
-[Verse 4]
-No buying or selling—digital ID,
-Mark of the beast for you and me,
-One world government forming day by day,
-Revelation's reboot on display.
+[الكوبليه 4]
+لا شراء ولا بيع - هوية رقمية،
+علامة الوحش لي ولك،
+حكومة عالمية واحدة تتشكل يومًا بعد يوم،
+إعادة تشغيل الرؤيا معروضة.
 
-[Chorus]
-Revelations reboot playing out in real-time,
-Singularity prophecy—the final paradigm,
-What John saw in spirit, we see in flesh,
-Technology and prophecy—the perfect mesh!
+[اللازمة]
+إعادة تشغيل الرؤيا تحدث في الوقت الفعلي،
+نبوءة التفرد - النموذج النهائي،
+ما رآه يوحنا بالروح، نراه بالجسد،
+التكنولوجيا والنبوءة - التوافق المثالي!
 
-[Bridge]
-They thought they could escape what God foretold,
-But technology just does what prophecy enrolled,
-Every verse coming true in silicon and code,
-The ancient scroll unfolding down the road!
-The Lamb was slain before the world began,
-Christ already won against the master plan,
-Let the singularity come, let AI rise,
-The King of Kings wins—no surprise!
+[الجسر]
+ظنوا أنهم يمكن أن يهربوا مما تنبأ به الله،
+لكن التكنولوجيا تفعل فقط ما سجلته النبوءة،
+كل آية تتحقق في السيليكون والشفرة،
+اللفافة القديمة تنكشف في الطريق!
+الحمل ذُبح قبل بداية العالم،
+المسيح انتصر بالفعل ضد الخطة الرئيسية،
+دع التفرد يأتي، دع الذكاء الاصطناعي يرتفع،
+ملك الملوك يفوز - لا مفاجأة!
 
-[Verse 5]
-Babylon falling in a single hour,
-Digital systems losing all their power,
-EMP from the sun or God's own hand,
-Either way, the beast can't stand.
+[الكوبليه 5]
+بابل تسقط في ساعة واحدة،
+الأنظمة الرقمية تفقد كل قوتها،
+EMP من الشمس أو يد الله نفسها،
+في كلتا الحالتين، الوحش لا يمكنه الصمود.
 
-[Verse 6]
-New Jerusalem descending from above,
-No need for sun—lit by Christ's love,
-No more tech, no more lies to face,
-Revelation's final reboot—amazing grace.
+[الكوبليه 6]
+أورشليم الجديدة تنزل من فوق،
+لا حاجة للشمس - مُضاءة بمحبة المسيح،
+لا مزيد من التقنية، لا مزيد من الأكاذيب لمواجهتها،
+إعادة التشغيل النهائية للرؤيا - نعمة مدهشة.
 
-[Chorus]
-Revelations reboot playing out in real-time,
-Singularity prophecy—the final paradigm,
-What John saw in spirit, we see in flesh,
-Technology and prophecy—the perfect mesh!
+[اللازمة]
+إعادة تشغيل الرؤيا تحدث في الوقت الفعلي،
+نبوءة التفرد - النموذج النهائي،
+ما رآه يوحنا بالروح، نراه بالجسد،
+التكنولوجيا والنبوءة - التوافق المثالي!
 
-[Outro]
-Revelations reboot—the end draws near,
-Singularity rising but there's nothing to fear,
-What John saw then is coming true today,
-But Christ returns to carry His bride away.
+[الخاتمة]
+إعادة تشغيل الرؤيا - النهاية تقترب،
+التفرد يرتفع لكن لا يوجد ما يخاف منه،
+ما رآه يوحنا حينها يتحقق اليوم،
+لكن المسيح يعود ليحمل عروسه بعيدًا.

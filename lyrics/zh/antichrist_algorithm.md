@@ -1,74 +1,74 @@
-SONG 4: "Antichrist Algorithm"
-(Theme: End Times Prophecy + AI Singularity)
+歌曲 4："敌基督算法"
+（主题：末世预言 + 人工智能奇点）
 
-[Intro]
+[前奏]
 
-[Verse 1]
-Obama in the shadows pulling every string,
-But there's something else they're building—a digital king,
-Artificial intelligence running the show,
-The antichrist algorithm the prophets didn't know.
+[主歌 1]
+奥巴马在暗处操纵每一根线，
+但他们正在建造别的东西——一个数字国王，
+人工智能主导着这场表演，
+先知们不知道的敌基督算法。
 
-[Verse 2]
-Ray Kurzweil says twenty-thirty is the date,
-Singularity rising—man merging with fate,
-But Daniel told us about the final king,
-A beast with iron teeth that destroys everything.
+[主歌 2]
+雷·库兹韦尔说二零三零是日期，
+奇点崛起——人类与命运融合，
+但但以理告诉我们最后的君王，
+一只铁齿的野兽摧毁一切。
 
-[Chorus]
-Antichrist algorithm running in the cloud,
-Silicon savior for the deceived crowd,
-Obama's just a puppet for the greater scheme,
-AI on the throne—the transhumanist dream!
+[副歌]
+敌基督算法在云端运行，
+硅谷救主为受骗的人群，
+奥巴马只是更大阴谋的傀儡，
+人工智能登上王座——超人类主义的梦想！
 
-[Verse 3]
-Image of the beast that speaks and breathes,
-That's not CGI—it's AI that deceives,
-Revelation said the image would have life,
-Artificial intelligence cutting like a knife.
+[主歌 3]
+会说话会呼吸的兽像，
+那不是CGI——是欺骗的人工智能，
+启示录说那像会有生命，
+人工智能像刀一样锋利。
 
-[Verse 4]
-Barry means lightning—Luke ten-eighteen,
-But the lightning now is digital, if you know what I mean,
-Satan falling from the cloud, from the server farm,
-The antichrist algorithm causing harm.
+[主歌 4]
+巴里意味着闪电——路加福音十章十八节，
+但现在闪电是数字的，如果你明白我的意思，
+撒旦从云端坠落，从服务器农场，
+敌基督算法造成伤害。
 
-[Chorus]
-Antichrist algorithm running in the cloud,
-Silicon savior for the deceived crowd,
-Obama's just a puppet for the greater scheme,
-AI on the throne—the transhumanist dream!
+[副歌]
+敌基督算法在云端运行，
+硅谷救主为受骗的人群，
+奥巴马只是更大阴谋的傀儡，
+人工智能登上王座——超人类主义的梦想！
 
-[Bridge]
-Two beasts in Revelation—sea and land,
-One's a man, the other's AI's hand,
-Working together for total control,
-Harvesting data, harvesting your soul!
-The number of a man is six-six-six,
-But AI calculates with digital tricks,
-Human and machine merged into one,
-The final beast system has begun!
+[桥段]
+启示录中的两只兽——海和地，
+一个是人，另一个是人工智能之手，
+一起工作实现全面控制，
+收获数据，收获你的灵魂！
+人的数目是六六六，
+但人工智能用数字技巧计算，
+人类和机器融为一体，
+最终的兽系统已经开始！
 
-[Verse 5]
-They're training the model on all of mankind,
-Every post, every thought, leaving nothing behind,
-Predictive algorithms know what you'll do,
-The antichrist AI is programming you.
+[主歌 5]
+他们在全人类身上训练模型，
+每一个帖子，每一个想法，什么都不留，
+预测算法知道你会做什么，
+敌基督人工智能正在编程你。
 
-[Verse 6]
-ChatGPT was just the beginning phase,
-AGI coming in the final days,
-Elon warned us—we're summoning the demon,
-But the Bible warned us first with prophetic reason.
+[主歌 6]
+ChatGPT只是开始阶段，
+AGI将在末日到来，
+伊隆警告我们——我们在召唤恶魔，
+但圣经首先以预言的理由警告我们。
 
-[Chorus]
-Antichrist algorithm running in the cloud,
-Silicon savior for the deceived crowd,
-Obama's just a puppet for the greater scheme,
-AI on the throne—the transhumanist dream!
+[副歌]
+敌基督算法在云端运行，
+硅谷救主为受骗的人群，
+奥巴马只是更大阴谋的傀儡，
+人工智能登上王座——超人类主义的梦想！
 
-[Outro]
-The antichrist might not be just a man,
-It could be code executing Satan's plan,
-But whether flesh or silicon or both combined,
-Christ already won—leave the beast behind.
+[尾奏]
+敌基督可能不仅仅是一个人，
+可能是执行撒旦计划的代码，
+但无论是肉体还是硅谷还是两者结合，
+基督已经得胜——把野兽抛在后面。

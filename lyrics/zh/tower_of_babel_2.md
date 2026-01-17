@@ -1,74 +1,74 @@
-SONG 6: "Tower of Babel 2.0"
-(Theme: Biblical Babel + Neuralink Hive Mind)
+歌曲 6："巴别塔2.0"
+（主题：圣经巴别塔 + Neuralink蜂巢思维）
 
-[Intro]
+[前奏]
 
-[Verse 1]
-Genesis eleven—they built a tower high,
-One language, one people, reaching for the sky,
-God scattered them, confused their tongues that day,
-But now they're rebuilding in a different way.
+[主歌 1]
+创世记十一章——他们建造了一座高塔，
+一种语言，一个民族，伸向天空，
+上帝那天分散了他们，混淆了他们的舌头，
+但现在他们以不同的方式重建。
 
-[Verse 2]
-Neuralink connecting every single brain,
-One language of data flowing through the vein,
-Babel rebuilt not with bricks and stone,
-But neural interfaces—no thought your own.
+[主歌 2]
+Neuralink连接每一个大脑，
+数据的一种语言流过静脉，
+巴别塔重建不是用砖和石头，
+而是神经接口——没有属于你自己的思想。
 
-[Chorus]
-Tower of Babel 2.0 rising from the ground,
-Neuralink connecting every sight and sound,
-One language, one mind—just like before,
-But God already settled this score!
+[副歌]
+巴别塔2.0从地面升起，
+Neuralink连接每一个景象和声音，
+一种语言，一种思维——就像以前一样，
+但上帝已经解决了这个问题！
 
-[Verse 3]
-"Let us make a name for ourselves," they said,
-Now it's "Let us upload ourselves" instead,
-Transhumanism is the new tower tall,
-And just like Babel, it's destined to fall.
+[主歌 3]
+"让我们为自己立名"，他们说，
+现在是"让我们上传自己"代替，
+超人类主义是新的高塔，
+就像巴别塔一样，它注定要倒塌。
 
-[Verse 4]
-Elon says telepathy is the goal,
-Brain-to-brain transmission stealing every soul,
-Collective consciousness—the hive mind dream,
-But it's really just Babel's ancient scheme.
+[主歌 4]
+伊隆说心灵感应是目标，
+脑对脑传输偷走每个灵魂，
+集体意识——蜂巢思维梦想，
+但这真的只是巴别塔的古老阴谋。
 
-[Chorus]
-Tower of Babel 2.0 rising from the ground,
-Neuralink connecting every sight and sound,
-One language, one mind—just like before,
-But God already settled this score!
+[副歌]
+巴别塔2.0从地面升起，
+Neuralink连接每一个景象和声音，
+一种语言，一种思维——就像以前一样，
+但上帝已经解决了这个问题！
 
-[Bridge]
-God came down and saw what they had done,
-Confused their language—scattered everyone,
-He'll do it again when the tower's complete,
-This digital Babel He will defeat!
-What Satan builds, the Father tears down,
-Every knee will bow, every head will crown,
-Not to AI, not to Elon's dream,
-But to Jesus Christ—the true King supreme!
+[桥段]
+上帝降临看到他们所做的，
+混淆了他们的语言——分散了每个人，
+当塔完成时祂会再次这样做，
+这个数字巴别塔祂会打败！
+撒旦建造的，天父拆毁，
+每个膝盖都会鞠躬，每个头都会加冕，
+不是向AI，不是向伊隆的梦想，
+而是向耶稣基督——真正的至高君王！
 
-[Verse 5]
-They want us connected in one giant web,
-Every thought transmitted from the moment you're bred,
-Privacy deleted, free will erased,
-The tower of Babel completely replaced.
+[主歌 5]
+他们想让我们在一个巨大的网中连接，
+从你出生的那一刻起每个想法都被传输，
+隐私被删除，自由意志被抹去，
+巴别塔完全被取代。
 
-[Verse 6]
-But remember the story—God saw from above,
-He confused their plans with His sovereign love,
-What man builds high, God brings down low,
-Babel 2.0 will get the same show.
+[主歌 6]
+但记住这个故事——上帝从上面看到，
+祂用祂的主权之爱混淆了他们的计划，
+人建得高，上帝带得低，
+巴别塔2.0会得到同样的表演。
 
-[Chorus]
-Tower of Babel 2.0 rising from the ground,
-Neuralink connecting every sight and sound,
-One language, one mind—just like before,
-But God already settled this score!
+[副歌]
+巴别塔2.0从地面升起，
+Neuralink连接每一个景象和声音，
+一种语言，一种思维——就像以前一样，
+但上帝已经解决了这个问题！
 
-[Outro]
-Nimrod's tower fell in ancient days,
-Neuralink will crumble in the very same ways,
-God won't let them reach into the sky,
-Tower of Babel 2.0—destined to die.
+[尾奏]
+宁录的塔在古代倒塌，
+Neuralink将以完全相同的方式崩溃，
+上帝不会让他们伸向天空，
+巴别塔2.0——注定死亡。

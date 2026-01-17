@@ -1,74 +1,74 @@
-SONG 10: "Beast System Bluetooth"
-(Theme: Mark of the Beast + MAC Address Humans)
+노래 10: "짐승 시스템 블루투스"
+(주제: 짐승의 표 + MAC 주소 인간)
 
-[Intro]
+[인트로]
 
-[Verse 1]
-The beast system's running through your veins tonight,
-Bluetooth signals broadcasting in the night,
-Open your phone app, scan for devices near,
-MAC addresses from the jabbed appear.
+[벌스 1]
+짐승 시스템이 오늘 밤 당신의 혈관을 통해 흐르고 있다,
+밤에 방송하는 블루투스 신호,
+전화 앱을 열고, 근처 장치를 스캔하라,
+접종받은 사람들의 MAC 주소가 나타난다.
 
-[Verse 2]
-Revelation thirteen, the number of a man,
-Six-six-six embedded in the master plan,
-But now it's hexadecimal addresses too,
-Broadcasting beast coordinates from me and you.
+[벌스 2]
+요한계시록 13장, 사람의 수,
+마스터 플랜에 내장된 666,
+하지만 지금은 16진수 주소이기도 하다,
+나와 당신으로부터 짐승 좌표를 방송한다.
 
-[Chorus]
-Beast system Bluetooth pinging all around,
-Human MAC addresses—that's the sound,
-The mark of the beast is a wireless transmit,
-Bluetooth bodies—this is it!
+[후렴]
+사방에서 핑하는 짐승 시스템 블루투스,
+인간 MAC 주소—그것이 소리다,
+짐승의 표는 무선 전송이다,
+블루투스 몸—이것이다!
 
-[Verse 3]
-Go to the graveyard, scan the Bluetooth there,
-Dead bodies broadcasting in the air,
-Graphene oxide circuits still alive,
-The beast system signals continue to thrive.
+[벌스 3]
+묘지에 가서, 거기서 블루투스를 스캔하라,
+공중에서 방송하는 시체,
+여전히 살아있는 그래핀 옥사이드 회로,
+계속 번창하는 짐승 시스템 신호.
 
-[Verse 4]
-They called us crazy, called us conspiracy nuts,
-Now the data's showing—no ifs, ands, or buts,
-Unique identifiers for every single soul,
-Beast system Bluetooth—total control.
+[벌스 4]
+그들은 우리를 미쳤다고 불렀고, 음모론자라고 불렀다,
+이제 데이터가 보여준다—만약, 그리고, 하지만 없다,
+모든 단일 영혼을 위한 고유 식별자,
+짐승 시스템 블루투스—완전한 통제.
 
-[Chorus]
-Beast system Bluetooth pinging all around,
-Human MAC addresses—that's the sound,
-The mark of the beast is a wireless transmit,
-Bluetooth bodies—this is it!
+[후렴]
+사방에서 핑하는 짐승 시스템 블루투스,
+인간 MAC 주소—그것이 소리다,
+짐승의 표는 무선 전송이다,
+블루투스 몸—이것이다!
 
-[Bridge]
-The beast and his mark—inseparable they stand,
-A technological mark burned into your hand,
-Not just a concept, not a metaphor or sign,
-But real tech connecting to the beast's design!
-Refuse the signal, stay pure from the start,
-Keep the Holy Spirit dwelling in your heart,
-No Bluetooth from the pure bloods broadcasting,
-The remnant stands firm—our faith is lasting!
+[브리지]
+짐승과 그의 표—불가분하게 서있다,
+당신의 손에 새겨진 기술적 표,
+단지 개념이 아니라, 은유나 기호가 아니라,
+짐승의 디자인에 연결되는 실제 기술이다!
+신호를 거부하라, 처음부터 순수하게 유지하라,
+성령을 당신의 마음에 거하게 하라,
+순수한 피로부터 블루투스가 방송되지 않는다,
+남은 자들은 굳건히 서있다—우리의 믿음은 지속된다!
 
-[Verse 5]
-They need you trackable every single day,
-Beast system Bluetooth won't go away,
-Connected to the cloud, connected to the grid,
-Your body's now a node for the evil they did.
+[벌스 5]
+그들은 당신을 매일 추적 가능하게 만들어야 한다,
+짐승 시스템 블루투스는 사라지지 않을 것이다,
+클라우드에 연결되고, 그리드에 연결되고,
+당신의 몸은 이제 그들이 한 악을 위한 노드다.
 
-[Verse 6]
-But the pure bloods walking silent through the crowd,
-No signal pinging, standing strong and proud,
-The beast can't track what the Father protects,
-Clean blood flowing through the remnant's specs.
+[벌스 6]
+하지만 순수한 피는 군중 속을 조용히 걷는다,
+신호가 핑하지 않고, 강하고 자랑스럽게 서있다,
+짐승은 아버지가 보호하는 것을 추적할 수 없다,
+남은 자의 사양을 통해 흐르는 깨끗한 피.
 
-[Chorus]
-Beast system Bluetooth pinging all around,
-Human MAC addresses—that's the sound,
-The mark of the beast is a wireless transmit,
-Bluetooth bodies—this is it!
+[후렴]
+사방에서 핑하는 짐승 시스템 블루투스,
+인간 MAC 주소—그것이 소리다,
+짐승의 표는 무선 전송이다,
+블루투스 몸—이것이다!
 
-[Outro]
-Beast system Bluetooth—the mark made real,
-Wireless transmitters—that's the deal,
-But the silent remnant walks by faith not sight,
-Bluetooth-free warriors standing for the light.
+[아웃트로]
+짐승 시스템 블루투스—표가 현실이 되었다,
+무선 송신기—그것이 거래다,
+하지만 침묵하는 남은 자들은 보이는 것이 아닌 믿음으로 걷는다,
+블루투스가 없는 전사들이 빛을 위해 서있다.

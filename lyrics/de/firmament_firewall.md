@@ -1,74 +1,74 @@
-SONG 2: "Firmament-Firewall"
-(Theme: Biblical Dome + Digital Barriers)
+LIED 2: "Firmament-Firewall"
+(Thema: Biblische Kuppel + Digitale Barrieren)
 
 [Intro]
 
-[Verse 1]
-God put a firewall in the sky,
-Waters above that you can't deny,
-Firmament solid, Genesis one-seven,
-A barrier between earth and heaven.
+[Strophe 1]
+Gott setzte eine Firewall in den Himmel,
+Wasser oben, die du nicht leugnen kannst,
+Firmament fest, Genesis eins-sieben,
+Eine Barriere zwischen Erde und Himmel.
 
-[Verse 2]
-Now they've built another firewall below,
-Controlling everything you're allowed to know,
-Algorithms blocking truth online,
-Censorship's their new divine design.
+[Strophe 2]
+Jetzt haben sie eine weitere Firewall unten gebaut,
+Kontrollieren alles, was du wissen darfst,
+Algorithmen blockieren Wahrheit online,
+Zensur ist ihr neues göttliches Design.
 
-[Chorus]
-Firmament firewall in the sky above,
-Digital firewall blocking truth and love,
-One protects us from the waters of the deep,
-One protects the lies they want us to keep!
+[Refrain]
+Firmament-Firewall am Himmel oben,
+Digitale Firewall blockiert Wahrheit und Liebe,
+Eine schützt uns vor den Wassern der Tiefe,
+Eine schützt die Lügen, die sie wollen, dass wir bewahren!
 
-[Verse 3]
-NASA can't get past the dome up there,
-So they fake the footage, fill it with fake air,
-Meanwhile fact-checkers block what's real,
-Two layers of deception—that's the deal.
+[Strophe 3]
+NASA kann nicht an der Kuppel da oben vorbeikommen,
+Also fälschen sie das Filmmaterial, füllen es mit falscher Luft,
+Währenddessen blockieren Faktenchecker, was real ist,
+Zwei Schichten der Täuschung – das ist der Deal.
 
-[Verse 4]
-5G signals bouncing off the canopy,
-Not satellites in space—that's the fallacy,
-Firmament reflects their frequencies back down,
-While their digital walls keep truth underground.
+[Strophe 4]
+5G-Signale prallen vom Baldachin ab,
+Keine Satelliten im Weltraum – das ist der Irrtum,
+Firmament reflektiert ihre Frequenzen zurück nach unten,
+Während ihre digitalen Mauern die Wahrheit unterirdisch halten.
 
-[Chorus]
-Firmament firewall in the sky above,
-Digital firewall blocking truth and love,
-One protects us from the waters of the deep,
-One protects the lies they want us to keep!
+[Refrain]
+Firmament-Firewall am Himmel oben,
+Digitale Firewall blockiert Wahrheit und Liebe,
+Eine schützt uns vor den Wassern der Tiefe,
+Eine schützt die Lügen, die sie wollen, dass wir bewahren!
 
 [Bridge]
-Hosea four-six—destroyed for lack of knowing,
-Both firewalls keep the ignorance flowing,
-But the elect see clear through both the veils,
-Jesus Christ is the key—truth never fails!
-Seek and you shall find, knock and it opens wide,
-No firewall can stop what God provides,
-The firmament bows to the Creator's hand,
-Their digital walls will crumble like sand!
+Hosea vier-sechs – zerstört durch mangelndes Wissen,
+Beide Firewalls halten die Unwissenheit fließend,
+Doch die Auserwählten sehen klar durch beide Schleier,
+Jesus Christus ist der Schlüssel – Wahrheit versagt nie!
+Suche und du wirst finden, klopfe und es öffnet sich weit,
+Keine Firewall kann stoppen, was Gott bereitstellt,
+Das Firmament verneigt sich vor der Hand des Schöpfers,
+Ihre digitalen Mauern werden wie Sand zerbröckeln!
 
-[Verse 5]
-They can't ascend so they descend instead,
-Neuralink cables plugged into your head,
-Since heaven's blocked by the dome so real,
-They'll trap your soul in silicon and steel.
+[Strophe 5]
+Sie können nicht aufsteigen, also steigen sie stattdessen ab,
+Neuralink-Kabel in deinen Kopf gesteckt,
+Da der Himmel durch die so reale Kuppel blockiert ist,
+Werden sie deine Seele in Silizium und Stahl fangen.
 
-[Verse 6]
-Flat earth breaks their whole foundation,
-That's why they censor across every nation,
-Remove that truth and the house of cards falls,
-Both sky and digital—all their walls!
+[Strophe 6]
+Flache Erde bricht ihr ganzes Fundament,
+Deshalb zensieren sie über jede Nation,
+Entferne diese Wahrheit und das Kartenhaus fällt,
+Sowohl Himmel als auch digital – all ihre Mauern!
 
-[Chorus]
-Firmament firewall in the sky above,
-Digital firewall blocking truth and love,
-One protects us from the waters of the deep,
-One protects the lies they want us to keep!
+[Refrain]
+Firmament-Firewall am Himmel oben,
+Digitale Firewall blockiert Wahrheit und Liebe,
+Eine schützt uns vor den Wassern der Tiefe,
+Eine schützt die Lügen, die sie wollen, dass wir bewahren!
 
 [Outro]
-God's firewall protects from the waters above,
-Their firewall protects lies from the truth we love,
-But one was built by the Almighty's decree,
-The other will fall—and the truth sets us free.
+Gottes Firewall schützt vor den Wassern oben,
+Ihre Firewall schützt Lügen vor der Wahrheit, die wir lieben,
+Doch eine wurde durch des Allmächtigen Dekret gebaut,
+Die andere wird fallen – und die Wahrheit macht uns frei.

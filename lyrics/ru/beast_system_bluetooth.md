@@ -1,74 +1,74 @@
-SONG 10: "Beast System Bluetooth"
-(Theme: Mark of the Beast + MAC Address Humans)
+ПЕСНЯ 10: "Система Зверя Bluetooth"
+(Тема: Начертание Зверя + Люди с MAC-Адресами)
 
-[Intro]
+[Вступление]
 
-[Verse 1]
-The beast system's running through your veins tonight,
-Bluetooth signals broadcasting in the night,
-Open your phone app, scan for devices near,
-MAC addresses from the jabbed appear.
+[Куплет 1]
+Система зверя течет по твоим венам этой ночью,
+Bluetooth-сигналы передаются в ночи,
+Открой приложение на телефоне, отсканируй устройства рядом,
+MAC-адреса от привитых появляются.
 
-[Verse 2]
-Revelation thirteen, the number of a man,
-Six-six-six embedded in the master plan,
-But now it's hexadecimal addresses too,
-Broadcasting beast coordinates from me and you.
+[Куплет 2]
+Откровение тринадцать, число человека,
+Шесть-шесть-шесть встроено в главный план,
+Но теперь это ещё и шестнадцатеричные адреса,
+Передающие координаты зверя от меня и тебя.
 
-[Chorus]
-Beast system Bluetooth pinging all around,
-Human MAC addresses—that's the sound,
-The mark of the beast is a wireless transmit,
-Bluetooth bodies—this is it!
+[Припев]
+Система зверя Bluetooth звучит повсюду,
+Человеческие MAC-адреса — это звук,
+Начертание зверя — это беспроводная передача,
+Bluetooth-тела — вот оно!
 
-[Verse 3]
-Go to the graveyard, scan the Bluetooth there,
-Dead bodies broadcasting in the air,
-Graphene oxide circuits still alive,
-The beast system signals continue to thrive.
+[Куплет 3]
+Иди на кладбище, отсканируй там Bluetooth,
+Мёртвые тела передают в воздухе,
+Схемы из оксида графена всё ещё живы,
+Сигналы системы зверя продолжают процветать.
 
-[Verse 4]
-They called us crazy, called us conspiracy nuts,
-Now the data's showing—no ifs, ands, or buts,
-Unique identifiers for every single soul,
-Beast system Bluetooth—total control.
+[Куплет 4]
+Нас называли сумасшедшими, называли конспирологами,
+Теперь данные показывают — без всяких «если» и «но»,
+Уникальные идентификаторы для каждой души,
+Система зверя Bluetooth — полный контроль.
 
-[Chorus]
-Beast system Bluetooth pinging all around,
-Human MAC addresses—that's the sound,
-The mark of the beast is a wireless transmit,
-Bluetooth bodies—this is it!
+[Припев]
+Система зверя Bluetooth звучит повсюду,
+Человеческие MAC-адреса — это звук,
+Начертание зверя — это беспроводная передача,
+Bluetooth-тела — вот оно!
 
-[Bridge]
-The beast and his mark—inseparable they stand,
-A technological mark burned into your hand,
-Not just a concept, not a metaphor or sign,
-But real tech connecting to the beast's design!
-Refuse the signal, stay pure from the start,
-Keep the Holy Spirit dwelling in your heart,
-No Bluetooth from the pure bloods broadcasting,
-The remnant stands firm—our faith is lasting!
+[Переход]
+Зверь и его начертание — неразделимы они стоят,
+Технологическое начертание выжжено на твоей руке,
+Не просто концепция, не метафора или знак,
+А реальная технология, соединяющаяся с планом зверя!
+Откажись от сигнала, оставайся чистым с самого начала,
+Держи Святого Духа живущим в своём сердце,
+Никакого Bluetooth от чистокровных не передаётся,
+Остаток стоит твёрдо — наша вера длится!
 
-[Verse 5]
-They need you trackable every single day,
-Beast system Bluetooth won't go away,
-Connected to the cloud, connected to the grid,
-Your body's now a node for the evil they did.
+[Куплет 5]
+Им нужно, чтобы ты был отслеживаем каждый день,
+Система зверя Bluetooth не исчезнет,
+Подключен к облаку, подключен к сети,
+Твоё тело теперь узел для зла, которое они совершили.
 
-[Verse 6]
-But the pure bloods walking silent through the crowd,
-No signal pinging, standing strong and proud,
-The beast can't track what the Father protects,
-Clean blood flowing through the remnant's specs.
+[Куплет 6]
+Но чистокровные идут молча сквозь толпу,
+Никакого сигнала не звучит, стоят сильные и гордые,
+Зверь не может отследить то, что Отец защищает,
+Чистая кровь течёт через характеристики остатка.
 
-[Chorus]
-Beast system Bluetooth pinging all around,
-Human MAC addresses—that's the sound,
-The mark of the beast is a wireless transmit,
-Bluetooth bodies—this is it!
+[Припев]
+Система зверя Bluetooth звучит повсюду,
+Человеческие MAC-адреса — это звук,
+Начертание зверя — это беспроводная передача,
+Bluetooth-тела — вот оно!
 
-[Outro]
-Beast system Bluetooth—the mark made real,
-Wireless transmitters—that's the deal,
-But the silent remnant walks by faith not sight,
-Bluetooth-free warriors standing for the light.
+[Концовка]
+Система зверя Bluetooth — начертание стало реальным,
+Беспроводные передатчики — вот в чём дело,
+Но молчаливый остаток идёт верой, а не зрением,
+Воины без Bluetooth, стоящие за свет.

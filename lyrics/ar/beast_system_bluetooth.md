@@ -1,74 +1,74 @@
-SONG 10: "Beast System Bluetooth"
-(Theme: Mark of the Beast + MAC Address Humans)
+أغنية 10: "نظام الوحش بلوتوث"
+(الموضوع: علامة الوحش + البشر بعناوين MAC)
 
-[Intro]
+[المقدمة]
 
-[Verse 1]
-The beast system's running through your veins tonight,
-Bluetooth signals broadcasting in the night,
-Open your phone app, scan for devices near,
-MAC addresses from the jabbed appear.
+[الكوبليه 1]
+نظام الوحش يجري في عروقك الليلة،
+إشارات البلوتوث تبث في الليل،
+افتح تطبيق هاتفك، امسح الأجهزة القريبة،
+عناوين MAC من الملقحين تظهر.
 
-[Verse 2]
-Revelation thirteen, the number of a man,
-Six-six-six embedded in the master plan,
-But now it's hexadecimal addresses too,
-Broadcasting beast coordinates from me and you.
+[الكوبليه 2]
+الرؤيا ثلاثة عشر، رقم إنسان،
+ستة ستة ستة مضمنة في الخطة الرئيسية،
+لكنها الآن عناوين سداسية عشرية أيضًا،
+تبث إحداثيات الوحش مني ومنك.
 
-[Chorus]
-Beast system Bluetooth pinging all around,
-Human MAC addresses—that's the sound,
-The mark of the beast is a wireless transmit,
-Bluetooth bodies—this is it!
+[اللازمة]
+نظام الوحش بلوتوث يرسل إشارات في كل مكان،
+عناوين MAC بشرية - هذا هو الصوت،
+علامة الوحش هي إرسال لاسلكي،
+أجساد بلوتوث - هذا هو!
 
-[Verse 3]
-Go to the graveyard, scan the Bluetooth there,
-Dead bodies broadcasting in the air,
-Graphene oxide circuits still alive,
-The beast system signals continue to thrive.
+[الكوبليه 3]
+اذهب إلى المقبرة، امسح البلوتوث هناك،
+جثث ميتة تبث في الهواء،
+دوائر أكسيد الجرافين لا تزال حية،
+إشارات نظام الوحش تستمر في الازدهار.
 
-[Verse 4]
-They called us crazy, called us conspiracy nuts,
-Now the data's showing—no ifs, ands, or buts,
-Unique identifiers for every single soul,
-Beast system Bluetooth—total control.
+[الكوبليه 4]
+نادونا مجانين، نادونا مهووسين بنظرية المؤامرة،
+الآن البيانات تظهر - لا إذا ولا و ولا لكن،
+معرفات فريدة لكل روح واحدة،
+نظام الوحش بلوتوث - سيطرة كاملة.
 
-[Chorus]
-Beast system Bluetooth pinging all around,
-Human MAC addresses—that's the sound,
-The mark of the beast is a wireless transmit,
-Bluetooth bodies—this is it!
+[اللازمة]
+نظام الوحش بلوتوث يرسل إشارات في كل مكان،
+عناوين MAC بشرية - هذا هو الصوت،
+علامة الوحش هي إرسال لاسلكي،
+أجساد بلوتوث - هذا هو!
 
-[Bridge]
-The beast and his mark—inseparable they stand,
-A technological mark burned into your hand,
-Not just a concept, not a metaphor or sign,
-But real tech connecting to the beast's design!
-Refuse the signal, stay pure from the start,
-Keep the Holy Spirit dwelling in your heart,
-No Bluetooth from the pure bloods broadcasting,
-The remnant stands firm—our faith is lasting!
+[الجسر]
+الوحش وعلامته - يقفان لا ينفصلان،
+علامة تكنولوجية محترقة في يدك،
+ليس مجرد مفهوم، ليس استعارة أو علامة،
+لكن تقنية حقيقية تتصل بتصميم الوحش!
+ارفض الإشارة، ابق نقيًا من البداية،
+احتفظ بالروح القدس يسكن في قلبك،
+لا بلوتوث من الدماء النقية يبث،
+البقية تقف صامدة - إيماننا دائم!
 
-[Verse 5]
-They need you trackable every single day,
-Beast system Bluetooth won't go away,
-Connected to the cloud, connected to the grid,
-Your body's now a node for the evil they did.
+[الكوبليه 5]
+إنهم يحتاجونك قابلاً للتتبع كل يوم،
+نظام الوحش بلوتوث لن يختفي،
+متصل بالسحابة، متصل بالشبكة،
+جسمك الآن عقدة للشر الذي فعلوه.
 
-[Verse 6]
-But the pure bloods walking silent through the crowd,
-No signal pinging, standing strong and proud,
-The beast can't track what the Father protects,
-Clean blood flowing through the remnant's specs.
+[الكوبليه 6]
+لكن الدماء النقية تمشي صامتة عبر الحشد،
+لا إشارة ترن، تقف قوية وفخورة،
+الوحش لا يستطيع تتبع ما يحميه الآب،
+دم نظيف يتدفق عبر مواصفات البقية.
 
-[Chorus]
-Beast system Bluetooth pinging all around,
-Human MAC addresses—that's the sound,
-The mark of the beast is a wireless transmit,
-Bluetooth bodies—this is it!
+[اللازمة]
+نظام الوحش بلوتوث يرسل إشارات في كل مكان،
+عناوين MAC بشرية - هذا هو الصوت،
+علامة الوحش هي إرسال لاسلكي،
+أجساد بلوتوث - هذا هو!
 
-[Outro]
-Beast system Bluetooth—the mark made real,
-Wireless transmitters—that's the deal,
-But the silent remnant walks by faith not sight,
-Bluetooth-free warriors standing for the light.
+[الخاتمة]
+نظام الوحش بلوتوث - العلامة أصبحت حقيقية،
+أجهزة إرسال لاسلكية - هذه هي الصفقة،
+لكن البقية الصامتة تمشي بالإيمان وليس بالنظر،
+محاربون بدون بلوتوث يقفون من أجل النور.

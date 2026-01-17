@@ -1,74 +1,74 @@
-SONG 12: "Dome Dwellers Awakening"
-(Theme: Flat Earth Truth + Final Awakening for Humanity)
+CANZONE 12: "Risveglio degli Abitanti della Cupola"
+(Tema: Verità della Terra Piatta + Risveglio Finale per l'Umanità)
 
 [Intro]
 
-[Verse 1]
-They kept us sleeping under the dome so long,
-Pear-shaped testicle lies—believing wrong,
-But the dome dwellers waking, opening eyes,
-Seeing through both space and tech's disguise.
+[Strofa 1]
+Ci hanno tenuti addormentati sotto la cupola così a lungo,
+Bugie testicolari a forma di pera — credendo sbagliato,
+Ma gli abitanti della cupola si stanno svegliando, aprendo gli occhi,
+Vedendo attraverso sia lo spazio che il travestimento della tecnologia.
 
-[Verse 2]
-Flat earth was the key that unlocked the door,
-Now we see the nanotech and so much more,
-One lie connected to the other strand,
-A web of deception across every land.
+[Strofa 2]
+La terra piatta era la chiave che ha aperto la porta,
+Ora vediamo la nanotecnologia e molto di più,
+Una bugia collegata all'altra fila,
+Una rete di inganni attraverso ogni terra.
 
-[Chorus]
-Dome dwellers awakening to the truth at last,
-Flat earth breaking chains from the past,
-Seeing the firmament and the beast system too,
-The final awakening is coming through!
+[Ritornello]
+Abitanti della cupola che si risvegliano alla verità finalmente,
+Terra piatta che spezza le catene del passato,
+Vedendo il firmamento e anche il sistema della bestia,
+Il risveglio finale sta arrivando!
 
-[Verse 3]
-P900 zoom revealed the plane,
-Blood microscopy revealed the bane,
-What they hid above connects to what's within,
-One matrix of lies covering every sin.
+[Strofa 3]
+Lo zoom P900 ha rivelato il piano,
+La microscopia del sangue ha rivelato la rovina,
+Ciò che hanno nascosto sopra si collega a ciò che è dentro,
+Una matrice di bugie che copre ogni peccato.
 
-[Verse 4]
-They couldn't maintain the globe without fake space,
-They can't maintain control without tracking your face,
-Two systems of bondage crumbling as one,
-The dome dwellers rising with the morning sun.
+[Strofa 4]
+Non potevano mantenere il globo senza spazio falso,
+Non possono mantenere il controllo senza tracciare il tuo viso,
+Due sistemi di schiavitù che crollano come uno,
+Gli abitanti della cupola che si alzano con il sole del mattino.
 
-[Chorus]
-Dome dwellers awakening to the truth at last,
-Flat earth breaking chains from the past,
-Seeing the firmament and the beast system too,
-The final awakening is coming through!
+[Ritornello]
+Abitanti della cupola che si risvegliano alla verità finalmente,
+Terra piatta che spezza le catene del passato,
+Vedendo il firmamento e anche il sistema della bestia,
+Il risveglio finale sta arrivando!
 
 [Bridge]
-Hosea four-six said perish from not knowing,
-But now the truth is flooding, overflowing,
-Flat earth led us down the rabbit hole,
-Now we see the war being waged for our soul!
-From space lies to vaccine lies—all connect,
-The same deceiver running the tech,
-But the dome dwellers see it all so clear,
-The awakening's here—the end is near!
+Osea quattro-sei disse perire per non sapere,
+Ma ora la verità sta inondando, traboccando,
+La terra piatta ci ha portato giù nella tana del coniglio,
+Ora vediamo la guerra combattuta per la nostra anima!
+Dalle bugie spaziali alle bugie sui vaccini — tutto si collega,
+Lo stesso ingannatore che gestisce la tecnologia,
+Ma gli abitanti della cupola vedono tutto così chiaramente,
+Il risveglio è qui — la fine è vicina!
 
-[Verse 5]
-Karen Kingston exposed the patents' truth,
-Eric Dubay exposed the globe's bad proof,
-Ana Mihalcea shows blood transformed,
-The awakened remnant weathering the storm.
+[Strofa 5]
+Karen Kingston ha esposto la verità dei brevetti,
+Eric Dubay ha esposto le cattive prove del globo,
+Ana Mihalcea mostra il sangue trasformato,
+Il resto risvegliato che resiste alla tempesta.
 
-[Verse 6]
-From firmament to nanobots, we see the scheme,
-Satan's matrix crumbling at the seams,
-The dome above reflects the truth below,
-As within, so without—now we know.
+[Strofa 6]
+Dal firmamento ai nanobot, vediamo lo schema,
+La matrice di Satana che crolla nelle cuciture,
+La cupola sopra riflette la verità sotto,
+Come dentro, così fuori — ora sappiamo.
 
-[Chorus]
-Dome dwellers awakening to the truth at last,
-Flat earth breaking chains from the past,
-Seeing the firmament and the beast system too,
-The final awakening is coming through!
+[Ritornello]
+Abitanti della cupola che si risvegliano alla verità finalmente,
+Terra piatta che spezza le catene del passato,
+Vedendo il firmamento e anche il sistema della bestia,
+Il risveglio finale sta arrivando!
 
 [Outro]
-Dome dwellers awakening from sea to sea,
-Flat earth truth setting humanity free,
-And with that truth, all deceptions fall,
-The final awakening answering the call.
+Abitanti della cupola che si risvegliano da mare a mare,
+La verità della terra piatta che libera l'umanità,
+E con quella verità, tutti gli inganni cadono,
+Il risveglio finale che risponde alla chiamata.

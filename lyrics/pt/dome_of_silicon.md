@@ -1,74 +1,74 @@
-SONG 1: "Cúpula de Silício"
-(Theme: Flat Earth Firmament + AI Digital Prison)
+MÚSICA 1: "Cúpula de Silício"
+(Tema: Firmamento da Terra Plana + Prisão Digital de IA)
 
 [Intro]
 
-[Verse 1]
-They built a prison underneath the dome,
-Silicon valleys where the demons roam,
-Firmament above us solid as steel,
-But they've built another one—digital and real.
+[Verso 1]
+Eles construíram uma prisão sob a cúpula,
+Vales de silício onde os demônios vagam,
+Firmamento acima de nós sólido como aço,
+Mas eles construíram outro — digital e real.
 
-[Verse 2]
-Genesis tells us waters above the sky,
-Now they're drowning us in data, algorithm lies,
-God's ceiling keeps the waters held at bay,
-Their ceiling keeps the truth locked away.
+[Verso 2]
+Gênesis nos conta sobre águas acima do céu,
+Agora eles estão nos afogando em dados, mentiras de algoritmo,
+O teto de Deus mantém as águas à distância,
+O teto deles mantém a verdade trancada.
 
-[Chorus]
-Dome of silicon, dome of glass,
-Two prisons built to hold the mass,
-One made by God to protect His creation,
-One made by man for our digital damnation!
+[Refrão]
+Cúpula de silício, cúpula de vidro,
+Duas prisões construídas para segurar a massa,
+Uma feita por Deus para proteger Sua criação,
+Uma feita pelo homem para nossa condenação digital!
 
-[Verse 3]
-They couldn't break through the firmament wall,
-So they built the metaverse to trap us all,
-"Space is fake" so they made cyberspace,
-Another false reality shoved in your face.
+[Verso 3]
+Eles não conseguiram atravessar a parede do firmamento,
+Então construíram o metaverso para nos aprisionar,
+"Espaço é falso" então fizeram o ciberespaço,
+Outra realidade falsa enfiada na sua cara.
 
-[Verse 4]
-Elon says we might be in a simulation,
-Preparing your mind for the great migration,
-Upload your soul to the cloud they say,
-While the real dome above keeps heaven at bay.
+[Verso 4]
+Elon diz que podemos estar em uma simulação,
+Preparando sua mente para a grande migração,
+Carregue sua alma para a nuvem, eles dizem,
+Enquanto a cúpula real acima mantém o céu à distância.
 
-[Chorus]
-Dome of silicon, dome of glass,
-Two prisons built to hold the mass,
-One made by God to protect His creation,
-One made by man for our digital damnation!
+[Refrão]
+Cúpula de silício, cúpula de vidro,
+Duas prisões construídas para segurar a massa,
+Uma feita por Deus para proteger Sua criação,
+Uma feita pelo homem para nossa condenação digital!
 
-[Bridge]
-The firmament holds—they cannot breach,
-So digital heavens is what they preach,
-Transhumanism is their tower of lies,
-Building to God but they can't reach the skies!
-Babel fell and so will this,
-Silicon dreams turn to the abyss,
-Christ is the door, the only way through,
-Not fiber optics—the Gospel is true!
+[Ponte]
+O firmamento aguenta — eles não podem violar,
+Então céus digitais é o que eles pregam,
+Transhumanismo é sua torre de mentiras,
+Construindo para Deus mas não podem alcançar os céus!
+Babel caiu e isso também cairá,
+Sonhos de silício se tornam o abismo,
+Cristo é a porta, o único caminho,
+Não fibra óptica — o Evangelho é verdadeiro!
 
-[Verse 5]
-P900 zoom shows no curve below,
-But the algorithm curves what you're allowed to know,
-Flat earth truth gets shadow banned quick,
-While they push the pear-shaped testicle trick.
+[Verso 5]
+Zoom P900 não mostra curva abaixo,
+Mas o algoritmo curva o que você tem permissão para saber,
+Verdade da terra plana é banida rapidamente,
+Enquanto empurram o truque do testículo em forma de pera.
 
-[Verse 6]
-Smart dust falls from towers not stars,
-The firmament holds, can't escape to Mars,
-So they trap you in VR, AR, AI,
-Another dome of silicon—do or die.
+[Verso 6]
+Poeira inteligente cai de torres, não de estrelas,
+O firmamento aguenta, não pode escapar para Marte,
+Então eles te prendem em VR, AR, IA,
+Outra cúpula de silício — faça ou morra.
 
-[Chorus]
-Dome of silicon, dome of glass,
-Two prisons built to hold the mass,
-One made by God to protect His creation,
-One made by man for our digital damnation!
+[Refrão]
+Cúpula de silício, cúpula de vidro,
+Duas prisões construídas para segurar a massa,
+Uma feita por Deus para proteger Sua criação,
+Uma feita pelo homem para nossa condenação digital!
 
 [Outro]
-Two domes standing—one by God, one by man,
-Only one will hold according to the plan,
-Silicon crumbles when the Father calls,
-But the firmament stands while Babylon falls.
+Duas cúpulas de pé — uma por Deus, uma pelo homem,
+Apenas uma se manterá de acordo com o plano,
+Silício desmorona quando o Pai chama,
+Mas o firmamento permanece enquanto a Babilônia cai.

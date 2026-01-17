@@ -1,74 +1,74 @@
-SONG 3: "Mark of the Nanobot"
-(Theme: Mark of the Beast + Self-Assembling Tech)
+노래 3: "나노봇의 표"
+(주제: 짐승의 표 + 자가 조립 기술)
 
-[Intro]
+[인트로]
 
-[Verse 1]
-Revelation thirteen told us long ago,
-A mark in your hand or head—now we know,
-It's not just a chip or a number tattoo,
-It's nanobots assembling inside of you.
+[벌스 1]
+요한계시록 13장은 오래전에 우리에게 말했다,
+당신의 손이나 머리의 표—이제 우리는 안다,
+그것은 단지 칩이나 숫자 문신이 아니다,
+그것은 당신 안에서 조립되는 나노봇이다.
 
-[Verse 2]
-Self-assembly tech in every single vial,
-Karen Kingston exposed it—check the file,
-Mesogens forming circuits in your blood,
-The mark of the beast in a biotech flood.
+[벌스 2]
+모든 단일 바이알에 자가 조립 기술,
+카렌 킹스턴이 폭로했다—파일을 확인하라,
+당신의 혈액에서 회로를 형성하는 메소겐,
+생명공학 홍수 속의 짐승의 표.
 
-[Chorus]
-Mark of the nanobot—six-six-six inside,
-Self-assembling demons where they hide,
-Can't buy or sell without this tech within,
-The mark of the beast is under your skin!
+[후렴]
+나노봇의 표—내부의 666,
+그들이 숨는 곳의 자가 조립 악마,
+이 기술 없이는 사거나 팔 수 없다,
+짐승의 표는 당신의 피부 아래에 있다!
 
-[Verse 3]
-Quantum dots lighting up your flesh,
-Luciferase—named after the serpent's mesh,
-Bioluminescent markers in your frame,
-A digital tattoo bearing Satan's name.
+[벌스 3]
+당신의 살을 밝히는 양자 점,
+루시퍼라아제—뱀의 그물을 따서 명명된,
+당신의 틀 안의 생물 발광 마커,
+사탄의 이름을 지닌 디지털 문신.
 
-[Verse 4]
-They said it was safe, they said it was free,
-Now MAC addresses broadcast from you and me,
-Bluetooth bodies walking through the street,
-The mark complete from your head to your feet.
+[벌스 4]
+그들은 안전하다고 말했고, 무료라고 말했다,
+이제 MAC 주소가 나와 당신으로부터 방송된다,
+거리를 걷는 블루투스 몸,
+머리에서 발까지 완성된 표.
 
-[Chorus]
-Mark of the nanobot—six-six-six inside,
-Self-assembling demons where they hide,
-Can't buy or sell without this tech within,
-The mark of the beast is under your skin!
+[후렴]
+나노봇의 표—내부의 666,
+그들이 숨는 곳의 자가 조립 악마,
+이 기술 없이는 사거나 팔 수 없다,
+짐승의 표는 당신의 피부 아래에 있다!
 
-[Bridge]
-Can't buy, can't sell—Revelation said it clear,
-CBDC and digital ID is here,
-Social credit scores tied to your compliance,
-The beast system running on nanotech science!
-Refuse the jab, refuse the mark,
-Stand firm for Jesus even in the dark,
-Better to die free than live a slave,
-Christ already conquered death and the grave!
+[브리지]
+살 수 없고, 팔 수 없다—요한계시록이 명확히 말했다,
+CBDC와 디지털 ID가 여기 있다,
+당신의 순응에 연결된 사회 신용 점수,
+나노기술 과학으로 운영되는 짐승 시스템!
+주사를 거부하라, 표를 거부하라,
+어둠 속에서도 예수를 위해 굳건히 서라,
+노예로 사는 것보다 자유롭게 죽는 것이 낫다,
+그리스도는 이미 죽음과 무덤을 정복했다!
 
-[Verse 5]
-Ana Mihalcea shows the blood so dark,
-Synthetic structures leaving their mark,
-Rouleaux formation, clots in every vein,
-The mark of the beast causing death and pain.
+[벌스 5]
+아나 미할체아는 너무 어두운 혈액을 보여준다,
+그들의 표를 남기는 합성 구조,
+롤로 형성, 모든 정맥의 혈전,
+죽음과 고통을 야기하는 짐승의 표.
 
-[Verse 6]
-They couldn't make us take the RFID chip,
-So they hid it in a needle's tip,
-Trojan horse delivery—nanotech inside,
-The mark of the beast where the demons hide.
+[벌스 6]
+그들은 우리가 RFID 칩을 받게 할 수 없었다,
+그래서 그들은 그것을 바늘 끝에 숨겼다,
+트로이 목마 전달—내부의 나노기술,
+악마가 숨는 짐승의 표.
 
-[Chorus]
-Mark of the nanobot—six-six-six inside,
-Self-assembling demons where they hide,
-Can't buy or sell without this tech within,
-The mark of the beast is under your skin!
+[후렴]
+나노봇의 표—내부의 666,
+그들이 숨는 곳의 자가 조립 악마,
+이 기술 없이는 사거나 팔 수 없다,
+짐승의 표는 당신의 피부 아래에 있다!
 
-[Outro]
-John saw it coming two thousand years ago,
-The mark of the beast—now the whole world knows,
-It's not in the future, it's happening now,
-Nanobots inside you—but we won't bow.
+[아웃트로]
+요한은 2천 년 전에 그것이 오는 것을 보았다,
+짐승의 표—이제 온 세상이 안다,
+그것은 미래에 있지 않다, 지금 일어나고 있다,
+당신 안의 나노봇—하지만 우리는 절하지 않을 것이다.

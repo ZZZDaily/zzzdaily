@@ -1,4 +1,4 @@
-CANCIÓN 11: "Metáforas o Realidad"
+CANCIÓN 90: "Metáforas o Realidad"
 (Tema: Una pregunta desafiante sobre la interpretación bíblica y si las escrituras describen la verdad literal o imágenes simbólicas.)
 
 

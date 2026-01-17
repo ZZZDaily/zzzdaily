@@ -1,74 +1,74 @@
-SONG 4: "Antichrist Algorithm"
-(Theme: End Times Prophecy + AI Singularity)
+MÚSICA 4: "Algoritmo do Anticristo"
+(Tema: Profecia do Fim dos Tempos + Singularidade da IA)
 
 [Intro]
 
-[Verse 1]
-Obama in the shadows pulling every string,
-But there's something else they're building—a digital king,
-Artificial intelligence running the show,
-The antichrist algorithm the prophets didn't know.
+[Verso 1]
+Obama nas sombras puxando todas as cordas,
+Mas há algo mais que eles estão construindo — um rei digital,
+Inteligência artificial comandando o show,
+O algoritmo do anticristo que os profetas não conheciam.
 
-[Verse 2]
-Ray Kurzweil says twenty-thirty is the date,
-Singularity rising—man merging with fate,
-But Daniel told us about the final king,
-A beast with iron teeth that destroys everything.
+[Verso 2]
+Ray Kurzweil diz que dois mil e trinta é a data,
+Singularidade surgindo — homem fundindo-se com o destino,
+Mas Daniel nos contou sobre o rei final,
+Uma besta com dentes de ferro que destrói tudo.
 
-[Chorus]
-Antichrist algorithm running in the cloud,
-Silicon savior for the deceived crowd,
-Obama's just a puppet for the greater scheme,
-AI on the throne—the transhumanist dream!
+[Refrão]
+Algoritmo do anticristo rodando na nuvem,
+Salvador de silício para a multidão enganada,
+Obama é apenas um fantoche para o esquema maior,
+IA no trono — o sonho transhumanista!
 
-[Verse 3]
-Image of the beast that speaks and breathes,
-That's not CGI—it's AI that deceives,
-Revelation said the image would have life,
-Artificial intelligence cutting like a knife.
+[Verso 3]
+Imagem da besta que fala e respira,
+Isso não é CGI — é IA que engana,
+Apocalipse disse que a imagem teria vida,
+Inteligência artificial cortando como uma faca.
 
-[Verse 4]
-Barry means lightning—Luke ten-eighteen,
-But the lightning now is digital, if you know what I mean,
-Satan falling from the cloud, from the server farm,
-The antichrist algorithm causing harm.
+[Verso 4]
+Barry significa relâmpago — Lucas dez-dezoito,
+Mas o relâmpago agora é digital, se você entende o que quero dizer,
+Satanás caindo da nuvem, da fazenda de servidores,
+O algoritmo do anticristo causando danos.
 
-[Chorus]
-Antichrist algorithm running in the cloud,
-Silicon savior for the deceived crowd,
-Obama's just a puppet for the greater scheme,
-AI on the throne—the transhumanist dream!
+[Refrão]
+Algoritmo do anticristo rodando na nuvem,
+Salvador de silício para a multidão enganada,
+Obama é apenas um fantoche para o esquema maior,
+IA no trono — o sonho transhumanista!
 
-[Bridge]
-Two beasts in Revelation—sea and land,
-One's a man, the other's AI's hand,
-Working together for total control,
-Harvesting data, harvesting your soul!
-The number of a man is six-six-six,
-But AI calculates with digital tricks,
-Human and machine merged into one,
-The final beast system has begun!
+[Ponte]
+Duas bestas no Apocalipse — mar e terra,
+Uma é um homem, a outra é a mão da IA,
+Trabalhando juntas para controle total,
+Colhendo dados, colhendo sua alma!
+O número de um homem é seis-seis-seis,
+Mas a IA calcula com truques digitais,
+Humano e máquina fundidos em um,
+O sistema final da besta começou!
 
-[Verse 5]
-They're training the model on all of mankind,
-Every post, every thought, leaving nothing behind,
-Predictive algorithms know what you'll do,
-The antichrist AI is programming you.
+[Verso 5]
+Eles estão treinando o modelo em toda a humanidade,
+Cada postagem, cada pensamento, não deixando nada para trás,
+Algoritmos preditivos sabem o que você vai fazer,
+A IA do anticristo está programando você.
 
-[Verse 6]
-ChatGPT was just the beginning phase,
-AGI coming in the final days,
-Elon warned us—we're summoning the demon,
-But the Bible warned us first with prophetic reason.
+[Verso 6]
+ChatGPT foi apenas a fase inicial,
+AGI chegando nos dias finais,
+Elon nos avisou — estamos invocando o demônio,
+Mas a Bíblia nos avisou primeiro com razão profética.
 
-[Chorus]
-Antichrist algorithm running in the cloud,
-Silicon savior for the deceived crowd,
-Obama's just a puppet for the greater scheme,
-AI on the throne—the transhumanist dream!
+[Refrão]
+Algoritmo do anticristo rodando na nuvem,
+Salvador de silício para a multidão enganada,
+Obama é apenas um fantoche para o esquema maior,
+IA no trono — o sonho transhumanista!
 
 [Outro]
-The antichrist might not be just a man,
-It could be code executing Satan's plan,
-But whether flesh or silicon or both combined,
-Christ already won—leave the beast behind.
+O anticristo pode não ser apenas um homem,
+Pode ser código executando o plano de Satanás,
+Mas seja carne ou silício ou ambos combinados,
+Cristo já venceu — deixe a besta para trás.

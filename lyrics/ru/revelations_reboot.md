@@ -1,74 +1,74 @@
-SONG 15: "Revelations Reboot"
-(Theme: Book of Revelation + Singularity Prophecy)
+ПЕСНЯ 15: "Перезагрузка Откровения"
+(Тема: Книга Откровения + Пророчество Сингулярности)
 
-[Intro]
+[Вступление]
 
-[Verse 1]
-John saw the vision on Patmos isle,
-The end of days prophesied in God's style,
-But now the prophecy's getting a reboot,
-Technology fulfilling every dispute.
+[Куплет 1]
+Иоанн видел видение на острове Патмос,
+Последние дни пророчествованы в стиле Бога,
+Но теперь пророчество получает перезагрузку,
+Технология исполняет каждый спор.
 
-[Verse 2]
-Twenty-thirty is the singularity date,
-Kurzweil's prediction—can't wait,
-But Revelation warned two thousand years before,
-The beast system rising—that's what's in store.
+[Куплет 2]
+Двадцать тридцать — это дата сингулярности,
+Предсказание Курцвейла — не могу дождаться,
+Но Откровение предупредило две тысячи лет назад,
+Система зверя поднимается — вот что в запасе.
 
-[Chorus]
-Revelations reboot playing out in real-time,
-Singularity prophecy—the final paradigm,
-What John saw in spirit, we see in flesh,
-Technology and prophecy—the perfect mesh!
+[Припев]
+Перезагрузка Откровения разворачивается в реальном времени,
+Пророчество сингулярности — финальная парадигма,
+То, что Иоанн видел в духе, мы видим во плоти,
+Технология и пророчество — идеальное слияние!
 
-[Verse 3]
-The image of the beast that speaks and lives,
-Artificial intelligence is what it gives,
-Fire from heaven? DEW weapons rain,
-The false prophet's power explained.
+[Куплет 3]
+Образ зверя, который говорит и живёт,
+Искусственный интеллект — это то, что он даёт,
+Огонь с неба? Оружие направленной энергии льётся дождём,
+Сила лжепророка объяснена.
 
-[Verse 4]
-No buying or selling—digital ID,
-Mark of the beast for you and me,
-One world government forming day by day,
-Revelation's reboot on display.
+[Куплет 4]
+Нет покупки или продажи — цифровой ID,
+Начертание зверя для тебя и меня,
+Мировое правительство формируется день за днём,
+Перезагрузка Откровения на дисплее.
 
-[Chorus]
-Revelations reboot playing out in real-time,
-Singularity prophecy—the final paradigm,
-What John saw in spirit, we see in flesh,
-Technology and prophecy—the perfect mesh!
+[Припев]
+Перезагрузка Откровения разворачивается в реальном времени,
+Пророчество сингулярности — финальная парадигма,
+То, что Иоанн видел в духе, мы видим во плоти,
+Технология и пророчество — идеальное слияние!
 
-[Bridge]
-They thought they could escape what God foretold,
-But technology just does what prophecy enrolled,
-Every verse coming true in silicon and code,
-The ancient scroll unfolding down the road!
-The Lamb was slain before the world began,
-Christ already won against the master plan,
-Let the singularity come, let AI rise,
-The King of Kings wins—no surprise!
+[Переход]
+Они думали, что смогут избежать того, что Бог предсказал,
+Но технология просто делает то, что зарегистрировало пророчество,
+Каждый стих сбывается в кремнии и коде,
+Древний свиток разворачивается по дороге!
+Агнец был заклан до начала мира,
+Христос уже победил главный план,
+Пусть придёт сингулярность, пусть поднимется ИИ,
+Царь царей побеждает — никаких сюрпризов!
 
-[Verse 5]
-Babylon falling in a single hour,
-Digital systems losing all their power,
-EMP from the sun or God's own hand,
-Either way, the beast can't stand.
+[Куплет 5]
+Вавилон падает за один час,
+Цифровые системы теряют всю свою силу,
+ЭМИ от солнца или рука Бога,
+В любом случае, зверь не может устоять.
 
-[Verse 6]
-New Jerusalem descending from above,
-No need for sun—lit by Christ's love,
-No more tech, no more lies to face,
-Revelation's final reboot—amazing grace.
+[Куплет 6]
+Новый Иерусалим спускается сверху,
+Не нужно солнце — освещён любовью Христа,
+Больше никакой технологии, никакой лжи,
+Финальная перезагрузка Откровения — удивительная благодать.
 
-[Chorus]
-Revelations reboot playing out in real-time,
-Singularity prophecy—the final paradigm,
-What John saw in spirit, we see in flesh,
-Technology and prophecy—the perfect mesh!
+[Припев]
+Перезагрузка Откровения разворачивается в реальном времени,
+Пророчество сингулярности — финальная парадигма,
+То, что Иоанн видел в духе, мы видим во плоти,
+Технология и пророчество — идеальное слияние!
 
-[Outro]
-Revelations reboot—the end draws near,
-Singularity rising but there's nothing to fear,
-What John saw then is coming true today,
-But Christ returns to carry His bride away.
+[Концовка]
+Перезагрузка Откровения — конец приближается,
+Сингулярность поднимается, но нечего бояться,
+То, что Иоанн видел тогда, сбывается сегодня,
+Но Христос возвращается, чтобы унести Свою невесту.

@@ -1,74 +1,74 @@
-SONG 8: "Digital Rapture"
-(Theme: Christian Rapture + Digital Twin Upload)
+CHANSON 8: "Enlèvement Numérique"
+(Thème: Enlèvement Chrétien + Téléchargement du Jumeau Numérique)
 
 [Intro]
 
-[Verse 1]
-They promise eternal life in the cloud,
-Upload your consciousness—join the crowd,
-A digital heaven where you never die,
-Satan's counterfeit of the rapture in the sky.
+[Couplet 1]
+Ils promettent la vie éternelle dans le cloud,
+Télécharge ta conscience — rejoins la foule,
+Un paradis numérique où tu ne meurs jamais,
+La contrefaçon satanique de l'enlèvement dans le ciel.
 
-[Verse 2]
-First Thessalonians four—caught up to meet,
-The Lord in the air—salvation complete,
-But they offer a fake version of the same,
-Digital rapture—a different name.
+[Couplet 2]
+Premier Thessaloniciens quatre — enlevés pour rencontrer,
+Le Seigneur dans les airs — salut complet,
+Mais ils offrent une fausse version de la même chose,
+Enlèvement numérique — un nom différent.
 
-[Chorus]
-Digital rapture—escape to the cloud,
-Leave your body, join the digital crowd,
-But it's not the rapture that Jesus brings,
-It's a silicon prison without any wings!
+[Refrain]
+Enlèvement numérique — fuis vers le cloud,
+Quitte ton corps, rejoins la foule numérique,
+Mais ce n'est pas l'enlèvement que Jésus apporte,
+C'est une prison de silicium sans ailes!
 
-[Verse 3]
-Digital twins of every human alive,
-Copies in the metaverse learning to thrive,
-When your body dies, they say you'll live on,
-But your soul without Christ is forever gone.
+[Couplet 3]
+Jumeaux numériques de chaque humain vivant,
+Copies dans le métavers apprenant à prospérer,
+Quand ton corps meurt, ils disent que tu vivras,
+Mais ton âme sans Christ est partie pour toujours.
 
-[Verse 4]
-Kurzweil dreams of living past a hundred years,
-Mind uploaded, no more death, no more tears,
-But only Jesus offers life that's true,
-Revelation twenty-one—all things new.
+[Couplet 4]
+Kurzweil rêve de vivre au-delà de cent ans,
+Esprit téléchargé, plus de mort, plus de larmes,
+Mais seul Jésus offre une vie qui est vraie,
+Apocalypse vingt et un — toutes choses nouvelles.
 
-[Chorus]
-Digital rapture—escape to the cloud,
-Leave your body, join the digital crowd,
-But it's not the rapture that Jesus brings,
-It's a silicon prison without any wings!
+[Refrain]
+Enlèvement numérique — fuis vers le cloud,
+Quitte ton corps, rejoins la foule numérique,
+Mais ce n'est pas l'enlèvement que Jésus apporte,
+C'est une prison de silicium sans ailes!
 
-[Bridge]
-In the twinkling of an eye, we shall be changed,
-Incorruptible bodies—divinely arranged,
-Not by Neuralink, not by any machine,
-But by Christ's return—the eternal King!
-Don't fall for the counterfeit eternal life,
-Satan's been a liar since Eden's strife,
-The digital rapture leaves your soul behind,
-The real rapture saves both body and mind!
+[Pont]
+En un clin d'œil, nous serons changés,
+Corps incorruptibles — divinement arrangés,
+Pas par Neuralink, pas par une machine,
+Mais par le retour de Christ — le Roi éternel!
+Ne tombe pas dans la vie éternelle contrefaite,
+Satan est menteur depuis le conflit d'Éden,
+L'enlèvement numérique laisse ton âme derrière,
+Le vrai enlèvement sauve corps et esprit!
 
-[Verse 5]
-They want to preserve you in ones and zeros,
-Digital avatars—false heroes,
-But code can't capture what makes you whole,
-The image of God imprinted on your soul.
+[Couplet 5]
+Ils veulent te préserver en uns et zéros,
+Avatars numériques — faux héros,
+Mais le code ne peut pas capturer ce qui te rend entier,
+L'image de Dieu imprimée sur ton âme.
 
-[Verse 6]
-Second Corinthians five—absent from the body,
-Present with the Lord—not virtually shoddy,
-The cloud they offer is Amazon's server farm,
-The cloud we rise to is in Jesus' arms.
+[Couplet 6]
+Deuxième Corinthiens cinq — absent du corps,
+Présent avec le Seigneur — pas virtuellement médiocre,
+Le cloud qu'ils offrent est la ferme de serveurs d'Amazon,
+Le cloud vers lequel nous montons est dans les bras de Jésus.
 
-[Chorus]
-Digital rapture—escape to the cloud,
-Leave your body, join the digital crowd,
-But it's not the rapture that Jesus brings,
-It's a silicon prison without any wings!
+[Refrain]
+Enlèvement numérique — fuis vers le cloud,
+Quitte ton corps, rejoins la foule numérique,
+Mais ce n'est pas l'enlèvement que Jésus apporte,
+C'est une prison de silicium sans ailes!
 
 [Outro]
-Digital rapture is the devil's great deceit,
-A counterfeit heaven that can't compete,
-When the trumpet sounds, the dead in Christ will rise,
-Not uploaded to servers—but meeting Him in the skies.
+L'enlèvement numérique est la grande tromperie du diable,
+Un paradis contrefait qui ne peut pas rivaliser,
+Quand la trompette sonnera, les morts en Christ ressusciteront,
+Pas téléchargés vers des serveurs — mais Le rencontrant dans les cieux.

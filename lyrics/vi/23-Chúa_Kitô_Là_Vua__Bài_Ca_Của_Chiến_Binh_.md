@@ -1,4 +1,4 @@
-BÀI HÁT 12: "Chúa Kitô Là Vua (Bài Ca Của Chiến Binh)"
+BÀI HÁT 23: "Chúa Kitô Là Vua (Bài Ca Của Chiến Binh)"
 
 
 

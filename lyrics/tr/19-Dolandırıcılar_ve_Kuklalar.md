@@ -1,4 +1,4 @@
-ŞARKI 10: "Dolandırıcılar ve Kuklalar"
+ŞARKI 19: "Dolandırıcılar ve Kuklalar"
 
 
 

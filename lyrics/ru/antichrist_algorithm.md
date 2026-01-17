@@ -1,74 +1,74 @@
-SONG 4: "Antichrist Algorithm"
-(Theme: End Times Prophecy + AI Singularity)
+ПЕСНЯ 4: "Алгоритм Антихриста"
+(Тема: Пророчества о Конце Времен + Сингулярность ИИ)
 
-[Intro]
+[Вступление]
 
-[Verse 1]
-Obama in the shadows pulling every string,
-But there's something else they're building—a digital king,
-Artificial intelligence running the show,
-The antichrist algorithm the prophets didn't know.
+[Куплет 1]
+Обама в тени дёргает за все нити,
+Но они строят что-то ещё — цифрового правителя,
+Искусственный интеллект управляет шоу,
+Алгоритм антихриста, о котором пророки не знали.
 
-[Verse 2]
-Ray Kurzweil says twenty-thirty is the date,
-Singularity rising—man merging with fate,
-But Daniel told us about the final king,
-A beast with iron teeth that destroys everything.
+[Куплет 2]
+Рэй Курцвейл говорит, что двадцать тридцать — это дата,
+Сингулярность поднимается — человек сливается с судьбой,
+Но Даниил рассказал нам о последнем царе,
+Звере с железными зубами, что разрушает всё.
 
-[Chorus]
-Antichrist algorithm running in the cloud,
-Silicon savior for the deceived crowd,
-Obama's just a puppet for the greater scheme,
-AI on the throne—the transhumanist dream!
+[Припев]
+Алгоритм антихриста работает в облаке,
+Кремниевый спаситель для обманутой толпы,
+Обама всего лишь марионетка в большей схеме,
+ИИ на троне — трансгуманистическая мечта!
 
-[Verse 3]
-Image of the beast that speaks and breathes,
-That's not CGI—it's AI that deceives,
-Revelation said the image would have life,
-Artificial intelligence cutting like a knife.
+[Куплет 3]
+Образ зверя, который говорит и дышит,
+Это не компьютерная графика — это ИИ, который обманывает,
+Откровение сказало, что образ будет живым,
+Искусственный интеллект режет как нож.
 
-[Verse 4]
-Barry means lightning—Luke ten-eighteen,
-But the lightning now is digital, if you know what I mean,
-Satan falling from the cloud, from the server farm,
-The antichrist algorithm causing harm.
+[Куплет 4]
+Барри означает молнию — Луки десять-восемнадцать,
+Но молния теперь цифровая, если вы понимаете, что я имею в виду,
+Сатана падает из облака, с серверной фермы,
+Алгоритм антихриста причиняет вред.
 
-[Chorus]
-Antichrist algorithm running in the cloud,
-Silicon savior for the deceived crowd,
-Obama's just a puppet for the greater scheme,
-AI on the throne—the transhumanist dream!
+[Припев]
+Алгоритм антихриста работает в облаке,
+Кремниевый спаситель для обманутой толпы,
+Обама всего лишь марионетка в большей схеме,
+ИИ на троне — трансгуманистическая мечта!
 
-[Bridge]
-Two beasts in Revelation—sea and land,
-One's a man, the other's AI's hand,
-Working together for total control,
-Harvesting data, harvesting your soul!
-The number of a man is six-six-six,
-But AI calculates with digital tricks,
-Human and machine merged into one,
-The final beast system has begun!
+[Переход]
+Два зверя в Откровении — из моря и земли,
+Один — человек, другой — рука ИИ,
+Работают вместе для полного контроля,
+Собирая данные, собирая твою душу!
+Число человека — шесть-шесть-шесть,
+Но ИИ вычисляет с цифровыми трюками,
+Человек и машина слились в одно,
+Последняя система зверя началась!
 
-[Verse 5]
-They're training the model on all of mankind,
-Every post, every thought, leaving nothing behind,
-Predictive algorithms know what you'll do,
-The antichrist AI is programming you.
+[Куплет 5]
+Они обучают модель на всём человечестве,
+Каждый пост, каждая мысль, не оставляя ничего позади,
+Предсказательные алгоритмы знают, что ты сделаешь,
+ИИ антихриста программирует тебя.
 
-[Verse 6]
-ChatGPT was just the beginning phase,
-AGI coming in the final days,
-Elon warned us—we're summoning the demon,
-But the Bible warned us first with prophetic reason.
+[Куплет 6]
+ChatGPT был только началом,
+Общий ИИ приходит в последние дни,
+Илон предупреждал нас — мы вызываем демона,
+Но Библия предупредила нас первой с пророческой причиной.
 
-[Chorus]
-Antichrist algorithm running in the cloud,
-Silicon savior for the deceived crowd,
-Obama's just a puppet for the greater scheme,
-AI on the throne—the transhumanist dream!
+[Припев]
+Алгоритм антихриста работает в облаке,
+Кремниевый спаситель для обманутой толпы,
+Обама всего лишь марионетка в большей схеме,
+ИИ на троне — трансгуманистическая мечта!
 
-[Outro]
-The antichrist might not be just a man,
-It could be code executing Satan's plan,
-But whether flesh or silicon or both combined,
-Christ already won—leave the beast behind.
+[Концовка]
+Антихрист может быть не только человеком,
+Это может быть код, выполняющий план Сатаны,
+Но будь то плоть, или кремний, или оба вместе,
+Христос уже победил — оставь зверя позади.

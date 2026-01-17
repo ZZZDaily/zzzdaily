@@ -1,74 +1,74 @@
-SONG 8: "Digital Rapture"
-(Theme: Christian Rapture + Digital Twin Upload)
+歌曲 8："数字被提"
+（主题：基督教被提 + 数字孪生上传）
 
-[Intro]
+[前奏]
 
-[Verse 1]
-They promise eternal life in the cloud,
-Upload your consciousness—join the crowd,
-A digital heaven where you never die,
-Satan's counterfeit of the rapture in the sky.
+[主歌 1]
+他们承诺云端永生，
+上传你的意识——加入人群，
+一个你永不死亡的数字天堂，
+撒旦对天空被提的伪造品。
 
-[Verse 2]
-First Thessalonians four—caught up to meet,
-The Lord in the air—salvation complete,
-But they offer a fake version of the same,
-Digital rapture—a different name.
+[主歌 2]
+帖撒罗尼迦前书第四章——被提升相遇，
+主在空中——救恩完成，
+但他们提供同样的假版本，
+数字被提——不同的名字。
 
-[Chorus]
-Digital rapture—escape to the cloud,
-Leave your body, join the digital crowd,
-But it's not the rapture that Jesus brings,
-It's a silicon prison without any wings!
+[副歌]
+数字被提——逃到云端，
+离开你的身体，加入数字人群，
+但这不是耶稣带来的被提，
+这是没有翅膀的硅谷监狱！
 
-[Verse 3]
-Digital twins of every human alive,
-Copies in the metaverse learning to thrive,
-When your body dies, they say you'll live on,
-But your soul without Christ is forever gone.
+[主歌 3]
+每个活着的人类都有数字孪生，
+元宇宙中的副本学习茁壮成长，
+当你的身体死亡时，他们说你会活下去，
+但你没有基督的灵魂永远消失了。
 
-[Verse 4]
-Kurzweil dreams of living past a hundred years,
-Mind uploaded, no more death, no more tears,
-But only Jesus offers life that's true,
-Revelation twenty-one—all things new.
+[主歌 4]
+库兹韦尔梦想活过一百岁，
+思维上传，不再有死亡，不再有眼泪，
+但只有耶稣提供真正的生命，
+启示录二十一章——万物更新。
 
-[Chorus]
-Digital rapture—escape to the cloud,
-Leave your body, join the digital crowd,
-But it's not the rapture that Jesus brings,
-It's a silicon prison without any wings!
+[副歌]
+数字被提——逃到云端，
+离开你的身体，加入数字人群，
+但这不是耶稣带来的被提，
+这是没有翅膀的硅谷监狱！
 
-[Bridge]
-In the twinkling of an eye, we shall be changed,
-Incorruptible bodies—divinely arranged,
-Not by Neuralink, not by any machine,
-But by Christ's return—the eternal King!
-Don't fall for the counterfeit eternal life,
-Satan's been a liar since Eden's strife,
-The digital rapture leaves your soul behind,
-The real rapture saves both body and mind!
+[桥段]
+眨眼之间，我们将被改变，
+不朽的身体——神圣安排，
+不是通过Neuralink，不是通过任何机器，
+而是通过基督的归来——永恒的君王！
+不要爱上伪造的永生，
+撒旦自伊甸园的冲突以来一直是骗子，
+数字被提把你的灵魂留在后面，
+真正的被提拯救身体和心灵！
 
-[Verse 5]
-They want to preserve you in ones and zeros,
-Digital avatars—false heroes,
-But code can't capture what makes you whole,
-The image of God imprinted on your soul.
+[主歌 5]
+他们想用一和零保存你，
+数字化身——虚假英雄，
+但代码无法捕捉使你完整的东西，
+印在你灵魂上的上帝形象。
 
-[Verse 6]
-Second Corinthians five—absent from the body,
-Present with the Lord—not virtually shoddy,
-The cloud they offer is Amazon's server farm,
-The cloud we rise to is in Jesus' arms.
+[主歌 6]
+哥林多后书第五章——离开身体，
+与主同在——不是虚拟的劣质，
+他们提供的云是亚马逊的服务器农场，
+我们升起的云在耶稣的怀抱中。
 
-[Chorus]
-Digital rapture—escape to the cloud,
-Leave your body, join the digital crowd,
-But it's not the rapture that Jesus brings,
-It's a silicon prison without any wings!
+[副歌]
+数字被提——逃到云端，
+离开你的身体，加入数字人群，
+但这不是耶稣带来的被提，
+这是没有翅膀的硅谷监狱！
 
-[Outro]
-Digital rapture is the devil's great deceit,
-A counterfeit heaven that can't compete,
-When the trumpet sounds, the dead in Christ will rise,
-Not uploaded to servers—but meeting Him in the skies.
+[尾奏]
+数字被提是魔鬼的大骗局，
+一个无法竞争的伪造天堂，
+当号角吹响时，在基督里死去的人会复活，
+不是上传到服务器——而是在天空中与祂相遇。

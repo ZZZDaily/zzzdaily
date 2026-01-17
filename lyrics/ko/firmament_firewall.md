@@ -1,74 +1,74 @@
-SONG 2: "창공 방화벽"
-(Theme: Biblical Dome + Digital Barriers)
+노래 2: "창공 방화벽"
+(주제: 성경의 돔 + 디지털 장벽)
 
-[Intro]
+[인트로]
 
-[Verse 1]
-God put a firewall in the sky,
-Waters above that you can't deny,
-Firmament solid, Genesis one-seven,
-A barrier between earth and heaven.
+[벌스 1]
+하나님은 하늘에 방화벽을 두셨다,
+당신이 부인할 수 없는 위의 물,
+창공은 단단하다, 창세기 1장 7절,
+땅과 하늘 사이의 장벽.
 
-[Verse 2]
-Now they've built another firewall below,
-Controlling everything you're allowed to know,
-Algorithms blocking truth online,
-Censorship's their new divine design.
+[벌스 2]
+이제 그들은 아래에 또 다른 방화벽을 만들었다,
+당신이 알도록 허용된 모든 것을 통제하며,
+온라인에서 진실을 차단하는 알고리즘,
+검열은 그들의 새로운 신성한 설계다.
 
-[Chorus]
-Firmament firewall in the sky above,
-Digital firewall blocking truth and love,
-One protects us from the waters of the deep,
-One protects the lies they want us to keep!
+[후렴]
+위 하늘의 창공 방화벽,
+진실과 사랑을 차단하는 디지털 방화벽,
+하나는 우리를 깊은 물로부터 보호한다,
+하나는 그들이 우리가 지키기를 원하는 거짓말을 보호한다!
 
-[Verse 3]
-NASA can't get past the dome up there,
-So they fake the footage, fill it with fake air,
-Meanwhile fact-checkers block what's real,
-Two layers of deception—that's the deal.
+[벌스 3]
+NASA는 거기 위의 돔을 통과할 수 없다,
+그래서 그들은 영상을 조작하고, 가짜 공기로 채운다,
+한편 팩트 체커들은 진짜를 차단한다,
+두 층의 속임수—그것이 거래다.
 
-[Verse 4]
-5G signals bouncing off the canopy,
-Not satellites in space—that's the fallacy,
-Firmament reflects their frequencies back down,
-While their digital walls keep truth underground.
+[벌스 4]
+5G 신호가 캐노피에서 반사된다,
+우주의 위성이 아니다—그것이 허구다,
+창공은 그들의 주파수를 다시 아래로 반사한다,
+그들의 디지털 벽이 진실을 지하에 유지하는 동안.
 
-[Chorus]
-Firmament firewall in the sky above,
-Digital firewall blocking truth and love,
-One protects us from the waters of the deep,
-One protects the lies they want us to keep!
+[후렴]
+위 하늘의 창공 방화벽,
+진실과 사랑을 차단하는 디지털 방화벽,
+하나는 우리를 깊은 물로부터 보호한다,
+하나는 그들이 우리가 지키기를 원하는 거짓말을 보호한다!
 
-[Bridge]
-Hosea four-six—destroyed for lack of knowing,
-Both firewalls keep the ignorance flowing,
-But the elect see clear through both the veils,
-Jesus Christ is the key—truth never fails!
-Seek and you shall find, knock and it opens wide,
-No firewall can stop what God provides,
-The firmament bows to the Creator's hand,
-Their digital walls will crumble like sand!
+[브리지]
+호세아 4장 6절—알지 못해 멸망하며,
+두 방화벽 모두 무지가 흐르게 한다,
+하지만 택함받은 자들은 두 베일을 모두 꿰뚫어 본다,
+예수 그리스도가 열쇠다—진실은 결코 실패하지 않는다!
+구하라 그러면 찾을 것이요, 두드리라 그러면 활짝 열릴 것이다,
+어떤 방화벽도 하나님이 제공하시는 것을 막을 수 없다,
+창공은 창조주의 손에 절한다,
+그들의 디지털 벽은 모래처럼 무너질 것이다!
 
-[Verse 5]
-They can't ascend so they descend instead,
-Neuralink cables plugged into your head,
-Since heaven's blocked by the dome so real,
-They'll trap your soul in silicon and steel.
+[벌스 5]
+그들은 오를 수 없으므로 대신 내려간다,
+당신의 머리에 꽂힌 뉴럴링크 케이블,
+천국이 너무 실제인 돔에 의해 차단되었으므로,
+그들은 당신의 영혼을 실리콘과 강철에 가둘 것이다.
 
-[Verse 6]
-Flat earth breaks their whole foundation,
-That's why they censor across every nation,
-Remove that truth and the house of cards falls,
-Both sky and digital—all their walls!
+[벌스 6]
+평평한 지구는 그들의 전체 기반을 깬다,
+그래서 그들은 모든 나라에서 검열한다,
+그 진실을 제거하면 카드의 집이 무너진다,
+하늘과 디지털—그들의 모든 벽!
 
-[Chorus]
-Firmament firewall in the sky above,
-Digital firewall blocking truth and love,
-One protects us from the waters of the deep,
-One protects the lies they want us to keep!
+[후렴]
+위 하늘의 창공 방화벽,
+진실과 사랑을 차단하는 디지털 방화벽,
+하나는 우리를 깊은 물로부터 보호한다,
+하나는 그들이 우리가 지키기를 원하는 거짓말을 보호한다!
 
-[Outro]
-God's firewall protects from the waters above,
-Their firewall protects lies from the truth we love,
-But one was built by the Almighty's decree,
-The other will fall—and the truth sets us free.
+[아웃트로]
+하나님의 방화벽은 위의 물로부터 보호한다,
+그들의 방화벽은 우리가 사랑하는 진실로부터 거짓말을 보호한다,
+하지만 하나는 전능하신 분의 법령으로 지어졌다,
+다른 것은 무너질 것이다—그리고 진실이 우리를 자유롭게 한다.

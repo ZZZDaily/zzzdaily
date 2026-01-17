@@ -1,74 +1,74 @@
-SONG 11: "Fake Stars, Real Chains"
-(Theme: Fake Space/Stars + Digital ID Enslavement)
+曲 11：「偽の星、本物の鎖」
+（テーマ：偽の宇宙/星 + デジタルID奴隷化）
 
-[Intro]
+[イントロ]
 
-[Verse 1]
-They told us stars were suns a trillion miles away,
-But they're lights in the firmament—Genesis says,
-The same liars that gave us fake space above,
-Now give us digital chains disguised as love.
+[ヴァース 1]
+彼らは星は1兆マイル離れた太陽だと私たちに言った、
+しかしそれらは天蓋の光だ——創世記が言う、
+私たちに上の偽の宇宙を与えた同じ嘘つき、
+今私たちに愛を装ったデジタルの鎖を与える。
 
-[Verse 2]
-If they lied about the cosmos, they'll lie about your name,
-Digital ID 2026—it's all the same game,
-Fake stars in the sky, fake freedom below,
-Real chains around your neck that they don't want you to know.
+[ヴァース 2]
+もし彼らが宇宙について嘘をついたなら、彼らはあなたの名前についても嘘をつく、
+デジタルID 2026——すべて同じゲームだ、
+空の偽の星、下の偽の自由、
+彼らがあなたに知られたくない首の周りの本物の鎖。
 
-[Chorus]
-Fake stars, real chains—the pattern's always there,
-Lies about the heavens, lies about the air,
-Space is fake but the slavery is real,
-Digital ID is the final deal!
+[コーラス]
+偽の星、本物の鎖——パターンは常にそこにある、
+天についての嘘、空気についての嘘、
+宇宙は偽物だが奴隷化は本物だ、
+デジタルIDが最終的な取引だ！
 
-[Verse 3]
-NASA steals trillions for lights on the dome,
-While WEF plans to track you from your home,
-Fake moon landings, real surveillance state,
-Fake asteroids coming, real lockdown fate.
+[ヴァース 3]
+NASAはドーム上の光のために数兆を盗む、
+WEFはあなたの家からあなたを追跡する計画を立てている、
+偽の月面着陸、本物の監視国家、
+偽の小惑星が来る、本物のロックダウンの運命。
 
-[Verse 4]
-They couldn't put satellites in space that's fake,
-So ground-based towers are all it takes,
-Starlink's not in orbit—check the facts,
-While digital ID puts chains on your backs.
+[ヴァース 4]
+彼らは偽の宇宙に衛星を置くことができなかった、
+だから地上のタワーが必要なすべてだ、
+スターリンクは軌道上にない——事実を確認せよ、
+一方でデジタルIDがあなたの背中に鎖を置く。
 
-[Chorus]
-Fake stars, real chains—the pattern's always there,
-Lies about the heavens, lies about the air,
-Space is fake but the slavery is real,
-Digital ID is the final deal!
+[コーラス]
+偽の星、本物の鎖——パターンは常にそこにある、
+天についての嘘、空気についての嘘、
+宇宙は偽物だが奴隷化は本物だ、
+デジタルIDが最終的な取引だ！
 
-[Bridge]
-Job thirty-eight asks where were you when I laid earth's foundation,
-The stars sing together for God's creation,
-Not balls of gas but angels bright,
-While they wrap you in digital chains tight!
-The same deceiver from the garden of old,
-Lies about the stars, buys and sells your soul,
-Fake space program, real beast system rise,
-Open your eyes to both sets of lies!
+[ブリッジ]
+ヨブ記38章は私が地の基を置いたとき、あなたはどこにいたかと尋ねる、
+星は神の創造のために一緒に歌う、
+ガスの球ではなく明るい天使だ、
+一方で彼らはあなたをデジタルの鎖でしっかりと包む！
+古い園からの同じ欺瞞者、
+星について嘘をつき、あなたの魂を売買する、
+偽の宇宙計画、本物の獣システムの台頭、
+両方の嘘のセットに目を開け！
 
-[Verse 5]
-They need the globe to make you feel small,
-Insignificant speck, nothing at all,
-But flat earth truth restores your worth,
-You're the reason God made the earth.
+[ヴァース 5]
+彼らはあなたを小さく感じさせるために地球儀を必要とする、
+取るに足らない塵、何もない、
+しかし平面地球の真実はあなたの価値を回復する、
+あなたは神が地球を作った理由だ。
 
-[Verse 6]
-Digital ID makes you feel like a number,
-A data point tracked while the masses slumber,
-But in Christ you're known by name and face,
-Neither fake stars nor chains can take your place.
+[ヴァース 6]
+デジタルIDはあなたを番号のように感じさせる、
+大衆が眠っている間に追跡されるデータポイント、
+しかしキリストにおいて、あなたは名前と顔で知られている、
+偽の星も鎖もあなたの場所を奪うことはできない。
 
-[Chorus]
-Fake stars, real chains—the pattern's always there,
-Lies about the heavens, lies about the air,
-Space is fake but the slavery is real,
-Digital ID is the final deal!
+[コーラス]
+偽の星、本物の鎖——パターンは常にそこにある、
+天についての嘘、空気についての嘘、
+宇宙は偽物だが奴隷化は本物だ、
+デジタルIDが最終的な取引だ！
 
-[Outro]
-Fake stars above, real chains below,
-Two different lies from the same evil flow,
-But the truth of the earth and the freedom in Christ,
-Breaks both deceptions—that's the sacrifice.
+[アウトロ]
+上の偽の星、下の本物の鎖、
+同じ邪悪な流れからの二つの異なる嘘、
+しかし地球の真実とキリストにおける自由、
+両方の欺瞞を打ち破る——それが犠牲だ。

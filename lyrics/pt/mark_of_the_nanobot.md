@@ -1,74 +1,74 @@
-SONG 3: "Mark of the Nanobot"
-(Theme: Mark of the Beast + Self-Assembling Tech)
+MÚSICA 3: "Marca do Nanobot"
+(Tema: Marca da Besta + Tecnologia Auto-Montável)
 
 [Intro]
 
-[Verse 1]
-Revelation thirteen told us long ago,
-A mark in your hand or head—now we know,
-It's not just a chip or a number tattoo,
-It's nanobots assembling inside of you.
+[Verso 1]
+Apocalipse treze nos contou há muito tempo,
+Uma marca na sua mão ou cabeça — agora sabemos,
+Não é apenas um chip ou uma tatuagem numérica,
+São nanobots se montando dentro de você.
 
-[Verse 2]
-Self-assembly tech in every single vial,
-Karen Kingston exposed it—check the file,
-Mesogens forming circuits in your blood,
-The mark of the beast in a biotech flood.
+[Verso 2]
+Tecnologia auto-montável em cada frasco,
+Karen Kingston expôs — verifique o arquivo,
+Mesógenos formando circuitos em seu sangue,
+A marca da besta em uma inundação biotecnológica.
 
-[Chorus]
-Mark of the nanobot—six-six-six inside,
-Self-assembling demons where they hide,
-Can't buy or sell without this tech within,
-The mark of the beast is under your skin!
+[Refrão]
+Marca do nanobot — seis-seis-seis dentro,
+Demônios auto-montáveis onde se escondem,
+Não pode comprar ou vender sem essa tecnologia dentro,
+A marca da besta está sob sua pele!
 
-[Verse 3]
-Quantum dots lighting up your flesh,
-Luciferase—named after the serpent's mesh,
-Bioluminescent markers in your frame,
-A digital tattoo bearing Satan's name.
+[Verso 3]
+Pontos quânticos iluminando sua carne,
+Luciferase — batizada em homenagem à malha da serpente,
+Marcadores bioluminescentes em sua estrutura,
+Uma tatuagem digital portando o nome de Satanás.
 
-[Verse 4]
-They said it was safe, they said it was free,
-Now MAC addresses broadcast from you and me,
-Bluetooth bodies walking through the street,
-The mark complete from your head to your feet.
+[Verso 4]
+Eles disseram que era seguro, disseram que era grátis,
+Agora endereços MAC transmitem de você e de mim,
+Corpos Bluetooth caminhando pela rua,
+A marca completa da cabeça aos pés.
 
-[Chorus]
-Mark of the nanobot—six-six-six inside,
-Self-assembling demons where they hide,
-Can't buy or sell without this tech within,
-The mark of the beast is under your skin!
+[Refrão]
+Marca do nanobot — seis-seis-seis dentro,
+Demônios auto-montáveis onde se escondem,
+Não pode comprar ou vender sem essa tecnologia dentro,
+A marca da besta está sob sua pele!
 
-[Bridge]
-Can't buy, can't sell—Revelation said it clear,
-CBDC and digital ID is here,
-Social credit scores tied to your compliance,
-The beast system running on nanotech science!
-Refuse the jab, refuse the mark,
-Stand firm for Jesus even in the dark,
-Better to die free than live a slave,
-Christ already conquered death and the grave!
+[Ponte]
+Não pode comprar, não pode vender — Apocalipse disse claramente,
+CBDC e ID digital está aqui,
+Pontuações de crédito social vinculadas à sua conformidade,
+O sistema da besta rodando em ciência nanotecnológica!
+Recuse a injeção, recuse a marca,
+Permaneça firme por Jesus mesmo no escuro,
+Melhor morrer livre do que viver como escravo,
+Cristo já conquistou a morte e o túmulo!
 
-[Verse 5]
-Ana Mihalcea shows the blood so dark,
-Synthetic structures leaving their mark,
-Rouleaux formation, clots in every vein,
-The mark of the beast causing death and pain.
+[Verso 5]
+Ana Mihalcea mostra o sangue tão escuro,
+Estruturas sintéticas deixando sua marca,
+Formação de rouleaux, coágulos em cada veia,
+A marca da besta causando morte e dor.
 
-[Verse 6]
-They couldn't make us take the RFID chip,
-So they hid it in a needle's tip,
-Trojan horse delivery—nanotech inside,
-The mark of the beast where the demons hide.
+[Verso 6]
+Eles não podiam nos fazer tomar o chip RFID,
+Então esconderam na ponta de uma agulha,
+Entrega de cavalo de Troia — nanotecnologia dentro,
+A marca da besta onde os demônios se escondem.
 
-[Chorus]
-Mark of the nanobot—six-six-six inside,
-Self-assembling demons where they hide,
-Can't buy or sell without this tech within,
-The mark of the beast is under your skin!
+[Refrão]
+Marca do nanobot — seis-seis-seis dentro,
+Demônios auto-montáveis onde se escondem,
+Não pode comprar ou vender sem essa tecnologia dentro,
+A marca da besta está sob sua pele!
 
 [Outro]
-John saw it coming two thousand years ago,
-The mark of the beast—now the whole world knows,
-It's not in the future, it's happening now,
-Nanobots inside you—but we won't bow.
+João viu isso chegando dois mil anos atrás,
+A marca da besta — agora o mundo inteiro sabe,
+Não está no futuro, está acontecendo agora,
+Nanobots dentro de você — mas não nos curvaremos.

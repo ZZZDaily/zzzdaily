@@ -1,4 +1,4 @@
-CANCIÓN 8: "Arriba y Abajo"
+CANCIÓN 86: "Arriba y Abajo"
 (Tema: Una reflexión teológica sobre la realidad del cielo arriba y el infierno abajo, y la naturaleza espacial literal de los reinos espirituales.)
 
 [Introducción]

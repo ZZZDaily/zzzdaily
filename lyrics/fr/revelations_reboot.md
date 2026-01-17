@@ -1,74 +1,74 @@
-SONG 15: "Revelations Reboot"
-(Theme: Book of Revelation + Singularity Prophecy)
+CHANSON 15: "Redémarrage de l'Apocalypse"
+(Thème: Livre de l'Apocalypse + Prophétie de la Singularité)
 
 [Intro]
 
-[Verse 1]
-John saw the vision on Patmos isle,
-The end of days prophesied in God's style,
-But now the prophecy's getting a reboot,
-Technology fulfilling every dispute.
+[Couplet 1]
+Jean a vu la vision sur l'île de Patmos,
+La fin des jours prophétisée dans le style de Dieu,
+Mais maintenant la prophétie obtient un redémarrage,
+La technologie accomplissant chaque dispute.
 
-[Verse 2]
-Twenty-thirty is the singularity date,
-Kurzweil's prediction—can't wait,
-But Revelation warned two thousand years before,
-The beast system rising—that's what's in store.
+[Couplet 2]
+Deux mille trente est la date de la singularité,
+La prédiction de Kurzweil — impatient,
+Mais l'Apocalypse a averti deux mille ans avant,
+Le système de la bête s'élève — c'est ce qui est en réserve.
 
-[Chorus]
-Revelations reboot playing out in real-time,
-Singularity prophecy—the final paradigm,
-What John saw in spirit, we see in flesh,
-Technology and prophecy—the perfect mesh!
+[Refrain]
+Redémarrage de l'Apocalypse se jouant en temps réel,
+Prophétie de la singularité — le paradigme final,
+Ce que Jean a vu en esprit, nous le voyons en chair,
+Technologie et prophétie — le maillage parfait!
 
-[Verse 3]
-The image of the beast that speaks and lives,
-Artificial intelligence is what it gives,
-Fire from heaven? DEW weapons rain,
-The false prophet's power explained.
+[Couplet 3]
+L'image de la bête qui parle et vit,
+L'intelligence artificielle est ce qu'elle donne,
+Feu du ciel? Armes à énergie dirigée pleuvent,
+Le pouvoir du faux prophète expliqué.
 
-[Verse 4]
-No buying or selling—digital ID,
-Mark of the beast for you and me,
-One world government forming day by day,
-Revelation's reboot on display.
+[Couplet 4]
+Pas d'achat ou de vente — ID numérique,
+Marque de la bête pour toi et moi,
+Gouvernement mondial se formant jour après jour,
+Le redémarrage de l'Apocalypse en exposition.
 
-[Chorus]
-Revelations reboot playing out in real-time,
-Singularity prophecy—the final paradigm,
-What John saw in spirit, we see in flesh,
-Technology and prophecy—the perfect mesh!
+[Refrain]
+Redémarrage de l'Apocalypse se jouant en temps réel,
+Prophétie de la singularité — le paradigme final,
+Ce que Jean a vu en esprit, nous le voyons en chair,
+Technologie et prophétie — le maillage parfait!
 
-[Bridge]
-They thought they could escape what God foretold,
-But technology just does what prophecy enrolled,
-Every verse coming true in silicon and code,
-The ancient scroll unfolding down the road!
-The Lamb was slain before the world began,
-Christ already won against the master plan,
-Let the singularity come, let AI rise,
-The King of Kings wins—no surprise!
+[Pont]
+Ils pensaient pouvoir échapper à ce que Dieu avait prédit,
+Mais la technologie fait juste ce que la prophétie a inscrit,
+Chaque verset devenant vrai en silicium et code,
+L'ancien parchemin se déroulant sur la route!
+L'Agneau a été immolé avant que le monde commence,
+Christ a déjà gagné contre le plan maître,
+Laisse la singularité venir, laisse l'IA s'élever,
+Le Roi des Rois gagne — aucune surprise!
 
-[Verse 5]
-Babylon falling in a single hour,
-Digital systems losing all their power,
-EMP from the sun or God's own hand,
-Either way, the beast can't stand.
+[Couplet 5]
+Babylone tombant en une seule heure,
+Systèmes numériques perdant tout leur pouvoir,
+EMP du soleil ou la propre main de Dieu,
+De toute façon, la bête ne peut pas tenir.
 
-[Verse 6]
-New Jerusalem descending from above,
-No need for sun—lit by Christ's love,
-No more tech, no more lies to face,
-Revelation's final reboot—amazing grace.
+[Couplet 6]
+Nouvelle Jérusalem descendant d'en haut,
+Pas besoin de soleil — éclairée par l'amour de Christ,
+Plus de technologie, plus de mensonges à affronter,
+Redémarrage final de l'Apocalypse — grâce incroyable.
 
-[Chorus]
-Revelations reboot playing out in real-time,
-Singularity prophecy—the final paradigm,
-What John saw in spirit, we see in flesh,
-Technology and prophecy—the perfect mesh!
+[Refrain]
+Redémarrage de l'Apocalypse se jouant en temps réel,
+Prophétie de la singularité — le paradigme final,
+Ce que Jean a vu en esprit, nous le voyons en chair,
+Technologie et prophétie — le maillage parfait!
 
 [Outro]
-Revelations reboot—the end draws near,
-Singularity rising but there's nothing to fear,
-What John saw then is coming true today,
-But Christ returns to carry His bride away.
+Redémarrage de l'Apocalypse — la fin approche,
+La singularité s'élève mais il n'y a rien à craindre,
+Ce que Jean a vu alors devient vrai aujourd'hui,
+Mais Christ revient pour emporter Sa mariée.

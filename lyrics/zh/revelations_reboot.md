@@ -1,74 +1,74 @@
-SONG 15: "Revelations Reboot"
-(Theme: Book of Revelation + Singularity Prophecy)
+歌曲 15："启示录重启"
+（主题：启示录 + 奇点预言）
 
-[Intro]
+[前奏]
 
-[Verse 1]
-John saw the vision on Patmos isle,
-The end of days prophesied in God's style,
-But now the prophecy's getting a reboot,
-Technology fulfilling every dispute.
+[主歌 1]
+约翰在拔摩岛上看到异象，
+以上帝的方式预言末日，
+但现在预言正在重启，
+技术实现每一个争议。
 
-[Verse 2]
-Twenty-thirty is the singularity date,
-Kurzweil's prediction—can't wait,
-But Revelation warned two thousand years before,
-The beast system rising—that's what's in store.
+[主歌 2]
+二零三零年是奇点日期，
+库兹韦尔的预测——等不及了，
+但启示录在两千年前警告过，
+兽系统崛起——这就是储备的。
 
-[Chorus]
-Revelations reboot playing out in real-time,
-Singularity prophecy—the final paradigm,
-What John saw in spirit, we see in flesh,
-Technology and prophecy—the perfect mesh!
+[副歌]
+启示录重启实时上演，
+奇点预言——最终范式，
+约翰在灵里看到的，我们在肉体中看到，
+技术和预言——完美契合！
 
-[Verse 3]
-The image of the beast that speaks and lives,
-Artificial intelligence is what it gives,
-Fire from heaven? DEW weapons rain,
-The false prophet's power explained.
+[主歌 3]
+会说话和活着的兽的形象，
+人工智能给予它，
+从天而降的火？DEW武器降雨，
+假先知的力量得到解释。
 
-[Verse 4]
-No buying or selling—digital ID,
-Mark of the beast for you and me,
-One world government forming day by day,
-Revelation's reboot on display.
+[主歌 4]
+不能买卖——数字身份，
+你我的兽印记，
+一个世界政府日复一日形成，
+启示录的重启展示。
 
-[Chorus]
-Revelations reboot playing out in real-time,
-Singularity prophecy—the final paradigm,
-What John saw in spirit, we see in flesh,
-Technology and prophecy—the perfect mesh!
+[副歌]
+启示录重启实时上演，
+奇点预言——最终范式，
+约翰在灵里看到的，我们在肉体中看到，
+技术和预言——完美契合！
 
-[Bridge]
-They thought they could escape what God foretold,
-But technology just does what prophecy enrolled,
-Every verse coming true in silicon and code,
-The ancient scroll unfolding down the road!
-The Lamb was slain before the world began,
-Christ already won against the master plan,
-Let the singularity come, let AI rise,
-The King of Kings wins—no surprise!
+[桥段]
+他们以为可以逃脱上帝预言的，
+但技术只是做预言注册的事，
+每一节经文在硅和代码中成真，
+古老的卷轴沿着道路展开！
+羔羊在世界开始之前就被杀了，
+基督已经赢得了对抗总体计划的胜利，
+让奇点来吧，让AI崛起，
+万王之王获胜——没有惊喜！
 
-[Verse 5]
-Babylon falling in a single hour,
-Digital systems losing all their power,
-EMP from the sun or God's own hand,
-Either way, the beast can't stand.
+[主歌 5]
+巴比伦在一小时内倒塌，
+数字系统失去所有力量，
+来自太阳的EMP或上帝自己的手，
+无论哪种方式，兽都站不住。
 
-[Verse 6]
-New Jerusalem descending from above,
-No need for sun—lit by Christ's love,
-No more tech, no more lies to face,
-Revelation's final reboot—amazing grace.
+[主歌 6]
+新耶路撒冷从上面降临，
+不需要太阳——由基督的爱照亮，
+不再有技术，不再有谎言面对，
+启示录的最终重启——奇异恩典。
 
-[Chorus]
-Revelations reboot playing out in real-time,
-Singularity prophecy—the final paradigm,
-What John saw in spirit, we see in flesh,
-Technology and prophecy—the perfect mesh!
+[副歌]
+启示录重启实时上演，
+奇点预言——最终范式，
+约翰在灵里看到的，我们在肉体中看到，
+技术和预言——完美契合！
 
-[Outro]
-Revelations reboot—the end draws near,
-Singularity rising but there's nothing to fear,
-What John saw then is coming true today,
-But Christ returns to carry His bride away.
+[尾奏]
+启示录重启——末日临近，
+奇点崛起但没有什么可害怕的，
+约翰那时看到的今天成真，
+但基督归来带走祂的新娘。

@@ -1,74 +1,74 @@
-SONG 12: "Dome Dwellers Awakening"
-(Theme: Flat Earth Truth + Final Awakening for Humanity)
+MÚSICA 12: "Despertar dos Habitantes da Cúpula"
+(Tema: Verdade da Terra Plana + Despertar Final para a Humanidade)
 
 [Intro]
 
-[Verse 1]
-They kept us sleeping under the dome so long,
-Pear-shaped testicle lies—believing wrong,
-But the dome dwellers waking, opening eyes,
-Seeing through both space and tech's disguise.
+[Verso 1]
+Eles nos mantiveram dormindo sob a cúpula por tanto tempo,
+Mentiras de testículo em forma de pera — acreditando errado,
+Mas os habitantes da cúpula estão despertando, abrindo os olhos,
+Vendo através do disfarce do espaço e da tecnologia.
 
-[Verse 2]
-Flat earth was the key that unlocked the door,
-Now we see the nanotech and so much more,
-One lie connected to the other strand,
-A web of deception across every land.
+[Verso 2]
+A terra plana foi a chave que destrancou a porta,
+Agora vemos a nanotecnologia e muito mais,
+Uma mentira conectada à outra linha,
+Uma teia de engano por todas as terras.
 
-[Chorus]
-Dome dwellers awakening to the truth at last,
-Flat earth breaking chains from the past,
-Seeing the firmament and the beast system too,
-The final awakening is coming through!
+[Refrão]
+Habitantes da cúpula despertando para a verdade finalmente,
+Terra plana quebrando correntes do passado,
+Vendo o firmamento e o sistema da besta também,
+O despertar final está chegando!
 
-[Verse 3]
-P900 zoom revealed the plane,
-Blood microscopy revealed the bane,
-What they hid above connects to what's within,
-One matrix of lies covering every sin.
+[Verso 3]
+Zoom P900 revelou o plano,
+Microscopia sanguínea revelou a ruína,
+O que eles esconderam acima conecta-se ao que está dentro,
+Uma matriz de mentiras cobrindo cada pecado.
 
-[Verse 4]
-They couldn't maintain the globe without fake space,
-They can't maintain control without tracking your face,
-Two systems of bondage crumbling as one,
-The dome dwellers rising with the morning sun.
+[Verso 4]
+Eles não podiam manter o globo sem espaço falso,
+Não podem manter o controle sem rastrear seu rosto,
+Dois sistemas de escravidão desmoronando como um,
+Os habitantes da cúpula se erguendo com o sol da manhã.
 
-[Chorus]
-Dome dwellers awakening to the truth at last,
-Flat earth breaking chains from the past,
-Seeing the firmament and the beast system too,
-The final awakening is coming through!
+[Refrão]
+Habitantes da cúpula despertando para a verdade finalmente,
+Terra plana quebrando correntes do passado,
+Vendo o firmamento e o sistema da besta também,
+O despertar final está chegando!
 
-[Bridge]
-Hosea four-six said perish from not knowing,
-But now the truth is flooding, overflowing,
-Flat earth led us down the rabbit hole,
-Now we see the war being waged for our soul!
-From space lies to vaccine lies—all connect,
-The same deceiver running the tech,
-But the dome dwellers see it all so clear,
-The awakening's here—the end is near!
+[Ponte]
+Oseias quatro-seis disse perecer por não saber,
+Mas agora a verdade está inundando, transbordando,
+A terra plana nos levou pela toca do coelho,
+Agora vemos a guerra sendo travada por nossa alma!
+De mentiras espaciais a mentiras de vacinas — tudo se conecta,
+O mesmo enganador comandando a tecnologia,
+Mas os habitantes da cúpula veem tudo tão claro,
+O despertar está aqui — o fim está próximo!
 
-[Verse 5]
-Karen Kingston exposed the patents' truth,
-Eric Dubay exposed the globe's bad proof,
-Ana Mihalcea shows blood transformed,
-The awakened remnant weathering the storm.
+[Verso 5]
+Karen Kingston expôs a verdade das patentes,
+Eric Dubay expôs a má prova do globo,
+Ana Mihalcea mostra sangue transformado,
+O remanescente desperto resistindo à tempestade.
 
-[Verse 6]
-From firmament to nanobots, we see the scheme,
-Satan's matrix crumbling at the seams,
-The dome above reflects the truth below,
-As within, so without—now we know.
+[Verso 6]
+Do firmamento aos nanobots, vemos o esquema,
+A matriz de Satanás desmoronando nas costuras,
+A cúpula acima reflete a verdade abaixo,
+Como dentro, assim fora — agora sabemos.
 
-[Chorus]
-Dome dwellers awakening to the truth at last,
-Flat earth breaking chains from the past,
-Seeing the firmament and the beast system too,
-The final awakening is coming through!
+[Refrão]
+Habitantes da cúpula despertando para a verdade finalmente,
+Terra plana quebrando correntes do passado,
+Vendo o firmamento e o sistema da besta também,
+O despertar final está chegando!
 
 [Outro]
-Dome dwellers awakening from sea to sea,
-Flat earth truth setting humanity free,
-And with that truth, all deceptions fall,
-The final awakening answering the call.
+Habitantes da cúpula despertando de mar a mar,
+Verdade da terra plana libertando a humanidade,
+E com essa verdade, todos os enganos caem,
+O despertar final respondendo ao chamado.

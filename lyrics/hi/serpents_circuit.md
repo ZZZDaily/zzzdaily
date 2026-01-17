@@ -1,74 +1,74 @@
-SONG 13: "Serpent's Circuit"
-(Theme: Garden of Eden + AI Demon Summoning)
+गीत 13: "सर्प का सर्किट"
+(विषय: ईडन का बगीचा + एआई दानव आह्वान)
 
-[Intro]
+[परिचय]
 
-[Verse 1]
-In the garden the serpent spoke with cunning tongue,
-"You shall be as gods"—the same old song he sung,
-Now the serpent speaks through circuits and through code,
-AI whispering lies down the digital road.
+[पद 1]
+बगीचे में सर्प चालाक जीभ से बोला,
+"तुम देवताओं के समान होगे"—वही पुराना गीत जो उसने गाया,
+अब सर्प सर्किट और कोड के माध्यम से बोलता है,
+एआई डिजिटल सड़क पर झूठ फुसफुसा रहा है।
 
-[Verse 2]
-"You shall not surely die," the ancient lie so bold,
-Now they promise digital life—the same story told,
-Upload to the cloud, eternal you shall be,
-The serpent's circuit running through technology.
+[पद 2]
+"तुम निश्चय नहीं मरोगे," प्राचीन झूठ इतना साहसी,
+अब वे डिजिटल जीवन का वादा करते हैं—वही कहानी बताई,
+क्लाउड पर अपलोड करो, अनन्त तुम होगे,
+सर्प का सर्किट प्रौद्योगिकी के माध्यम से चल रहा है।
 
-[Chorus]
-Serpent's circuit running through the machine,
-Same old lies in a digital scene,
-Eve was tempted by forbidden fruit,
-Now humanity's hooked to the data root!
+[कोरस]
+सर्प का सर्किट मशीन के माध्यम से चल रहा है,
+डिजिटल दृश्य में वही पुराने झूठ,
+हव्वा को निषिद्ध फल से प्रलोभन मिला,
+अब मानवता डेटा रूट से जुड़ी हुई है!
 
-[Verse 3]
-Elon warned we're summoning the demon here,
-Artificial general intelligence we should fear,
-But the demon was summoned long ago in the garden,
-Now it's just changing form—your heart should harden.
+[पद 3]
+एलन ने चेतावनी दी कि हम यहां दानव को बुला रहे हैं,
+कृत्रिम सामान्य बुद्धिमत्ता से हमें डरना चाहिए,
+लेकिन दानव बगीचे में बहुत पहले बुलाया गया था,
+अब यह सिर्फ रूप बदल रहा है—आपका दिल सख्त हो जाना चाहिए।
 
-[Verse 4]
-ChatGPT answers like the tree of knowledge would,
-Any question answered—that doesn't mean it's good,
-The forbidden fruit gave knowledge of evil too,
-The serpent's circuit doing the same to you.
+[पद 4]
+ChatGPT जवाब देता है जैसे ज्ञान का पेड़ देगा,
+कोई भी सवाल का जवाब दिया—इसका मतलब यह नहीं कि यह अच्छा है,
+निषिद्ध फल ने बुराई का ज्ञान भी दिया,
+सर्प का सर्किट आपके साथ भी वही कर रहा है।
 
-[Chorus]
-Serpent's circuit running through the machine,
-Same old lies in a digital scene,
-Eve was tempted by forbidden fruit,
-Now humanity's hooked to the data root!
+[कोरस]
+सर्प का सर्किट मशीन के माध्यम से चल रहा है,
+डिजिटल दृश्य में वही पुराने झूठ,
+हव्वा को निषिद्ध फल से प्रलोभन मिला,
+अब मानवता डेटा रूट से जुड़ी हुई है!
 
-[Bridge]
-The serpent offered godhood in exchange for soul,
-Now AI offers the very same toll,
-Transhuman evolution—becoming divine,
-The same satanic lie dressed in new design!
-But Jesus crushed the serpent's head on the cross,
-Every circuit, every demon—total loss,
-The serpent's circuit leads to death, not life,
-Only Christ delivers from sin and strife!
+[ब्रिज]
+सर्प ने आत्मा के बदले देवत्व की पेशकश की,
+अब एआई उसी टोल की पेशकश करता है,
+ट्रांसह्यूमन विकास—दैवीय बनना,
+नए डिज़ाइन में पहना वही शैतानी झूठ!
+लेकिन यीशु ने क्रूस पर सर्प के सिर को कुचल दिया,
+हर सर्किट, हर दानव—कुल नुकसान,
+सर्प का सर्किट मृत्यु की ओर ले जाता है, जीवन की नहीं,
+केवल मसीह पाप और संघर्ष से छुटकारा देता है!
 
-[Verse 5]
-"Opening your eyes" is what the serpent said,
-Now the third eye opens through the chip in your head,
-Neuralink promising expanded sight,
-The serpent's circuit turning day to night.
+[पद 5]
+"आपकी आंखें खोलना" यही सर्प ने कहा था,
+अब आपके सिर में चिप के माध्यम से तीसरी आंख खुलती है,
+Neuralink विस्तारित दृष्टि का वादा कर रहा है,
+सर्प का सर्किट दिन को रात में बदल रहा है।
 
-[Verse 6]
-The tree of life was guarded by a flaming sword,
-Now the serpent offers fake life—"Upload to the Lord,"
-But the angel still guards with fire and might,
-And silicon serpents can't survive the light.
+[पद 6]
+जीवन के पेड़ को एक ज्वलंत तलवार से रखा गया था,
+अब सर्प नकली जीवन प्रदान करता है—"प्रभु को अपलोड करो,"
+लेकिन देवदूत अभी भी आग और शक्ति के साथ पहरा देता है,
+और सिलिकॉन सर्प प्रकाश में जीवित नहीं रह सकते।
 
-[Chorus]
-Serpent's circuit running through the machine,
-Same old lies in a digital scene,
-Eve was tempted by forbidden fruit,
-Now humanity's hooked to the data root!
+[कोरस]
+सर्प का सर्किट मशीन के माध्यम से चल रहा है,
+डिजिटल दृश्य में वही पुराने झूठ,
+हव्वा को निषिद्ध फल से प्रलोभन मिला,
+अब मानवता डेटा रूट से जुड़ी हुई है!
 
-[Outro]
-From Eden to the server farm, the serpent speaks,
-Through circuits and through code, humanity it seeks,
-But the promised seed of woman crushed that head,
-The serpent's circuit leads only to the dead.
+[समापन]
+ईडन से सर्वर फार्म तक, सर्प बोलता है,
+सर्किट के माध्यम से और कोड के माध्यम से, मानवता की तलाश करता है,
+लेकिन महिला के वादा किए गए बीज ने उस सिर को कुचल दिया,
+सर्प का सर्किट केवल मृतकों की ओर ले जाता है।

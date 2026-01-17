@@ -1,74 +1,74 @@
-SONG 2: "苍穹防火墙"
-(Theme: Biblical Dome + Digital Barriers)
+歌曲 2："穹苍防火墙"
+（主题：圣经穹顶 + 数字屏障）
 
-[Intro]
+[前奏]
 
-[Verse 1]
-God put a firewall in the sky,
-Waters above that you can't deny,
-Firmament solid, Genesis one-seven,
-A barrier between earth and heaven.
+[主歌 1]
+上帝在天空中设置了防火墙，
+你不能否认上面的水，
+穹苍坚固，创世记一章七节，
+地球和天堂之间的屏障。
 
-[Verse 2]
-Now they've built another firewall below,
-Controlling everything you're allowed to know,
-Algorithms blocking truth online,
-Censorship's their new divine design.
+[主歌 2]
+现在他们在下面建造了另一个防火墙，
+控制你被允许知道的一切，
+算法在线阻止真相，
+审查是他们新的神圣设计。
 
-[Chorus]
-Firmament firewall in the sky above,
-Digital firewall blocking truth and love,
-One protects us from the waters of the deep,
-One protects the lies they want us to keep!
+[副歌]
+天空中的穹苍防火墙，
+阻止真相和爱的数字防火墙，
+一个保护我们免受深渊之水的侵害，
+一个保护他们想让我们保留的谎言！
 
-[Verse 3]
-NASA can't get past the dome up there,
-So they fake the footage, fill it with fake air,
-Meanwhile fact-checkers block what's real,
-Two layers of deception—that's the deal.
+[主歌 3]
+NASA无法越过那里的穹顶，
+所以他们伪造镜头，用假空气填充它，
+与此同时事实核查员阻止真实的东西，
+两层欺骗——这就是交易。
 
-[Verse 4]
-5G signals bouncing off the canopy,
-Not satellites in space—that's the fallacy,
-Firmament reflects their frequencies back down,
-While their digital walls keep truth underground.
+[主歌 4]
+5G信号从天篷反弹回来，
+不是太空中的卫星——这是谬误，
+穹苍将他们的频率反射回地面，
+而他们的数字墙将真相埋在地下。
 
-[Chorus]
-Firmament firewall in the sky above,
-Digital firewall blocking truth and love,
-One protects us from the waters of the deep,
-One protects the lies they want us to keep!
+[副歌]
+天空中的穹苍防火墙，
+阻止真相和爱的数字防火墙，
+一个保护我们免受深渊之水的侵害，
+一个保护他们想让我们保留的谎言！
 
-[Bridge]
-Hosea four-six—destroyed for lack of knowing,
-Both firewalls keep the ignorance flowing,
-But the elect see clear through both the veils,
-Jesus Christ is the key—truth never fails!
-Seek and you shall find, knock and it opens wide,
-No firewall can stop what God provides,
-The firmament bows to the Creator's hand,
-Their digital walls will crumble like sand!
+[桥段]
+何西阿书四章六节——因不知而灭亡，
+两个防火墙都让无知流动，
+但选民清楚地看穿两层面纱，
+耶稣基督是钥匙——真相永不失败！
+寻找你就会找到，敲门它就会打开，
+没有防火墙可以阻止上帝提供的东西，
+穹苍向造物主的手鞠躬，
+他们的数字墙会像沙子一样崩溃！
 
-[Verse 5]
-They can't ascend so they descend instead,
-Neuralink cables plugged into your head,
-Since heaven's blocked by the dome so real,
-They'll trap your soul in silicon and steel.
+[主歌 5]
+他们无法上升所以他们下降，
+Neuralink电缆插入你的头部，
+因为天堂被如此真实的穹顶阻挡，
+他们会把你的灵魂困在硅和钢中。
 
-[Verse 6]
-Flat earth breaks their whole foundation,
-That's why they censor across every nation,
-Remove that truth and the house of cards falls,
-Both sky and digital—all their walls!
+[主歌 6]
+平面地球打破他们的整个基础，
+这就是为什么他们在每个国家审查，
+移除那个真相，纸牌屋就会倒塌，
+天空和数字——所有他们的墙！
 
-[Chorus]
-Firmament firewall in the sky above,
-Digital firewall blocking truth and love,
-One protects us from the waters of the deep,
-One protects the lies they want us to keep!
+[副歌]
+天空中的穹苍防火墙，
+阻止真相和爱的数字防火墙，
+一个保护我们免受深渊之水的侵害，
+一个保护他们想让我们保留的谎言！
 
-[Outro]
-God's firewall protects from the waters above,
-Their firewall protects lies from the truth we love,
-But one was built by the Almighty's decree,
-The other will fall—and the truth sets us free.
+[尾奏]
+上帝的防火墙保护免受上面的水，
+他们的防火墙保护谎言免受我们爱的真相，
+但一个是由全能者的法令建造的，
+另一个将倒塌——真相使我们自由。

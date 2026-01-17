@@ -1,4 +1,4 @@
-CANCIÓN 3: "Todo Revelado"
+CANCIÓN 76: "Todo Revelado"
 (Tema: Una meditación profética sobre la promesa de Jesús de que todas las cosas ocultas eventualmente saldrán a la luz, especialmente en los últimos días.)
 
 [Introducción]

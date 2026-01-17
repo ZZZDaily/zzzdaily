@@ -1,74 +1,74 @@
-SONG 11: "Fake Stars, Real Chains"
-(Theme: Fake Space/Stars + Digital ID Enslavement)
+CANZONE 11: "Stelle Finte, Catene Reali"
+(Tema: Spazio/Stelle Finte + Schiavitù da ID Digitale)
 
 [Intro]
 
-[Verse 1]
-They told us stars were suns a trillion miles away,
-But they're lights in the firmament—Genesis says,
-The same liars that gave us fake space above,
-Now give us digital chains disguised as love.
+[Strofa 1]
+Ci hanno detto che le stelle erano soli a un trilione di miglia di distanza,
+Ma sono luci nel firmamento — dice la Genesi,
+Gli stessi bugiardi che ci hanno dato spazio falso sopra,
+Ora ci danno catene digitali mascherate da amore.
 
-[Verse 2]
-If they lied about the cosmos, they'll lie about your name,
-Digital ID 2026—it's all the same game,
-Fake stars in the sky, fake freedom below,
-Real chains around your neck that they don't want you to know.
+[Strofa 2]
+Se hanno mentito sul cosmo, mentiranno sul tuo nome,
+ID Digitale 2026 — è tutto lo stesso gioco,
+Stelle finte nel cielo, libertà finta sotto,
+Catene reali intorno al collo che non vogliono che tu sappia.
 
-[Chorus]
-Fake stars, real chains—the pattern's always there,
-Lies about the heavens, lies about the air,
-Space is fake but the slavery is real,
-Digital ID is the final deal!
+[Ritornello]
+Stelle finte, catene reali — il modello c'è sempre,
+Bugie sui cieli, bugie sull'aria,
+Lo spazio è falso ma la schiavitù è reale,
+L'ID Digitale è l'accordo finale!
 
-[Verse 3]
-NASA steals trillions for lights on the dome,
-While WEF plans to track you from your home,
-Fake moon landings, real surveillance state,
-Fake asteroids coming, real lockdown fate.
+[Strofa 3]
+La NASA ruba trilioni per le luci sulla cupola,
+Mentre il WEF pianifica di tracciarti da casa,
+Sbarchi lunari falsi, stato di sorveglianza reale,
+Asteroidi falsi in arrivo, destino di lockdown reale.
 
-[Verse 4]
-They couldn't put satellites in space that's fake,
-So ground-based towers are all it takes,
-Starlink's not in orbit—check the facts,
-While digital ID puts chains on your backs.
+[Strofa 4]
+Non potevano mettere satelliti nello spazio che è falso,
+Quindi torri basate a terra sono tutto ciò che serve,
+Starlink non è in orbita — controlla i fatti,
+Mentre l'ID Digitale mette catene sulle tue spalle.
 
-[Chorus]
-Fake stars, real chains—the pattern's always there,
-Lies about the heavens, lies about the air,
-Space is fake but the slavery is real,
-Digital ID is the final deal!
+[Ritornello]
+Stelle finte, catene reali — il modello c'è sempre,
+Bugie sui cieli, bugie sull'aria,
+Lo spazio è falso ma la schiavitù è reale,
+L'ID Digitale è l'accordo finale!
 
 [Bridge]
-Job thirty-eight asks where were you when I laid earth's foundation,
-The stars sing together for God's creation,
-Not balls of gas but angels bright,
-While they wrap you in digital chains tight!
-The same deceiver from the garden of old,
-Lies about the stars, buys and sells your soul,
-Fake space program, real beast system rise,
-Open your eyes to both sets of lies!
+Giobbe trentotto chiede dov'eri quando ho posto le fondamenta della terra,
+Le stelle cantano insieme per la creazione di Dio,
+Non sfere di gas ma angeli luminosi,
+Mentre ti avvolgono in catene digitali strette!
+Lo stesso ingannatore dal giardino di un tempo,
+Mente sulle stelle, compra e vende la tua anima,
+Programma spaziale falso, sistema della bestia reale che sorge,
+Apri gli occhi a entrambi gli insiemi di bugie!
 
-[Verse 5]
-They need the globe to make you feel small,
-Insignificant speck, nothing at all,
-But flat earth truth restores your worth,
-You're the reason God made the earth.
+[Strofa 5]
+Hanno bisogno del globo per farti sentire piccolo,
+Granello insignificante, nulla del tutto,
+Ma la verità della terra piatta ripristina il tuo valore,
+Sei la ragione per cui Dio ha fatto la terra.
 
-[Verse 6]
-Digital ID makes you feel like a number,
-A data point tracked while the masses slumber,
-But in Christ you're known by name and face,
-Neither fake stars nor chains can take your place.
+[Strofa 6]
+L'ID Digitale ti fa sentire come un numero,
+Un punto dati tracciato mentre le masse dormono,
+Ma in Cristo sei conosciuto per nome e viso,
+Né stelle finte né catene possono prendere il tuo posto.
 
-[Chorus]
-Fake stars, real chains—the pattern's always there,
-Lies about the heavens, lies about the air,
-Space is fake but the slavery is real,
-Digital ID is the final deal!
+[Ritornello]
+Stelle finte, catene reali — il modello c'è sempre,
+Bugie sui cieli, bugie sull'aria,
+Lo spazio è falso ma la schiavitù è reale,
+L'ID Digitale è l'accordo finale!
 
 [Outro]
-Fake stars above, real chains below,
-Two different lies from the same evil flow,
-But the truth of the earth and the freedom in Christ,
-Breaks both deceptions—that's the sacrifice.
+Stelle finte sopra, catene reali sotto,
+Due bugie diverse dallo stesso flusso malvagio,
+Ma la verità della terra e la libertà in Cristo,
+Spezza entrambi gli inganni — quello è il sacrificio.

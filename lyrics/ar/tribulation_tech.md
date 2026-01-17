@@ -1,74 +1,74 @@
-SONG 9: "Tribulation Tech"
-(Theme: End Times Tribulation + Smart Dust Surveillance)
+أغنية 9: "تقنية الضيقة"
+(الموضوع: ضيقة آخر الزمان + مراقبة الغبار الذكي)
 
-[Intro]
+[المقدمة]
 
-[Verse 1]
-The tribulation's coming, seven years of hell,
-Smart dust in the atmosphere—surveillance fell,
-Daniel's seventieth week approaching fast,
-And the tech they've built will make it last.
+[الكوبليه 1]
+الضيقة قادمة، سبع سنوات من الجحيم،
+غبار ذكي في الغلاف الجوي - المراقبة سقطت،
+أسبوع دانيال السبعون يقترب بسرعة،
+والتقنية التي بنوها ستجعلها تدوم.
 
-[Verse 2]
-Smart dust particles floating in the air,
-Recording everything, everywhere,
-Matthew twenty-four said nothing would be hid,
-Now technology fulfills what the scripture did.
+[الكوبليه 2]
+جزيئات الغبار الذكي تطفو في الهواء،
+تسجل كل شيء، في كل مكان،
+متى أربعة وعشرون قال لن يُخفى شيء،
+الآن التكنولوجيا تحقق ما فعلته الكتابة المقدسة.
 
-[Chorus]
-Tribulation tech watching every move,
-Smart dust surveillance—nothing left to prove,
-The time of trouble like never before,
-Technology opens the tribulation door!
+[اللازمة]
+تقنية الضيقة تراقب كل حركة،
+مراقبة الغبار الذكي - لا يوجد شيء متبق لإثباته،
+وقت الضيق لم يحدث من قبل،
+التكنولوجيا تفتح باب الضيقة!
 
-[Verse 3]
-Revelation says no buying or selling without the mark,
-CBDC and digital ID light up the dark,
-Smart city prisons where you can't escape,
-The tribulation tech sealing your fate.
+[الكوبليه 3]
+الرؤيا تقول لا شراء ولا بيع بدون العلامة،
+CBDC والهوية الرقمية تضيء الظلام،
+سجون المدن الذكية حيث لا يمكنك الهروب،
+تقنية الضيقة تختم مصيرك.
 
-[Verse 4]
-Fifteen-minute cities keep you in your zone,
-Surveillance cameras watching, you're never alone,
-Social credit scores determining your worth,
-The great tribulation birthed on earth.
+[الكوبليه 4]
+مدن الخمس عشرة دقيقة تبقيك في منطقتك،
+كاميرات المراقبة تراقب، أنت لست وحيدًا أبدًا،
+درجات الائتمان الاجتماعي تحدد قيمتك،
+الضيقة العظيمة وُلدت على الأرض.
 
-[Chorus]
-Tribulation tech watching every move,
-Smart dust surveillance—nothing left to prove,
-The time of trouble like never before,
-Technology opens the tribulation door!
+[اللازمة]
+تقنية الضيقة تراقب كل حركة،
+مراقبة الغبار الذكي - لا يوجد شيء متبق لإثباته،
+وقت الضيق لم يحدث من قبل،
+التكنولوجيا تفتح باب الضيقة!
 
-[Bridge]
-Two witnesses prophesy in those days,
-While the beast system hunts them through the maze,
-But God protects His own through fire and flood,
-Sealed by the Spirit, bought by the blood!
-The tech can't touch what God has sealed,
-One hundred forty-four thousand revealed,
-Through tribulation they'll emerge refined,
-Smart dust can't track the Father's assigned!
+[الجسر]
+شاهدان يتنبآن في تلك الأيام،
+بينما نظام الوحش يطاردهم عبر المتاهة،
+لكن الله يحمي خاصته من خلال النار والفيضان،
+مختومون بالروح، مشترون بالدم!
+التقنية لا تستطيع لمس ما ختمه الله،
+مئة وأربعة وأربعون ألفًا كُشفوا،
+من خلال الضيقة سيخرجون منقحين،
+الغبار الذكي لا يمكنه تتبع المعينين من الآب!
 
-[Verse 5]
-Internet of Things tracking your location,
-Smart home devices—digital damnation,
-Everything connected to the grid of lies,
-Big Brother watching through digital eyes.
+[الكوبليه 5]
+إنترنت الأشياء يتتبع موقعك،
+أجهزة المنزل الذكي - اللعنة الرقمية،
+كل شيء متصل بشبكة الأكاذيب،
+الأخ الأكبر يراقب من خلال العيون الرقمية.
 
-[Verse 6]
-But in the midst of trouble, God provides,
-A remnant protected where the faithful hides,
-Tribulation tech will fail in the end,
-When Christ returns with the angels He sends.
+[الكوبليه 6]
+لكن في وسط المتاعب، الله يوفر،
+بقية محمية حيث يختبئ المؤمنون،
+تقنية الضيقة ستفشل في النهاية،
+عندما يعود المسيح مع الملائكة الذين يرسلهم.
 
-[Chorus]
-Tribulation tech watching every move,
-Smart dust surveillance—nothing left to prove,
-The time of trouble like never before,
-Technology opens the tribulation door!
+[اللازمة]
+تقنية الضيقة تراقب كل حركة،
+مراقبة الغبار الذكي - لا يوجد شيء متبق لإثباته،
+وقت الضيق لم يحدث من قبل،
+التكنولوجيا تفتح باب الضيقة!
 
-[Outro]
-Tribulation tech making prophecy real,
-Seven years of trouble with a digital seal,
-But the saints overcome by the blood of the Lamb,
-And the word of their testimony—that's the plan.
+[الخاتمة]
+تقنية الضيقة تجعل النبوءة حقيقية،
+سبع سنوات من المتاعب بختم رقمي،
+لكن القديسين يتغلبون بدم الحمل،
+وبكلمة شهادتهم - هذه هي الخطة.

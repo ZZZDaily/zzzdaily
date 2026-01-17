@@ -1,74 +1,74 @@
-SONG 1: "Siliziumkuppel"
-(Theme: Flat Earth Firmament + AI Digital Prison)
+LIED 1: "Kuppel aus Silizium"
+(Thema: Flache Erde Firmament + KI Digitales Gefängnis)
 
 [Intro]
 
-[Verse 1]
-They built a prison underneath the dome,
-Silicon valleys where the demons roam,
-Firmament above us solid as steel,
-But they've built another one—digital and real.
+[Strophe 1]
+Sie bauten ein Gefängnis unter der Kuppel,
+Siliziumtäler, wo die Dämonen streifen,
+Firmament über uns fest wie Stahl,
+Doch sie haben ein weiteres gebaut – digital und real.
 
-[Verse 2]
-Genesis tells us waters above the sky,
-Now they're drowning us in data, algorithm lies,
-God's ceiling keeps the waters held at bay,
-Their ceiling keeps the truth locked away.
+[Strophe 2]
+Genesis erzählt uns von Wassern über dem Himmel,
+Jetzt ertränken sie uns in Daten, Algorithmus-Lügen,
+Gottes Decke hält die Wasser in Schach,
+Ihre Decke hält die Wahrheit weggesperrt.
 
-[Chorus]
-Dome of silicon, dome of glass,
-Two prisons built to hold the mass,
-One made by God to protect His creation,
-One made by man for our digital damnation!
+[Refrain]
+Kuppel aus Silizium, Kuppel aus Glas,
+Zwei Gefängnisse gebaut, um die Masse zu halten,
+Eines von Gott gemacht, um Seine Schöpfung zu schützen,
+Eines vom Menschen gemacht für unsere digitale Verdammnis!
 
-[Verse 3]
-They couldn't break through the firmament wall,
-So they built the metaverse to trap us all,
-"Space is fake" so they made cyberspace,
-Another false reality shoved in your face.
+[Strophe 3]
+Sie konnten die Firmamentwand nicht durchbrechen,
+Also bauten sie das Metaverse, um uns alle zu fangen,
+"Weltraum ist falsch", also machten sie den Cyberspace,
+Eine weitere falsche Realität dir ins Gesicht gestoßen.
 
-[Verse 4]
-Elon says we might be in a simulation,
-Preparing your mind for the great migration,
-Upload your soul to the cloud they say,
-While the real dome above keeps heaven at bay.
+[Strophe 4]
+Elon sagt, wir könnten in einer Simulation sein,
+Bereitet deinen Geist auf die große Migration vor,
+Lade deine Seele in die Cloud hoch, sagen sie,
+Während die echte Kuppel oben den Himmel in Schach hält.
 
-[Chorus]
-Dome of silicon, dome of glass,
-Two prisons built to hold the mass,
-One made by God to protect His creation,
-One made by man for our digital damnation!
+[Refrain]
+Kuppel aus Silizium, Kuppel aus Glas,
+Zwei Gefängnisse gebaut, um die Masse zu halten,
+Eines von Gott gemacht, um Seine Schöpfung zu schützen,
+Eines vom Menschen gemacht für unsere digitale Verdammnis!
 
 [Bridge]
-The firmament holds—they cannot breach,
-So digital heavens is what they preach,
-Transhumanism is their tower of lies,
-Building to God but they can't reach the skies!
-Babel fell and so will this,
-Silicon dreams turn to the abyss,
-Christ is the door, the only way through,
-Not fiber optics—the Gospel is true!
+Das Firmament hält – sie können es nicht durchbrechen,
+Also predigen sie digitale Himmel,
+Transhumanismus ist ihr Turm der Lügen,
+Zu Gott bauen, aber sie können den Himmel nicht erreichen!
+Babel fiel und das hier auch,
+Siliziumträume verwandeln sich in den Abgrund,
+Christus ist die Tür, der einzige Weg durch,
+Nicht Glasfaserkabel – das Evangelium ist wahr!
 
-[Verse 5]
-P900 zoom shows no curve below,
-But the algorithm curves what you're allowed to know,
-Flat earth truth gets shadow banned quick,
-While they push the pear-shaped testicle trick.
+[Strophe 5]
+P900-Zoom zeigt keine Krümmung unten,
+Doch der Algorithmus krümmt, was du wissen darfst,
+Flache Erde Wahrheit wird schnell im Schatten verbannt,
+Während sie den birnenförmigen Hoden-Trick pushen.
 
-[Verse 6]
-Smart dust falls from towers not stars,
-The firmament holds, can't escape to Mars,
-So they trap you in VR, AR, AI,
-Another dome of silicon—do or die.
+[Strophe 6]
+Intelligenter Staub fällt von Türmen, nicht von Sternen,
+Das Firmament hält, kann nicht zum Mars entkommen,
+Also fangen sie dich in VR, AR, KI,
+Eine weitere Siliziumkuppel – tun oder sterben.
 
-[Chorus]
-Dome of silicon, dome of glass,
-Two prisons built to hold the mass,
-One made by God to protect His creation,
-One made by man for our digital damnation!
+[Refrain]
+Kuppel aus Silizium, Kuppel aus Glas,
+Zwei Gefängnisse gebaut, um die Masse zu halten,
+Eines von Gott gemacht, um Seine Schöpfung zu schützen,
+Eines vom Menschen gemacht für unsere digitale Verdammnis!
 
 [Outro]
-Two domes standing—one by God, one by man,
-Only one will hold according to the plan,
-Silicon crumbles when the Father calls,
-But the firmament stands while Babylon falls.
+Zwei Kuppeln stehen – eine von Gott, eine vom Menschen,
+Nur eine wird laut Plan halten,
+Silizium zerbröckelt, wenn der Vater ruft,
+Doch das Firmament steht, während Babylon fällt.

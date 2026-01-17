@@ -1,74 +1,74 @@
-SONG 8: "Digital Rapture"
-(Theme: Christian Rapture + Digital Twin Upload)
+노래 8: "디지털 휴거"
+(주제: 기독교 휴거 + 디지털 트윈 업로드)
 
-[Intro]
+[인트로]
 
-[Verse 1]
-They promise eternal life in the cloud,
-Upload your consciousness—join the crowd,
-A digital heaven where you never die,
-Satan's counterfeit of the rapture in the sky.
+[벌스 1]
+그들은 클라우드에서 영생을 약속한다,
+당신의 의식을 업로드하라—군중에 합류하라,
+당신이 결코 죽지 않는 디지털 천국,
+하늘의 휴거에 대한 사탄의 위조품.
 
-[Verse 2]
-First Thessalonians four—caught up to meet,
-The Lord in the air—salvation complete,
-But they offer a fake version of the same,
-Digital rapture—a different name.
+[벌스 2]
+데살로니가전서 4장—만나기 위해 들림받는다,
+공중에서 주님—구원이 완성된다,
+하지만 그들은 같은 것의 가짜 버전을 제공한다,
+디지털 휴거—다른 이름.
 
-[Chorus]
-Digital rapture—escape to the cloud,
-Leave your body, join the digital crowd,
-But it's not the rapture that Jesus brings,
-It's a silicon prison without any wings!
+[후렴]
+디지털 휴거—클라우드로의 탈출,
+당신의 몸을 떠나, 디지털 군중에 합류하라,
+하지만 그것은 예수가 가져오는 휴거가 아니다,
+그것은 날개 없는 실리콘 감옥이다!
 
-[Verse 3]
-Digital twins of every human alive,
-Copies in the metaverse learning to thrive,
-When your body dies, they say you'll live on,
-But your soul without Christ is forever gone.
+[벌스 3]
+살아있는 모든 인간의 디지털 쌍둥이,
+메타버스에서 번창하는 법을 배우는 복사본,
+당신의 몸이 죽을 때, 그들은 당신이 계속 살 것이라고 말한다,
+하지만 그리스도 없는 당신의 영혼은 영원히 사라졌다.
 
-[Verse 4]
-Kurzweil dreams of living past a hundred years,
-Mind uploaded, no more death, no more tears,
-But only Jesus offers life that's true,
-Revelation twenty-one—all things new.
+[벌스 4]
+커즈와일은 백 년 이상 사는 꿈을 꾼다,
+마음이 업로드되고, 더 이상 죽음도, 더 이상 눈물도 없다,
+하지만 예수만이 진정한 생명을 제공한다,
+요한계시록 21장—모든 것이 새롭다.
 
-[Chorus]
-Digital rapture—escape to the cloud,
-Leave your body, join the digital crowd,
-But it's not the rapture that Jesus brings,
-It's a silicon prison without any wings!
+[후렴]
+디지털 휴거—클라우드로의 탈출,
+당신의 몸을 떠나, 디지털 군중에 합류하라,
+하지만 그것은 예수가 가져오는 휴거가 아니다,
+그것은 날개 없는 실리콘 감옥이다!
 
-[Bridge]
-In the twinkling of an eye, we shall be changed,
-Incorruptible bodies—divinely arranged,
-Not by Neuralink, not by any machine,
-But by Christ's return—the eternal King!
-Don't fall for the counterfeit eternal life,
-Satan's been a liar since Eden's strife,
-The digital rapture leaves your soul behind,
-The real rapture saves both body and mind!
+[브리지]
+눈 깜짝할 사이에, 우리는 변화될 것이다,
+썩지 않는 몸—신성하게 배열된,
+뉴럴링크로가 아니라, 어떤 기계로도 아니라,
+그리스도의 재림으로—영원한 왕!
+위조품 영생에 속지 마라,
+사탄은 에덴의 투쟁 이후로 거짓말쟁이였다,
+디지털 휴거는 당신의 영혼을 뒤에 남긴다,
+진짜 휴거는 몸과 마음 모두를 구한다!
 
-[Verse 5]
-They want to preserve you in ones and zeros,
-Digital avatars—false heroes,
-But code can't capture what makes you whole,
-The image of God imprinted on your soul.
+[벌스 5]
+그들은 당신을 1과 0으로 보존하기를 원한다,
+디지털 아바타—거짓 영웅,
+하지만 코드는 당신을 완전하게 만드는 것을 포착할 수 없다,
+당신의 영혼에 새겨진 하나님의 형상.
 
-[Verse 6]
-Second Corinthians five—absent from the body,
-Present with the Lord—not virtually shoddy,
-The cloud they offer is Amazon's server farm,
-The cloud we rise to is in Jesus' arms.
+[벌스 6]
+고린도후서 5장—몸을 떠나,
+주님과 함께—가상으로 조잡하지 않다,
+그들이 제공하는 클라우드는 아마존의 서버 팜이다,
+우리가 올라가는 클라우드는 예수의 품 안에 있다.
 
-[Chorus]
-Digital rapture—escape to the cloud,
-Leave your body, join the digital crowd,
-But it's not the rapture that Jesus brings,
-It's a silicon prison without any wings!
+[후렴]
+디지털 휴거—클라우드로의 탈출,
+당신의 몸을 떠나, 디지털 군중에 합류하라,
+하지만 그것은 예수가 가져오는 휴거가 아니다,
+그것은 날개 없는 실리콘 감옥이다!
 
-[Outro]
-Digital rapture is the devil's great deceit,
-A counterfeit heaven that can't compete,
-When the trumpet sounds, the dead in Christ will rise,
-Not uploaded to servers—but meeting Him in the skies.
+[아웃트로]
+디지털 휴거는 악마의 큰 속임수다,
+경쟁할 수 없는 위조품 천국,
+나팔이 울릴 때, 그리스도 안에서 죽은 자들이 일어날 것이다,
+서버에 업로드되지 않고—하늘에서 그분을 만난다.

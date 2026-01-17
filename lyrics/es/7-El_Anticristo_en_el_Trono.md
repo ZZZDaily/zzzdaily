@@ -1,4 +1,4 @@
-CANCIÓN 4: "El Anticristo en el Trono"
+CANCIÓN 7: "El Anticristo en el Trono"
 
 
 

@@ -1,74 +1,74 @@
-SONG 12: "Dome Dwellers Awakening"
-(Theme: Flat Earth Truth + Final Awakening for Humanity)
+أغنية 12: "صحوة سكان القبة"
+(الموضوع: حقيقة الأرض المسطحة + الصحوة الأخيرة للبشرية)
 
-[Intro]
+[المقدمة]
 
-[Verse 1]
-They kept us sleeping under the dome so long,
-Pear-shaped testicle lies—believing wrong,
-But the dome dwellers waking, opening eyes,
-Seeing through both space and tech's disguise.
+[الكوبليه 1]
+أبقونا نائمين تحت القبة طويلاً،
+أكاذيب الخصية الكمثرية - نؤمن خطأ،
+لكن سكان القبة يستيقظون، يفتحون العيون،
+يرون من خلال كل من الفضاء وتمويه التقنية.
 
-[Verse 2]
-Flat earth was the key that unlocked the door,
-Now we see the nanotech and so much more,
-One lie connected to the other strand,
-A web of deception across every land.
+[الكوبليه 2]
+الأرض المسطحة كانت المفتاح الذي فتح الباب،
+الآن نرى النانوتكنولوجي وأكثر بكثير،
+كذبة واحدة متصلة بالخيط الآخر،
+شبكة من الخداع عبر كل أرض.
 
-[Chorus]
-Dome dwellers awakening to the truth at last,
-Flat earth breaking chains from the past,
-Seeing the firmament and the beast system too,
-The final awakening is coming through!
+[اللازمة]
+سكان القبة يستيقظون على الحقيقة أخيرًا،
+الأرض المسطحة تكسر سلاسل الماضي،
+رؤية الجلد ونظام الوحش أيضًا،
+الصحوة الأخيرة قادمة!
 
-[Verse 3]
-P900 zoom revealed the plane,
-Blood microscopy revealed the bane,
-What they hid above connects to what's within,
-One matrix of lies covering every sin.
+[الكوبليه 3]
+تكبير P900 كشف المستوى،
+المجهر الدموي كشف الآفة،
+ما أخفوه فوق يتصل بما في الداخل،
+مصفوفة واحدة من الأكاذيب تغطي كل خطيئة.
 
-[Verse 4]
-They couldn't maintain the globe without fake space,
-They can't maintain control without tracking your face,
-Two systems of bondage crumbling as one,
-The dome dwellers rising with the morning sun.
+[الكوبليه 4]
+لم يتمكنوا من الحفاظ على الكرة الأرضية بدون فضاء مزيف،
+لا يمكنهم الحفاظ على السيطرة بدون تتبع وجهك،
+نظامان من العبودية ينهاران كواحد،
+سكان القبة يرتفعون مع شمس الصباح.
 
-[Chorus]
-Dome dwellers awakening to the truth at last,
-Flat earth breaking chains from the past,
-Seeing the firmament and the beast system too,
-The final awakening is coming through!
+[اللازمة]
+سكان القبة يستيقظون على الحقيقة أخيرًا،
+الأرض المسطحة تكسر سلاسل الماضي،
+رؤية الجلد ونظام الوحش أيضًا،
+الصحوة الأخيرة قادمة!
 
-[Bridge]
-Hosea four-six said perish from not knowing,
-But now the truth is flooding, overflowing,
-Flat earth led us down the rabbit hole,
-Now we see the war being waged for our soul!
-From space lies to vaccine lies—all connect,
-The same deceiver running the tech,
-But the dome dwellers see it all so clear,
-The awakening's here—the end is near!
+[الجسر]
+هوشع أربعة ستة قال يهلكون من عدم المعرفة،
+لكن الآن الحقيقة تفيض، تتدفق،
+الأرض المسطحة قادتنا إلى جحر الأرنب،
+الآن نرى الحرب التي تُشن من أجل روحنا!
+من أكاذيب الفضاء إلى أكاذيب اللقاح - كلها متصلة،
+نفس المخادع يدير التقنية،
+لكن سكان القبة يرون كل شيء بوضوح،
+الصحوة هنا - النهاية قريبة!
 
-[Verse 5]
-Karen Kingston exposed the patents' truth,
-Eric Dubay exposed the globe's bad proof,
-Ana Mihalcea shows blood transformed,
-The awakened remnant weathering the storm.
+[الكوبليه 5]
+كارين كينغستون كشفت حقيقة براءات الاختراع،
+إريك دوباي كشف الدليل السيئ للكرة الأرضية،
+آنا ميهالسيا تُظهر الدم المُحوَّل،
+البقية المتيقظة تصمد العاصفة.
 
-[Verse 6]
-From firmament to nanobots, we see the scheme,
-Satan's matrix crumbling at the seams,
-The dome above reflects the truth below,
-As within, so without—now we know.
+[الكوبليه 6]
+من الجلد إلى النانوبوتات، نرى المخطط،
+مصفوفة الشيطان تنهار عند اللحامات،
+القبة أعلاه تعكس الحقيقة أدناه،
+كما في الداخل، كذلك في الخارج - الآن نعرف.
 
-[Chorus]
-Dome dwellers awakening to the truth at last,
-Flat earth breaking chains from the past,
-Seeing the firmament and the beast system too,
-The final awakening is coming through!
+[اللازمة]
+سكان القبة يستيقظون على الحقيقة أخيرًا،
+الأرض المسطحة تكسر سلاسل الماضي،
+رؤية الجلد ونظام الوحش أيضًا،
+الصحوة الأخيرة قادمة!
 
-[Outro]
-Dome dwellers awakening from sea to sea,
-Flat earth truth setting humanity free,
-And with that truth, all deceptions fall,
-The final awakening answering the call.
+[الخاتمة]
+سكان القبة يستيقظون من بحر إلى بحر،
+حقيقة الأرض المسطحة تحرر البشرية،
+ومع تلك الحقيقة، تسقط كل الخدع،
+الصحوة الأخيرة تجيب على النداء.

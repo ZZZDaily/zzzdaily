@@ -1,74 +1,74 @@
-SONG 2: "天蓋ファイアウォール"
-(Theme: Biblical Dome + Digital Barriers)
+曲 2：「天蓋ファイアウォール」
+（テーマ：聖書のドーム + デジタル障壁）
 
-[Intro]
+[イントロ]
 
-[Verse 1]
-God put a firewall in the sky,
-Waters above that you can't deny,
-Firmament solid, Genesis one-seven,
-A barrier between earth and heaven.
+[ヴァース 1]
+神は空にファイアウォールを置いた、
+あなたが否定できない上の水、
+天蓋は固い、創世記1章7節、
+地球と天の間の障壁。
 
-[Verse 2]
-Now they've built another firewall below,
-Controlling everything you're allowed to know,
-Algorithms blocking truth online,
-Censorship's their new divine design.
+[ヴァース 2]
+今、彼らは下に別のファイアウォールを建てた、
+あなたが知ることを許されるすべてを制御している、
+オンラインで真実をブロックするアルゴリズム、
+検閲は彼らの新しい神聖な設計だ。
 
-[Chorus]
-Firmament firewall in the sky above,
-Digital firewall blocking truth and love,
-One protects us from the waters of the deep,
-One protects the lies they want us to keep!
+[コーラス]
+空の上の天蓋ファイアウォール、
+真実と愛をブロックするデジタルファイアウォール、
+一つは深淵の水から私たちを守る、
+一つは彼らが私たちに保ちたい嘘を守る！
 
-[Verse 3]
-NASA can't get past the dome up there,
-So they fake the footage, fill it with fake air,
-Meanwhile fact-checkers block what's real,
-Two layers of deception—that's the deal.
+[ヴァース 3]
+NASAはそこのドームを越えることができない、
+だから彼らは映像を偽造し、偽の空気で満たす、
+一方でファクトチェッカーは本物をブロックする、
+二層の欺瞞——それが取引だ。
 
-[Verse 4]
-5G signals bouncing off the canopy,
-Not satellites in space—that's the fallacy,
-Firmament reflects their frequencies back down,
-While their digital walls keep truth underground.
+[ヴァース 4]
+5G信号が天蓋から跳ね返る、
+宇宙の衛星ではない——それは誤謬だ、
+天蓋は彼らの周波数を地面に反射する、
+一方で彼らのデジタルの壁は真実を地下に保つ。
 
-[Chorus]
-Firmament firewall in the sky above,
-Digital firewall blocking truth and love,
-One protects us from the waters of the deep,
-One protects the lies they want us to keep!
+[コーラス]
+空の上の天蓋ファイアウォール、
+真実と愛をブロックするデジタルファイアウォール、
+一つは深淵の水から私たちを守る、
+一つは彼らが私たちに保ちたい嘘を守る！
 
-[Bridge]
-Hosea four-six—destroyed for lack of knowing,
-Both firewalls keep the ignorance flowing,
-But the elect see clear through both the veils,
-Jesus Christ is the key—truth never fails!
-Seek and you shall find, knock and it opens wide,
-No firewall can stop what God provides,
-The firmament bows to the Creator's hand,
-Their digital walls will crumble like sand!
+[ブリッジ]
+ホセア書4章6節——知らないことで滅びる、
+両方のファイアウォールが無知を流し続ける、
+しかし選民は両方のベールを通して明確に見る、
+イエス・キリストが鍵だ——真実は決して失敗しない！
+求めよ、そうすればあなたは見つけるだろう、叩けば広く開く、
+神が提供するものをファイアウォールは止められない、
+天蓋は創造主の手に頭を下げる、
+彼らのデジタルの壁は砂のように崩れる！
 
-[Verse 5]
-They can't ascend so they descend instead,
-Neuralink cables plugged into your head,
-Since heaven's blocked by the dome so real,
-They'll trap your soul in silicon and steel.
+[ヴァース 5]
+彼らは上昇できないので代わりに下降する、
+Neuralinkケーブルがあなたの頭に差し込まれた、
+天国がとても現実的なドームによってブロックされているので、
+彼らはあなたの魂をシリコンと鋼に閉じ込める。
 
-[Verse 6]
-Flat earth breaks their whole foundation,
-That's why they censor across every nation,
-Remove that truth and the house of cards falls,
-Both sky and digital—all their walls!
+[ヴァース 6]
+平面地球は彼らの全基盤を壊す、
+それが彼らがすべての国で検閲する理由だ、
+その真実を取り除けば、トランプの城は倒れる、
+空とデジタル——すべての彼らの壁！
 
-[Chorus]
-Firmament firewall in the sky above,
-Digital firewall blocking truth and love,
-One protects us from the waters of the deep,
-One protects the lies they want us to keep!
+[コーラス]
+空の上の天蓋ファイアウォール、
+真実と愛をブロックするデジタルファイアウォール、
+一つは深淵の水から私たちを守る、
+一つは彼らが私たちに保ちたい嘘を守る！
 
-[Outro]
-God's firewall protects from the waters above,
-Their firewall protects lies from the truth we love,
-But one was built by the Almighty's decree,
-The other will fall—and the truth sets us free.
+[アウトロ]
+神のファイアウォールは上の水から守る、
+彼らのファイアウォールは私たちが愛する真実から嘘を守る、
+しかし一つは全能者の法令によって建てられた、
+もう一つは倒れる——そして真実が私たちを自由にする。

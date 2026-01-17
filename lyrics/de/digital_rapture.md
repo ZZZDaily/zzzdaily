@@ -1,74 +1,74 @@
-SONG 8: "Digital Rapture"
-(Theme: Christian Rapture + Digital Twin Upload)
+LIED 8: "Digitale Entrückung"
+(Thema: Christliche Entrückung + Upload des Digitalen Zwillings)
 
 [Intro]
 
-[Verse 1]
-They promise eternal life in the cloud,
-Upload your consciousness—join the crowd,
-A digital heaven where you never die,
-Satan's counterfeit of the rapture in the sky.
+[Strophe 1]
+Sie versprechen ewiges Leben in der Cloud,
+Lade dein Bewusstsein hoch – schließe dich der Menge an,
+Ein digitaler Himmel, wo du nie stirbst,
+Satans Fälschung der Entrückung am Himmel.
 
-[Verse 2]
-First Thessalonians four—caught up to meet,
-The Lord in the air—salvation complete,
-But they offer a fake version of the same,
-Digital rapture—a different name.
+[Strophe 2]
+Erster Thessalonicher vier – hingerissen, um zu begegnen,
+Dem Herrn in der Luft – Erlösung vollständig,
+Doch sie bieten eine falsche Version desselben,
+Digitale Entrückung – ein anderer Name.
 
-[Chorus]
-Digital rapture—escape to the cloud,
-Leave your body, join the digital crowd,
-But it's not the rapture that Jesus brings,
-It's a silicon prison without any wings!
+[Refrain]
+Digitale Entrückung – Flucht in die Cloud,
+Verlasse deinen Körper, schließe dich der digitalen Menge an,
+Doch es ist nicht die Entrückung, die Jesus bringt,
+Es ist ein Siliziumgefängnis ohne Flügel!
 
-[Verse 3]
-Digital twins of every human alive,
-Copies in the metaverse learning to thrive,
-When your body dies, they say you'll live on,
-But your soul without Christ is forever gone.
+[Strophe 3]
+Digitale Zwillinge jedes lebenden Menschen,
+Kopien im Metaverse lernen zu gedeihen,
+Wenn dein Körper stirbt, sagen sie, du wirst weiterleben,
+Doch deine Seele ohne Christus ist für immer fort.
 
-[Verse 4]
-Kurzweil dreams of living past a hundred years,
-Mind uploaded, no more death, no more tears,
-But only Jesus offers life that's true,
-Revelation twenty-one—all things new.
+[Strophe 4]
+Kurzweil träumt davon, über hundert Jahre zu leben,
+Bewusstsein hochgeladen, kein Tod mehr, keine Tränen mehr,
+Doch nur Jesus bietet Leben, das wahr ist,
+Offenbarung einundzwanzig – alles neu.
 
-[Chorus]
-Digital rapture—escape to the cloud,
-Leave your body, join the digital crowd,
-But it's not the rapture that Jesus brings,
-It's a silicon prison without any wings!
+[Refrain]
+Digitale Entrückung – Flucht in die Cloud,
+Verlasse deinen Körper, schließe dich der digitalen Menge an,
+Doch es ist nicht die Entrückung, die Jesus bringt,
+Es ist ein Siliziumgefängnis ohne Flügel!
 
 [Bridge]
-In the twinkling of an eye, we shall be changed,
-Incorruptible bodies—divinely arranged,
-Not by Neuralink, not by any machine,
-But by Christ's return—the eternal King!
-Don't fall for the counterfeit eternal life,
-Satan's been a liar since Eden's strife,
-The digital rapture leaves your soul behind,
-The real rapture saves both body and mind!
+In einem Augenblick werden wir verwandelt,
+Unverwesliche Körper – göttlich arrangiert,
+Nicht durch Neuralink, nicht durch irgendeine Maschine,
+Sondern durch Christi Rückkehr – der ewige König!
+Fall nicht auf das gefälschte ewige Leben herein,
+Satan ist ein Lügner seit Edens Streit,
+Die digitale Entrückung lässt deine Seele zurück,
+Die wahre Entrückung rettet Körper und Geist!
 
-[Verse 5]
-They want to preserve you in ones and zeros,
-Digital avatars—false heroes,
-But code can't capture what makes you whole,
-The image of God imprinted on your soul.
+[Strophe 5]
+Sie wollen dich in Einsen und Nullen bewahren,
+Digitale Avatare – falsche Helden,
+Doch Code kann nicht erfassen, was dich ganz macht,
+Das Ebenbild Gottes, geprägt auf deine Seele.
 
-[Verse 6]
-Second Corinthians five—absent from the body,
-Present with the Lord—not virtually shoddy,
-The cloud they offer is Amazon's server farm,
-The cloud we rise to is in Jesus' arms.
+[Strophe 6]
+Zweiter Korinther fünf – abwesend vom Körper,
+Anwesend beim Herrn – nicht virtuell minderwertig,
+Die Cloud, die sie anbieten, ist Amazons Serverfarm,
+Die Cloud, zu der wir aufsteigen, ist in Jesu Armen.
 
-[Chorus]
-Digital rapture—escape to the cloud,
-Leave your body, join the digital crowd,
-But it's not the rapture that Jesus brings,
-It's a silicon prison without any wings!
+[Refrain]
+Digitale Entrückung – Flucht in die Cloud,
+Verlasse deinen Körper, schließe dich der digitalen Menge an,
+Doch es ist nicht die Entrückung, die Jesus bringt,
+Es ist ein Siliziumgefängnis ohne Flügel!
 
 [Outro]
-Digital rapture is the devil's great deceit,
-A counterfeit heaven that can't compete,
-When the trumpet sounds, the dead in Christ will rise,
-Not uploaded to servers—but meeting Him in the skies.
+Digitale Entrückung ist des Teufels große Täuschung,
+Ein gefälschter Himmel, der nicht konkurrieren kann,
+Wenn die Posaune ertönt, werden die Toten in Christus auferstehen,
+Nicht hochgeladen auf Server – sondern Ihm in den Himmeln begegnen.

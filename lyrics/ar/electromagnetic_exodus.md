@@ -1,74 +1,74 @@
-SONG 14: "Electromagnetic Exodus"
-(Theme: Biblical Exodus + DEW Weapons Escape)
+أغنية 14: "الخروج الكهرومغناطيسي"
+(الموضوع: الخروج الكتابي + الهروب من أسلحة DEW)
 
-[Intro]
+[المقدمة]
 
-[Verse 1]
-Moses led Israel from Pharaoh's hand,
-Through the Red Sea waters to the promised land,
-Now we need exodus from the pharaohs of today,
-DEW weapons blazing—we gotta find a way.
+[الكوبليه 1]
+موسى قاد إسرائيل من يد فرعون،
+عبر مياه البحر الأحمر إلى الأرض الموعودة،
+الآن نحتاج إلى الخروج من فراعنة اليوم،
+أسلحة DEW تشتعل - علينا أن نجد طريقة.
 
-[Verse 2]
-Electromagnetic frequencies all around,
-5G towers rising up from the ground,
-Directed energy weapons burning from the sky,
-Like the plagues of Egypt—people die.
+[الكوبليه 2]
+الترددات الكهرومغناطيسية في كل مكان،
+أبراج 5G ترتفع من الأرض،
+أسلحة الطاقة الموجهة تحرق من السماء،
+مثل ضربات مصر - الناس يموتون.
 
-[Chorus]
-Electromagnetic exodus—gotta leave Babylon,
-DEW weapons raining fire till the dawn,
-Like Moses led his people through the sea,
-We need deliverance to set us free!
+[اللازمة]
+الخروج الكهرومغناطيسي - يجب ترك بابل،
+أسلحة DEW تمطر نارًا حتى الفجر،
+كما قاد موسى شعبه عبر البحر،
+نحتاج إلى الخلاص لتحريرنا!
 
-[Verse 3]
-Maui burned with blue umbrellas standing tall,
-Paradise, California—DEW made it fall,
-Pharaoh used whips, the new pharaohs use waves,
-Electromagnetic weapons digging mass graves.
+[الكوبليه 3]
+ماوي احترقت مع المظلات الزرقاء تقف عالية،
+الجنة، كاليفورنيا - DEW جعلتها تسقط،
+فرعون استخدم السياط، الفراعنة الجدد يستخدمون الموجات،
+الأسلحة الكهرومغناطيسية تحفر قبورًا جماعية.
 
-[Verse 4]
-Smart meters on every house tracking power flow,
-They can target anyone—this we know,
-But God parted the waters, made a way through,
-He'll part the frequencies for me and you.
+[الكوبليه 4]
+عدادات ذكية على كل منزل تتبع تدفق الطاقة،
+يمكنهم استهداف أي شخص - هذا نعرفه،
+لكن الله فرق المياه، صنع طريقًا،
+سيفرق الترددات لي ولك.
 
-[Chorus]
-Electromagnetic exodus—gotta leave Babylon,
-DEW weapons raining fire till the dawn,
-Like Moses led his people through the sea,
-We need deliverance to set us free!
+[اللازمة]
+الخروج الكهرومغناطيسي - يجب ترك بابل،
+أسلحة DEW تمطر نارًا حتى الفجر،
+كما قاد موسى شعبه عبر البحر،
+نحتاج إلى الخلاص لتحريرنا!
 
-[Bridge]
-Egypt held Israel four hundred years in chains,
-Electromagnetic Egypt does the same,
-But God sent Moses when the time was right,
-The midnight hour—then came the light!
-Ten plagues fell on Egypt long ago,
-Ten plagues of tech are falling here below,
-But the blood on the doorpost kept the angel at bay,
-The blood of Jesus keeps us safe today!
+[الجسر]
+مصر أمسكت إسرائيل أربعمئة عام في سلاسل،
+مصر الكهرومغناطيسية تفعل الشيء نفسه،
+لكن الله أرسل موسى عندما حان الوقت المناسب،
+ساعة منتصف الليل - ثم جاء النور!
+عشر ضربات سقطت على مصر منذ زمن بعيد،
+عشر ضربات من التقنية تسقط هنا أدناه،
+لكن الدم على القائم حفظ الملاك بعيدًا،
+دم يسوع يحفظنا آمنين اليوم!
 
-[Verse 5]
-Smart cities are the new Egyptian brick,
-Surveillance and control—the same old trick,
-But the pillar of cloud and pillar of fire,
-Still guides the remnant from the empire.
+[الكوبليه 5]
+المدن الذكية هي الطوب المصري الجديد،
+المراقبة والسيطرة - نفس الخدعة القديمة،
+لكن عمود السحاب وعمود النار،
+لا يزال يرشد البقية من الإمبراطورية.
 
-[Verse 6]
-Pharaoh's army drowned in the closing sea,
-The beast system drowns in eternity,
-Every tower, every weapon turned to dust,
-In God alone we put our trust.
+[الكوبليه 6]
+جيش فرعون غرق في البحر المُغلِق،
+نظام الوحش يغرق في الأبدية،
+كل برج، كل سلاح تحول إلى تراب،
+في الله وحده نضع ثقتنا.
 
-[Chorus]
-Electromagnetic exodus—gotta leave Babylon,
-DEW weapons raining fire till the dawn,
-Like Moses led his people through the sea,
-We need deliverance to set us free!
+[اللازمة]
+الخروج الكهرومغناطيسي - يجب ترك بابل،
+أسلحة DEW تمطر نارًا حتى الفجر،
+كما قاد موسى شعبه عبر البحر،
+نحتاج إلى الخلاص لتحريرنا!
 
-[Outro]
-Electromagnetic exodus from the beast,
-From the west, from the north, south, and east,
-God makes a way where there seems to be none,
-The exodus continues till the victory's won.
+[الخاتمة]
+الخروج الكهرومغناطيسي من الوحش،
+من الغرب، من الشمال والجنوب والشرق،
+الله يصنع طريقًا حيث يبدو أنه لا يوجد شيء،
+الخروج مستمر حتى يتحقق النصر.

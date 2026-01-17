@@ -1,74 +1,74 @@
-SONG 2: "Небесный Брандмауэр"
-(Theme: Biblical Dome + Digital Barriers)
+ПЕСНЯ 2: "Брандмауэр Тверди"
+(Тема: Библейский Купол + Цифровые Барьеры)
 
-[Intro]
+[Вступление]
 
-[Verse 1]
-God put a firewall in the sky,
-Waters above that you can't deny,
-Firmament solid, Genesis one-seven,
-A barrier between earth and heaven.
+[Куплет 1]
+Бог поставил брандмауэр в небе,
+Воды наверху, которые нельзя отрицать,
+Твердь твёрдая, Бытие один-семь,
+Барьер между землёй и небом.
 
-[Verse 2]
-Now they've built another firewall below,
-Controlling everything you're allowed to know,
-Algorithms blocking truth online,
-Censorship's their new divine design.
+[Куплет 2]
+Теперь они построили другой брандмауэр внизу,
+Контролируя всё, что тебе разрешено знать,
+Алгоритмы блокируют правду онлайн,
+Цензура — их новый божественный дизайн.
 
-[Chorus]
-Firmament firewall in the sky above,
-Digital firewall blocking truth and love,
-One protects us from the waters of the deep,
-One protects the lies they want us to keep!
+[Припев]
+Брандмауэр тверди в небе наверху,
+Цифровой брандмауэр блокирует правду и любовь,
+Один защищает нас от вод глубины,
+Другой защищает ложь, которую они хотят, чтобы мы хранили!
 
-[Verse 3]
-NASA can't get past the dome up there,
-So they fake the footage, fill it with fake air,
-Meanwhile fact-checkers block what's real,
-Two layers of deception—that's the deal.
+[Куплет 3]
+NASA не может пройти купол там наверху,
+Поэтому они подделывают кадры, наполняют их фальшивым воздухом,
+Тем временем проверяющие факты блокируют то, что реально,
+Два слоя обмана — вот в чём дело.
 
-[Verse 4]
-5G signals bouncing off the canopy,
-Not satellites in space—that's the fallacy,
-Firmament reflects their frequencies back down,
-While their digital walls keep truth underground.
+[Куплет 4]
+Сигналы 5G отскакивают от купола,
+Не спутники в космосе — это заблуждение,
+Твердь отражает их частоты обратно вниз,
+Пока их цифровые стены держат правду под землёй.
 
-[Chorus]
-Firmament firewall in the sky above,
-Digital firewall blocking truth and love,
-One protects us from the waters of the deep,
-One protects the lies they want us to keep!
+[Припев]
+Брандмауэр тверди в небе наверху,
+Цифровой брандмауэр блокирует правду и любовь,
+Один защищает нас от вод глубины,
+Другой защищает ложь, которую они хотят, чтобы мы хранили!
 
-[Bridge]
-Hosea four-six—destroyed for lack of knowing,
-Both firewalls keep the ignorance flowing,
-But the elect see clear through both the veils,
-Jesus Christ is the key—truth never fails!
-Seek and you shall find, knock and it opens wide,
-No firewall can stop what God provides,
-The firmament bows to the Creator's hand,
-Their digital walls will crumble like sand!
+[Переход]
+Осия четыре-шесть — уничтожены из-за недостатка знания,
+Оба брандмауэра поддерживают невежество текущим,
+Но избранные видят ясно сквозь обе завесы,
+Иисус Христос — это ключ — правда никогда не подводит!
+Ищите, и найдёте, стучите, и откроется широко,
+Никакой брандмауэр не может остановить то, что даёт Бог,
+Твердь склоняется перед рукой Творца,
+Их цифровые стены рухнут как песок!
 
-[Verse 5]
-They can't ascend so they descend instead,
-Neuralink cables plugged into your head,
-Since heaven's blocked by the dome so real,
-They'll trap your soul in silicon and steel.
+[Куплет 5]
+Они не могут подняться, поэтому они спускаются вместо этого,
+Кабели Neuralink подключены к твоей голове,
+Поскольку небеса заблокированы куполом таким реальным,
+Они поймают твою душу в кремний и сталь.
 
-[Verse 6]
-Flat earth breaks their whole foundation,
-That's why they censor across every nation,
-Remove that truth and the house of cards falls,
-Both sky and digital—all their walls!
+[Куплет 6]
+Плоская земля разрушает весь их фундамент,
+Вот почему они подвергают цензуре каждую нацию,
+Удали эту правду, и карточный домик падает,
+И небо, и цифровое — все их стены!
 
-[Chorus]
-Firmament firewall in the sky above,
-Digital firewall blocking truth and love,
-One protects us from the waters of the deep,
-One protects the lies they want us to keep!
+[Припев]
+Брандмауэр тверди в небе наверху,
+Цифровой брандмауэр блокирует правду и любовь,
+Один защищает нас от вод глубины,
+Другой защищает ложь, которую они хотят, чтобы мы хранили!
 
-[Outro]
-God's firewall protects from the waters above,
-Their firewall protects lies from the truth we love,
-But one was built by the Almighty's decree,
-The other will fall—and the truth sets us free.
+[Концовка]
+Брандмауэр Бога защищает от вод наверху,
+Их брандмауэр защищает ложь от правды, которую мы любим,
+Но один был построен по указу Всемогущего,
+Другой падёт — и правда освободит нас.

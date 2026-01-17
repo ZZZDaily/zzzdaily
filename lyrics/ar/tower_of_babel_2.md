@@ -1,74 +1,74 @@
-SONG 6: "Tower of Babel 2.0"
-(Theme: Biblical Babel + Neuralink Hive Mind)
+أغنية 6: "برج بابل 2.0"
+(الموضوع: بابل الكتابي + عقل خلية Neuralink)
 
-[Intro]
+[المقدمة]
 
-[Verse 1]
-Genesis eleven—they built a tower high,
-One language, one people, reaching for the sky,
-God scattered them, confused their tongues that day,
-But now they're rebuilding in a different way.
+[الكوبليه 1]
+سفر التكوين أحد عشر - بنوا برجًا عاليًا،
+لغة واحدة، شعب واحد، يصل إلى السماء،
+الله شتتهم، بلبل ألسنتهم في ذلك اليوم،
+لكنهم الآن يعيدون البناء بطريقة مختلفة.
 
-[Verse 2]
-Neuralink connecting every single brain,
-One language of data flowing through the vein,
-Babel rebuilt not with bricks and stone,
-But neural interfaces—no thought your own.
+[الكوبليه 2]
+Neuralink يربط كل دماغ واحد،
+لغة واحدة من البيانات تتدفق عبر الوريد،
+بابل أعيد بناؤه ليس بالطوب والحجر،
+لكن بواجهات عصبية - لا فكر خاص بك.
 
-[Chorus]
-Tower of Babel 2.0 rising from the ground,
-Neuralink connecting every sight and sound,
-One language, one mind—just like before,
-But God already settled this score!
+[اللازمة]
+برج بابل 2.0 يرتفع من الأرض،
+Neuralink يربط كل منظر وصوت،
+لغة واحدة، عقل واحد - تمامًا كما كان من قبل،
+لكن الله حسم هذا الأمر بالفعل!
 
-[Verse 3]
-"Let us make a name for ourselves," they said,
-Now it's "Let us upload ourselves" instead,
-Transhumanism is the new tower tall,
-And just like Babel, it's destined to fall.
+[الكوبليه 3]
+"دعونا نصنع لأنفسنا اسمًا،" قالوا،
+الآن "دعونا نرفع أنفسنا" بدلاً من ذلك،
+الترانسيومانية هي البرج الجديد الطويل،
+وتمامًا مثل بابل، مصيره السقوط.
 
-[Verse 4]
-Elon says telepathy is the goal,
-Brain-to-brain transmission stealing every soul,
-Collective consciousness—the hive mind dream,
-But it's really just Babel's ancient scheme.
+[الكوبليه 4]
+إيلون يقول التخاطر هو الهدف،
+انتقال من دماغ إلى دماغ يسرق كل روح،
+الوعي الجماعي - حلم عقل الخلية،
+لكنه في الحقيقة مجرد مخطط بابل القديم.
 
-[Chorus]
-Tower of Babel 2.0 rising from the ground,
-Neuralink connecting every sight and sound,
-One language, one mind—just like before,
-But God already settled this score!
+[اللازمة]
+برج بابل 2.0 يرتفع من الأرض،
+Neuralink يربط كل منظر وصوت،
+لغة واحدة، عقل واحد - تمامًا كما كان من قبل،
+لكن الله حسم هذا الأمر بالفعل!
 
-[Bridge]
-God came down and saw what they had done,
-Confused their language—scattered everyone,
-He'll do it again when the tower's complete,
-This digital Babel He will defeat!
-What Satan builds, the Father tears down,
-Every knee will bow, every head will crown,
-Not to AI, not to Elon's dream,
-But to Jesus Christ—the true King supreme!
+[الجسر]
+الله نزل ورأى ما فعلوه،
+بلبل لغتهم - شتت الجميع،
+سيفعل ذلك مرة أخرى عندما يكتمل البرج،
+بابل الرقمي هذا سيهزمه!
+ما يبنيه الشيطان، الآب يهدمه،
+كل ركبة ستنحني، كل رأس سيُكلل،
+ليس للذكاء الاصطناعي، ليس لحلم إيلون،
+لكن ليسوع المسيح - الملك الحقيقي الأعظم!
 
-[Verse 5]
-They want us connected in one giant web,
-Every thought transmitted from the moment you're bred,
-Privacy deleted, free will erased,
-The tower of Babel completely replaced.
+[الكوبليه 5]
+يريدون منا أن نكون متصلين في شبكة عملاقة واحدة،
+كل فكر يُنقل من لحظة ولادتك،
+الخصوصية محذوفة، الإرادة الحرة ممحوة،
+برج بابل استُبدل تمامًا.
 
-[Verse 6]
-But remember the story—God saw from above,
-He confused their plans with His sovereign love,
-What man builds high, God brings down low,
-Babel 2.0 will get the same show.
+[الكوبليه 6]
+لكن تذكر القصة - الله رأى من فوق،
+بلبل خططهم بحبه السيادي،
+ما يبنيه الإنسان عاليًا، الله يسقطه منخفضًا،
+بابل 2.0 سيحصل على نفس العرض.
 
-[Chorus]
-Tower of Babel 2.0 rising from the ground,
-Neuralink connecting every sight and sound,
-One language, one mind—just like before,
-But God already settled this score!
+[اللازمة]
+برج بابل 2.0 يرتفع من الأرض،
+Neuralink يربط كل منظر وصوت،
+لغة واحدة، عقل واحد - تمامًا كما كان من قبل،
+لكن الله حسم هذا الأمر بالفعل!
 
-[Outro]
-Nimrod's tower fell in ancient days,
-Neuralink will crumble in the very same ways,
-God won't let them reach into the sky,
-Tower of Babel 2.0—destined to die.
+[الخاتمة]
+برج نمرود سقط في الأيام القديمة،
+Neuralink سينهار بنفس الطرق تمامًا،
+الله لن يدعهم يصلون إلى السماء،
+برج بابل 2.0 - مصيره الموت.

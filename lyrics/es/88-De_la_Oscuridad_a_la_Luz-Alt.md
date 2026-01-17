@@ -1,4 +1,4 @@
-CANCIÓN 10: "De la Oscuridad a la Luz"
+CANCIÓN 88: "De la Oscuridad a la Luz"
 (Tema: Una historia de conversión sobre la transformación del alcoholismo, agnosticismo y desesperación hacia la fe y un nuevo propósito.)
 
 [Introducción]

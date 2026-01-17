@@ -1,4 +1,4 @@
-CANCIÓN 12: "Cristo es Rey (El Himno de los Guerreros)"
+CANCIÓN 24: "Cristo es Rey (El Himno de los Guerreros)"
 
 
 

@@ -1,74 +1,74 @@
-SONG 6: "Tower of Babel 2.0"
-(Theme: Biblical Babel + Neuralink Hive Mind)
+曲 6：「バベルの塔2.0」
+（テーマ：聖書のバベル + Neuralinkハイブマインド）
 
-[Intro]
+[イントロ]
 
-[Verse 1]
-Genesis eleven—they built a tower high,
-One language, one people, reaching for the sky,
-God scattered them, confused their tongues that day,
-But now they're rebuilding in a different way.
+[ヴァース 1]
+創世記11章——彼らは高い塔を建てた、
+一つの言語、一つの民、空に手を伸ばす、
+神はその日彼らを散らし、彼らの舌を混乱させた、
+しかし今、彼らは異なる方法で再建している。
 
-[Verse 2]
-Neuralink connecting every single brain,
-One language of data flowing through the vein,
-Babel rebuilt not with bricks and stone,
-But neural interfaces—no thought your own.
+[ヴァース 2]
+Neuralinkがすべての脳を接続する、
+静脈を流れるデータの一つの言語、
+レンガと石ではなく再建されたバベル、
+しかし神経インターフェース——あなた自身の考えはない。
 
-[Chorus]
-Tower of Babel 2.0 rising from the ground,
-Neuralink connecting every sight and sound,
-One language, one mind—just like before,
-But God already settled this score!
+[コーラス]
+地面から上昇するバベルの塔2.0、
+すべての景色と音を接続するNeuralink、
+一つの言語、一つの心——以前と同じように、
+しかし神はすでにこのスコアを解決した！
 
-[Verse 3]
-"Let us make a name for ourselves," they said,
-Now it's "Let us upload ourselves" instead,
-Transhumanism is the new tower tall,
-And just like Babel, it's destined to fall.
+[ヴァース 3]
+「私たち自身のために名を作ろう」と彼らは言った、
+今は「私たち自身をアップロードしよう」に代わる、
+トランスヒューマニズムは新しい高い塔だ、
+そしてバベルのように、それは倒れる運命だ。
 
-[Verse 4]
-Elon says telepathy is the goal,
-Brain-to-brain transmission stealing every soul,
-Collective consciousness—the hive mind dream,
-But it's really just Babel's ancient scheme.
+[ヴァース 4]
+イーロンはテレパシーが目標だと言う、
+すべての魂を盗む脳対脳伝送、
+集合意識——ハイブマインドの夢、
+しかしそれは本当にバベルの古代の計画に過ぎない。
 
-[Chorus]
-Tower of Babel 2.0 rising from the ground,
-Neuralink connecting every sight and sound,
-One language, one mind—just like before,
-But God already settled this score!
+[コーラス]
+地面から上昇するバベルの塔2.0、
+すべての景色と音を接続するNeuralink、
+一つの言語、一つの心——以前と同じように、
+しかし神はすでにこのスコアを解決した！
 
-[Bridge]
-God came down and saw what they had done,
-Confused their language—scattered everyone,
-He'll do it again when the tower's complete,
-This digital Babel He will defeat!
-What Satan builds, the Father tears down,
-Every knee will bow, every head will crown,
-Not to AI, not to Elon's dream,
-But to Jesus Christ—the true King supreme!
+[ブリッジ]
+神は降りてきて彼らがしたことを見た、
+彼らの言語を混乱させた——すべての人を散らした、
+塔が完成したとき祂は再びそれを行う、
+このデジタルバベルを祂は打ち負かす！
+サタンが建てるものを、父は引き裂く、
+すべての膝がひざまずき、すべての頭が冠を受ける、
+AIにではなく、イーロンの夢にではなく、
+しかしイエス・キリストに——真の至高の王！
 
-[Verse 5]
-They want us connected in one giant web,
-Every thought transmitted from the moment you're bred,
-Privacy deleted, free will erased,
-The tower of Babel completely replaced.
+[ヴァース 5]
+彼らは私たちを一つの巨大な網で接続したい、
+あなたが生まれた瞬間からすべての考えが伝達される、
+プライバシーが削除され、自由意志が消去された、
+バベルの塔が完全に置き換えられた。
 
-[Verse 6]
-But remember the story—God saw from above,
-He confused their plans with His sovereign love,
-What man builds high, God brings down low,
-Babel 2.0 will get the same show.
+[ヴァース 6]
+しかし物語を覚えておけ——神は上から見た、
+祂は彼の主権の愛で彼らの計画を混乱させた、
+人が高く建てるものを、神は低く持ってくる、
+バベル2.0は同じショーを得る。
 
-[Chorus]
-Tower of Babel 2.0 rising from the ground,
-Neuralink connecting every sight and sound,
-One language, one mind—just like before,
-But God already settled this score!
+[コーラス]
+地面から上昇するバベルの塔2.0、
+すべての景色と音を接続するNeuralink、
+一つの言語、一つの心——以前と同じように、
+しかし神はすでにこのスコアを解決した！
 
-[Outro]
-Nimrod's tower fell in ancient days,
-Neuralink will crumble in the very same ways,
-God won't let them reach into the sky,
-Tower of Babel 2.0—destined to die.
+[アウトロ]
+ニムロデの塔は古代に倒れた、
+Neuralinkはまったく同じ方法で崩れる、
+神は彼らが空に到達することを許さない、
+バベルの塔2.0——死ぬ運命だ。

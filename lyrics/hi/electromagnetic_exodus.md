@@ -1,74 +1,74 @@
-SONG 14: "Electromagnetic Exodus"
-(Theme: Biblical Exodus + DEW Weapons Escape)
+गीत 14: "विद्युत चुम्बकीय पलायन"
+(विषय: बाइबिल पलायन + DEW हथियार भागना)
 
-[Intro]
+[परिचय]
 
-[Verse 1]
-Moses led Israel from Pharaoh's hand,
-Through the Red Sea waters to the promised land,
-Now we need exodus from the pharaohs of today,
-DEW weapons blazing—we gotta find a way.
+[पद 1]
+मूसा ने इज़राइल को फिरौन के हाथ से निकाला,
+लाल सागर के पानी से होकर वादा किए गए देश में,
+अब हमें आज के फिरौनों से पलायन की आवश्यकता है,
+DEW हथियार चमक रहे हैं—हमें रास्ता खोजना होगा।
 
-[Verse 2]
-Electromagnetic frequencies all around,
-5G towers rising up from the ground,
-Directed energy weapons burning from the sky,
-Like the plagues of Egypt—people die.
+[पद 2]
+विद्युत चुम्बकीय आवृत्तियां चारों ओर,
+5G टावर जमीन से उठ रहे हैं,
+निर्देशित ऊर्जा हथियार आकाश से जल रहे हैं,
+मिस्र की विपत्तियों की तरह—लोग मरते हैं।
 
-[Chorus]
-Electromagnetic exodus—gotta leave Babylon,
-DEW weapons raining fire till the dawn,
-Like Moses led his people through the sea,
-We need deliverance to set us free!
+[कोरस]
+विद्युत चुम्बकीय पलायन—बेबीलोन छोड़ना होगा,
+DEW हथियार भोर तक आग की बारिश कर रहे हैं,
+जैसे मूसा ने अपने लोगों को समुद्र के माध्यम से निकाला,
+हमें मुक्त करने के लिए छुटकारा चाहिए!
 
-[Verse 3]
-Maui burned with blue umbrellas standing tall,
-Paradise, California—DEW made it fall,
-Pharaoh used whips, the new pharaohs use waves,
-Electromagnetic weapons digging mass graves.
+[पद 3]
+माउई नीले छतरियों के साथ जल गया जो लंबे खड़े थे,
+पैराडाइज, कैलिफोर्निया—DEW ने इसे गिरा दिया,
+फिरौन ने कोड़े का इस्तेमाल किया, नए फिरौन तरंगों का उपयोग करते हैं,
+विद्युत चुम्बकीय हथियार सामूहिक कब्रें खोद रहे हैं।
 
-[Verse 4]
-Smart meters on every house tracking power flow,
-They can target anyone—this we know,
-But God parted the waters, made a way through,
-He'll part the frequencies for me and you.
+[पद 4]
+हर घर पर स्मार्ट मीटर बिजली प्रवाह ट्रैक कर रहे हैं,
+वे किसी को भी लक्षित कर सकते हैं—यह हम जानते हैं,
+लेकिन भगवान ने पानी को विभाजित किया, एक रास्ता बनाया,
+वह मेरे और आपके लिए आवृत्तियों को विभाजित करेगा।
 
-[Chorus]
-Electromagnetic exodus—gotta leave Babylon,
-DEW weapons raining fire till the dawn,
-Like Moses led his people through the sea,
-We need deliverance to set us free!
+[कोरस]
+विद्युत चुम्बकीय पलायन—बेबीलोन छोड़ना होगा,
+DEW हथियार भोर तक आग की बारिश कर रहे हैं,
+जैसे मूसा ने अपने लोगों को समुद्र के माध्यम से निकाला,
+हमें मुक्त करने के लिए छुटकारा चाहिए!
 
-[Bridge]
-Egypt held Israel four hundred years in chains,
-Electromagnetic Egypt does the same,
-But God sent Moses when the time was right,
-The midnight hour—then came the light!
-Ten plagues fell on Egypt long ago,
-Ten plagues of tech are falling here below,
-But the blood on the doorpost kept the angel at bay,
-The blood of Jesus keeps us safe today!
+[ब्रिज]
+मिस्र ने इज़राइल को चार सौ साल जंजीरों में रखा,
+विद्युत चुम्बकीय मिस्र वही करता है,
+लेकिन भगवान ने मूसा को भेजा जब समय सही था,
+आधी रात का घंटा—फिर प्रकाश आया!
+बहुत पहले मिस्र पर दस विपत्तियां पड़ीं,
+तकनीक की दस विपत्तियां यहां नीचे गिर रही हैं,
+लेकिन दरवाजे पर खून ने देवदूत को खाड़ी में रखा,
+यीशु का खून आज हमें सुरक्षित रखता है!
 
-[Verse 5]
-Smart cities are the new Egyptian brick,
-Surveillance and control—the same old trick,
-But the pillar of cloud and pillar of fire,
-Still guides the remnant from the empire.
+[पद 5]
+स्मार्ट शहर नई मिस्र की ईंट हैं,
+निगरानी और नियंत्रण—वही पुरानी चाल,
+लेकिन बादल का खंभा और अग्नि का खंभा,
+अभी भी साम्राज्य से अवशेष का मार्गदर्शन करता है।
 
-[Verse 6]
-Pharaoh's army drowned in the closing sea,
-The beast system drowns in eternity,
-Every tower, every weapon turned to dust,
-In God alone we put our trust.
+[पद 6]
+फिरौन की सेना बंद होते समुद्र में डूब गई,
+पशु प्रणाली अनंत काल में डूब जाती है,
+हर टावर, हर हथियार धूल में बदल गया,
+केवल भगवान में ही हम अपना विश्वास रखते हैं।
 
-[Chorus]
-Electromagnetic exodus—gotta leave Babylon,
-DEW weapons raining fire till the dawn,
-Like Moses led his people through the sea,
-We need deliverance to set us free!
+[कोरस]
+विद्युत चुम्बकीय पलायन—बेबीलोन छोड़ना होगा,
+DEW हथियार भोर तक आग की बारिश कर रहे हैं,
+जैसे मूसा ने अपने लोगों को समुद्र के माध्यम से निकाला,
+हमें मुक्त करने के लिए छुटकारा चाहिए!
 
-[Outro]
-Electromagnetic exodus from the beast,
-From the west, from the north, south, and east,
-God makes a way where there seems to be none,
-The exodus continues till the victory's won.
+[समापन]
+पशु से विद्युत चुम्बकीय पलायन,
+पश्चिम से, उत्तर, दक्षिण और पूर्व से,
+भगवान एक रास्ता बनाता है जहां कोई भी नहीं लगता,
+पलायन तब तक जारी है जब तक जीत नहीं मिल जाती।

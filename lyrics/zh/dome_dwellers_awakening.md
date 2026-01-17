@@ -1,74 +1,74 @@
-SONG 12: "Dome Dwellers Awakening"
-(Theme: Flat Earth Truth + Final Awakening for Humanity)
+歌曲 12："穹顶居民觉醒"
+（主题：平面地球真相 + 人类的最终觉醒）
 
-[Intro]
+[前奏]
 
-[Verse 1]
-They kept us sleeping under the dome so long,
-Pear-shaped testicle lies—believing wrong,
-But the dome dwellers waking, opening eyes,
-Seeing through both space and tech's disguise.
+[主歌 1]
+他们让我们在穹顶下沉睡了这么久，
+梨形睾丸谎言——相信错误，
+但穹顶居民正在觉醒，睁开眼睛，
+看穿太空和技术的伪装。
 
-[Verse 2]
-Flat earth was the key that unlocked the door,
-Now we see the nanotech and so much more,
-One lie connected to the other strand,
-A web of deception across every land.
+[主歌 2]
+平面地球是打开门的钥匙，
+现在我们看到纳米技术和更多，
+一个谎言连接到另一条线，
+一张欺骗之网横跨每片土地。
 
-[Chorus]
-Dome dwellers awakening to the truth at last,
-Flat earth breaking chains from the past,
-Seeing the firmament and the beast system too,
-The final awakening is coming through!
+[副歌]
+穹顶居民最终觉醒真相，
+平面地球打破过去的锁链，
+看到穹苍和兽系统，
+最终的觉醒正在到来！
 
-[Verse 3]
-P900 zoom revealed the plane,
-Blood microscopy revealed the bane,
-What they hid above connects to what's within,
-One matrix of lies covering every sin.
+[主歌 3]
+P900变焦揭示了平面，
+血液显微镜揭示了祸害，
+他们在上面隐藏的与内部的相连，
+一个谎言矩阵覆盖每一个罪。
 
-[Verse 4]
-They couldn't maintain the globe without fake space,
-They can't maintain control without tracking your face,
-Two systems of bondage crumbling as one,
-The dome dwellers rising with the morning sun.
+[主歌 4]
+他们无法在没有假太空的情况下维持地球仪，
+他们无法在不跟踪你的脸的情况下维持控制，
+两个束缚系统作为一个崩溃，
+穹顶居民随着晨曦升起。
 
-[Chorus]
-Dome dwellers awakening to the truth at last,
-Flat earth breaking chains from the past,
-Seeing the firmament and the beast system too,
-The final awakening is coming through!
+[副歌]
+穹顶居民最终觉醒真相，
+平面地球打破过去的锁链，
+看到穹苍和兽系统，
+最终的觉醒正在到来！
 
-[Bridge]
-Hosea four-six said perish from not knowing,
-But now the truth is flooding, overflowing,
-Flat earth led us down the rabbit hole,
-Now we see the war being waged for our soul!
-From space lies to vaccine lies—all connect,
-The same deceiver running the tech,
-But the dome dwellers see it all so clear,
-The awakening's here—the end is near!
+[桥段]
+何西阿书四章六节说因不知而灭亡，
+但现在真相正在涌入，溢出，
+平面地球带我们进入兔子洞，
+现在我们看到为我们灵魂而战的战争！
+从太空谎言到疫苗谎言——全都相连，
+同一个骗子在运行技术，
+但穹顶居民看得如此清楚，
+觉醒在这里——结局近了！
 
-[Verse 5]
-Karen Kingston exposed the patents' truth,
-Eric Dubay exposed the globe's bad proof,
-Ana Mihalcea shows blood transformed,
-The awakened remnant weathering the storm.
+[主歌 5]
+凯伦·金斯顿揭露了专利的真相，
+埃里克·杜贝揭露了地球仪的错误证据，
+安娜·米哈尔奇亚展示了转化的血液，
+觉醒的余民经受风暴。
 
-[Verse 6]
-From firmament to nanobots, we see the scheme,
-Satan's matrix crumbling at the seams,
-The dome above reflects the truth below,
-As within, so without—now we know.
+[主歌 6]
+从穹苍到纳米机器人，我们看到阴谋，
+撒旦的矩阵在接缝处崩溃，
+上面的穹顶反映下面的真相，
+内外如一——现在我们知道了。
 
-[Chorus]
-Dome dwellers awakening to the truth at last,
-Flat earth breaking chains from the past,
-Seeing the firmament and the beast system too,
-The final awakening is coming through!
+[副歌]
+穹顶居民最终觉醒真相，
+平面地球打破过去的锁链，
+看到穹苍和兽系统，
+最终的觉醒正在到来！
 
-[Outro]
-Dome dwellers awakening from sea to sea,
-Flat earth truth setting humanity free,
-And with that truth, all deceptions fall,
-The final awakening answering the call.
+[尾奏]
+穹顶居民从海到海觉醒，
+平面地球真相使人类自由，
+有了这个真相，所有欺骗都倒塌，
+最终的觉醒回应呼召。

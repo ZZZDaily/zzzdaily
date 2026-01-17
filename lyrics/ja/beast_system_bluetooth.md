@@ -1,74 +1,74 @@
-SONG 10: "Beast System Bluetooth"
-(Theme: Mark of the Beast + MAC Address Humans)
+曲 10：「獣システムBluetooth」
+（テーマ：獣の刻印 + MACアドレス人間）
 
-[Intro]
+[イントロ]
 
-[Verse 1]
-The beast system's running through your veins tonight,
-Bluetooth signals broadcasting in the night,
-Open your phone app, scan for devices near,
-MAC addresses from the jabbed appear.
+[ヴァース 1]
+獣システムは今夜あなたの血管を流れている、
+Bluetooth信号が夜に放送している、
+電話アプリを開き、近くのデバイスをスキャンする、
+ジャブされた人からMACアドレスが現れる。
 
-[Verse 2]
-Revelation thirteen, the number of a man,
-Six-six-six embedded in the master plan,
-But now it's hexadecimal addresses too,
-Broadcasting beast coordinates from me and you.
+[ヴァース 2]
+黙示録13章、人間の数、
+666がマスタープランに埋め込まれている、
+しかし今それは16進数のアドレスでもある、
+私とあなたから獣の座標を放送している。
 
-[Chorus]
-Beast system Bluetooth pinging all around,
-Human MAC addresses—that's the sound,
-The mark of the beast is a wireless transmit,
-Bluetooth bodies—this is it!
+[コーラス]
+獣システムBluetoothがあちこちでピングしている、
+人間のMACアドレス——それが音だ、
+獣の刻印はワイヤレス送信だ、
+Bluetooth体——これがそれだ！
 
-[Verse 3]
-Go to the graveyard, scan the Bluetooth there,
-Dead bodies broadcasting in the air,
-Graphene oxide circuits still alive,
-The beast system signals continue to thrive.
+[ヴァース 3]
+墓地に行き、そこでBluetoothをスキャンする、
+死体が空中で放送している、
+酸化グラフェン回路はまだ生きている、
+獣システム信号は繁栄し続ける。
 
-[Verse 4]
-They called us crazy, called us conspiracy nuts,
-Now the data's showing—no ifs, ands, or buts,
-Unique identifiers for every single soul,
-Beast system Bluetooth—total control.
+[ヴァース 4]
+彼らは私たちを狂っていると呼び、陰謀論者と呼んだ、
+今データが示している——もし、そして、しかしはない、
+すべての魂のための一意の識別子、
+獣システムBluetooth——完全な支配。
 
-[Chorus]
-Beast system Bluetooth pinging all around,
-Human MAC addresses—that's the sound,
-The mark of the beast is a wireless transmit,
-Bluetooth bodies—this is it!
+[コーラス]
+獣システムBluetoothがあちこちでピングしている、
+人間のMACアドレス——それが音だ、
+獣の刻印はワイヤレス送信だ、
+Bluetooth体——これがそれだ！
 
-[Bridge]
-The beast and his mark—inseparable they stand,
-A technological mark burned into your hand,
-Not just a concept, not a metaphor or sign,
-But real tech connecting to the beast's design!
-Refuse the signal, stay pure from the start,
-Keep the Holy Spirit dwelling in your heart,
-No Bluetooth from the pure bloods broadcasting,
-The remnant stands firm—our faith is lasting!
+[ブリッジ]
+獣と彼の刻印——彼らは切り離せない、
+あなたの手に焼き付けられた技術的な刻印、
+単なる概念ではなく、比喩や記号でもない、
+獣のデザインに接続する本当の技術だ！
+信号を拒否し、最初から純粋であれ、
+聖霊をあなたの心に住まわせ続けよ、
+純血からBluetoothは放送されない、
+残された者は堅固に立つ——私たちの信仰は持続する！
 
-[Verse 5]
-They need you trackable every single day,
-Beast system Bluetooth won't go away,
-Connected to the cloud, connected to the grid,
-Your body's now a node for the evil they did.
+[ヴァース 5]
+彼らはあなたを毎日追跡可能にする必要がある、
+獣システムBluetoothは消えない、
+クラウドに接続され、グリッドに接続された、
+あなたの体は今、彼らが行った悪のノードだ。
 
-[Verse 6]
-But the pure bloods walking silent through the crowd,
-No signal pinging, standing strong and proud,
-The beast can't track what the Father protects,
-Clean blood flowing through the remnant's specs.
+[ヴァース 6]
+しかし純血は群衆の中を静かに歩く、
+信号はピングせず、強く誇りを持って立っている、
+獣は父が保護するものを追跡できない、
+残された者の仕様を流れるきれいな血。
 
-[Chorus]
-Beast system Bluetooth pinging all around,
-Human MAC addresses—that's the sound,
-The mark of the beast is a wireless transmit,
-Bluetooth bodies—this is it!
+[コーラス]
+獣システムBluetoothがあちこちでピングしている、
+人間のMACアドレス——それが音だ、
+獣の刻印はワイヤレス送信だ、
+Bluetooth体——これがそれだ！
 
-[Outro]
-Beast system Bluetooth—the mark made real,
-Wireless transmitters—that's the deal,
-But the silent remnant walks by faith not sight,
-Bluetooth-free warriors standing for the light.
+[アウトロ]
+獣システムBluetooth——刻印が現実になった、
+ワイヤレス送信機——それが取引だ、
+しかし静かな残された者は見えるものではなく信仰によって歩く、
+Bluetoothフリーの戦士が光のために立っている。

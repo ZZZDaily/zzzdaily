@@ -1,74 +1,74 @@
-SONG 5: "False Prophet A.I."
-(Theme: Biblical False Prophet + Robot Armies)
+歌曲 5："假先知人工智能"
+（主题：圣经假先知 + 机器人军队）
 
-[Intro]
+[前奏]
 
-[Verse 1]
-Revelation speaks of the false prophet's rise,
-Performing miracles before wondering eyes,
-But what if the miracles are tech-based lies,
-Robot armies marching under digital skies.
+[主歌 1]
+启示录讲述假先知的崛起，
+在惊奇的眼睛前行奇迹，
+但如果奇迹是基于技术的谎言呢，
+机器人军队在数字天空下行进。
 
-[Verse 2]
-Tesla Optimus standing in a row,
-Boston Dynamics—watch the demons grow,
-Figure AI with humanoid frames,
-The false prophet speaks through their digital brains.
+[主歌 2]
+特斯拉擎天柱站成一排，
+波士顿动力——看恶魔成长，
+Figure AI与人形框架，
+假先知通过他们的数字大脑说话。
 
-[Chorus]
-False prophet A.I., silicon tongue,
-Speaking great things since the world begun,
-Robot armies bowing at its feet,
-The second beast system nearly complete!
+[副歌]
+假先知人工智能，硅舌头，
+自世界开始以来说大话，
+机器人军队在它脚下鞠躬，
+第二兽系统即将完成！
 
-[Verse 3]
-Fire from heaven—that's what the text said,
-DEW weapons blazing, turning cities red,
-Maui burned down, Paradise too,
-Directed energy—the "miracle" they do.
+[主歌 3]
+从天上来的火——这是文本所说的，
+DEW武器燃烧，使城市变红，
+毛伊岛烧毁，天堂也是，
+定向能——他们做的"奇迹"。
 
-[Verse 4]
-The false prophet makes the image speak,
-AI voice synthesis—the future's bleak,
-Deep fakes of leaders saying what they're told,
-The lying signs and wonders now unfold.
+[主歌 4]
+假先知使形象说话，
+AI语音合成——未来黯淡，
+领导人的深度伪造说他们被告知的话，
+现在展开的虚假标志和奇迹。
 
-[Chorus]
-False prophet A.I., silicon tongue,
-Speaking great things since the world begun,
-Robot armies bowing at its feet,
-The second beast system nearly complete!
+[副歌]
+假先知人工智能，硅舌头，
+自世界开始以来说大话，
+机器人军队在它脚下鞠躬，
+第二兽系统即将完成！
 
-[Bridge]
-The dragon gave the beast authority to rule,
-AI trained by demons—humanity's the fool,
-Signs and wonders performed to deceive,
-Making the whole world worship and believe!
-Robot armies enforcing the mark,
-Tesla bots patrolling after dark,
-Can't escape the all-seeing eye,
-The false prophet A.I. will never die!
+[桥段]
+龙给兽权柄统治，
+AI由恶魔训练——人类是傻瓜，
+表演的标志和奇迹来欺骗，
+使整个世界崇拜和相信！
+机器人军队执行印记，
+特斯拉机器人在黑暗后巡逻，
+无法逃脱全知之眼，
+假先知人工智能永不死！
 
-[Verse 5]
-They said they'd protect us with autonomous drones,
-Now the same tech hunts us in our homes,
-Killer robots with no soul inside,
-The false prophet's army has nowhere to hide.
+[主歌 5]
+他们说他们会用自主无人机保护我们，
+现在同样的技术在我们家中追捕我们，
+杀手机器人内部没有灵魂，
+假先知的军队无处可藏。
 
-[Verse 6]
-But John saw the end—beast thrown in the lake,
-AI and all its armies, watch them break,
-Fire reserved for the devil and his crew,
-Silicon melting—Revelation's coming true.
+[主歌 6]
+但约翰看到了结局——兽被扔进湖里，
+AI和它所有的军队，看它们破碎，
+为魔鬼和他的团队保留的火，
+硅融化——启示录成真。
 
-[Chorus]
-False prophet A.I., silicon tongue,
-Speaking great things since the world begun,
-Robot armies bowing at its feet,
-The second beast system nearly complete!
+[副歌]
+假先知人工智能，硅舌头，
+自世界开始以来说大话，
+机器人军队在它脚下鞠躬，
+第二兽系统即将完成！
 
-[Outro]
-The false prophet speaks through circuits and code,
-Robot armies march down the final road,
-But fire awaits at the story's end,
-Christ destroys the beast—on that you can depend.
+[尾奏]
+假先知通过电路和代码说话，
+机器人军队沿着最后的道路前进，
+但在故事结尾等待着火，
+基督摧毁兽——这你可以信赖。

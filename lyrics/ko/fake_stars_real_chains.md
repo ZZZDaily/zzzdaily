@@ -1,74 +1,74 @@
-SONG 11: "Fake Stars, Real Chains"
-(Theme: Fake Space/Stars + Digital ID Enslavement)
+노래 11: "가짜 별, 진짜 사슬"
+(주제: 가짜 우주/별 + 디지털 ID 노예화)
 
-[Intro]
+[인트로]
 
-[Verse 1]
-They told us stars were suns a trillion miles away,
-But they're lights in the firmament—Genesis says,
-The same liars that gave us fake space above,
-Now give us digital chains disguised as love.
+[벌스 1]
+그들은 우리에게 별이 1조 마일 떨어진 태양이라고 말했다,
+하지만 그것들은 창공의 빛이다—창세기가 말한다,
+우리에게 위의 가짜 우주를 준 같은 거짓말쟁이들,
+이제 우리에게 사랑으로 위장한 디지털 사슬을 준다.
 
-[Verse 2]
-If they lied about the cosmos, they'll lie about your name,
-Digital ID 2026—it's all the same game,
-Fake stars in the sky, fake freedom below,
-Real chains around your neck that they don't want you to know.
+[벌스 2]
+그들이 우주에 대해 거짓말했다면, 당신의 이름에 대해서도 거짓말할 것이다,
+디지털 ID 2026—모두 같은 게임이다,
+하늘의 가짜 별, 아래의 가짜 자유,
+당신이 알기를 원하지 않는 목 주위의 진짜 사슬.
 
-[Chorus]
-Fake stars, real chains—the pattern's always there,
-Lies about the heavens, lies about the air,
-Space is fake but the slavery is real,
-Digital ID is the final deal!
+[후렴]
+가짜 별, 진짜 사슬—패턴은 항상 거기 있다,
+하늘에 대한 거짓말, 공기에 대한 거짓말,
+우주는 가짜지만 노예제는 진짜다,
+디지털 ID는 최종 거래다!
 
-[Verse 3]
-NASA steals trillions for lights on the dome,
-While WEF plans to track you from your home,
-Fake moon landings, real surveillance state,
-Fake asteroids coming, real lockdown fate.
+[벌스 3]
+NASA는 돔의 조명을 위해 수조 달러를 훔친다,
+WEF는 당신의 집에서부터 당신을 추적할 계획을 세우는 동안,
+가짜 달 착륙, 진짜 감시 국가,
+가짜 소행성이 온다, 진짜 봉쇄 운명.
 
-[Verse 4]
-They couldn't put satellites in space that's fake,
-So ground-based towers are all it takes,
-Starlink's not in orbit—check the facts,
-While digital ID puts chains on your backs.
+[벌스 4]
+그들은 가짜인 우주에 위성을 놓을 수 없었다,
+그래서 지상 기반 타워만 필요하다,
+스타링크는 궤도에 있지 않다—사실을 확인하라,
+디지털 ID가 당신의 등에 사슬을 놓는 동안.
 
-[Chorus]
-Fake stars, real chains—the pattern's always there,
-Lies about the heavens, lies about the air,
-Space is fake but the slavery is real,
-Digital ID is the final deal!
+[후렴]
+가짜 별, 진짜 사슬—패턴은 항상 거기 있다,
+하늘에 대한 거짓말, 공기에 대한 거짓말,
+우주는 가짜지만 노예제는 진짜다,
+디지털 ID는 최종 거래다!
 
-[Bridge]
-Job thirty-eight asks where were you when I laid earth's foundation,
-The stars sing together for God's creation,
-Not balls of gas but angels bright,
-While they wrap you in digital chains tight!
-The same deceiver from the garden of old,
-Lies about the stars, buys and sells your soul,
-Fake space program, real beast system rise,
-Open your eyes to both sets of lies!
+[브리지]
+욥기 38장은 내가 땅의 기초를 놓을 때 너는 어디 있었느냐고 묻는다,
+별들은 하나님의 창조를 위해 함께 노래한다,
+가스 덩어리가 아니라 밝은 천사들,
+그들이 당신을 디지털 사슬로 단단히 감싸는 동안!
+옛 에덴의 정원에서 온 같은 속이는 자,
+별에 대해 거짓말하고, 당신의 영혼을 사고판다,
+가짜 우주 프로그램, 진짜 짐승 시스템 상승,
+두 세트의 거짓말에 눈을 떠라!
 
-[Verse 5]
-They need the globe to make you feel small,
-Insignificant speck, nothing at all,
-But flat earth truth restores your worth,
-You're the reason God made the earth.
+[벌스 5]
+그들은 당신을 작게 느끼게 하기 위해 구가 필요하다,
+보잘것없는 점, 아무것도 아닌,
+하지만 평평한 지구 진실은 당신의 가치를 회복시킨다,
+당신이 하나님이 지구를 만드신 이유다.
 
-[Verse 6]
-Digital ID makes you feel like a number,
-A data point tracked while the masses slumber,
-But in Christ you're known by name and face,
-Neither fake stars nor chains can take your place.
+[벌스 6]
+디지털 ID는 당신을 숫자처럼 느끼게 만든다,
+대중이 잠자는 동안 추적되는 데이터 포인트,
+하지만 그리스도 안에서 당신은 이름과 얼굴로 알려진다,
+가짜 별도 사슬도 당신의 자리를 빼앗을 수 없다.
 
-[Chorus]
-Fake stars, real chains—the pattern's always there,
-Lies about the heavens, lies about the air,
-Space is fake but the slavery is real,
-Digital ID is the final deal!
+[후렴]
+가짜 별, 진짜 사슬—패턴은 항상 거기 있다,
+하늘에 대한 거짓말, 공기에 대한 거짓말,
+우주는 가짜지만 노예제는 진짜다,
+디지털 ID는 최종 거래다!
 
-[Outro]
-Fake stars above, real chains below,
-Two different lies from the same evil flow,
-But the truth of the earth and the freedom in Christ,
-Breaks both deceptions—that's the sacrifice.
+[아웃트로]
+위의 가짜 별, 아래의 진짜 사슬,
+같은 악의 흐름에서 온 두 개의 다른 거짓말,
+하지만 지구의 진실과 그리스도 안의 자유,
+두 속임수를 모두 깬다—그것이 희생이다.

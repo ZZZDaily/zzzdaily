@@ -1,4 +1,4 @@
-CANCIÓN 1: "Sin Vergüenza"
+CANCIÓN 71: "Sin Vergüenza"
 (Tema: Un himno desafiante sobre mantenerse firme en creencias controversiales a pesar de la oposición generalizada y el ridículo de las voces dominantes.)
 
 [Introducción]

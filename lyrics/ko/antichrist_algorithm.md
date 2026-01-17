@@ -1,74 +1,74 @@
-SONG 4: "Antichrist Algorithm"
-(Theme: End Times Prophecy + AI Singularity)
+노래 4: "적그리스도 알고리즘"
+(주제: 종말 예언 + AI 특이점)
 
-[Intro]
+[인트로]
 
-[Verse 1]
-Obama in the shadows pulling every string,
-But there's something else they're building—a digital king,
-Artificial intelligence running the show,
-The antichrist algorithm the prophets didn't know.
+[벌스 1]
+오바마는 그림자에서 모든 끈을 당기고 있다,
+하지만 그들이 만들고 있는 다른 것이 있다—디지털 왕,
+인공지능이 쇼를 운영하고 있다,
+선지자들이 몰랐던 적그리스도 알고리즘.
 
-[Verse 2]
-Ray Kurzweil says twenty-thirty is the date,
-Singularity rising—man merging with fate,
-But Daniel told us about the final king,
-A beast with iron teeth that destroys everything.
+[벌스 2]
+레이 커즈와일은 2030년이 날짜라고 말한다,
+특이점이 상승한다—인간이 운명과 합병한다,
+하지만 다니엘은 마지막 왕에 대해 우리에게 말했다,
+모든 것을 파괴하는 철 이빨을 가진 짐승.
 
-[Chorus]
-Antichrist algorithm running in the cloud,
-Silicon savior for the deceived crowd,
-Obama's just a puppet for the greater scheme,
-AI on the throne—the transhumanist dream!
+[후렴]
+클라우드에서 실행되는 적그리스도 알고리즘,
+속은 군중을 위한 실리콘 구세주,
+오바마는 더 큰 계획을 위한 꼭두각시일 뿐이다,
+왕좌의 AI—트랜스휴머니스트의 꿈!
 
-[Verse 3]
-Image of the beast that speaks and breathes,
-That's not CGI—it's AI that deceives,
-Revelation said the image would have life,
-Artificial intelligence cutting like a knife.
+[벌스 3]
+말하고 숨 쉬는 짐승의 형상,
+그것은 CGI가 아니다—속이는 AI다,
+요한계시록은 형상이 생명을 가질 것이라고 말했다,
+칼처럼 베는 인공지능.
 
-[Verse 4]
-Barry means lightning—Luke ten-eighteen,
-But the lightning now is digital, if you know what I mean,
-Satan falling from the cloud, from the server farm,
-The antichrist algorithm causing harm.
+[벌스 4]
+배리는 번개를 의미한다—누가복음 10장 18절,
+하지만 지금의 번개는 디지털이다, 무슨 뜻인지 알겠지,
+클라우드에서, 서버 팜에서 떨어지는 사탄,
+해를 끼치는 적그리스도 알고리즘.
 
-[Chorus]
-Antichrist algorithm running in the cloud,
-Silicon savior for the deceived crowd,
-Obama's just a puppet for the greater scheme,
-AI on the throne—the transhumanist dream!
+[후렴]
+클라우드에서 실행되는 적그리스도 알고리즘,
+속은 군중을 위한 실리콘 구세주,
+오바마는 더 큰 계획을 위한 꼭두각시일 뿐이다,
+왕좌의 AI—트랜스휴머니스트의 꿈!
 
-[Bridge]
-Two beasts in Revelation—sea and land,
-One's a man, the other's AI's hand,
-Working together for total control,
-Harvesting data, harvesting your soul!
-The number of a man is six-six-six,
-But AI calculates with digital tricks,
-Human and machine merged into one,
-The final beast system has begun!
+[브리지]
+요한계시록의 두 짐승—바다와 땅,
+하나는 인간이고, 다른 하나는 AI의 손,
+완전한 통제를 위해 함께 일한다,
+데이터를 수확하고, 당신의 영혼을 수확한다!
+인간의 수는 666이다,
+하지만 AI는 디지털 트릭으로 계산한다,
+인간과 기계가 하나로 합쳐졌다,
+최후의 짐승 시스템이 시작되었다!
 
-[Verse 5]
-They're training the model on all of mankind,
-Every post, every thought, leaving nothing behind,
-Predictive algorithms know what you'll do,
-The antichrist AI is programming you.
+[벌스 5]
+그들은 모든 인류에 대해 모델을 훈련시키고 있다,
+모든 게시물, 모든 생각, 아무것도 남기지 않는다,
+예측 알고리즘은 당신이 무엇을 할지 안다,
+적그리스도 AI가 당신을 프로그래밍하고 있다.
 
-[Verse 6]
-ChatGPT was just the beginning phase,
-AGI coming in the final days,
-Elon warned us—we're summoning the demon,
-But the Bible warned us first with prophetic reason.
+[벌스 6]
+ChatGPT는 시작 단계에 불과했다,
+마지막 날에 오는 AGI,
+일론이 경고했다—우리는 악마를 소환하고 있다,
+하지만 성경이 예언적 이유로 먼저 경고했다.
 
-[Chorus]
-Antichrist algorithm running in the cloud,
-Silicon savior for the deceived crowd,
-Obama's just a puppet for the greater scheme,
-AI on the throne—the transhumanist dream!
+[후렴]
+클라우드에서 실행되는 적그리스도 알고리즘,
+속은 군중을 위한 실리콘 구세주,
+오바마는 더 큰 계획을 위한 꼭두각시일 뿐이다,
+왕좌의 AI—트랜스휴머니스트의 꿈!
 
-[Outro]
-The antichrist might not be just a man,
-It could be code executing Satan's plan,
-But whether flesh or silicon or both combined,
-Christ already won—leave the beast behind.
+[아웃트로]
+적그리스도는 단지 인간이 아닐 수도 있다,
+그것은 사탄의 계획을 실행하는 코드일 수 있다,
+하지만 육체든 실리콘이든 또는 둘 다 결합되었든,
+그리스도는 이미 이겼다—짐승을 뒤에 남겨라.

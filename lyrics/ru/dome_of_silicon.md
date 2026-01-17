@@ -1,74 +1,74 @@
-SONG 1: "Купол из Кремния"
-(Theme: Flat Earth Firmament + AI Digital Prison)
+ПЕСНЯ 1: "Купол из Кремния"
+(Тема: Твердь Плоской Земли + Цифровая Тюрьма ИИ)
 
-[Intro]
+[Вступление]
 
-[Verse 1]
-They built a prison underneath the dome,
-Silicon valleys where the demons roam,
-Firmament above us solid as steel,
-But they've built another one—digital and real.
+[Куплет 1]
+Они построили тюрьму под куполом,
+Кремниевые долины, где бродят демоны,
+Твердь над нами твёрдая как сталь,
+Но они построили ещё одну — цифровую и реальную.
 
-[Verse 2]
-Genesis tells us waters above the sky,
-Now they're drowning us in data, algorithm lies,
-God's ceiling keeps the waters held at bay,
-Their ceiling keeps the truth locked away.
+[Куплет 2]
+Бытие говорит нам о водах над небом,
+Теперь они топят нас в данных, алгоритмической лжи,
+Божий потолок держит воды в узде,
+Их потолок держит правду взаперти.
 
-[Chorus]
-Dome of silicon, dome of glass,
-Two prisons built to hold the mass,
-One made by God to protect His creation,
-One made by man for our digital damnation!
+[Припев]
+Купол из кремния, купол из стекла,
+Две тюрьмы построены, чтобы удержать массы,
+Один сделан Богом для защиты Его творения,
+Другой сделан человеком для нашего цифрового проклятия!
 
-[Verse 3]
-They couldn't break through the firmament wall,
-So they built the metaverse to trap us all,
-"Space is fake" so they made cyberspace,
-Another false reality shoved in your face.
+[Куплет 3]
+Они не смогли пробить стену тверди,
+Поэтому они построили метавселенную, чтобы поймать нас всех,
+«Космос фальшивый», поэтому они создали киберпространство,
+Ещё одна ложная реальность, втиснутая в твоё лицо.
 
-[Verse 4]
-Elon says we might be in a simulation,
-Preparing your mind for the great migration,
-Upload your soul to the cloud they say,
-While the real dome above keeps heaven at bay.
+[Куплет 4]
+Илон говорит, что мы можем быть в симуляции,
+Подготавливая твой разум к великой миграции,
+Загрузи свою душу в облако, говорят они,
+Пока настоящий купол наверху держит небеса в стороне.
 
-[Chorus]
-Dome of silicon, dome of glass,
-Two prisons built to hold the mass,
-One made by God to protect His creation,
-One made by man for our digital damnation!
+[Припев]
+Купол из кремния, купол из стекла,
+Две тюрьмы построены, чтобы удержать массы,
+Один сделан Богом для защиты Его творения,
+Другой сделан человеком для нашего цифрового проклятия!
 
-[Bridge]
-The firmament holds—they cannot breach,
-So digital heavens is what they preach,
-Transhumanism is their tower of lies,
-Building to God but they can't reach the skies!
-Babel fell and so will this,
-Silicon dreams turn to the abyss,
-Christ is the door, the only way through,
-Not fiber optics—the Gospel is true!
+[Переход]
+Твердь держится — они не могут пробить,
+Поэтому они проповедуют цифровые небеса,
+Трансгуманизм — их башня лжи,
+Строят к Богу, но не могут достичь небес!
+Вавилон пал, и это тоже падёт,
+Кремниевые мечты превращаются в бездну,
+Христос — это дверь, единственный путь,
+Не оптоволокно — Евангелие истинно!
 
-[Verse 5]
-P900 zoom shows no curve below,
-But the algorithm curves what you're allowed to know,
-Flat earth truth gets shadow banned quick,
-While they push the pear-shaped testicle trick.
+[Куплет 5]
+Зум P900 не показывает кривизны внизу,
+Но алгоритм искривляет то, что тебе разрешено знать,
+Истина плоской земли быстро попадает в теневой бан,
+Пока они продвигают трюк с грушевидным яичком.
 
-[Verse 6]
-Smart dust falls from towers not stars,
-The firmament holds, can't escape to Mars,
-So they trap you in VR, AR, AI,
-Another dome of silicon—do or die.
+[Куплет 6]
+Умная пыль падает с башен, а не со звёзд,
+Твердь держится, нельзя сбежать на Марс,
+Поэтому они ловят тебя в VR, AR, ИИ,
+Ещё один купол из кремния — делай или умри.
 
-[Chorus]
-Dome of silicon, dome of glass,
-Two prisons built to hold the mass,
-One made by God to protect His creation,
-One made by man for our digital damnation!
+[Припев]
+Купол из кремния, купол из стекла,
+Две тюрьмы построены, чтобы удержать массы,
+Один сделан Богом для защиты Его творения,
+Другой сделан человеком для нашего цифрового проклятия!
 
-[Outro]
-Two domes standing—one by God, one by man,
-Only one will hold according to the plan,
-Silicon crumbles when the Father calls,
-But the firmament stands while Babylon falls.
+[Концовка]
+Два купола стоят — один от Бога, один от человека,
+Только один выдержит согласно плану,
+Кремний рушится, когда Отец зовёт,
+Но твердь стоит, пока Вавилон падает.

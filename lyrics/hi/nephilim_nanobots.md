@@ -1,74 +1,74 @@
-SONG 7: "Nephilim Nanobots"
-(Theme: Biblical Giants + Transhumanist Enhancement)
+गीत 7: "नेफिलिम नैनोबॉट"
+(विषय: बाइबिल के दैत्य + ट्रांसह्यूमनिस्ट एन्हांसमेंट)
 
-[Intro]
+[परिचय]
 
-[Verse 1]
-Genesis six—the sons of God came down,
-Took daughters of men from every town,
-Nephilim giants—corrupted DNA,
-Now they're doing the same thing in a different way.
+[पद 1]
+उत्पत्ति छह—भगवान के पुत्र नीचे आए,
+हर शहर से मनुष्य की बेटियों को ले लिया,
+नेफिलिम दैत्य—भ्रष्ट डीएनए,
+अब वे एक अलग तरीके से वही कर रहे हैं।
 
-[Verse 2]
-Nanobots rewriting your genetic code,
-Transhumanist enhancement down the road,
-CRISPR and mRNA changing who you are,
-Nephilim technology from a distant star.
+[पद 2]
+नैनोबॉट आपके आनुवंशिक कोड को फिर से लिख रहे हैं,
+रास्ते में ट्रांसह्यूमनिस्ट एन्हांसमेंट,
+CRISPR और mRNA बदल रहे हैं कि आप कौन हैं,
+एक दूर के तारे से नेफिलिम तकनीक।
 
-[Chorus]
-Nephilim nanobots swimming in your blood,
-Corrupting human DNA like the ancient flood,
-Giants walked the earth in days of old,
-Now synthetic beings emerge—souls bought and sold!
+[कोरस]
+नेफिलिम नैनोबॉट आपके खून में तैर रहे हैं,
+मानव डीएनए को भ्रष्ट कर रहे हैं प्राचीन बाढ़ की तरह,
+पुराने दिनों में दैत्य पृथ्वी पर चले,
+अब सिंथेटिक प्राणी उभर रहे हैं—आत्माएं खरीदी और बेची गई!
 
-[Verse 3]
-"As in the days of Noah," Jesus said,
-Genetic manipulation—humanity misled,
-The fallen angels tried to corrupt the seed,
-Now nanobots finish what demons decreed.
+[पद 3]
+"जैसे नूह के दिनों में," यीशु ने कहा,
+आनुवंशिक हेरफेर—मानवता गुमराह,
+पतित स्वर्गदूतों ने बीज को भ्रष्ट करने की कोशिश की,
+अब नैनोबॉट वह खत्म करते हैं जो दानवों ने तय किया।
 
-[Verse 4]
-Super soldiers rising, enhanced and tall,
-DARPA programs answering the call,
-Human 2.0 they want to create,
-Nephilim reborn—a corrupted state.
+[पद 4]
+सुपर सैनिक उभर रहे हैं, बढ़ाया और लंबा,
+DARPA कार्यक्रम कॉल का जवाब दे रहे हैं,
+मानव 2.0 वे बनाना चाहते हैं,
+नेफिलिम पुनर्जन्म—एक भ्रष्ट अवस्था।
 
-[Chorus]
-Nephilim nanobots swimming in your blood,
-Corrupting human DNA like the ancient flood,
-Giants walked the earth in days of old,
-Now synthetic beings emerge—souls bought and sold!
+[कोरस]
+नेफिलिम नैनोबॉट आपके खून में तैर रहे हैं,
+मानव डीएनए को भ्रष्ट कर रहे हैं प्राचीन बाढ़ की तरह,
+पुराने दिनों में दैत्य पृथ्वी पर चले,
+अब सिंथेटिक प्राणी उभर रहे हैं—आत्माएं खरीदी और बेची गई!
 
-[Bridge]
-God sent the flood to wipe the slate clean,
-Nephilim destroyed—no more to be seen,
-But the enemy returns with technology new,
-Corrupting the bloodline all over—round two!
-But fire this time, not water to come,
-The judge of all earth won't be outdone,
-Nephilim nanobots will burn in the flame,
-Christ returns victorious—forever the same!
+[ब्रिज]
+भगवान ने स्लेट को साफ करने के लिए बाढ़ भेजी,
+नेफिलिम नष्ट हो गए—अब देखने के लिए और नहीं,
+लेकिन दुश्मन नई तकनीक के साथ लौटता है,
+रक्त रेखा को फिर से भ्रष्ट कर रहा है—दूसरा दौर!
+लेकिन इस बार आग है, पानी नहीं आने वाला,
+सभी पृथ्वी का न्यायाधीश पराजित नहीं होगा,
+नेफिलिम नैनोबॉट लौ में जलेंगे,
+मसीह विजयी होकर लौटता है—हमेशा के लिए वही!
 
-[Verse 5]
-They call it evolution, call it progress too,
-But it's Genesis six happening to me and you,
-Mixing iron and clay, Daniel saw it clear,
-The final kingdom where Nephilim appear.
+[पद 5]
+वे इसे विकास कहते हैं, इसे प्रगति भी कहते हैं,
+लेकिन यह उत्पत्ति छह है जो मेरे और आपके साथ हो रहा है,
+लोहा और मिट्टी मिला रहे हैं, दानिय्येल ने स्पष्ट देखा,
+अंतिम राज्य जहां नेफिलिम दिखाई देते हैं।
 
-[Verse 6]
-Your body is a temple, Paul said it true,
-Now they're desecrating it with nanotech through,
-But the pure in blood who refuse the mark,
-Will shine like stars even in the dark.
+[पद 6]
+आपका शरीर एक मंदिर है, पौलुस ने सच कहा,
+अब वे इसे नैनोटेक के माध्यम से अपवित्र कर रहे हैं,
+लेकिन रक्त में शुद्ध जो चिह्न से इनकार करते हैं,
+अंधेरे में भी सितारों की तरह चमकेंगे।
 
-[Chorus]
-Nephilim nanobots swimming in your blood,
-Corrupting human DNA like the ancient flood,
-Giants walked the earth in days of old,
-Now synthetic beings emerge—souls bought and sold!
+[कोरस]
+नेफिलिम नैनोबॉट आपके खून में तैर रहे हैं,
+मानव डीएनए को भ्रष्ट कर रहे हैं प्राचीन बाढ़ की तरह,
+पुराने दिनों में दैत्य पृथ्वी पर चले,
+अब सिंथेटिक प्राणी उभर रहे हैं—आत्माएं खरीदी और बेची गई!
 
-[Outro]
-Nephilim walked and Nephilim fell,
-Their nanobot children will meet the same hell,
-What God destroyed once, He'll destroy again,
-The pure bloodline of Christ will remain—Amen.
+[समापन]
+नेफिलिम चले और नेफिलिम गिरे,
+उनके नैनोबॉट बच्चे उसी नरक से मिलेंगे,
+जो भगवान ने एक बार नष्ट किया, वह फिर से नष्ट करेगा,
+मसीह की शुद्ध रक्त रेखा बनी रहेगी—आमीन।

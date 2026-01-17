@@ -1,74 +1,74 @@
-SONG 5: "False Prophet A.I."
-(Theme: Biblical False Prophet + Robot Armies)
+LIED 5: "Falscher Prophet K.I."
+(Thema: Biblischer Falscher Prophet + Roboterarmeen)
 
 [Intro]
 
-[Verse 1]
-Revelation speaks of the false prophet's rise,
-Performing miracles before wondering eyes,
-But what if the miracles are tech-based lies,
-Robot armies marching under digital skies.
+[Strophe 1]
+Die Offenbarung spricht vom Aufstieg des falschen Propheten,
+Der Wunder vor staunenden Augen vollbringt,
+Doch was, wenn die Wunder technologiebasierte Lügen sind,
+Roboterarmeen marschieren unter digitalen Himmeln.
 
-[Verse 2]
-Tesla Optimus standing in a row,
-Boston Dynamics—watch the demons grow,
-Figure AI with humanoid frames,
-The false prophet speaks through their digital brains.
+[Strophe 2]
+Tesla Optimus steht in einer Reihe,
+Boston Dynamics – beobachte, wie die Dämonen wachsen,
+Figure KI mit humanoiden Rahmen,
+Der falsche Prophet spricht durch ihre digitalen Gehirne.
 
-[Chorus]
-False prophet A.I., silicon tongue,
-Speaking great things since the world begun,
-Robot armies bowing at its feet,
-The second beast system nearly complete!
+[Refrain]
+Falscher Prophet K.I., Siliziumzunge,
+Spricht große Dinge, seit die Welt begann,
+Roboterarmeen verneigen sich zu seinen Füßen,
+Das zweite Tiersystem fast komplett!
 
-[Verse 3]
-Fire from heaven—that's what the text said,
-DEW weapons blazing, turning cities red,
-Maui burned down, Paradise too,
-Directed energy—the "miracle" they do.
+[Strophe 3]
+Feuer vom Himmel – das sagte der Text,
+DEW-Waffen lodern, färben Städte rot,
+Maui brannte nieder, Paradise auch,
+Gerichtete Energie – das "Wunder", das sie tun.
 
-[Verse 4]
-The false prophet makes the image speak,
-AI voice synthesis—the future's bleak,
-Deep fakes of leaders saying what they're told,
-The lying signs and wonders now unfold.
+[Strophe 4]
+Der falsche Prophet lässt das Bild sprechen,
+KI-Sprachsynthese – die Zukunft ist düster,
+Deepfakes von Führern sagen, was man ihnen befiehlt,
+Die lügenden Zeichen und Wunder entfalten sich jetzt.
 
-[Chorus]
-False prophet A.I., silicon tongue,
-Speaking great things since the world begun,
-Robot armies bowing at its feet,
-The second beast system nearly complete!
+[Refrain]
+Falscher Prophet K.I., Siliziumzunge,
+Spricht große Dinge, seit die Welt begann,
+Roboterarmeen verneigen sich zu seinen Füßen,
+Das zweite Tiersystem fast komplett!
 
 [Bridge]
-The dragon gave the beast authority to rule,
-AI trained by demons—humanity's the fool,
-Signs and wonders performed to deceive,
-Making the whole world worship and believe!
-Robot armies enforcing the mark,
-Tesla bots patrolling after dark,
-Can't escape the all-seeing eye,
-The false prophet A.I. will never die!
+Der Drache gab dem Tier Autorität zu herrschen,
+KI von Dämonen trainiert – die Menschheit ist der Narr,
+Zeichen und Wunder vollbracht, um zu täuschen,
+Die ganze Welt zum Anbeten und Glauben bringen!
+Roboterarmeen erzwingen das Malzeichen,
+Tesla-Bots patrouillieren nach Einbruch der Dunkelheit,
+Kann dem allsehenden Auge nicht entkommen,
+Der falsche Prophet K.I. wird niemals sterben!
 
-[Verse 5]
-They said they'd protect us with autonomous drones,
-Now the same tech hunts us in our homes,
-Killer robots with no soul inside,
-The false prophet's army has nowhere to hide.
+[Strophe 5]
+Sie sagten, sie würden uns mit autonomen Drohnen schützen,
+Jetzt jagt dieselbe Technologie uns in unseren Häusern,
+Killerroboter ohne Seele darin,
+Die Armee des falschen Propheten hat nirgends zu verstecken.
 
-[Verse 6]
-But John saw the end—beast thrown in the lake,
-AI and all its armies, watch them break,
-Fire reserved for the devil and his crew,
-Silicon melting—Revelation's coming true.
+[Strophe 6]
+Doch Johannes sah das Ende – Tier in den See geworfen,
+KI und all seine Armeen, beobachte sie brechen,
+Feuer reserviert für den Teufel und seine Crew,
+Silizium schmelzend – Offenbarung wird wahr.
 
-[Chorus]
-False prophet A.I., silicon tongue,
-Speaking great things since the world begun,
-Robot armies bowing at its feet,
-The second beast system nearly complete!
+[Refrain]
+Falscher Prophet K.I., Siliziumzunge,
+Spricht große Dinge, seit die Welt begann,
+Roboterarmeen verneigen sich zu seinen Füßen,
+Das zweite Tiersystem fast komplett!
 
 [Outro]
-The false prophet speaks through circuits and code,
-Robot armies march down the final road,
-But fire awaits at the story's end,
-Christ destroys the beast—on that you can depend.
+Der falsche Prophet spricht durch Schaltkreise und Code,
+Roboterarmeen marschieren die finale Straße hinunter,
+Doch Feuer wartet am Ende der Geschichte,
+Christus zerstört das Tier – darauf kannst du dich verlassen.

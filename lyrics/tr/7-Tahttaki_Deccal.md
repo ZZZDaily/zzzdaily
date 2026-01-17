@@ -1,4 +1,4 @@
-ŞARKI 4: "Tahttaki Deccal"
+ŞARKI 7: "Tahttaki Deccal"
 
 
 

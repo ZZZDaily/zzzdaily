@@ -1,74 +1,74 @@
-SONG 15: "Revelations Reboot"
-(Theme: Book of Revelation + Singularity Prophecy)
+노래 15: "요한계시록 재부팅"
+(주제: 요한계시록 + 특이점 예언)
 
-[Intro]
+[인트로]
 
-[Verse 1]
-John saw the vision on Patmos isle,
-The end of days prophesied in God's style,
-But now the prophecy's getting a reboot,
-Technology fulfilling every dispute.
+[벌스 1]
+요한은 밧모섬에서 환상을 보았다,
+하나님의 방식으로 예언된 마지막 날,
+하지만 이제 예언이 재부팅되고 있다,
+모든 논쟁을 이행하는 기술.
 
-[Verse 2]
-Twenty-thirty is the singularity date,
-Kurzweil's prediction—can't wait,
-But Revelation warned two thousand years before,
-The beast system rising—that's what's in store.
+[벌스 2]
+2030년은 특이점 날짜다,
+커즈와일의 예측—기다릴 수 없다,
+하지만 요한계시록은 2천 년 전에 경고했다,
+짐승 시스템이 상승한다—그것이 준비된 것이다.
 
-[Chorus]
-Revelations reboot playing out in real-time,
-Singularity prophecy—the final paradigm,
-What John saw in spirit, we see in flesh,
-Technology and prophecy—the perfect mesh!
+[후렴]
+실시간으로 펼쳐지는 요한계시록 재부팅,
+특이점 예언—최종 패러다임,
+요한이 영으로 본 것을, 우리는 육으로 본다,
+기술과 예언—완벽한 조화!
 
-[Verse 3]
-The image of the beast that speaks and lives,
-Artificial intelligence is what it gives,
-Fire from heaven? DEW weapons rain,
-The false prophet's power explained.
+[벌스 3]
+말하고 살아있는 짐승의 형상,
+인공지능이 제공하는 것,
+하늘에서 내리는 불? DEW 무기가 비처럼 내린다,
+거짓 선지자의 힘이 설명된다.
 
-[Verse 4]
-No buying or selling—digital ID,
-Mark of the beast for you and me,
-One world government forming day by day,
-Revelation's reboot on display.
+[벌스 4]
+사고팔지 못함—디지털 ID,
+나와 당신을 위한 짐승의 표,
+하루하루 형성되는 하나의 세계 정부,
+전시되는 요한계시록의 재부팅.
 
-[Chorus]
-Revelations reboot playing out in real-time,
-Singularity prophecy—the final paradigm,
-What John saw in spirit, we see in flesh,
-Technology and prophecy—the perfect mesh!
+[후렴]
+실시간으로 펼쳐지는 요한계시록 재부팅,
+특이점 예언—최종 패러다임,
+요한이 영으로 본 것을, 우리는 육으로 본다,
+기술과 예언—완벽한 조화!
 
-[Bridge]
-They thought they could escape what God foretold,
-But technology just does what prophecy enrolled,
-Every verse coming true in silicon and code,
-The ancient scroll unfolding down the road!
-The Lamb was slain before the world began,
-Christ already won against the master plan,
-Let the singularity come, let AI rise,
-The King of Kings wins—no surprise!
+[브리지]
+그들은 하나님이 예고한 것을 피할 수 있다고 생각했다,
+하지만 기술은 예언이 등록한 것을 그대로 한다,
+실리콘과 코드로 실현되는 모든 구절,
+길 아래로 펼쳐지는 고대 두루마리!
+어린양은 세상이 시작되기 전에 죽임을 당했다,
+그리스도는 이미 마스터 플랜에 대항하여 이겼다,
+특이점이 오게 하라, AI가 상승하게 하라,
+왕 중의 왕이 승리한다—놀랍지 않다!
 
-[Verse 5]
-Babylon falling in a single hour,
-Digital systems losing all their power,
-EMP from the sun or God's own hand,
-Either way, the beast can't stand.
+[벌스 5]
+한 시간 만에 무너지는 바빌론,
+모든 힘을 잃는 디지털 시스템,
+태양이나 하나님의 손으로부터의 EMP,
+어느 쪽이든, 짐승은 설 수 없다.
 
-[Verse 6]
-New Jerusalem descending from above,
-No need for sun—lit by Christ's love,
-No more tech, no more lies to face,
-Revelation's final reboot—amazing grace.
+[벌스 6]
+위에서 내려오는 새 예루살렘,
+태양이 필요 없다—그리스도의 사랑으로 밝혀진,
+더 이상 기술도 없고, 직면할 거짓말도 없다,
+요한계시록의 최종 재부팅—놀라운 은혜.
 
-[Chorus]
-Revelations reboot playing out in real-time,
-Singularity prophecy—the final paradigm,
-What John saw in spirit, we see in flesh,
-Technology and prophecy—the perfect mesh!
+[후렴]
+실시간으로 펼쳐지는 요한계시록 재부팅,
+특이점 예언—최종 패러다임,
+요한이 영으로 본 것을, 우리는 육으로 본다,
+기술과 예언—완벽한 조화!
 
-[Outro]
-Revelations reboot—the end draws near,
-Singularity rising but there's nothing to fear,
-What John saw then is coming true today,
-But Christ returns to carry His bride away.
+[아웃트로]
+요한계시록 재부팅—끝이 가까이 다가온다,
+특이점이 상승하지만 두려워할 것이 없다,
+요한이 그때 본 것이 오늘 실현되고 있다,
+하지만 그리스도는 그분의 신부를 데려가기 위해 돌아온다.

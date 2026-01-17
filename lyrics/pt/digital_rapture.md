@@ -1,74 +1,74 @@
-SONG 8: "Digital Rapture"
-(Theme: Christian Rapture + Digital Twin Upload)
+MÚSICA 8: "Arrebatamento Digital"
+(Tema: Arrebatamento Cristão + Upload de Gêmeo Digital)
 
 [Intro]
 
-[Verse 1]
-They promise eternal life in the cloud,
-Upload your consciousness—join the crowd,
-A digital heaven where you never die,
-Satan's counterfeit of the rapture in the sky.
+[Verso 1]
+Eles prometem vida eterna na nuvem,
+Carregue sua consciência — junte-se à multidão,
+Um céu digital onde você nunca morre,
+A falsificação de Satanás do arrebatamento no céu.
 
-[Verse 2]
-First Thessalonians four—caught up to meet,
-The Lord in the air—salvation complete,
-But they offer a fake version of the same,
-Digital rapture—a different name.
+[Verso 2]
+Primeira Tessalonicenses quatro — arrebatados para encontrar,
+O Senhor no ar — salvação completa,
+Mas eles oferecem uma versão falsa do mesmo,
+Arrebatamento digital — um nome diferente.
 
-[Chorus]
-Digital rapture—escape to the cloud,
-Leave your body, join the digital crowd,
-But it's not the rapture that Jesus brings,
-It's a silicon prison without any wings!
+[Refrão]
+Arrebatamento digital — fuga para a nuvem,
+Deixe seu corpo, junte-se à multidão digital,
+Mas não é o arrebatamento que Jesus traz,
+É uma prisão de silício sem asas!
 
-[Verse 3]
-Digital twins of every human alive,
-Copies in the metaverse learning to thrive,
-When your body dies, they say you'll live on,
-But your soul without Christ is forever gone.
+[Verso 3]
+Gêmeos digitais de cada humano vivo,
+Cópias no metaverso aprendendo a prosperar,
+Quando seu corpo morrer, eles dizem que você viverá,
+Mas sua alma sem Cristo se foi para sempre.
 
-[Verse 4]
-Kurzweil dreams of living past a hundred years,
-Mind uploaded, no more death, no more tears,
-But only Jesus offers life that's true,
-Revelation twenty-one—all things new.
+[Verso 4]
+Kurzweil sonha em viver além de cem anos,
+Mente carregada, sem mais morte, sem mais lágrimas,
+Mas apenas Jesus oferece vida que é verdadeira,
+Apocalipse vinte e um — todas as coisas novas.
 
-[Chorus]
-Digital rapture—escape to the cloud,
-Leave your body, join the digital crowd,
-But it's not the rapture that Jesus brings,
-It's a silicon prison without any wings!
+[Refrão]
+Arrebatamento digital — fuga para a nuvem,
+Deixe seu corpo, junte-se à multidão digital,
+Mas não é o arrebatamento que Jesus traz,
+É uma prisão de silício sem asas!
 
-[Bridge]
-In the twinkling of an eye, we shall be changed,
-Incorruptible bodies—divinely arranged,
-Not by Neuralink, not by any machine,
-But by Christ's return—the eternal King!
-Don't fall for the counterfeit eternal life,
-Satan's been a liar since Eden's strife,
-The digital rapture leaves your soul behind,
-The real rapture saves both body and mind!
+[Ponte]
+Num piscar de olhos, seremos transformados,
+Corpos incorruptíveis — divinamente arranjados,
+Não por Neuralink, não por nenhuma máquina,
+Mas pelo retorno de Cristo — o Rei eterno!
+Não caia na vida eterna falsificada,
+Satanás tem sido um mentiroso desde o conflito do Éden,
+O arrebatamento digital deixa sua alma para trás,
+O verdadeiro arrebatamento salva corpo e mente!
 
-[Verse 5]
-They want to preserve you in ones and zeros,
-Digital avatars—false heroes,
-But code can't capture what makes you whole,
-The image of God imprinted on your soul.
+[Verso 5]
+Eles querem preservar você em uns e zeros,
+Avatares digitais — falsos heróis,
+Mas código não pode capturar o que te faz inteiro,
+A imagem de Deus impressa em sua alma.
 
-[Verse 6]
-Second Corinthians five—absent from the body,
-Present with the Lord—not virtually shoddy,
-The cloud they offer is Amazon's server farm,
-The cloud we rise to is in Jesus' arms.
+[Verso 6]
+Segunda Coríntios cinco — ausente do corpo,
+Presente com o Senhor — não virtualmente medíocre,
+A nuvem que eles oferecem é a fazenda de servidores da Amazon,
+A nuvem para a qual subimos está nos braços de Jesus.
 
-[Chorus]
-Digital rapture—escape to the cloud,
-Leave your body, join the digital crowd,
-But it's not the rapture that Jesus brings,
-It's a silicon prison without any wings!
+[Refrão]
+Arrebatamento digital — fuga para a nuvem,
+Deixe seu corpo, junte-se à multidão digital,
+Mas não é o arrebatamento que Jesus traz,
+É uma prisão de silício sem asas!
 
 [Outro]
-Digital rapture is the devil's great deceit,
-A counterfeit heaven that can't compete,
-When the trumpet sounds, the dead in Christ will rise,
-Not uploaded to servers—but meeting Him in the skies.
+Arrebatamento digital é o grande engano do diabo,
+Um céu falsificado que não pode competir,
+Quando a trombeta soar, os mortos em Cristo ressuscitarão,
+Não carregados para servidores — mas encontrando-O nos céus.

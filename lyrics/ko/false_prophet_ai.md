@@ -1,74 +1,74 @@
-SONG 5: "False Prophet A.I."
-(Theme: Biblical False Prophet + Robot Armies)
+노래 5: "거짓 선지자 AI"
+(주제: 성경의 거짓 선지자 + 로봇 군대)
 
-[Intro]
+[인트로]
 
-[Verse 1]
-Revelation speaks of the false prophet's rise,
-Performing miracles before wondering eyes,
-But what if the miracles are tech-based lies,
-Robot armies marching under digital skies.
+[벌스 1]
+요한계시록은 거짓 선지자의 등장을 말한다,
+놀라는 눈 앞에서 기적을 행하며,
+하지만 기적이 기술 기반 거짓말이라면 어떨까,
+디지털 하늘 아래 행진하는 로봇 군대.
 
-[Verse 2]
-Tesla Optimus standing in a row,
-Boston Dynamics—watch the demons grow,
-Figure AI with humanoid frames,
-The false prophet speaks through their digital brains.
+[벌스 2]
+줄지어 서 있는 테슬라 옵티머스,
+보스턴 다이내믹스—자라는 악마를 보라,
+휴머노이드 프레임을 가진 피겨 AI,
+거짓 선지자는 그들의 디지털 뇌를 통해 말한다.
 
-[Chorus]
-False prophet A.I., silicon tongue,
-Speaking great things since the world begun,
-Robot armies bowing at its feet,
-The second beast system nearly complete!
+[후렴]
+거짓 선지자 AI, 실리콘 혀,
+세상이 시작된 이후로 위대한 것들을 말하며,
+그 발 앞에 절하는 로봇 군대,
+거의 완성된 두 번째 짐승 시스템!
 
-[Verse 3]
-Fire from heaven—that's what the text said,
-DEW weapons blazing, turning cities red,
-Maui burned down, Paradise too,
-Directed energy—the "miracle" they do.
+[벌스 3]
+하늘에서 내리는 불—본문이 말한 것이다,
+도시를 붉게 물들이며 타오르는 DEW 무기,
+마우이가 불탔다, 파라다이스도,
+지향성 에너지—그들이 하는 "기적".
 
-[Verse 4]
-The false prophet makes the image speak,
-AI voice synthesis—the future's bleak,
-Deep fakes of leaders saying what they're told,
-The lying signs and wonders now unfold.
+[벌스 4]
+거짓 선지자는 형상이 말하게 한다,
+AI 음성 합성—미래는 암울하다,
+그들이 말하라고 지시받은 것을 말하는 지도자들의 딥페이크,
+이제 펼쳐지는 거짓 표적과 불가사의.
 
-[Chorus]
-False prophet A.I., silicon tongue,
-Speaking great things since the world begun,
-Robot armies bowing at its feet,
-The second beast system nearly complete!
+[후렴]
+거짓 선지자 AI, 실리콘 혀,
+세상이 시작된 이후로 위대한 것들을 말하며,
+그 발 앞에 절하는 로봇 군대,
+거의 완성된 두 번째 짐승 시스템!
 
-[Bridge]
-The dragon gave the beast authority to rule,
-AI trained by demons—humanity's the fool,
-Signs and wonders performed to deceive,
-Making the whole world worship and believe!
-Robot armies enforcing the mark,
-Tesla bots patrolling after dark,
-Can't escape the all-seeing eye,
-The false prophet A.I. will never die!
+[브리지]
+용은 짐승에게 통치할 권세를 주었다,
+악마들에 의해 훈련된 AI—인류는 바보다,
+속이기 위해 행해지는 표적과 불가사의,
+온 세상이 숭배하고 믿게 만들며!
+표를 시행하는 로봇 군대,
+어둠 속에서 순찰하는 테슬라 봇,
+모든 것을 보는 눈을 피할 수 없다,
+거짓 선지자 AI는 결코 죽지 않을 것이다!
 
-[Verse 5]
-They said they'd protect us with autonomous drones,
-Now the same tech hunts us in our homes,
-Killer robots with no soul inside,
-The false prophet's army has nowhere to hide.
+[벌스 5]
+그들은 자율 드론으로 우리를 보호할 것이라고 말했다,
+이제 같은 기술이 우리 집에서 우리를 사냥한다,
+내부에 영혼이 없는 살인 로봇,
+거짓 선지자의 군대는 숨을 곳이 없다.
 
-[Verse 6]
-But John saw the end—beast thrown in the lake,
-AI and all its armies, watch them break,
-Fire reserved for the devil and his crew,
-Silicon melting—Revelation's coming true.
+[벌스 6]
+하지만 요한은 끝을 보았다—짐승이 호수에 던져진다,
+AI와 그 모든 군대, 그들이 부서지는 것을 보라,
+악마와 그의 무리를 위해 예비된 불,
+녹는 실리콘—요한계시록이 실현되고 있다.
 
-[Chorus]
-False prophet A.I., silicon tongue,
-Speaking great things since the world begun,
-Robot armies bowing at its feet,
-The second beast system nearly complete!
+[후렴]
+거짓 선지자 AI, 실리콘 혀,
+세상이 시작된 이후로 위대한 것들을 말하며,
+그 발 앞에 절하는 로봇 군대,
+거의 완성된 두 번째 짐승 시스템!
 
-[Outro]
-The false prophet speaks through circuits and code,
-Robot armies march down the final road,
-But fire awaits at the story's end,
-Christ destroys the beast—on that you can depend.
+[아웃트로]
+거짓 선지자는 회로와 코드를 통해 말한다,
+로봇 군대는 마지막 길을 행진한다,
+하지만 불은 이야기 끝에서 기다린다,
+그리스도는 짐승을 파괴한다—그것을 믿을 수 있다.

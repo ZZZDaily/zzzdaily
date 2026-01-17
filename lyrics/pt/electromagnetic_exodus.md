@@ -1,74 +1,74 @@
-SONG 14: "Electromagnetic Exodus"
-(Theme: Biblical Exodus + DEW Weapons Escape)
+MÚSICA 14: "Êxodo Eletromagnético"
+(Tema: Êxodo Bíblico + Fuga de Armas DEW)
 
 [Intro]
 
-[Verse 1]
-Moses led Israel from Pharaoh's hand,
-Through the Red Sea waters to the promised land,
-Now we need exodus from the pharaohs of today,
-DEW weapons blazing—we gotta find a way.
+[Verso 1]
+Moisés conduziu Israel da mão do Faraó,
+Através das águas do Mar Vermelho para a terra prometida,
+Agora precisamos de êxodo dos faraós de hoje,
+Armas DEW flamejantes — temos que encontrar um caminho.
 
-[Verse 2]
-Electromagnetic frequencies all around,
-5G towers rising up from the ground,
-Directed energy weapons burning from the sky,
-Like the plagues of Egypt—people die.
+[Verso 2]
+Frequências eletromagnéticas por toda parte,
+Torres 5G se erguendo do chão,
+Armas de energia direcionada queimando do céu,
+Como as pragas do Egito — pessoas morrem.
 
-[Chorus]
-Electromagnetic exodus—gotta leave Babylon,
-DEW weapons raining fire till the dawn,
-Like Moses led his people through the sea,
-We need deliverance to set us free!
+[Refrão]
+Êxodo eletromagnético — temos que deixar a Babilônia,
+Armas DEW chovendo fogo até o amanhecer,
+Como Moisés conduziu seu povo através do mar,
+Precisamos de libertação para nos libertar!
 
-[Verse 3]
-Maui burned with blue umbrellas standing tall,
-Paradise, California—DEW made it fall,
-Pharaoh used whips, the new pharaohs use waves,
-Electromagnetic weapons digging mass graves.
+[Verso 3]
+Maui queimou com guarda-sóis azuis de pé,
+Paradise, Califórnia — DEW fez cair,
+Faraó usou chicotes, os novos faraós usam ondas,
+Armas eletromagnéticas cavando sepulturas em massa.
 
-[Verse 4]
-Smart meters on every house tracking power flow,
-They can target anyone—this we know,
-But God parted the waters, made a way through,
-He'll part the frequencies for me and you.
+[Verso 4]
+Medidores inteligentes em cada casa rastreando o fluxo de energia,
+Eles podem mirar em qualquer um — isso sabemos,
+Mas Deus abriu as águas, fez um caminho,
+Ele abrirá as frequências para mim e para você.
 
-[Chorus]
-Electromagnetic exodus—gotta leave Babylon,
-DEW weapons raining fire till the dawn,
-Like Moses led his people through the sea,
-We need deliverance to set us free!
+[Refrão]
+Êxodo eletromagnético — temos que deixar a Babilônia,
+Armas DEW chovendo fogo até o amanhecer,
+Como Moisés conduziu seu povo através do mar,
+Precisamos de libertação para nos libertar!
 
-[Bridge]
-Egypt held Israel four hundred years in chains,
-Electromagnetic Egypt does the same,
-But God sent Moses when the time was right,
-The midnight hour—then came the light!
-Ten plagues fell on Egypt long ago,
-Ten plagues of tech are falling here below,
-But the blood on the doorpost kept the angel at bay,
-The blood of Jesus keeps us safe today!
+[Ponte]
+O Egito manteve Israel quatrocentos anos em correntes,
+O Egito eletromagnético faz o mesmo,
+Mas Deus enviou Moisés quando chegou a hora,
+A meia-noite — então veio a luz!
+Dez pragas caíram sobre o Egito há muito tempo,
+Dez pragas da tecnologia estão caindo aqui embaixo,
+Mas o sangue no umbral manteve o anjo afastado,
+O sangue de Jesus nos mantém seguros hoje!
 
-[Verse 5]
-Smart cities are the new Egyptian brick,
-Surveillance and control—the same old trick,
-But the pillar of cloud and pillar of fire,
-Still guides the remnant from the empire.
+[Verso 5]
+Cidades inteligentes são o novo tijolo egípcio,
+Vigilância e controle — o mesmo velho truque,
+Mas a coluna de nuvem e a coluna de fogo,
+Ainda guiam o remanescente do império.
 
-[Verse 6]
-Pharaoh's army drowned in the closing sea,
-The beast system drowns in eternity,
-Every tower, every weapon turned to dust,
-In God alone we put our trust.
+[Verso 6]
+O exército do Faraó se afogou no mar que se fechava,
+O sistema da besta se afoga na eternidade,
+Cada torre, cada arma transformada em pó,
+Somente em Deus colocamos nossa confiança.
 
-[Chorus]
-Electromagnetic exodus—gotta leave Babylon,
-DEW weapons raining fire till the dawn,
-Like Moses led his people through the sea,
-We need deliverance to set us free!
+[Refrão]
+Êxodo eletromagnético — temos que deixar a Babilônia,
+Armas DEW chovendo fogo até o amanhecer,
+Como Moisés conduziu seu povo através do mar,
+Precisamos de libertação para nos libertar!
 
 [Outro]
-Electromagnetic exodus from the beast,
-From the west, from the north, south, and east,
-God makes a way where there seems to be none,
-The exodus continues till the victory's won.
+Êxodo eletromagnético da besta,
+Do oeste, do norte, sul e leste,
+Deus faz um caminho onde parece não haver nenhum,
+O êxodo continua até que a vitória seja conquistada.

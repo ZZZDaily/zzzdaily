@@ -1,74 +1,74 @@
-SONG 12: "Dome Dwellers Awakening"
-(Theme: Flat Earth Truth + Final Awakening for Humanity)
+गीत 12: "गुंबद निवासियों का जागरण"
+(विषय: समतल पृथ्वी सत्य + मानवता के लिए अंतिम जागरण)
 
-[Intro]
+[परिचय]
 
-[Verse 1]
-They kept us sleeping under the dome so long,
-Pear-shaped testicle lies—believing wrong,
-But the dome dwellers waking, opening eyes,
-Seeing through both space and tech's disguise.
+[पद 1]
+उन्होंने हमें गुंबद के नीचे इतने लंबे समय तक सोता रखा,
+नाशपाती के आकार का अंडकोष झूठ—गलत विश्वास,
+लेकिन गुंबद निवासी जाग रहे हैं, आंखें खोल रहे हैं,
+अंतरिक्ष और तकनीक के छद्म दोनों को देख रहे हैं।
 
-[Verse 2]
-Flat earth was the key that unlocked the door,
-Now we see the nanotech and so much more,
-One lie connected to the other strand,
-A web of deception across every land.
+[पद 2]
+समतल पृथ्वी वह चाबी थी जिसने दरवाजा खोल दिया,
+अब हम नैनोटेक और बहुत कुछ देखते हैं,
+एक झूठ दूसरे धागे से जुड़ा हुआ,
+हर देश में धोखे का जाल।
 
-[Chorus]
-Dome dwellers awakening to the truth at last,
-Flat earth breaking chains from the past,
-Seeing the firmament and the beast system too,
-The final awakening is coming through!
+[कोरस]
+गुंबद निवासी अंत में सत्य की ओर जाग रहे हैं,
+समतल पृथ्वी अतीत से जंजीरें तोड़ रही है,
+आकाश और पशु प्रणाली दोनों को देख रहे हैं,
+अंतिम जागरण आ रहा है!
 
-[Verse 3]
-P900 zoom revealed the plane,
-Blood microscopy revealed the bane,
-What they hid above connects to what's within,
-One matrix of lies covering every sin.
+[पद 3]
+P900 ज़ूम ने विमान को प्रकट किया,
+रक्त सूक्ष्म जांच ने अभिशाप को प्रकट किया,
+उन्होंने जो ऊपर छिपाया वह अंदर से जुड़ता है,
+हर पाप को कवर करने वाला झूठ का एक मैट्रिक्स।
 
-[Verse 4]
-They couldn't maintain the globe without fake space,
-They can't maintain control without tracking your face,
-Two systems of bondage crumbling as one,
-The dome dwellers rising with the morning sun.
+[पद 4]
+वे नकली अंतरिक्ष के बिना ग्लोब बनाए नहीं रख सकते थे,
+वे आपके चेहरे को ट्रैक किए बिना नियंत्रण बनाए नहीं रख सकते,
+गुलामी की दो प्रणालियां एक के रूप में ढह रही हैं,
+गुंबद निवासी सुबह के सूरज के साथ उठ रहे हैं।
 
-[Chorus]
-Dome dwellers awakening to the truth at last,
-Flat earth breaking chains from the past,
-Seeing the firmament and the beast system too,
-The final awakening is coming through!
+[कोरस]
+गुंबद निवासी अंत में सत्य की ओर जाग रहे हैं,
+समतल पृथ्वी अतीत से जंजीरें तोड़ रही है,
+आकाश और पशु प्रणाली दोनों को देख रहे हैं,
+अंतिम जागरण आ रहा है!
 
-[Bridge]
-Hosea four-six said perish from not knowing,
-But now the truth is flooding, overflowing,
-Flat earth led us down the rabbit hole,
-Now we see the war being waged for our soul!
-From space lies to vaccine lies—all connect,
-The same deceiver running the tech,
-But the dome dwellers see it all so clear,
-The awakening's here—the end is near!
+[ब्रिज]
+होशे चार-छह ने कहा न जानने से नष्ट हो जाओगे,
+लेकिन अब सत्य बाढ़ आ रहा है, उमड़ रहा है,
+समतल पृथ्वी ने हमें खरगोश के छेद में ले गई,
+अब हम देखते हैं कि हमारी आत्मा के लिए युद्ध चल रहा है!
+अंतरिक्ष के झूठ से वैक्सीन के झूठ तक—सब जुड़े हुए,
+वही धोखेबाज तकनीक चला रहा है,
+लेकिन गुंबद निवासी यह सब बहुत स्पष्ट देखते हैं,
+जागरण यहां है—अंत निकट है!
 
-[Verse 5]
-Karen Kingston exposed the patents' truth,
-Eric Dubay exposed the globe's bad proof,
-Ana Mihalcea shows blood transformed,
-The awakened remnant weathering the storm.
+[पद 5]
+करेन किंग्स्टन ने पेटेंट की सच्चाई उजागर की,
+एरिक डुबे ने ग्लोब के खराब सबूत को उजागर किया,
+आना मिहाल्सिया रक्त रूपांतरित दिखाती हैं,
+जागृत अवशेष तूफान का सामना कर रहा है।
 
-[Verse 6]
-From firmament to nanobots, we see the scheme,
-Satan's matrix crumbling at the seams,
-The dome above reflects the truth below,
-As within, so without—now we know.
+[पद 6]
+आकाश से नैनोबॉट तक, हम योजना देखते हैं,
+शैतान का मैट्रिक्स सिवनों पर ढह रहा है,
+ऊपर का गुंबद नीचे की सच्चाई को दर्शाता है,
+जैसा भीतर है, वैसा बाहर—अब हम जानते हैं।
 
-[Chorus]
-Dome dwellers awakening to the truth at last,
-Flat earth breaking chains from the past,
-Seeing the firmament and the beast system too,
-The final awakening is coming through!
+[कोरस]
+गुंबद निवासी अंत में सत्य की ओर जाग रहे हैं,
+समतल पृथ्वी अतीत से जंजीरें तोड़ रही है,
+आकाश और पशु प्रणाली दोनों को देख रहे हैं,
+अंतिम जागरण आ रहा है!
 
-[Outro]
-Dome dwellers awakening from sea to sea,
-Flat earth truth setting humanity free,
-And with that truth, all deceptions fall,
-The final awakening answering the call.
+[समापन]
+गुंबद निवासी समुद्र से समुद्र तक जाग रहे हैं,
+समतल पृथ्वी सत्य मानवता को मुक्त कर रहा है,
+और उस सत्य के साथ, सभी धोखे गिरते हैं,
+अंतिम जागरण कॉल का जवाब दे रहा है।

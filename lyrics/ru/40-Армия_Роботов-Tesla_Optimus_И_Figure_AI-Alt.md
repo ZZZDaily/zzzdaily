@@ -1,4 +1,4 @@
-Песня 39: "Армия Роботов" (Tesla Optimus и Figure AI)
+Песня 40: "Армия Роботов" (Tesla Optimus и Figure AI)
 
 
 [Интро]

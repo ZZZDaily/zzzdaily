@@ -1,74 +1,74 @@
-SONG 11: "Fake Stars, Real Chains"
-(Theme: Fake Space/Stars + Digital ID Enslavement)
+गीत 11: "नकली तारे, असली जंजीरें"
+(विषय: नकली अंतरिक्ष/तारे + डिजिटल आईडी गुलामी)
 
-[Intro]
+[परिचय]
 
-[Verse 1]
-They told us stars were suns a trillion miles away,
-But they're lights in the firmament—Genesis says,
-The same liars that gave us fake space above,
-Now give us digital chains disguised as love.
+[पद 1]
+उन्होंने हमें बताया कि तारे एक खरब मील दूर सूरज थे,
+लेकिन वे आकाश में रोशनी हैं—उत्पत्ति कहती है,
+वही झूठे जिन्होंने हमें ऊपर नकली अंतरिक्ष दिया,
+अब हमें प्यार के रूप में छिपी डिजिटल जंजीरें देते हैं।
 
-[Verse 2]
-If they lied about the cosmos, they'll lie about your name,
-Digital ID 2026—it's all the same game,
-Fake stars in the sky, fake freedom below,
-Real chains around your neck that they don't want you to know.
+[पद 2]
+यदि उन्होंने ब्रह्मांड के बारे में झूठ बोला, तो वे आपके नाम के बारे में झूठ बोलेंगे,
+डिजिटल आईडी 2026—यह सब वही खेल है,
+आकाश में नकली तारे, नीचे नकली स्वतंत्रता,
+आपकी गर्दन में असली जंजीरें जो वे नहीं चाहते कि आप जानें।
 
-[Chorus]
-Fake stars, real chains—the pattern's always there,
-Lies about the heavens, lies about the air,
-Space is fake but the slavery is real,
-Digital ID is the final deal!
+[कोरस]
+नकली तारे, असली जंजीरें—पैटर्न हमेशा वहां है,
+स्वर्ग के बारे में झूठ, हवा के बारे में झूठ,
+अंतरिक्ष नकली है लेकिन गुलामी असली है,
+डिजिटल आईडी अंतिम सौदा है!
 
-[Verse 3]
-NASA steals trillions for lights on the dome,
-While WEF plans to track you from your home,
-Fake moon landings, real surveillance state,
-Fake asteroids coming, real lockdown fate.
+[पद 3]
+नासा गुंबद पर रोशनी के लिए खरबों चुराता है,
+जबकि WEF आपके घर से आपको ट्रैक करने की योजना बनाता है,
+नकली चंद्र लैंडिंग, असली निगरानी राज्य,
+नकली क्षुद्रग्रह आ रहे हैं, असली लॉकडाउन भाग्य।
 
-[Verse 4]
-They couldn't put satellites in space that's fake,
-So ground-based towers are all it takes,
-Starlink's not in orbit—check the facts,
-While digital ID puts chains on your backs.
+[पद 4]
+वे नकली अंतरिक्ष में उपग्रह नहीं लगा सकते थे,
+इसलिए जमीन-आधारित टावर ही पर्याप्त हैं,
+स्टारलिंक कक्षा में नहीं है—तथ्यों की जांच करें,
+जबकि डिजिटल आईडी आपकी पीठ पर जंजीरें डालती है।
 
-[Chorus]
-Fake stars, real chains—the pattern's always there,
-Lies about the heavens, lies about the air,
-Space is fake but the slavery is real,
-Digital ID is the final deal!
+[कोरस]
+नकली तारे, असली जंजीरें—पैटर्न हमेशा वहां है,
+स्वर्ग के बारे में झूठ, हवा के बारे में झूठ,
+अंतरिक्ष नकली है लेकिन गुलामी असली है,
+डिजिटल आईडी अंतिम सौदा है!
 
-[Bridge]
-Job thirty-eight asks where were you when I laid earth's foundation,
-The stars sing together for God's creation,
-Not balls of gas but angels bright,
-While they wrap you in digital chains tight!
-The same deceiver from the garden of old,
-Lies about the stars, buys and sells your soul,
-Fake space program, real beast system rise,
-Open your eyes to both sets of lies!
+[ब्रिज]
+अय्यूब अड़तीस पूछता है कि जब मैंने पृथ्वी की नींव रखी तो तुम कहां थे,
+तारे भगवान की रचना के लिए एक साथ गाते हैं,
+गैस के गोले नहीं बल्कि चमकीले देवदूत,
+जबकि वे आपको डिजिटल जंजीरों में कसकर लपेटते हैं!
+बगीचे का वही पुराना धोखेबाज,
+तारों के बारे में झूठ बोलता है, आपकी आत्मा खरीदता और बेचता है,
+नकली अंतरिक्ष कार्यक्रम, असली पशु प्रणाली उदय,
+झूठ के दोनों सेटों के लिए अपनी आंखें खोलें!
 
-[Verse 5]
-They need the globe to make you feel small,
-Insignificant speck, nothing at all,
-But flat earth truth restores your worth,
-You're the reason God made the earth.
+[पद 5]
+उन्हें आपको छोटा महसूस कराने के लिए ग्लोब की आवश्यकता है,
+महत्वहीन धब्बा, कुछ भी नहीं,
+लेकिन समतल पृथ्वी सत्य आपके मूल्य को पुनर्स्थापित करता है,
+आप ही कारण हैं कि भगवान ने पृथ्वी बनाई।
 
-[Verse 6]
-Digital ID makes you feel like a number,
-A data point tracked while the masses slumber,
-But in Christ you're known by name and face,
-Neither fake stars nor chains can take your place.
+[पद 6]
+डिजिटल आईडी आपको एक संख्या की तरह महसूस कराती है,
+एक डेटा पॉइंट ट्रैक किया गया जबकि जनता सो रही है,
+लेकिन मसीह में आप नाम और चेहरे से जाने जाते हैं,
+न तो नकली तारे और न ही जंजीरें आपकी जगह ले सकती हैं।
 
-[Chorus]
-Fake stars, real chains—the pattern's always there,
-Lies about the heavens, lies about the air,
-Space is fake but the slavery is real,
-Digital ID is the final deal!
+[कोरस]
+नकली तारे, असली जंजीरें—पैटर्न हमेशा वहां है,
+स्वर्ग के बारे में झूठ, हवा के बारे में झूठ,
+अंतरिक्ष नकली है लेकिन गुलामी असली है,
+डिजिटल आईडी अंतिम सौदा है!
 
-[Outro]
-Fake stars above, real chains below,
-Two different lies from the same evil flow,
-But the truth of the earth and the freedom in Christ,
-Breaks both deceptions—that's the sacrifice.
+[समापन]
+ऊपर नकली तारे, नीचे असली जंजीरें,
+उसी बुरे प्रवाह से दो अलग-अलग झूठ,
+लेकिन पृथ्वी की सच्चाई और मसीह में स्वतंत्रता,
+दोनों धोखों को तोड़ती है—यही बलिदान है।

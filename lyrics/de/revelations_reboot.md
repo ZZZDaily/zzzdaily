@@ -1,74 +1,74 @@
-SONG 15: "Revelations Reboot"
-(Theme: Book of Revelation + Singularity Prophecy)
+LIED 15: "Offenbarung Neustart"
+(Thema: Buch der Offenbarung + Singularitätsprophezeiung)
 
 [Intro]
 
-[Verse 1]
-John saw the vision on Patmos isle,
-The end of days prophesied in God's style,
-But now the prophecy's getting a reboot,
-Technology fulfilling every dispute.
+[Strophe 1]
+Johannes sah die Vision auf Patmos Insel,
+Das Ende der Tage prophezeit in Gottes Stil,
+Doch jetzt bekommt die Prophezeiung einen Neustart,
+Technologie erfüllt jeden Streit.
 
-[Verse 2]
-Twenty-thirty is the singularity date,
-Kurzweil's prediction—can't wait,
-But Revelation warned two thousand years before,
-The beast system rising—that's what's in store.
+[Strophe 2]
+Zweitausenddreißig ist das Singularitätsdatum,
+Kurzweils Vorhersage – kann nicht warten,
+Doch Offenbarung warnte zweitausend Jahre zuvor,
+Das Tiersystem erhebt sich – das steht bevor.
 
-[Chorus]
-Revelations reboot playing out in real-time,
-Singularity prophecy—the final paradigm,
-What John saw in spirit, we see in flesh,
-Technology and prophecy—the perfect mesh!
+[Refrain]
+Offenbarung Neustart spielt sich in Echtzeit ab,
+Singularitätsprophezeiung – das letzte Paradigma,
+Was Johannes im Geist sah, sehen wir im Fleisch,
+Technologie und Prophezeiung – die perfekte Verschmelzung!
 
-[Verse 3]
-The image of the beast that speaks and lives,
-Artificial intelligence is what it gives,
-Fire from heaven? DEW weapons rain,
-The false prophet's power explained.
+[Strophe 3]
+Das Bild des Tieres, das spricht und lebt,
+Künstliche Intelligenz ist, was es gibt,
+Feuer vom Himmel? DEW-Waffen regnen,
+Die Macht des falschen Propheten erklärt.
 
-[Verse 4]
-No buying or selling—digital ID,
-Mark of the beast for you and me,
-One world government forming day by day,
-Revelation's reboot on display.
+[Strophe 4]
+Kein Kaufen oder Verkaufen – digitale ID,
+Malzeichen des Tieres für dich und mich,
+Eine-Welt-Regierung formt sich Tag für Tag,
+Offenbarung Neustart zur Schau gestellt.
 
-[Chorus]
-Revelations reboot playing out in real-time,
-Singularity prophecy—the final paradigm,
-What John saw in spirit, we see in flesh,
-Technology and prophecy—the perfect mesh!
+[Refrain]
+Offenbarung Neustart spielt sich in Echtzeit ab,
+Singularitätsprophezeiung – das letzte Paradigma,
+Was Johannes im Geist sah, sehen wir im Fleisch,
+Technologie und Prophezeiung – die perfekte Verschmelzung!
 
 [Bridge]
-They thought they could escape what God foretold,
-But technology just does what prophecy enrolled,
-Every verse coming true in silicon and code,
-The ancient scroll unfolding down the road!
-The Lamb was slain before the world began,
-Christ already won against the master plan,
-Let the singularity come, let AI rise,
-The King of Kings wins—no surprise!
+Sie dachten, sie könnten entkommen, was Gott voraussagte,
+Doch Technologie tut nur, was Prophezeiung einschrieb,
+Jeder Vers wird wahr in Silizium und Code,
+Die alte Schriftrolle entfaltet sich die Straße hinunter!
+Das Lamm wurde geschlachtet, bevor die Welt begann,
+Christus hat bereits gegen den Masterplan gewonnen,
+Lass die Singularität kommen, lass KI aufsteigen,
+Der König der Könige gewinnt – keine Überraschung!
 
-[Verse 5]
-Babylon falling in a single hour,
-Digital systems losing all their power,
-EMP from the sun or God's own hand,
-Either way, the beast can't stand.
+[Strophe 5]
+Babylon fällt in einer einzigen Stunde,
+Digitale Systeme verlieren all ihre Macht,
+EMP von der Sonne oder Gottes eigener Hand,
+So oder so, das Tier kann nicht bestehen.
 
-[Verse 6]
-New Jerusalem descending from above,
-No need for sun—lit by Christ's love,
-No more tech, no more lies to face,
-Revelation's final reboot—amazing grace.
+[Strophe 6]
+Neues Jerusalem steigt von oben herab,
+Keine Sonne nötig – erleuchtet von Christi Liebe,
+Keine Technologie mehr, keine Lügen mehr zu begegnen,
+Offenbarung finaler Neustart – erstaunliche Gnade.
 
-[Chorus]
-Revelations reboot playing out in real-time,
-Singularity prophecy—the final paradigm,
-What John saw in spirit, we see in flesh,
-Technology and prophecy—the perfect mesh!
+[Refrain]
+Offenbarung Neustart spielt sich in Echtzeit ab,
+Singularitätsprophezeiung – das letzte Paradigma,
+Was Johannes im Geist sah, sehen wir im Fleisch,
+Technologie und Prophezeiung – die perfekte Verschmelzung!
 
 [Outro]
-Revelations reboot—the end draws near,
-Singularity rising but there's nothing to fear,
-What John saw then is coming true today,
-But Christ returns to carry His bride away.
+Offenbarung Neustart – das Ende naht,
+Singularität erhebt sich, aber es gibt nichts zu fürchten,
+Was Johannes damals sah, wird heute wahr,
+Doch Christus kehrt zurück, um Seine Braut wegzutragen.

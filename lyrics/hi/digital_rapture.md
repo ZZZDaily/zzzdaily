@@ -1,74 +1,74 @@
-SONG 8: "Digital Rapture"
-(Theme: Christian Rapture + Digital Twin Upload)
+गीत 8: "डिजिटल रैप्चर"
+(विषय: ईसाई रैप्चर + डिजिटल ट्विन अपलोड)
 
-[Intro]
+[परिचय]
 
-[Verse 1]
-They promise eternal life in the cloud,
-Upload your consciousness—join the crowd,
-A digital heaven where you never die,
-Satan's counterfeit of the rapture in the sky.
+[पद 1]
+वे क्लाउड में अनन्त जीवन का वादा करते हैं,
+अपनी चेतना अपलोड करें—भीड़ में शामिल हों,
+एक डिजिटल स्वर्ग जहां आप कभी नहीं मरते,
+आकाश में रैप्चर की शैतान की नकली।
 
-[Verse 2]
-First Thessalonians four—caught up to meet,
-The Lord in the air—salvation complete,
-But they offer a fake version of the same,
-Digital rapture—a different name.
+[पद 2]
+पहला थिस्सलुनीकियों चार—मिलने के लिए उठाया गया,
+हवा में प्रभु—मुक्ति पूर्ण,
+लेकिन वे उसी का एक नकली संस्करण प्रदान करते हैं,
+डिजिटल रैप्चर—एक अलग नाम।
 
-[Chorus]
-Digital rapture—escape to the cloud,
-Leave your body, join the digital crowd,
-But it's not the rapture that Jesus brings,
-It's a silicon prison without any wings!
+[कोरस]
+डिजिटल रैप्चर—क्लाउड में भागो,
+अपने शरीर को छोड़ दो, डिजिटल भीड़ में शामिल हो जाओ,
+लेकिन यह वह रैप्चर नहीं है जो यीशु लाता है,
+यह बिना किसी पंख के सिलिकॉन जेल है!
 
-[Verse 3]
-Digital twins of every human alive,
-Copies in the metaverse learning to thrive,
-When your body dies, they say you'll live on,
-But your soul without Christ is forever gone.
+[पद 3]
+हर जीवित मनुष्य के डिजिटल जुड़वां,
+मेटावर्स में प्रतियां सीखने के लिए फल-फूल रही हैं,
+जब आपका शरीर मर जाता है, वे कहते हैं कि आप जीवित रहेंगे,
+लेकिन मसीह के बिना आपकी आत्मा हमेशा के लिए चली गई है।
 
-[Verse 4]
-Kurzweil dreams of living past a hundred years,
-Mind uploaded, no more death, no more tears,
-But only Jesus offers life that's true,
-Revelation twenty-one—all things new.
+[पद 4]
+कुर्ज़वील सौ साल से अधिक जीने का सपना देखते हैं,
+मन अपलोड किया गया, कोई और मृत्यु नहीं, कोई और आंसू नहीं,
+लेकिन केवल यीशु ही वह जीवन प्रदान करता है जो सच है,
+प्रकाशितवाक्य इक्कीस—सब कुछ नया।
 
-[Chorus]
-Digital rapture—escape to the cloud,
-Leave your body, join the digital crowd,
-But it's not the rapture that Jesus brings,
-It's a silicon prison without any wings!
+[कोरस]
+डिजिटल रैप्चर—क्लाउड में भागो,
+अपने शरीर को छोड़ दो, डिजिटल भीड़ में शामिल हो जाओ,
+लेकिन यह वह रैप्चर नहीं है जो यीशु लाता है,
+यह बिना किसी पंख के सिलिकॉन जेल है!
 
-[Bridge]
-In the twinkling of an eye, we shall be changed,
-Incorruptible bodies—divinely arranged,
-Not by Neuralink, not by any machine,
-But by Christ's return—the eternal King!
-Don't fall for the counterfeit eternal life,
-Satan's been a liar since Eden's strife,
-The digital rapture leaves your soul behind,
-The real rapture saves both body and mind!
+[ब्रिज]
+पलक झपकते में, हम बदल जाएंगे,
+अविनाशी शरीर—दिव्य रूप से व्यवस्थित,
+Neuralink द्वारा नहीं, किसी मशीन द्वारा नहीं,
+लेकिन मसीह की वापसी से—शाश्वत राजा!
+नकली अनन्त जीवन के लिए मत गिरो,
+शैतान ईडन के संघर्ष के बाद से झूठा रहा है,
+डिजिटल रैप्चर आपकी आत्मा को पीछे छोड़ देता है,
+असली रैप्चर शरीर और मन दोनों को बचाता है!
 
-[Verse 5]
-They want to preserve you in ones and zeros,
-Digital avatars—false heroes,
-But code can't capture what makes you whole,
-The image of God imprinted on your soul.
+[पद 5]
+वे आपको शून्य और एक में संरक्षित करना चाहते हैं,
+डिजिटल अवतार—झूठे नायक,
+लेकिन कोड कैप्चर नहीं कर सकता जो आपको पूर्ण बनाता है,
+आपकी आत्मा पर अंकित भगवान की छवि।
 
-[Verse 6]
-Second Corinthians five—absent from the body,
-Present with the Lord—not virtually shoddy,
-The cloud they offer is Amazon's server farm,
-The cloud we rise to is in Jesus' arms.
+[पद 6]
+दूसरा कुरिन्थियों पांच—शरीर से अनुपस्थित,
+प्रभु के साथ उपस्थित—वस्तुतः घटिया नहीं,
+वे जो क्लाउड प्रदान करते हैं वह अमेज़न का सर्वर फार्म है,
+हम जिस क्लाउड पर उठते हैं वह यीशु की बाहों में है।
 
-[Chorus]
-Digital rapture—escape to the cloud,
-Leave your body, join the digital crowd,
-But it's not the rapture that Jesus brings,
-It's a silicon prison without any wings!
+[कोरस]
+डिजिटल रैप्चर—क्लाउड में भागो,
+अपने शरीर को छोड़ दो, डिजिटल भीड़ में शामिल हो जाओ,
+लेकिन यह वह रैप्चर नहीं है जो यीशु लाता है,
+यह बिना किसी पंख के सिलिकॉन जेल है!
 
-[Outro]
-Digital rapture is the devil's great deceit,
-A counterfeit heaven that can't compete,
-When the trumpet sounds, the dead in Christ will rise,
-Not uploaded to servers—but meeting Him in the skies.
+[समापन]
+डिजिटल रैप्चर शैतान का महान धोखा है,
+एक नकली स्वर्ग जो प्रतिस्पर्धा नहीं कर सकता,
+जब तुरही बजती है, मसीह में मरे हुए उठेंगे,
+सर्वर पर अपलोड नहीं—बल्कि उससे आकाश में मिल रहे हैं।

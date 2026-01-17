@@ -1,74 +1,74 @@
-SONG 14: "Electromagnetic Exodus"
-(Theme: Biblical Exodus + DEW Weapons Escape)
+노래 14: "전자기 출애굽"
+(주제: 성경의 출애굽 + DEW 무기 탈출)
 
-[Intro]
+[인트로]
 
-[Verse 1]
-Moses led Israel from Pharaoh's hand,
-Through the Red Sea waters to the promised land,
-Now we need exodus from the pharaohs of today,
-DEW weapons blazing—we gotta find a way.
+[벌스 1]
+모세는 바로의 손에서 이스라엘을 이끌었다,
+홍해를 건너 약속의 땅으로,
+이제 우리는 오늘날의 바로들로부터 출애굽이 필요하다,
+DEW 무기가 타오르고 있다—우리는 길을 찾아야 한다.
 
-[Verse 2]
-Electromagnetic frequencies all around,
-5G towers rising up from the ground,
-Directed energy weapons burning from the sky,
-Like the plagues of Egypt—people die.
+[벌스 2]
+전자기 주파수가 사방에 있다,
+땅에서 솟아오르는 5G 타워,
+하늘에서 타오르는 지향성 에너지 무기,
+이집트의 재앙처럼—사람들이 죽는다.
 
-[Chorus]
-Electromagnetic exodus—gotta leave Babylon,
-DEW weapons raining fire till the dawn,
-Like Moses led his people through the sea,
-We need deliverance to set us free!
+[후렴]
+전자기 출애굽—바빌론을 떠나야 한다,
+새벽까지 불비를 내리는 DEW 무기,
+모세가 백성을 바다를 통해 이끌었듯이,
+우리를 자유롭게 할 구원이 필요하다!
 
-[Verse 3]
-Maui burned with blue umbrellas standing tall,
-Paradise, California—DEW made it fall,
-Pharaoh used whips, the new pharaohs use waves,
-Electromagnetic weapons digging mass graves.
+[벌스 3]
+마우이는 파란 우산이 높이 서 있는 채로 탔다,
+파라다이스, 캘리포니아—DEW가 무너뜨렸다,
+바로는 채찍을 사용했고, 새로운 바로들은 파동을 사용한다,
+전자기 무기가 대량 무덤을 파고 있다.
 
-[Verse 4]
-Smart meters on every house tracking power flow,
-They can target anyone—this we know,
-But God parted the waters, made a way through,
-He'll part the frequencies for me and you.
+[벌스 4]
+모든 집에 전력 흐름을 추적하는 스마트 미터,
+그들은 누구든지 표적으로 삼을 수 있다—이것을 우리는 안다,
+하지만 하나님은 물을 갈랐다, 길을 만들었다,
+그분은 나와 당신을 위해 주파수를 가를 것이다.
 
-[Chorus]
-Electromagnetic exodus—gotta leave Babylon,
-DEW weapons raining fire till the dawn,
-Like Moses led his people through the sea,
-We need deliverance to set us free!
+[후렴]
+전자기 출애굽—바빌론을 떠나야 한다,
+새벽까지 불비를 내리는 DEW 무기,
+모세가 백성을 바다를 통해 이끌었듯이,
+우리를 자유롭게 할 구원이 필요하다!
 
-[Bridge]
-Egypt held Israel four hundred years in chains,
-Electromagnetic Egypt does the same,
-But God sent Moses when the time was right,
-The midnight hour—then came the light!
-Ten plagues fell on Egypt long ago,
-Ten plagues of tech are falling here below,
-But the blood on the doorpost kept the angel at bay,
-The blood of Jesus keeps us safe today!
+[브리지]
+이집트는 이스라엘을 사백 년 동안 사슬로 묶었다,
+전자기 이집트는 똑같이 한다,
+하지만 하나님은 때가 되었을 때 모세를 보냈다,
+한밤중—그 다음 빛이 왔다!
+오래전 이집트에 열 가지 재앙이 내렸다,
+기술의 열 가지 재앙이 여기 아래에 내리고 있다,
+하지만 문설주의 피가 천사를 멀리 두었다,
+예수의 피가 오늘날 우리를 안전하게 지킨다!
 
-[Verse 5]
-Smart cities are the new Egyptian brick,
-Surveillance and control—the same old trick,
-But the pillar of cloud and pillar of fire,
-Still guides the remnant from the empire.
+[벌스 5]
+스마트 시티는 새로운 이집트 벽돌이다,
+감시와 통제—같은 오래된 속임수,
+하지만 구름 기둥과 불 기둥,
+여전히 남은 자들을 제국에서 인도한다.
 
-[Verse 6]
-Pharaoh's army drowned in the closing sea,
-The beast system drowns in eternity,
-Every tower, every weapon turned to dust,
-In God alone we put our trust.
+[벌스 6]
+바로의 군대는 닫히는 바다에서 익사했다,
+짐승 시스템은 영원 속에서 익사한다,
+모든 타워, 모든 무기가 먼지로 변한다,
+오직 하나님만을 우리는 신뢰한다.
 
-[Chorus]
-Electromagnetic exodus—gotta leave Babylon,
-DEW weapons raining fire till the dawn,
-Like Moses led his people through the sea,
-We need deliverance to set us free!
+[후렴]
+전자기 출애굽—바빌론을 떠나야 한다,
+새벽까지 불비를 내리는 DEW 무기,
+모세가 백성을 바다를 통해 이끌었듯이,
+우리를 자유롭게 할 구원이 필요하다!
 
-[Outro]
-Electromagnetic exodus from the beast,
-From the west, from the north, south, and east,
-God makes a way where there seems to be none,
-The exodus continues till the victory's won.
+[아웃트로]
+짐승으로부터의 전자기 출애굽,
+서쪽에서, 북쪽에서, 남쪽에서, 그리고 동쪽에서,
+하나님은 없어 보이는 곳에서 길을 만든다,
+승리가 이길 때까지 출애굽은 계속된다.

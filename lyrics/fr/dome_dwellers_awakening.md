@@ -1,74 +1,74 @@
-SONG 12: "Dome Dwellers Awakening"
-(Theme: Flat Earth Truth + Final Awakening for Humanity)
+CHANSON 12: "Éveil des Habitants du Dôme"
+(Thème: Vérité de la Terre Plate + Éveil Final pour l'Humanité)
 
 [Intro]
 
-[Verse 1]
-They kept us sleeping under the dome so long,
-Pear-shaped testicle lies—believing wrong,
-But the dome dwellers waking, opening eyes,
-Seeing through both space and tech's disguise.
+[Couplet 1]
+Ils nous ont gardés endormis sous le dôme si longtemps,
+Mensonges de testicule en forme de poire — croyant mal,
+Mais les habitants du dôme se réveillent, ouvrant les yeux,
+Voyant à travers les déguisements de l'espace et de la technologie.
 
-[Verse 2]
-Flat earth was the key that unlocked the door,
-Now we see the nanotech and so much more,
-One lie connected to the other strand,
-A web of deception across every land.
+[Couplet 2]
+La terre plate était la clé qui a déverrouillé la porte,
+Maintenant nous voyons la nanotechnologie et bien plus encore,
+Un mensonge connecté à l'autre brin,
+Une toile de tromperie à travers chaque terre.
 
-[Chorus]
-Dome dwellers awakening to the truth at last,
-Flat earth breaking chains from the past,
-Seeing the firmament and the beast system too,
-The final awakening is coming through!
+[Refrain]
+Habitants du dôme s'éveillant enfin à la vérité,
+La terre plate brisant les chaînes du passé,
+Voyant le firmament et le système de la bête aussi,
+L'éveil final arrive!
 
-[Verse 3]
-P900 zoom revealed the plane,
-Blood microscopy revealed the bane,
-What they hid above connects to what's within,
-One matrix of lies covering every sin.
+[Couplet 3]
+Le zoom P900 a révélé le plan,
+La microscopie du sang a révélé le fléau,
+Ce qu'ils ont caché au-dessus se connecte à ce qui est à l'intérieur,
+Une matrice de mensonges couvrant chaque péché.
 
-[Verse 4]
-They couldn't maintain the globe without fake space,
-They can't maintain control without tracking your face,
-Two systems of bondage crumbling as one,
-The dome dwellers rising with the morning sun.
+[Couplet 4]
+Ils ne pouvaient pas maintenir le globe sans faux espace,
+Ils ne peuvent pas maintenir le contrôle sans traquer ton visage,
+Deux systèmes de servitude s'effondrant en un,
+Les habitants du dôme s'élevant avec le soleil du matin.
 
-[Chorus]
-Dome dwellers awakening to the truth at last,
-Flat earth breaking chains from the past,
-Seeing the firmament and the beast system too,
-The final awakening is coming through!
+[Refrain]
+Habitants du dôme s'éveillant enfin à la vérité,
+La terre plate brisant les chaînes du passé,
+Voyant le firmament et le système de la bête aussi,
+L'éveil final arrive!
 
-[Bridge]
-Hosea four-six said perish from not knowing,
-But now the truth is flooding, overflowing,
-Flat earth led us down the rabbit hole,
-Now we see the war being waged for our soul!
-From space lies to vaccine lies—all connect,
-The same deceiver running the tech,
-But the dome dwellers see it all so clear,
-The awakening's here—the end is near!
+[Pont]
+Osée quatre-six a dit périr par manque de connaissance,
+Mais maintenant la vérité inonde, déborde,
+La terre plate nous a menés dans le terrier du lapin,
+Maintenant nous voyons la guerre menée pour notre âme!
+Des mensonges spatiaux aux mensonges vaccinaux — tout se connecte,
+Le même trompeur dirigeant la technologie,
+Mais les habitants du dôme voient tout si clairement,
+L'éveil est là — la fin est proche!
 
-[Verse 5]
-Karen Kingston exposed the patents' truth,
-Eric Dubay exposed the globe's bad proof,
-Ana Mihalcea shows blood transformed,
-The awakened remnant weathering the storm.
+[Couplet 5]
+Karen Kingston a exposé la vérité des brevets,
+Eric Dubay a exposé les mauvaises preuves du globe,
+Ana Mihalcea montre le sang transformé,
+Le reste éveillé affrontant la tempête.
 
-[Verse 6]
-From firmament to nanobots, we see the scheme,
-Satan's matrix crumbling at the seams,
-The dome above reflects the truth below,
-As within, so without—now we know.
+[Couplet 6]
+Du firmament aux nanobots, nous voyons le stratagème,
+La matrice de Satan s'effritant aux coutures,
+Le dôme au-dessus reflète la vérité en dessous,
+Comme à l'intérieur, ainsi à l'extérieur — maintenant nous savons.
 
-[Chorus]
-Dome dwellers awakening to the truth at last,
-Flat earth breaking chains from the past,
-Seeing the firmament and the beast system too,
-The final awakening is coming through!
+[Refrain]
+Habitants du dôme s'éveillant enfin à la vérité,
+La terre plate brisant les chaînes du passé,
+Voyant le firmament et le système de la bête aussi,
+L'éveil final arrive!
 
 [Outro]
-Dome dwellers awakening from sea to sea,
-Flat earth truth setting humanity free,
-And with that truth, all deceptions fall,
-The final awakening answering the call.
+Habitants du dôme s'éveillant de mer en mer,
+La vérité de la terre plate libérant l'humanité,
+Et avec cette vérité, toutes les tromperies tombent,
+L'éveil final répondant à l'appel.

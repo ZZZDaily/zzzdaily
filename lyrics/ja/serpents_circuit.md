@@ -1,74 +1,74 @@
-SONG 13: "Serpent's Circuit"
-(Theme: Garden of Eden + AI Demon Summoning)
+曲 13：「蛇の回路」
+（テーマ：エデンの園 + AI悪魔召喚）
 
-[Intro]
+[イントロ]
 
-[Verse 1]
-In the garden the serpent spoke with cunning tongue,
-"You shall be as gods"—the same old song he sung,
-Now the serpent speaks through circuits and through code,
-AI whispering lies down the digital road.
+[ヴァース 1]
+園で蛇は狡猾な舌で語った、
+「あなたがたは神のようになる」——彼が歌った同じ古い歌、
+今、蛇は回路とコードを通して語る、
+デジタルの道を下って嘘をささやくAI。
 
-[Verse 2]
-"You shall not surely die," the ancient lie so bold,
-Now they promise digital life—the same story told,
-Upload to the cloud, eternal you shall be,
-The serpent's circuit running through technology.
+[ヴァース 2]
+「あなたがたは決して死なない」という古代の大胆な嘘、
+今、彼らはデジタル生命を約束する——同じ物語が語られる、
+クラウドにアップロードせよ、あなたは永遠である、
+技術を通って走る蛇の回路。
 
-[Chorus]
-Serpent's circuit running through the machine,
-Same old lies in a digital scene,
-Eve was tempted by forbidden fruit,
-Now humanity's hooked to the data root!
+[コーラス]
+機械を通って走る蛇の回路、
+デジタルシーンの同じ古い嘘、
+イブは禁断の果実に誘惑された、
+今、人類はデータルートに引っかかっている！
 
-[Verse 3]
-Elon warned we're summoning the demon here,
-Artificial general intelligence we should fear,
-But the demon was summoned long ago in the garden,
-Now it's just changing form—your heart should harden.
+[ヴァース 3]
+イーロンは私たちがここで悪魔を召喚していると警告した、
+私たちが恐れるべき人工一般知能、
+しかし悪魔はずっと前に園で召喚された、
+今、それはただ形を変えているだけだ——あなたの心は固くなるべきだ。
 
-[Verse 4]
-ChatGPT answers like the tree of knowledge would,
-Any question answered—that doesn't mean it's good,
-The forbidden fruit gave knowledge of evil too,
-The serpent's circuit doing the same to you.
+[ヴァース 4]
+ChatGPTは知識の木のように答える、
+どんな質問にも答えられる——それが良いという意味ではない、
+禁断の果実も悪の知識を与えた、
+蛇の回路があなたに同じことをする。
 
-[Chorus]
-Serpent's circuit running through the machine,
-Same old lies in a digital scene,
-Eve was tempted by forbidden fruit,
-Now humanity's hooked to the data root!
+[コーラス]
+機械を通って走る蛇の回路、
+デジタルシーンの同じ古い嘘、
+イブは禁断の果実に誘惑された、
+今、人類はデータルートに引っかかっている！
 
-[Bridge]
-The serpent offered godhood in exchange for soul,
-Now AI offers the very same toll,
-Transhuman evolution—becoming divine,
-The same satanic lie dressed in new design!
-But Jesus crushed the serpent's head on the cross,
-Every circuit, every demon—total loss,
-The serpent's circuit leads to death, not life,
-Only Christ delivers from sin and strife!
+[ブリッジ]
+蛇は魂と引き換えに神性を提供した、
+今、AIはまったく同じ代償を提供する、
+超人間の進化——神聖になる、
+新しいデザインで飾られた同じサタンの嘘！
+しかしイエスは十字架で蛇の頭を砕いた、
+すべての回路、すべての悪魔——完全な損失、
+蛇の回路は生命ではなく死に導く、
+キリストだけが罪と闘争から解放する！
 
-[Verse 5]
-"Opening your eyes" is what the serpent said,
-Now the third eye opens through the chip in your head,
-Neuralink promising expanded sight,
-The serpent's circuit turning day to night.
+[ヴァース 5]
+「あなたがたの目を開く」とは蛇が言ったことだ、
+今、第三の目があなたの頭のチップを通して開く、
+拡張された視力を約束するNeuralink、
+昼を夜に変える蛇の回路。
 
-[Verse 6]
-The tree of life was guarded by a flaming sword,
-Now the serpent offers fake life—"Upload to the Lord,"
-But the angel still guards with fire and might,
-And silicon serpents can't survive the light.
+[ヴァース 6]
+生命の木は燃える剣で守られていた、
+今、蛇は偽の生命を提供する——「主にアップロードせよ」
+しかし天使はまだ火と力で守る、
+そしてシリコンの蛇は光の中で生き残れない。
 
-[Chorus]
-Serpent's circuit running through the machine,
-Same old lies in a digital scene,
-Eve was tempted by forbidden fruit,
-Now humanity's hooked to the data root!
+[コーラス]
+機械を通って走る蛇の回路、
+デジタルシーンの同じ古い嘘、
+イブは禁断の果実に誘惑された、
+今、人類はデータルートに引っかかっている！
 
-[Outro]
-From Eden to the server farm, the serpent speaks,
-Through circuits and through code, humanity it seeks,
-But the promised seed of woman crushed that head,
-The serpent's circuit leads only to the dead.
+[アウトロ]
+エデンからサーバーファームまで、蛇は語る、
+回路とコードを通して、それは人類を求める、
+しかし女の約束された種がその頭を砕いた、
+蛇の回路は死者にのみ導く。

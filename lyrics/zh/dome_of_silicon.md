@@ -1,74 +1,74 @@
-SONG 1: "硅穹顶"
-(Theme: Flat Earth Firmament + AI Digital Prison)
+歌曲 1："硅穹顶"
+（主题：平面地球穹苍 + 人工智能数字监狱）
 
-[Intro]
+[前奏]
 
-[Verse 1]
-They built a prison underneath the dome,
-Silicon valleys where the demons roam,
-Firmament above us solid as steel,
-But they've built another one—digital and real.
+[主歌 1]
+他们在穹顶下建造了监狱，
+恶魔漫游的硅谷，
+我们上方的穹苍坚如钢铁，
+但他们建造了另一个——数字和真实。
 
-[Verse 2]
-Genesis tells us waters above the sky,
-Now they're drowning us in data, algorithm lies,
-God's ceiling keeps the waters held at bay,
-Their ceiling keeps the truth locked away.
+[主歌 2]
+创世记告诉我们天上有水，
+现在他们用数据淹没我们，算法谎言，
+上帝的天花板把水挡在外面，
+他们的天花板把真相锁起来。
 
-[Chorus]
-Dome of silicon, dome of glass,
-Two prisons built to hold the mass,
-One made by God to protect His creation,
-One made by man for our digital damnation!
+[副歌]
+硅穹顶，玻璃穹顶，
+两座监狱建成控制大众，
+一个由上帝制造保护祂的创造，
+一个由人类制造为我们的数字诅咒！
 
-[Verse 3]
-They couldn't break through the firmament wall,
-So they built the metaverse to trap us all,
-"Space is fake" so they made cyberspace,
-Another false reality shoved in your face.
+[主歌 3]
+他们无法突破穹苍之墙，
+所以他们建造元宇宙来困住我们所有人，
+"太空是假的"所以他们制造了网络空间，
+另一个虚假现实塞进你脸上。
 
-[Verse 4]
-Elon says we might be in a simulation,
-Preparing your mind for the great migration,
-Upload your soul to the cloud they say,
-While the real dome above keeps heaven at bay.
+[主歌 4]
+伊隆说我们可能在模拟中，
+为你的思想准备大迁移，
+他们说把你的灵魂上传到云端，
+而上面真正的穹顶把天堂挡在外面。
 
-[Chorus]
-Dome of silicon, dome of glass,
-Two prisons built to hold the mass,
-One made by God to protect His creation,
-One made by man for our digital damnation!
+[副歌]
+硅穹顶，玻璃穹顶，
+两座监狱建成控制大众，
+一个由上帝制造保护祂的创造，
+一个由人类制造为我们的数字诅咒！
 
-[Bridge]
-The firmament holds—they cannot breach,
-So digital heavens is what they preach,
-Transhumanism is their tower of lies,
-Building to God but they can't reach the skies!
-Babel fell and so will this,
-Silicon dreams turn to the abyss,
-Christ is the door, the only way through,
-Not fiber optics—the Gospel is true!
+[桥段]
+穹苍坚守——他们无法突破，
+所以数字天堂是他们宣扬的，
+超人类主义是他们的谎言之塔，
+建向上帝但他们无法触及天空！
+巴别塔倒塌了，这个也会，
+硅梦想变成深渊，
+基督是门，唯一的道路，
+不是光纤——福音是真的！
 
-[Verse 5]
-P900 zoom shows no curve below,
-But the algorithm curves what you're allowed to know,
-Flat earth truth gets shadow banned quick,
-While they push the pear-shaped testicle trick.
+[主歌 5]
+P900变焦显示下面没有曲线，
+但算法弯曲你被允许知道的，
+平面地球真相很快被影子禁止，
+而他们推动梨形睾丸把戏。
 
-[Verse 6]
-Smart dust falls from towers not stars,
-The firmament holds, can't escape to Mars,
-So they trap you in VR, AR, AI,
-Another dome of silicon—do or die.
+[主歌 6]
+智能尘埃从塔而非星星落下，
+穹苍坚守，无法逃到火星，
+所以他们用VR、AR、AI困住你，
+另一个硅穹顶——生死抉择。
 
-[Chorus]
-Dome of silicon, dome of glass,
-Two prisons built to hold the mass,
-One made by God to protect His creation,
-One made by man for our digital damnation!
+[副歌]
+硅穹顶，玻璃穹顶，
+两座监狱建成控制大众，
+一个由上帝制造保护祂的创造，
+一个由人类制造为我们的数字诅咒！
 
-[Outro]
-Two domes standing—one by God, one by man,
-Only one will hold according to the plan,
-Silicon crumbles when the Father calls,
-But the firmament stands while Babylon falls.
+[尾奏]
+两个穹顶矗立——一个由上帝，一个由人，
+只有一个会按计划保持，
+当天父呼唤时硅崩溃，
+但当巴比伦倒塌时穹苍屹立。

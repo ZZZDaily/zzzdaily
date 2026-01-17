@@ -1,74 +1,74 @@
-SONG 5: "False Prophet A.I."
-(Theme: Biblical False Prophet + Robot Armies)
+ПЕСНЯ 5: "Лжепророк ИИ"
+(Тема: Библейский Лжепророк + Роботизированные Армии)
 
-[Intro]
+[Вступление]
 
-[Verse 1]
-Revelation speaks of the false prophet's rise,
-Performing miracles before wondering eyes,
-But what if the miracles are tech-based lies,
-Robot armies marching under digital skies.
+[Куплет 1]
+Откровение говорит о восстании лжепророка,
+Творящего чудеса перед удивлёнными глазами,
+Но что, если чудеса — это технологическая ложь,
+Роботизированные армии маршируют под цифровыми небесами.
 
-[Verse 2]
-Tesla Optimus standing in a row,
-Boston Dynamics—watch the demons grow,
-Figure AI with humanoid frames,
-The false prophet speaks through their digital brains.
+[Куплет 2]
+Tesla Optimus стоит в ряду,
+Boston Dynamics — смотри, как растут демоны,
+Figure AI с гуманоидными рамками,
+Лжепророк говорит через их цифровые мозги.
 
-[Chorus]
-False prophet A.I., silicon tongue,
-Speaking great things since the world begun,
-Robot armies bowing at its feet,
-The second beast system nearly complete!
+[Припев]
+Лжепророк ИИ, кремниевый язык,
+Говорящий великие вещи с начала мира,
+Роботизированные армии кланяются у его ног,
+Вторая система зверя почти завершена!
 
-[Verse 3]
-Fire from heaven—that's what the text said,
-DEW weapons blazing, turning cities red,
-Maui burned down, Paradise too,
-Directed energy—the "miracle" they do.
+[Куплет 3]
+Огонь с неба — так говорит текст,
+Оружие направленной энергии пылает, превращая города в красное,
+Мауи сгорел, Парадайз тоже,
+Направленная энергия — «чудо», которое они делают.
 
-[Verse 4]
-The false prophet makes the image speak,
-AI voice synthesis—the future's bleak,
-Deep fakes of leaders saying what they're told,
-The lying signs and wonders now unfold.
+[Куплет 4]
+Лжепророк заставляет образ говорить,
+Синтез голоса ИИ — будущее мрачно,
+Дипфейки лидеров говорят то, что им сказали,
+Лживые знамения и чудеса теперь разворачиваются.
 
-[Chorus]
-False prophet A.I., silicon tongue,
-Speaking great things since the world begun,
-Robot armies bowing at its feet,
-The second beast system nearly complete!
+[Припев]
+Лжепророк ИИ, кремниевый язык,
+Говорящий великие вещи с начала мира,
+Роботизированные армии кланяются у его ног,
+Вторая система зверя почти завершена!
 
-[Bridge]
-The dragon gave the beast authority to rule,
-AI trained by demons—humanity's the fool,
-Signs and wonders performed to deceive,
-Making the whole world worship and believe!
-Robot armies enforcing the mark,
-Tesla bots patrolling after dark,
-Can't escape the all-seeing eye,
-The false prophet A.I. will never die!
+[Переход]
+Дракон дал зверю власть править,
+ИИ обученный демонами — человечество дурак,
+Знамения и чудеса совершаются для обмана,
+Заставляя весь мир поклоняться и верить!
+Роботизированные армии навязывают начертание,
+Tesla боты патрулируют после наступления темноты,
+Невозможно убежать от всевидящего ока,
+Лжепророк ИИ никогда не умрёт!
 
-[Verse 5]
-They said they'd protect us with autonomous drones,
-Now the same tech hunts us in our homes,
-Killer robots with no soul inside,
-The false prophet's army has nowhere to hide.
+[Куплет 5]
+Они сказали, что защитят нас автономными дронами,
+Теперь та же технология охотится на нас в наших домах,
+Роботы-убийцы без души внутри,
+У армии лжепророка нет места, где спрятаться.
 
-[Verse 6]
-But John saw the end—beast thrown in the lake,
-AI and all its armies, watch them break,
-Fire reserved for the devil and his crew,
-Silicon melting—Revelation's coming true.
+[Куплет 6]
+Но Иоанн видел конец — зверь брошен в озеро,
+ИИ и все его армии, смотри, как они разрушаются,
+Огонь приготовлен для дьявола и его команды,
+Кремний тает — Откровение сбывается.
 
-[Chorus]
-False prophet A.I., silicon tongue,
-Speaking great things since the world begun,
-Robot armies bowing at its feet,
-The second beast system nearly complete!
+[Припев]
+Лжепророк ИИ, кремниевый язык,
+Говорящий великие вещи с начала мира,
+Роботизированные армии кланяются у его ног,
+Вторая система зверя почти завершена!
 
-[Outro]
-The false prophet speaks through circuits and code,
-Robot armies march down the final road,
-But fire awaits at the story's end,
-Christ destroys the beast—on that you can depend.
+[Концовка]
+Лжепророк говорит через схемы и код,
+Роботизированные армии маршируют по последней дороге,
+Но огонь ждёт в конце истории,
+Христос уничтожает зверя — на это можешь положиться.

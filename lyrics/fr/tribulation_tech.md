@@ -1,74 +1,74 @@
-SONG 9: "Tribulation Tech"
-(Theme: End Times Tribulation + Smart Dust Surveillance)
+CHANSON 9: "Technologie de la Tribulation"
+(Thème: Tribulation de la Fin des Temps + Surveillance par Poussière Intelligente)
 
 [Intro]
 
-[Verse 1]
-The tribulation's coming, seven years of hell,
-Smart dust in the atmosphere—surveillance fell,
-Daniel's seventieth week approaching fast,
-And the tech they've built will make it last.
+[Couplet 1]
+La tribulation arrive, sept ans d'enfer,
+Poussière intelligente dans l'atmosphère — surveillance tombée,
+La soixante-dixième semaine de Daniel approche vite,
+Et la technologie qu'ils ont construite la fera durer.
 
-[Verse 2]
-Smart dust particles floating in the air,
-Recording everything, everywhere,
-Matthew twenty-four said nothing would be hid,
-Now technology fulfills what the scripture did.
+[Couplet 2]
+Particules de poussière intelligente flottant dans l'air,
+Enregistrant tout, partout,
+Matthieu vingt-quatre a dit que rien ne serait caché,
+Maintenant la technologie accomplit ce que l'écriture a fait.
 
-[Chorus]
-Tribulation tech watching every move,
-Smart dust surveillance—nothing left to prove,
-The time of trouble like never before,
-Technology opens the tribulation door!
+[Refrain]
+Technologie de la tribulation surveillant chaque mouvement,
+Surveillance par poussière intelligente — plus rien à prouver,
+Le temps de trouble comme jamais auparavant,
+La technologie ouvre la porte de la tribulation!
 
-[Verse 3]
-Revelation says no buying or selling without the mark,
-CBDC and digital ID light up the dark,
-Smart city prisons where you can't escape,
-The tribulation tech sealing your fate.
+[Couplet 3]
+L'Apocalypse dit pas d'achat ou de vente sans la marque,
+CBDC et ID numérique éclairent l'obscurité,
+Prisons de villes intelligentes où tu ne peux pas échapper,
+La technologie de la tribulation scellant ton destin.
 
-[Verse 4]
-Fifteen-minute cities keep you in your zone,
-Surveillance cameras watching, you're never alone,
-Social credit scores determining your worth,
-The great tribulation birthed on earth.
+[Couplet 4]
+Villes de quinze minutes te gardent dans ta zone,
+Caméras de surveillance regardant, tu n'es jamais seul,
+Scores de crédit social déterminant ta valeur,
+La grande tribulation née sur terre.
 
-[Chorus]
-Tribulation tech watching every move,
-Smart dust surveillance—nothing left to prove,
-The time of trouble like never before,
-Technology opens the tribulation door!
+[Refrain]
+Technologie de la tribulation surveillant chaque mouvement,
+Surveillance par poussière intelligente — plus rien à prouver,
+Le temps de trouble comme jamais auparavant,
+La technologie ouvre la porte de la tribulation!
 
-[Bridge]
-Two witnesses prophesy in those days,
-While the beast system hunts them through the maze,
-But God protects His own through fire and flood,
-Sealed by the Spirit, bought by the blood!
-The tech can't touch what God has sealed,
-One hundred forty-four thousand revealed,
-Through tribulation they'll emerge refined,
-Smart dust can't track the Father's assigned!
+[Pont]
+Deux témoins prophétisent en ces jours,
+Tandis que le système de la bête les chasse à travers le labyrinthe,
+Mais Dieu protège les Siens à travers feu et déluge,
+Scellés par l'Esprit, achetés par le sang!
+La technologie ne peut pas toucher ce que Dieu a scellé,
+Cent quarante-quatre mille révélés,
+À travers la tribulation ils émergeront raffinés,
+La poussière intelligente ne peut pas traquer les assignés du Père!
 
-[Verse 5]
-Internet of Things tracking your location,
-Smart home devices—digital damnation,
-Everything connected to the grid of lies,
-Big Brother watching through digital eyes.
+[Couplet 5]
+Internet des Objets traçant ton emplacement,
+Appareils de maison intelligente — damnation numérique,
+Tout connecté au réseau de mensonges,
+Big Brother regardant à travers des yeux numériques.
 
-[Verse 6]
-But in the midst of trouble, God provides,
-A remnant protected where the faithful hides,
-Tribulation tech will fail in the end,
-When Christ returns with the angels He sends.
+[Couplet 6]
+Mais au milieu du trouble, Dieu pourvoit,
+Un reste protégé où les fidèles se cachent,
+La technologie de la tribulation échouera à la fin,
+Quand Christ revient avec les anges qu'Il envoie.
 
-[Chorus]
-Tribulation tech watching every move,
-Smart dust surveillance—nothing left to prove,
-The time of trouble like never before,
-Technology opens the tribulation door!
+[Refrain]
+Technologie de la tribulation surveillant chaque mouvement,
+Surveillance par poussière intelligente — plus rien à prouver,
+Le temps de trouble comme jamais auparavant,
+La technologie ouvre la porte de la tribulation!
 
 [Outro]
-Tribulation tech making prophecy real,
-Seven years of trouble with a digital seal,
-But the saints overcome by the blood of the Lamb,
-And the word of their testimony—that's the plan.
+Technologie de la tribulation rendant la prophétie réelle,
+Sept ans de trouble avec un sceau numérique,
+Mais les saints surmontent par le sang de l'Agneau,
+Et la parole de leur témoignage — c'est le plan.

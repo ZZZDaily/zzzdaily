@@ -1,74 +1,74 @@
-SONG 7: "Nephilim Nanobots"
-(Theme: Biblical Giants + Transhumanist Enhancement)
+أغنية 7: "نانوبوتات النفيليم"
+(الموضوع: العمالقة الكتابيون + التعزيز الترانسيوماني)
 
-[Intro]
+[المقدمة]
 
-[Verse 1]
-Genesis six—the sons of God came down,
-Took daughters of men from every town,
-Nephilim giants—corrupted DNA,
-Now they're doing the same thing in a different way.
+[الكوبليه 1]
+سفر التكوين ستة - أبناء الله نزلوا،
+أخذوا بنات الناس من كل بلدة،
+عمالقة النفيليم - الحمض النووي الفاسد،
+الآن يفعلون نفس الشيء بطريقة مختلفة.
 
-[Verse 2]
-Nanobots rewriting your genetic code,
-Transhumanist enhancement down the road,
-CRISPR and mRNA changing who you are,
-Nephilim technology from a distant star.
+[الكوبليه 2]
+نانوبوتات تعيد كتابة شفرتك الجينية،
+تعزيز ترانسيوماني في المستقبل،
+CRISPR و mRNA يغيران من أنت،
+تكنولوجيا النفيليم من نجم بعيد.
 
-[Chorus]
-Nephilim nanobots swimming in your blood,
-Corrupting human DNA like the ancient flood,
-Giants walked the earth in days of old,
-Now synthetic beings emerge—souls bought and sold!
+[اللازمة]
+نانوبوتات النفيليم تسبح في دمك،
+تفسد الحمض النووي البشري مثل الطوفان القديم،
+العمالقة ساروا على الأرض في أيام قديمة،
+الآن كائنات اصطناعية تظهر - أرواح مشتراة ومباعة!
 
-[Verse 3]
-"As in the days of Noah," Jesus said,
-Genetic manipulation—humanity misled,
-The fallen angels tried to corrupt the seed,
-Now nanobots finish what demons decreed.
+[الكوبليه 3]
+"كما في أيام نوح،" قال يسوع،
+التلاعب الجيني - البشرية مضللة،
+الملائكة الساقطون حاولوا إفساد النسل،
+الآن النانوبوتات تنهي ما قررته الشياطين.
 
-[Verse 4]
-Super soldiers rising, enhanced and tall,
-DARPA programs answering the call,
-Human 2.0 they want to create,
-Nephilim reborn—a corrupted state.
+[الكوبليه 4]
+جنود خارقون يرتفعون، معززون وطوال،
+برامج DARPA تجيب على النداء،
+الإنسان 2.0 يريدون أن يخلقوا،
+النفيليم يولدون من جديد - حالة فاسدة.
 
-[Chorus]
-Nephilim nanobots swimming in your blood,
-Corrupting human DNA like the ancient flood,
-Giants walked the earth in days of old,
-Now synthetic beings emerge—souls bought and sold!
+[اللازمة]
+نانوبوتات النفيليم تسبح في دمك،
+تفسد الحمض النووي البشري مثل الطوفان القديم،
+العمالقة ساروا على الأرض في أيام قديمة،
+الآن كائنات اصطناعية تظهر - أرواح مشتراة ومباعة!
 
-[Bridge]
-God sent the flood to wipe the slate clean,
-Nephilim destroyed—no more to be seen,
-But the enemy returns with technology new,
-Corrupting the bloodline all over—round two!
-But fire this time, not water to come,
-The judge of all earth won't be outdone,
-Nephilim nanobots will burn in the flame,
-Christ returns victorious—forever the same!
+[الجسر]
+الله أرسل الطوفان لمسح اللوح نظيفًا،
+النفيليم دُمروا - لم يعد يُرى،
+لكن العدو يعود بتكنولوجيا جديدة،
+يفسد سلالة الدم من جديد - الجولة الثانية!
+لكن النار هذه المرة، وليس الماء القادم،
+قاضي كل الأرض لن يُغلب،
+نانوبوتات النفيليم ستحترق في اللهب،
+المسيح يعود منتصرًا - إلى الأبد نفسه!
 
-[Verse 5]
-They call it evolution, call it progress too,
-But it's Genesis six happening to me and you,
-Mixing iron and clay, Daniel saw it clear,
-The final kingdom where Nephilim appear.
+[الكوبليه 5]
+يسمونها تطورًا، يسمونها تقدمًا أيضًا،
+لكنها سفر التكوين ستة يحدث لي ولك،
+خلط الحديد والطين، دانيال رأى بوضوح،
+المملكة الأخيرة حيث يظهر النفيليم.
 
-[Verse 6]
-Your body is a temple, Paul said it true,
-Now they're desecrating it with nanotech through,
-But the pure in blood who refuse the mark,
-Will shine like stars even in the dark.
+[الكوبليه 6]
+جسدك هيكل، قال بولس الحقيقة،
+الآن يدنسونه بالنانوتكنولوجي،
+لكن النقيون في الدم الذين يرفضون العلامة،
+سيشرقون مثل النجوم حتى في الظلام.
 
-[Chorus]
-Nephilim nanobots swimming in your blood,
-Corrupting human DNA like the ancient flood,
-Giants walked the earth in days of old,
-Now synthetic beings emerge—souls bought and sold!
+[اللازمة]
+نانوبوتات النفيليم تسبح في دمك،
+تفسد الحمض النووي البشري مثل الطوفان القديم،
+العمالقة ساروا على الأرض في أيام قديمة،
+الآن كائنات اصطناعية تظهر - أرواح مشتراة ومباعة!
 
-[Outro]
-Nephilim walked and Nephilim fell,
-Their nanobot children will meet the same hell,
-What God destroyed once, He'll destroy again,
-The pure bloodline of Christ will remain—Amen.
+[الخاتمة]
+النفيليم ساروا والنفيليم سقطوا،
+أطفالهم النانوبوتات سيلاقون نفس الجحيم،
+ما دمره الله مرة، سيدمره مرة أخرى،
+سلالة الدم النقية للمسيح ستبقى - آمين.

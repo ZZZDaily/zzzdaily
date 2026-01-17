@@ -1,74 +1,74 @@
-SONG 9: "Tribulation Tech"
-(Theme: End Times Tribulation + Smart Dust Surveillance)
+गीत 9: "क्लेश तकनीक"
+(विषय: अंत समय का क्लेश + स्मार्ट डस्ट निगरानी)
 
-[Intro]
+[परिचय]
 
-[Verse 1]
-The tribulation's coming, seven years of hell,
-Smart dust in the atmosphere—surveillance fell,
-Daniel's seventieth week approaching fast,
-And the tech they've built will make it last.
+[पद 1]
+क्लेश आ रहा है, सात साल का नरक,
+वायुमंडल में स्मार्ट धूल—निगरानी गिर गई,
+दानिय्येल का सत्तरवां सप्ताह तेजी से आ रहा है,
+और जो तकनीक उन्होंने बनाई है वह इसे बनाए रखेगी।
 
-[Verse 2]
-Smart dust particles floating in the air,
-Recording everything, everywhere,
-Matthew twenty-four said nothing would be hid,
-Now technology fulfills what the scripture did.
+[पद 2]
+स्मार्ट धूल के कण हवा में तैर रहे हैं,
+सब कुछ रिकॉर्ड कर रहे हैं, हर जगह,
+मत्ती चौबीस ने कहा कि कुछ भी छिपाया नहीं जाएगा,
+अब प्रौद्योगिकी पूरी करती है जो धर्मग्रंथ ने किया।
 
-[Chorus]
-Tribulation tech watching every move,
-Smart dust surveillance—nothing left to prove,
-The time of trouble like never before,
-Technology opens the tribulation door!
+[कोरस]
+क्लेश तकनीक हर कदम देख रही है,
+स्मार्ट डस्ट निगरानी—साबित करने के लिए कुछ भी नहीं बचा,
+पहले कभी नहीं जैसा संकट का समय,
+प्रौद्योगिकी क्लेश का दरवाजा खोलती है!
 
-[Verse 3]
-Revelation says no buying or selling without the mark,
-CBDC and digital ID light up the dark,
-Smart city prisons where you can't escape,
-The tribulation tech sealing your fate.
+[पद 3]
+प्रकाशितवाक्य कहता है कि चिह्न के बिना कोई खरीद या बिक्री नहीं,
+CBDC और डिजिटल आईडी अंधेरे को रोशन करते हैं,
+स्मार्ट शहर जेल जहां आप भाग नहीं सकते,
+क्लेश तकनीक आपके भाग्य को सील कर रही है।
 
-[Verse 4]
-Fifteen-minute cities keep you in your zone,
-Surveillance cameras watching, you're never alone,
-Social credit scores determining your worth,
-The great tribulation birthed on earth.
+[पद 4]
+पंद्रह मिनट के शहर आपको आपके क्षेत्र में रखते हैं,
+निगरानी कैमरे देख रहे हैं, आप कभी अकेले नहीं हैं,
+सामाजिक क्रेडिट स्कोर आपके मूल्य को निर्धारित करते हैं,
+महान क्लेश पृथ्वी पर जन्मा।
 
-[Chorus]
-Tribulation tech watching every move,
-Smart dust surveillance—nothing left to prove,
-The time of trouble like never before,
-Technology opens the tribulation door!
+[कोरस]
+क्लेश तकनीक हर कदम देख रही है,
+स्मार्ट डस्ट निगरानी—साबित करने के लिए कुछ भी नहीं बचा,
+पहले कभी नहीं जैसा संकट का समय,
+प्रौद्योगिकी क्लेश का दरवाजा खोलती है!
 
-[Bridge]
-Two witnesses prophesy in those days,
-While the beast system hunts them through the maze,
-But God protects His own through fire and flood,
-Sealed by the Spirit, bought by the blood!
-The tech can't touch what God has sealed,
-One hundred forty-four thousand revealed,
-Through tribulation they'll emerge refined,
-Smart dust can't track the Father's assigned!
+[ब्रिज]
+दो गवाह उन दिनों में भविष्यवाणी करते हैं,
+जबकि पशु प्रणाली उन्हें भूलभुलैया के माध्यम से शिकार करती है,
+लेकिन भगवान अपने लोगों को आग और बाढ़ के माध्यम से बचाता है,
+आत्मा द्वारा मुहरबंद, खून से खरीदा गया!
+तकनीक उसे छू नहीं सकती जिसे भगवान ने मुहरबंद किया है,
+एक लाख चौवालीस हजार प्रकट हुए,
+क्लेश के माध्यम से वे परिष्कृत होकर उभरेंगे,
+स्मार्ट धूल पिता के नियुक्त को ट्रैक नहीं कर सकती!
 
-[Verse 5]
-Internet of Things tracking your location,
-Smart home devices—digital damnation,
-Everything connected to the grid of lies,
-Big Brother watching through digital eyes.
+[पद 5]
+इंटरनेट ऑफ थिंग्स आपके स्थान को ट्रैक कर रहा है,
+स्मार्ट होम डिवाइस—डिजिटल अभिशाप,
+झूठ के ग्रिड से जुड़ा सब कुछ,
+बिग ब्रदर डिजिटल आंखों के माध्यम से देख रहा है।
 
-[Verse 6]
-But in the midst of trouble, God provides,
-A remnant protected where the faithful hides,
-Tribulation tech will fail in the end,
-When Christ returns with the angels He sends.
+[पद 6]
+लेकिन संकट के बीच में, भगवान प्रदान करता है,
+एक अवशेष सुरक्षित जहां वफादार छिपता है,
+क्लेश तकनीक अंत में विफल हो जाएगी,
+जब मसीह स्वर्गदूतों के साथ लौटता है जिन्हें वह भेजता है।
 
-[Chorus]
-Tribulation tech watching every move,
-Smart dust surveillance—nothing left to prove,
-The time of trouble like never before,
-Technology opens the tribulation door!
+[कोरस]
+क्लेश तकनीक हर कदम देख रही है,
+स्मार्ट डस्ट निगरानी—साबित करने के लिए कुछ भी नहीं बचा,
+पहले कभी नहीं जैसा संकट का समय,
+प्रौद्योगिकी क्लेश का दरवाजा खोलती है!
 
-[Outro]
-Tribulation tech making prophecy real,
-Seven years of trouble with a digital seal,
-But the saints overcome by the blood of the Lamb,
-And the word of their testimony—that's the plan.
+[समापन]
+क्लेश तकनीक भविष्यवाणी को वास्तविक बना रही है,
+डिजिटल मुहर के साथ सात साल का संकट,
+लेकिन संत मेम्ने के खून से जीतते हैं,
+और उनकी गवाही के वचन से—यही योजना है।

@@ -1,74 +1,74 @@
-SONG 12: "Dome Dwellers Awakening"
-(Theme: Flat Earth Truth + Final Awakening for Humanity)
+曲 12：「ドーム住人の目覚め」
+（テーマ：平面地球の真実 + 人類の最終的な目覚め）
 
-[Intro]
+[イントロ]
 
-[Verse 1]
-They kept us sleeping under the dome so long,
-Pear-shaped testicle lies—believing wrong,
-But the dome dwellers waking, opening eyes,
-Seeing through both space and tech's disguise.
+[ヴァース 1]
+彼らは私たちをドームの下で長い間眠らせ続けた、
+洋ナシ型の睾丸の嘘——間違ったことを信じて、
+しかしドームの住人は目覚めている、目を開く、
+宇宙とテクノロジーの両方の偽装を見抜く。
 
-[Verse 2]
-Flat earth was the key that unlocked the door,
-Now we see the nanotech and so much more,
-One lie connected to the other strand,
-A web of deception across every land.
+[ヴァース 2]
+平面地球はドアを開けた鍵だった、
+今私たちはナノテクノロジーとさらに多くを見る、
+一つの嘘が他の糸につながっている、
+すべての土地にわたる欺瞞の網。
 
-[Chorus]
-Dome dwellers awakening to the truth at last,
-Flat earth breaking chains from the past,
-Seeing the firmament and the beast system too,
-The final awakening is coming through!
+[コーラス]
+ドーム住人がついに真実に目覚める、
+平面地球が過去の鎖を壊す、
+天蓋と獣システムの両方を見る、
+最終的な目覚めが来ている！
 
-[Verse 3]
-P900 zoom revealed the plane,
-Blood microscopy revealed the bane,
-What they hid above connects to what's within,
-One matrix of lies covering every sin.
+[ヴァース 3]
+P900ズームが平面を明らかにした、
+血液顕微鏡検査が災いを明らかにした、
+彼らが上に隠したものは内部のものとつながっている、
+すべての罪を覆う嘘のマトリックス。
 
-[Verse 4]
-They couldn't maintain the globe without fake space,
-They can't maintain control without tracking your face,
-Two systems of bondage crumbling as one,
-The dome dwellers rising with the morning sun.
+[ヴァース 4]
+彼らは偽の宇宙なしで地球儀を維持できなかった、
+彼らはあなたの顔を追跡せずに支配を維持できない、
+二つの束縛のシステムが一つとして崩れる、
+ドーム住人は朝日と共に上昇する。
 
-[Chorus]
-Dome dwellers awakening to the truth at last,
-Flat earth breaking chains from the past,
-Seeing the firmament and the beast system too,
-The final awakening is coming through!
+[コーラス]
+ドーム住人がついに真実に目覚める、
+平面地球が過去の鎖を壊す、
+天蓋と獣システムの両方を見る、
+最終的な目覚めが来ている！
 
-[Bridge]
-Hosea four-six said perish from not knowing,
-But now the truth is flooding, overflowing,
-Flat earth led us down the rabbit hole,
-Now we see the war being waged for our soul!
-From space lies to vaccine lies—all connect,
-The same deceiver running the tech,
-But the dome dwellers see it all so clear,
-The awakening's here—the end is near!
+[ブリッジ]
+ホセア書4章6節は知らないことで滅びると言った、
+しかし今、真実が洪水のように溢れている、
+平面地球は私たちをウサギの穴に導いた、
+今私たちは魂のために行われている戦争を見る！
+宇宙の嘘からワクチンの嘘まで——すべてつながっている、
+同じ欺瞞者がテクノロジーを運営している、
+しかしドーム住人はすべてをとても明確に見る、
+目覚めがここにある——終わりは近い！
 
-[Verse 5]
-Karen Kingston exposed the patents' truth,
-Eric Dubay exposed the globe's bad proof,
-Ana Mihalcea shows blood transformed,
-The awakened remnant weathering the storm.
+[ヴァース 5]
+カレン・キングストンが特許の真実を暴露した、
+エリック・デュベイが地球儀の悪い証拠を暴露した、
+アナ・ミハルセアが変容した血を示す、
+目覚めた残された者が嵐に耐える。
 
-[Verse 6]
-From firmament to nanobots, we see the scheme,
-Satan's matrix crumbling at the seams,
-The dome above reflects the truth below,
-As within, so without—now we know.
+[ヴァース 6]
+天蓋からナノボットまで、私たちは計画を見る、
+サタンのマトリックスが継ぎ目で崩れている、
+上のドームは下の真実を反映している、
+内部のように外部も——今私たちは知っている。
 
-[Chorus]
-Dome dwellers awakening to the truth at last,
-Flat earth breaking chains from the past,
-Seeing the firmament and the beast system too,
-The final awakening is coming through!
+[コーラス]
+ドーム住人がついに真実に目覚める、
+平面地球が過去の鎖を壊す、
+天蓋と獣システムの両方を見る、
+最終的な目覚めが来ている！
 
-[Outro]
-Dome dwellers awakening from sea to sea,
-Flat earth truth setting humanity free,
-And with that truth, all deceptions fall,
-The final awakening answering the call.
+[アウトロ]
+ドーム住人が海から海へと目覚める、
+平面地球の真実が人類を自由にする、
+そしてその真実で、すべての欺瞞が倒れる、
+最終的な目覚めが呼びかけに応えている。

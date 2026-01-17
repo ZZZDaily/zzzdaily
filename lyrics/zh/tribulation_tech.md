@@ -1,74 +1,74 @@
-SONG 9: "Tribulation Tech"
-(Theme: End Times Tribulation + Smart Dust Surveillance)
+歌曲 9："大灾难技术"
+（主题：末世大灾难 + 智能尘埃监控）
 
-[Intro]
+[前奏]
 
-[Verse 1]
-The tribulation's coming, seven years of hell,
-Smart dust in the atmosphere—surveillance fell,
-Daniel's seventieth week approaching fast,
-And the tech they've built will make it last.
+[主歌 1]
+大灾难即将来临，七年地狱，
+大气中的智能尘埃——监控降临，
+但以理第七十周快速接近，
+他们建造的技术将使其持久。
 
-[Verse 2]
-Smart dust particles floating in the air,
-Recording everything, everywhere,
-Matthew twenty-four said nothing would be hid,
-Now technology fulfills what the scripture did.
+[主歌 2]
+智能尘埃颗粒漂浮在空中，
+记录一切，到处都是，
+马太福音二十四章说没有什么会被隐藏，
+现在技术实现了经文所做的。
 
-[Chorus]
-Tribulation tech watching every move,
-Smart dust surveillance—nothing left to prove,
-The time of trouble like never before,
-Technology opens the tribulation door!
+[副歌]
+大灾难技术监视每一个动作，
+智能尘埃监控——没有什么可证明的，
+前所未有的麻烦时期，
+技术打开了大灾难的门！
 
-[Verse 3]
-Revelation says no buying or selling without the mark,
-CBDC and digital ID light up the dark,
-Smart city prisons where you can't escape,
-The tribulation tech sealing your fate.
+[主歌 3]
+启示录说没有印记就不能买卖，
+CBDC和数字身份照亮黑暗，
+智能城市监狱你无法逃脱，
+大灾难技术封印你的命运。
 
-[Verse 4]
-Fifteen-minute cities keep you in your zone,
-Surveillance cameras watching, you're never alone,
-Social credit scores determining your worth,
-The great tribulation birthed on earth.
+[主歌 4]
+十五分钟城市让你留在你的区域，
+监控摄像头监视，你永远不孤单，
+社会信用评分决定你的价值，
+大灾难在地球上诞生。
 
-[Chorus]
-Tribulation tech watching every move,
-Smart dust surveillance—nothing left to prove,
-The time of trouble like never before,
-Technology opens the tribulation door!
+[副歌]
+大灾难技术监视每一个动作，
+智能尘埃监控——没有什么可证明的，
+前所未有的麻烦时期，
+技术打开了大灾难的门！
 
-[Bridge]
-Two witnesses prophesy in those days,
-While the beast system hunts them through the maze,
-But God protects His own through fire and flood,
-Sealed by the Spirit, bought by the blood!
-The tech can't touch what God has sealed,
-One hundred forty-four thousand revealed,
-Through tribulation they'll emerge refined,
-Smart dust can't track the Father's assigned!
+[桥段]
+两个见证人在那些日子预言，
+而兽系统通过迷宫追捕他们，
+但上帝通过火和洪水保护祂自己的人，
+被圣灵盖印，被宝血买赎！
+技术无法触及上帝已盖印的，
+十四万四千人显现，
+通过大灾难他们将被提炼出现，
+智能尘埃无法追踪天父指定的人！
 
-[Verse 5]
-Internet of Things tracking your location,
-Smart home devices—digital damnation,
-Everything connected to the grid of lies,
-Big Brother watching through digital eyes.
+[主歌 5]
+物联网追踪你的位置，
+智能家居设备——数字诅咒，
+一切都连接到谎言的网格，
+老大哥通过数字眼睛监视。
 
-[Verse 6]
-But in the midst of trouble, God provides,
-A remnant protected where the faithful hides,
-Tribulation tech will fail in the end,
-When Christ returns with the angels He sends.
+[主歌 6]
+但在麻烦中，上帝提供，
+一个余民保护在忠实者隐藏的地方，
+大灾难技术最终会失败，
+当基督带着祂派遣的天使归来时。
 
-[Chorus]
-Tribulation tech watching every move,
-Smart dust surveillance—nothing left to prove,
-The time of trouble like never before,
-Technology opens the tribulation door!
+[副歌]
+大灾难技术监视每一个动作，
+智能尘埃监控——没有什么可证明的，
+前所未有的麻烦时期，
+技术打开了大灾难的门！
 
-[Outro]
-Tribulation tech making prophecy real,
-Seven years of trouble with a digital seal,
-But the saints overcome by the blood of the Lamb,
-And the word of their testimony—that's the plan.
+[尾奏]
+大灾难技术使预言成真，
+七年麻烦带着数字印记，
+但圣徒靠羔羊的宝血得胜，
+和他们见证的话语——这就是计划。

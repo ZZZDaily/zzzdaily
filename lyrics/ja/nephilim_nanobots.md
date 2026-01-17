@@ -1,74 +1,74 @@
-SONG 7: "Nephilim Nanobots"
-(Theme: Biblical Giants + Transhumanist Enhancement)
+曲 7：「ネフィリムナノボット」
+（テーマ：聖書の巨人 + トランスヒューマニスト強化）
 
-[Intro]
+[イントロ]
 
-[Verse 1]
-Genesis six—the sons of God came down,
-Took daughters of men from every town,
-Nephilim giants—corrupted DNA,
-Now they're doing the same thing in a different way.
+[ヴァース 1]
+創世記6章——神の子らが降りてきた、
+すべての町から人の娘たちを取った、
+ネフィリムの巨人——腐敗したDNA、
+今、彼らは異なる方法で同じことをしている。
 
-[Verse 2]
-Nanobots rewriting your genetic code,
-Transhumanist enhancement down the road,
-CRISPR and mRNA changing who you are,
-Nephilim technology from a distant star.
+[ヴァース 2]
+あなたの遺伝子コードを書き換えるナノボット、
+道の先のトランスヒューマニスト強化、
+CRISPRとmRNAがあなたが誰であるかを変える、
+遠い星からのネフィリム技術。
 
-[Chorus]
-Nephilim nanobots swimming in your blood,
-Corrupting human DNA like the ancient flood,
-Giants walked the earth in days of old,
-Now synthetic beings emerge—souls bought and sold!
+[コーラス]
+あなたの血の中を泳ぐネフィリムナノボット、
+古代の洪水のように人間のDNAを腐敗させる、
+巨人が昔地球を歩いた、
+今、合成生物が現れる——魂が売買される！
 
-[Verse 3]
-"As in the days of Noah," Jesus said,
-Genetic manipulation—humanity misled,
-The fallen angels tried to corrupt the seed,
-Now nanobots finish what demons decreed.
+[ヴァース 3]
+「ノアの日のように」とイエスは言った、
+遺伝子操作——人類は誤った方向に導かれた、
+堕天使は種を腐敗させようとした、
+今、ナノボットが悪魔が命じたことを完成させる。
 
-[Verse 4]
-Super soldiers rising, enhanced and tall,
-DARPA programs answering the call,
-Human 2.0 they want to create,
-Nephilim reborn—a corrupted state.
+[ヴァース 4]
+スーパーソルジャーが立ち上がる、強化され背が高い、
+DARPAプログラムが呼びかけに応える、
+彼らは人間2.0を作りたい、
+ネフィリムが生まれ変わる——腐敗した状態。
 
-[Chorus]
-Nephilim nanobots swimming in your blood,
-Corrupting human DNA like the ancient flood,
-Giants walked the earth in days of old,
-Now synthetic beings emerge—souls bought and sold!
+[コーラス]
+あなたの血の中を泳ぐネフィリムナノボット、
+古代の洪水のように人間のDNAを腐敗させる、
+巨人が昔地球を歩いた、
+今、合成生物が現れる——魂が売買される！
 
-[Bridge]
-God sent the flood to wipe the slate clean,
-Nephilim destroyed—no more to be seen,
-But the enemy returns with technology new,
-Corrupting the bloodline all over—round two!
-But fire this time, not water to come,
-The judge of all earth won't be outdone,
-Nephilim nanobots will burn in the flame,
-Christ returns victorious—forever the same!
+[ブリッジ]
+神は石板をきれいにするために洪水を送った、
+ネフィリムは破壊された——もう見られることはない、
+しかし敵は新しい技術で戻ってくる、
+血統を再び腐敗させる——第2ラウンド！
+しかし今回は火、来るのは水ではない、
+全地の裁き主は負けない、
+ネフィリムナノボットは炎の中で燃える、
+キリストが勝利して帰ってくる——永遠に同じ！
 
-[Verse 5]
-They call it evolution, call it progress too,
-But it's Genesis six happening to me and you,
-Mixing iron and clay, Daniel saw it clear,
-The final kingdom where Nephilim appear.
+[ヴァース 5]
+彼らはそれを進化と呼び、進歩とも呼ぶ、
+しかしそれは私とあなたに起こっている創世記6章だ、
+鉄と粘土を混ぜる、ダニエルははっきりと見た、
+ネフィリムが現れる最後の王国。
 
-[Verse 6]
-Your body is a temple, Paul said it true,
-Now they're desecrating it with nanotech through,
-But the pure in blood who refuse the mark,
-Will shine like stars even in the dark.
+[ヴァース 6]
+あなたの体は神殿だ、パウロは真実を言った、
+今、彼らはナノテクノロジーでそれを冒涜している、
+しかし刻印を拒否する純血の者は、
+暗闇の中でも星のように輝く。
 
-[Chorus]
-Nephilim nanobots swimming in your blood,
-Corrupting human DNA like the ancient flood,
-Giants walked the earth in days of old,
-Now synthetic beings emerge—souls bought and sold!
+[コーラス]
+あなたの血の中を泳ぐネフィリムナノボット、
+古代の洪水のように人間のDNAを腐敗させる、
+巨人が昔地球を歩いた、
+今、合成生物が現れる——魂が売買される！
 
-[Outro]
-Nephilim walked and Nephilim fell,
-Their nanobot children will meet the same hell,
-What God destroyed once, He'll destroy again,
-The pure bloodline of Christ will remain—Amen.
+[アウトロ]
+ネフィリムは歩き、ネフィリムは倒れた、
+彼らのナノボットの子供たちは同じ地獄に会う、
+神がかつて破壊したものを、祂は再び破壊する、
+キリストの純粋な血統は残る——アーメン。

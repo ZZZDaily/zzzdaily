@@ -1,74 +1,74 @@
-SONG 11: "Fake Stars, Real Chains"
-(Theme: Fake Space/Stars + Digital ID Enslavement)
+ПЕСНЯ 11: "Фальшивые Звёзды, Настоящие Цепи"
+(Тема: Фальшивый Космос/Звёзды + Порабощение Цифровым ID)
 
-[Intro]
+[Вступление]
 
-[Verse 1]
-They told us stars were suns a trillion miles away,
-But they're lights in the firmament—Genesis says,
-The same liars that gave us fake space above,
-Now give us digital chains disguised as love.
+[Куплет 1]
+Они сказали нам, что звёзды — это солнца за триллион миль,
+Но это огни в тверди — говорит Бытие,
+Те же лжецы, что дали нам фальшивый космос наверху,
+Теперь дают нам цифровые цепи, замаскированные под любовь.
 
-[Verse 2]
-If they lied about the cosmos, they'll lie about your name,
-Digital ID 2026—it's all the same game,
-Fake stars in the sky, fake freedom below,
-Real chains around your neck that they don't want you to know.
+[Куплет 2]
+Если они солгали о космосе, они солгут о твоём имени,
+Цифровой ID 2026 — это та же игра,
+Фальшивые звёзды в небе, фальшивая свобода внизу,
+Настоящие цепи вокруг твоей шеи, о которых они не хотят, чтобы ты знал.
 
-[Chorus]
-Fake stars, real chains—the pattern's always there,
-Lies about the heavens, lies about the air,
-Space is fake but the slavery is real,
-Digital ID is the final deal!
+[Припев]
+Фальшивые звёзды, настоящие цепи — закономерность всегда там,
+Ложь о небесах, ложь о воздухе,
+Космос фальшивый, но рабство реально,
+Цифровой ID — это окончательная сделка!
 
-[Verse 3]
-NASA steals trillions for lights on the dome,
-While WEF plans to track you from your home,
-Fake moon landings, real surveillance state,
-Fake asteroids coming, real lockdown fate.
+[Куплет 3]
+NASA крадёт триллионы на огни на куполе,
+Пока ВЭФ планирует отслеживать тебя из твоего дома,
+Фальшивые высадки на Луну, настоящее государство слежки,
+Фальшивые приближающиеся астероиды, настоящая судьба локдауна.
 
-[Verse 4]
-They couldn't put satellites in space that's fake,
-So ground-based towers are all it takes,
-Starlink's not in orbit—check the facts,
-While digital ID puts chains on your backs.
+[Куплет 4]
+Они не могли разместить спутники в фальшивом космосе,
+Поэтому наземные башни — это всё, что нужно,
+Starlink не на орбите — проверь факты,
+Пока цифровой ID надевает цепи на твои спины.
 
-[Chorus]
-Fake stars, real chains—the pattern's always there,
-Lies about the heavens, lies about the air,
-Space is fake but the slavery is real,
-Digital ID is the final deal!
+[Припев]
+Фальшивые звёзды, настоящие цепи — закономерность всегда там,
+Ложь о небесах, ложь о воздухе,
+Космос фальшивый, но рабство реально,
+Цифровой ID — это окончательная сделка!
 
-[Bridge]
-Job thirty-eight asks where were you when I laid earth's foundation,
-The stars sing together for God's creation,
-Not balls of gas but angels bright,
-While they wrap you in digital chains tight!
-The same deceiver from the garden of old,
-Lies about the stars, buys and sells your soul,
-Fake space program, real beast system rise,
-Open your eyes to both sets of lies!
+[Переход]
+Книга Иова тридцать восемь спрашивает, где ты был, когда Я полагал основание земли,
+Звёзды поют вместе для Божьего творения,
+Не шары газа, а яркие ангелы,
+Пока они оборачивают тебя в цифровые цепи крепко!
+Тот же обманщик из древнего сада,
+Лжёт о звёздах, покупает и продаёт твою душу,
+Фальшивая космическая программа, настоящая система зверя поднимается,
+Открой свои глаза на оба набора лжи!
 
-[Verse 5]
-They need the globe to make you feel small,
-Insignificant speck, nothing at all,
-But flat earth truth restores your worth,
-You're the reason God made the earth.
+[Куплет 5]
+Им нужен глобус, чтобы ты чувствовал себя маленьким,
+Незначительной пылинкой, ничем вообще,
+Но истина плоской земли восстанавливает твою ценность,
+Ты — причина, по которой Бог создал землю.
 
-[Verse 6]
-Digital ID makes you feel like a number,
-A data point tracked while the masses slumber,
-But in Christ you're known by name and face,
-Neither fake stars nor chains can take your place.
+[Куплет 6]
+Цифровой ID заставляет тебя чувствовать себя номером,
+Точкой данных, отслеживаемой, пока массы дремлют,
+Но во Христе ты известен по имени и лицу,
+Ни фальшивые звёзды, ни цепи не могут занять твоё место.
 
-[Chorus]
-Fake stars, real chains—the pattern's always there,
-Lies about the heavens, lies about the air,
-Space is fake but the slavery is real,
-Digital ID is the final deal!
+[Припев]
+Фальшивые звёзды, настоящие цепи — закономерность всегда там,
+Ложь о небесах, ложь о воздухе,
+Космос фальшивый, но рабство реально,
+Цифровой ID — это окончательная сделка!
 
-[Outro]
-Fake stars above, real chains below,
-Two different lies from the same evil flow,
-But the truth of the earth and the freedom in Christ,
-Breaks both deceptions—that's the sacrifice.
+[Концовка]
+Фальшивые звёзды наверху, настоящие цепи внизу,
+Две разные лжи из того же злого потока,
+Но истина о земле и свобода во Христе,
+Разрушает оба обмана — это жертва.

@@ -1,74 +1,74 @@
-SONG 8: "Digital Rapture"
-(Theme: Christian Rapture + Digital Twin Upload)
+أغنية 8: "الاختطاف الرقمي"
+(الموضوع: الاختطاف المسيحي + رفع التوأم الرقمي)
 
-[Intro]
+[المقدمة]
 
-[Verse 1]
-They promise eternal life in the cloud,
-Upload your consciousness—join the crowd,
-A digital heaven where you never die,
-Satan's counterfeit of the rapture in the sky.
+[الكوبليه 1]
+إنهم يعدون بالحياة الأبدية في السحابة،
+ارفع وعيك - انضم إلى الحشد،
+جنة رقمية حيث لا تموت أبدًا،
+تزييف الشيطان للاختطاف في السماء.
 
-[Verse 2]
-First Thessalonians four—caught up to meet,
-The Lord in the air—salvation complete,
-But they offer a fake version of the same,
-Digital rapture—a different name.
+[الكوبليه 2]
+تسالونيكي الأولى أربعة - مختطفون للقاء،
+الرب في الهواء - الخلاص مكتمل،
+لكنهم يقدمون نسخة مزيفة من نفس الشيء،
+الاختطاف الرقمي - اسم مختلف.
 
-[Chorus]
-Digital rapture—escape to the cloud,
-Leave your body, join the digital crowd,
-But it's not the rapture that Jesus brings,
-It's a silicon prison without any wings!
+[اللازمة]
+الاختطاف الرقمي - الهروب إلى السحابة،
+اترك جسدك، انضم إلى الحشد الرقمي،
+لكنه ليس الاختطاف الذي يجلبه يسوع،
+إنه سجن سيليكون بدون أجنحة!
 
-[Verse 3]
-Digital twins of every human alive,
-Copies in the metaverse learning to thrive,
-When your body dies, they say you'll live on,
-But your soul without Christ is forever gone.
+[الكوبليه 3]
+توائم رقمية لكل إنسان حي،
+نسخ في الميتافيرس تتعلم الازدهار،
+عندما يموت جسدك، يقولون إنك ستعيش،
+لكن روحك بدون المسيح ضاعت إلى الأبد.
 
-[Verse 4]
-Kurzweil dreams of living past a hundred years,
-Mind uploaded, no more death, no more tears,
-But only Jesus offers life that's true,
-Revelation twenty-one—all things new.
+[الكوبليه 4]
+كورزويل يحلم بالعيش أكثر من مئة عام،
+عقل مُرفع، لا مزيد من الموت، لا مزيد من الدموع،
+لكن يسوع فقط يقدم حياة حقيقية،
+الرؤيا واحد وعشرون - كل شيء جديد.
 
-[Chorus]
-Digital rapture—escape to the cloud,
-Leave your body, join the digital crowd,
-But it's not the rapture that Jesus brings,
-It's a silicon prison without any wings!
+[اللازمة]
+الاختطاف الرقمي - الهروب إلى السحابة،
+اترك جسدك، انضم إلى الحشد الرقمي،
+لكنه ليس الاختطاف الذي يجلبه يسوع،
+إنه سجن سيليكون بدون أجنحة!
 
-[Bridge]
-In the twinkling of an eye, we shall be changed,
-Incorruptible bodies—divinely arranged,
-Not by Neuralink, not by any machine,
-But by Christ's return—the eternal King!
-Don't fall for the counterfeit eternal life,
-Satan's been a liar since Eden's strife,
-The digital rapture leaves your soul behind,
-The real rapture saves both body and mind!
+[الجسر]
+في طرفة عين، سنتغير،
+أجساد غير قابلة للفساد - مرتبة إلهيًا،
+ليس بواسطة Neuralink، ليس بأي آلة،
+لكن بعودة المسيح - الملك الأبدي!
+لا تقع في فخ الحياة الأبدية المزيفة،
+الشيطان كان كاذبًا منذ صراع عدن،
+الاختطاف الرقمي يترك روحك وراءها،
+الاختطاف الحقيقي يخلص كل من الجسد والعقل!
 
-[Verse 5]
-They want to preserve you in ones and zeros,
-Digital avatars—false heroes,
-But code can't capture what makes you whole,
-The image of God imprinted on your soul.
+[الكوبليه 5]
+إنهم يريدون الحفاظ عليك في واحدات وأصفار،
+صور رمزية رقمية - أبطال مزيفون،
+لكن الكود لا يمكنه التقاط ما يجعلك كاملاً،
+صورة الله المطبوعة على روحك.
 
-[Verse 6]
-Second Corinthians five—absent from the body,
-Present with the Lord—not virtually shoddy,
-The cloud they offer is Amazon's server farm,
-The cloud we rise to is in Jesus' arms.
+[الكوبليه 6]
+كورنثوس الثانية خمسة - غائب عن الجسد،
+حاضر مع الرب - ليس افتراضيًا رديئًا،
+السحابة التي يقدمونها هي مزرعة خوادم أمازون،
+السحابة التي نرتفع إليها في ذراعي يسوع.
 
-[Chorus]
-Digital rapture—escape to the cloud,
-Leave your body, join the digital crowd,
-But it's not the rapture that Jesus brings,
-It's a silicon prison without any wings!
+[اللازمة]
+الاختطاف الرقمي - الهروب إلى السحابة،
+اترك جسدك، انضم إلى الحشد الرقمي،
+لكنه ليس الاختطاف الذي يجلبه يسوع،
+إنه سجن سيليكون بدون أجنحة!
 
-[Outro]
-Digital rapture is the devil's great deceit,
-A counterfeit heaven that can't compete,
-When the trumpet sounds, the dead in Christ will rise,
-Not uploaded to servers—but meeting Him in the skies.
+[الخاتمة]
+الاختطاف الرقمي هو الخداع العظيم للشيطان،
+جنة مزيفة لا تستطيع المنافسة،
+عندما يدوي البوق، سيقوم الأموات في المسيح،
+ليس مرفوعين إلى الخوادم - بل يقابلونه في السماء.

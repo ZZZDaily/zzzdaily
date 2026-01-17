@@ -1,74 +1,74 @@
-SONG 15: "Revelations Reboot"
-(Theme: Book of Revelation + Singularity Prophecy)
+गीत 15: "प्रकाशितवाक्य रीबूट"
+(विषय: प्रकाशितवाक्य की पुस्तक + सिंगुलैरिटी भविष्यवाणी)
 
-[Intro]
+[परिचय]
 
-[Verse 1]
-John saw the vision on Patmos isle,
-The end of days prophesied in God's style,
-But now the prophecy's getting a reboot,
-Technology fulfilling every dispute.
+[पद 1]
+यूहन्ना ने पतमुस द्वीप पर दर्शन देखा,
+भगवान की शैली में अंत के दिन भविष्यवाणी की,
+लेकिन अब भविष्यवाणी को एक रीबूट मिल रहा है,
+प्रौद्योगिकी हर विवाद को पूरा कर रही है।
 
-[Verse 2]
-Twenty-thirty is the singularity date,
-Kurzweil's prediction—can't wait,
-But Revelation warned two thousand years before,
-The beast system rising—that's what's in store.
+[पद 2]
+बीस-तीस सिंगुलैरिटी की तारीख है,
+कुर्ज़वील की भविष्यवाणी—प्रतीक्षा नहीं कर सकता,
+लेकिन प्रकाशितवाक्य ने दो हजार साल पहले चेतावनी दी,
+पशु प्रणाली उभर रही है—यही स्टोर में है।
 
-[Chorus]
-Revelations reboot playing out in real-time,
-Singularity prophecy—the final paradigm,
-What John saw in spirit, we see in flesh,
-Technology and prophecy—the perfect mesh!
+[कोरस]
+प्रकाशितवाक्य रीबूट वास्तविक समय में खेल रहा है,
+सिंगुलैरिटी भविष्यवाणी—अंतिम प्रतिमान,
+जो यूहन्ना ने आत्मा में देखा, हम मांस में देखते हैं,
+प्रौद्योगिकी और भविष्यवाणी—पूर्ण जाल!
 
-[Verse 3]
-The image of the beast that speaks and lives,
-Artificial intelligence is what it gives,
-Fire from heaven? DEW weapons rain,
-The false prophet's power explained.
+[पद 3]
+पशु की छवि जो बोलती है और जीती है,
+कृत्रिम बुद्धिमत्ता वही है जो यह देती है,
+स्वर्ग से आग? DEW हथियार बारिश करते हैं,
+झूठे भविष्यवक्ता की शक्ति समझाई गई।
 
-[Verse 4]
-No buying or selling—digital ID,
-Mark of the beast for you and me,
-One world government forming day by day,
-Revelation's reboot on display.
+[पद 4]
+कोई खरीदारी या बिक्री नहीं—डिजिटल आईडी,
+आपके और मेरे लिए पशु का चिह्न,
+एक विश्व सरकार दिन-प्रतिदिन बन रही है,
+प्रकाशितवाक्य का रीबूट प्रदर्शन पर।
 
-[Chorus]
-Revelations reboot playing out in real-time,
-Singularity prophecy—the final paradigm,
-What John saw in spirit, we see in flesh,
-Technology and prophecy—the perfect mesh!
+[कोरस]
+प्रकाशितवाक्य रीबूट वास्तविक समय में खेल रहा है,
+सिंगुलैरिटी भविष्यवाणी—अंतिम प्रतिमान,
+जो यूहन्ना ने आत्मा में देखा, हम मांस में देखते हैं,
+प्रौद्योगिकी और भविष्यवाणी—पूर्ण जाल!
 
-[Bridge]
-They thought they could escape what God foretold,
-But technology just does what prophecy enrolled,
-Every verse coming true in silicon and code,
-The ancient scroll unfolding down the road!
-The Lamb was slain before the world began,
-Christ already won against the master plan,
-Let the singularity come, let AI rise,
-The King of Kings wins—no surprise!
+[ब्रिज]
+उन्होंने सोचा कि वे भगवान ने जो बताया था उससे बच सकते हैं,
+लेकिन प्रौद्योगिकी सिर्फ वही करती है जो भविष्यवाणी ने दर्ज किया,
+सिलिकॉन और कोड में हर आयत सच हो रही है,
+प्राचीन स्क्रॉल सड़क पर खुल रहा है!
+मेम्ना विश्व की शुरुआत से पहले मारा गया था,
+मसीह ने पहले ही मास्टर प्लान के खिलाफ जीत हासिल की,
+सिंगुलैरिटी को आने दें, एआई को उठने दें,
+राजाओं का राजा जीतता है—कोई आश्चर्य नहीं!
 
-[Verse 5]
-Babylon falling in a single hour,
-Digital systems losing all their power,
-EMP from the sun or God's own hand,
-Either way, the beast can't stand.
+[पद 5]
+बाबेल एक ही घंटे में गिर रहा है,
+डिजिटल सिस्टम अपनी सारी शक्ति खो रहे हैं,
+सूरज से ईएमपी या भगवान का अपना हाथ,
+किसी भी तरह से, पशु खड़ा नहीं हो सकता।
 
-[Verse 6]
-New Jerusalem descending from above,
-No need for sun—lit by Christ's love,
-No more tech, no more lies to face,
-Revelation's final reboot—amazing grace.
+[पद 6]
+नया यरूशलेम ऊपर से उतर रहा है,
+सूरज की कोई जरूरत नहीं—मसीह के प्यार से रोशन,
+अब कोई तकनीक नहीं, सामना करने के लिए कोई और झूठ नहीं,
+प्रकाशितवाक्य का अंतिम रीबूट—अद्भुत अनुग्रह।
 
-[Chorus]
-Revelations reboot playing out in real-time,
-Singularity prophecy—the final paradigm,
-What John saw in spirit, we see in flesh,
-Technology and prophecy—the perfect mesh!
+[कोरस]
+प्रकाशितवाक्य रीबूट वास्तविक समय में खेल रहा है,
+सिंगुलैरिटी भविष्यवाणी—अंतिम प्रतिमान,
+जो यूहन्ना ने आत्मा में देखा, हम मांस में देखते हैं,
+प्रौद्योगिकी और भविष्यवाणी—पूर्ण जाल!
 
-[Outro]
-Revelations reboot—the end draws near,
-Singularity rising but there's nothing to fear,
-What John saw then is coming true today,
-But Christ returns to carry His bride away.
+[समापन]
+प्रकाशितवाक्य रीबूट—अंत पास आ रहा है,
+सिंगुलैरिटी उभर रही है लेकिन डरने के लिए कुछ नहीं,
+जो यूहन्ना ने तब देखा वह आज सच हो रहा है,
+लेकिन मसीह अपनी दुल्हन को ले जाने के लिए लौटता है।

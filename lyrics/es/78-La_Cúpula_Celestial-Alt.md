@@ -1,4 +1,4 @@
-CANCIÓN 4: "La Cúpula Celestial"
+CANCIÓN 78: "La Cúpula Celestial"
 (Tema: Una pieza contemplativa sobre el firmamento y la descripción bíblica de la estructura física de la creación que separa el cielo de la tierra.)
 
 

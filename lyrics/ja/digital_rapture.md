@@ -1,74 +1,74 @@
-SONG 8: "Digital Rapture"
-(Theme: Christian Rapture + Digital Twin Upload)
+曲 8：「デジタル携挙」
+（テーマ：キリスト教の携挙 + デジタルツインアップロード）
 
-[Intro]
+[イントロ]
 
-[Verse 1]
-They promise eternal life in the cloud,
-Upload your consciousness—join the crowd,
-A digital heaven where you never die,
-Satan's counterfeit of the rapture in the sky.
+[ヴァース 1]
+彼らはクラウドでの永遠の命を約束する、
+あなたの意識をアップロードする——群衆に参加する、
+あなたが決して死なないデジタル天国、
+空の携挙のサタンの偽物。
 
-[Verse 2]
-First Thessalonians four—caught up to meet,
-The Lord in the air—salvation complete,
-But they offer a fake version of the same,
-Digital rapture—a different name.
+[ヴァース 2]
+テサロニケ人への第一の手紙4章——会うために捕らえられ、
+空中の主——救いは完了した、
+しかし彼らは同じもののフェイクバージョンを提供する、
+デジタル携挙——異なる名前。
 
-[Chorus]
-Digital rapture—escape to the cloud,
-Leave your body, join the digital crowd,
-But it's not the rapture that Jesus brings,
-It's a silicon prison without any wings!
+[コーラス]
+デジタル携挙——クラウドへの脱出、
+あなたの体を離れ、デジタル群衆に参加する、
+しかしそれはイエスがもたらす携挙ではない、
+それは翼のないシリコン監獄だ！
 
-[Verse 3]
-Digital twins of every human alive,
-Copies in the metaverse learning to thrive,
-When your body dies, they say you'll live on,
-But your soul without Christ is forever gone.
+[ヴァース 3]
+生きているすべての人間のデジタルツイン、
+メタバースで学び繁栄するコピー、
+あなたの体が死ぬとき、彼らはあなたが生き続けると言う、
+しかしキリストなしのあなたの魂は永遠に消えた。
 
-[Verse 4]
-Kurzweil dreams of living past a hundred years,
-Mind uploaded, no more death, no more tears,
-But only Jesus offers life that's true,
-Revelation twenty-one—all things new.
+[ヴァース 4]
+カーツワイルは100年以上生きることを夢見ている、
+マインドアップロード、もう死はなく、もう涙もない、
+しかしイエスだけが真の命を提供する、
+黙示録21章——すべてが新しい。
 
-[Chorus]
-Digital rapture—escape to the cloud,
-Leave your body, join the digital crowd,
-But it's not the rapture that Jesus brings,
-It's a silicon prison without any wings!
+[コーラス]
+デジタル携挙——クラウドへの脱出、
+あなたの体を離れ、デジタル群衆に参加する、
+しかしそれはイエスがもたらす携挙ではない、
+それは翼のないシリコン監獄だ！
 
-[Bridge]
-In the twinkling of an eye, we shall be changed,
-Incorruptible bodies—divinely arranged,
-Not by Neuralink, not by any machine,
-But by Christ's return—the eternal King!
-Don't fall for the counterfeit eternal life,
-Satan's been a liar since Eden's strife,
-The digital rapture leaves your soul behind,
-The real rapture saves both body and mind!
+[ブリッジ]
+瞬く間に、私たちは変えられる、
+不朽の体——神聖に配置された、
+Neuralinkによってではなく、どんな機械によってでもなく、
+キリストの帰還によって——永遠の王！
+偽の永遠の命に騙されるな、
+サタンはエデンの闘争以来嘘つきだった、
+デジタル携挙はあなたの魂を後に残す、
+本当の携挙は体と心の両方を救う！
 
-[Verse 5]
-They want to preserve you in ones and zeros,
-Digital avatars—false heroes,
-But code can't capture what makes you whole,
-The image of God imprinted on your soul.
+[ヴァース 5]
+彼らは1と0であなたを保存したい、
+デジタルアバター——偽のヒーロー、
+しかしコードはあなたを完全にするものを捕らえることができない、
+あなたの魂に刻印された神の像。
 
-[Verse 6]
-Second Corinthians five—absent from the body,
-Present with the Lord—not virtually shoddy,
-The cloud they offer is Amazon's server farm,
-The cloud we rise to is in Jesus' arms.
+[ヴァース 6]
+コリント人への第二の手紙5章——体から離れ、
+主と共にいる——仮想的に粗末ではない、
+彼らが提供するクラウドはAmazonのサーバーファームだ、
+私たちが上昇するクラウドはイエスの腕の中にある。
 
-[Chorus]
-Digital rapture—escape to the cloud,
-Leave your body, join the digital crowd,
-But it's not the rapture that Jesus brings,
-It's a silicon prison without any wings!
+[コーラス]
+デジタル携挙——クラウドへの脱出、
+あなたの体を離れ、デジタル群衆に参加する、
+しかしそれはイエスがもたらす携挙ではない、
+それは翼のないシリコン監獄だ！
 
-[Outro]
-Digital rapture is the devil's great deceit,
-A counterfeit heaven that can't compete,
-When the trumpet sounds, the dead in Christ will rise,
-Not uploaded to servers—but meeting Him in the skies.
+[アウトロ]
+デジタル携挙は悪魔の大きな欺きだ、
+競争できない偽の天国、
+ラッパが鳴るとき、キリストにある死者が復活する、
+サーバーにアップロードされるのではなく——空で彼に会う。

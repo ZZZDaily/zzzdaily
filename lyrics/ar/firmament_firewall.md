@@ -1,74 +1,74 @@
-SONG 2: "جدار حماية القبة"
-(Theme: Biblical Dome + Digital Barriers)
+أغنية 2: "جدار حماية القبة"
+(الموضوع: القبة الكتابية + الحواجز الرقمية)
 
-[Intro]
+[المقدمة]
 
-[Verse 1]
-God put a firewall in the sky,
-Waters above that you can't deny,
-Firmament solid, Genesis one-seven,
-A barrier between earth and heaven.
+[الكوبليه 1]
+الله وضع جدار حماية في السماء،
+مياه فوق لا يمكنك إنكارها،
+الجلد صلب، سفر التكوين واحد سبعة،
+حاجز بين الأرض والسماء.
 
-[Verse 2]
-Now they've built another firewall below,
-Controlling everything you're allowed to know,
-Algorithms blocking truth online,
-Censorship's their new divine design.
+[الكوبليه 2]
+الآن بنوا جدار حماية آخر أدناه،
+يتحكم في كل ما يُسمح لك أن تعرفه،
+خوارزميات تحجب الحقيقة على الإنترنت،
+الرقابة هي تصميمهم الإلهي الجديد.
 
-[Chorus]
-Firmament firewall in the sky above,
-Digital firewall blocking truth and love,
-One protects us from the waters of the deep,
-One protects the lies they want us to keep!
+[اللازمة]
+جدار حماية القبة في السماء فوق،
+جدار حماية رقمي يحجب الحقيقة والحب،
+واحد يحمينا من مياه العمق،
+وواحد يحمي الأكاذيب التي يريدون أن نحتفظ بها!
 
-[Verse 3]
-NASA can't get past the dome up there,
-So they fake the footage, fill it with fake air,
-Meanwhile fact-checkers block what's real,
-Two layers of deception—that's the deal.
+[الكوبليه 3]
+ناسا لا تستطيع تجاوز القبة هناك،
+فيزيفون اللقطات، يملأونها بهواء مزيف،
+في هذه الأثناء مدققو الحقائق يحجبون ما هو حقيقي،
+طبقتان من الخداع - هذه هي الصفقة.
 
-[Verse 4]
-5G signals bouncing off the canopy,
-Not satellites in space—that's the fallacy,
-Firmament reflects their frequencies back down,
-While their digital walls keep truth underground.
+[الكوبليه 4]
+إشارات 5G ترتد من المظلة،
+ليست أقمارًا صناعية في الفضاء - هذا هو المغالطة،
+الجلد يعكس تردداتهم إلى الأسفل،
+بينما جدرانهم الرقمية تحفظ الحقيقة تحت الأرض.
 
-[Chorus]
-Firmament firewall in the sky above,
-Digital firewall blocking truth and love,
-One protects us from the waters of the deep,
-One protects the lies they want us to keep!
+[اللازمة]
+جدار حماية القبة في السماء فوق،
+جدار حماية رقمي يحجب الحقيقة والحب،
+واحد يحمينا من مياه العمق،
+وواحد يحمي الأكاذيب التي يريدون أن نحتفظ بها!
 
-[Bridge]
-Hosea four-six—destroyed for lack of knowing,
-Both firewalls keep the ignorance flowing,
-But the elect see clear through both the veils,
-Jesus Christ is the key—truth never fails!
-Seek and you shall find, knock and it opens wide,
-No firewall can stop what God provides,
-The firmament bows to the Creator's hand,
-Their digital walls will crumble like sand!
+[الجسر]
+هوشع أربعة ستة - مدمرون من عدم المعرفة،
+كلا جداري الحماية يبقيان الجهل يتدفق،
+لكن المختارين يرون بوضوح من خلال كلا الحجابين،
+يسوع المسيح هو المفتاح - الحقيقة لا تفشل أبدًا!
+اطلبوا فتجدوا، اطرقوا ويُفتح واسعًا،
+لا جدار حماية يمكنه إيقاف ما يوفره الله،
+الجلد ينحني ليد الخالق،
+جدرانهم الرقمية ستنهار كالرمل!
 
-[Verse 5]
-They can't ascend so they descend instead,
-Neuralink cables plugged into your head,
-Since heaven's blocked by the dome so real,
-They'll trap your soul in silicon and steel.
+[الكوبليه 5]
+لا يمكنهم الصعود فينزلون بدلاً من ذلك،
+كابلات Neuralink موصولة في رأسك،
+بما أن الجنة محجوبة بالقبة الحقيقية جدًا،
+سيحبسون روحك في السيليكون والفولاذ.
 
-[Verse 6]
-Flat earth breaks their whole foundation,
-That's why they censor across every nation,
-Remove that truth and the house of cards falls,
-Both sky and digital—all their walls!
+[الكوبليه 6]
+الأرض المسطحة تكسر أساسهم بالكامل،
+لهذا السبب يفرضون الرقابة عبر كل أمة،
+أزل تلك الحقيقة وبيت الأوراق يسقط،
+كل من السماء والرقمي - كل جدرانهم!
 
-[Chorus]
-Firmament firewall in the sky above,
-Digital firewall blocking truth and love,
-One protects us from the waters of the deep,
-One protects the lies they want us to keep!
+[اللازمة]
+جدار حماية القبة في السماء فوق،
+جدار حماية رقمي يحجب الحقيقة والحب،
+واحد يحمينا من مياه العمق،
+وواحد يحمي الأكاذيب التي يريدون أن نحتفظ بها!
 
-[Outro]
-God's firewall protects from the waters above,
-Their firewall protects lies from the truth we love,
-But one was built by the Almighty's decree,
-The other will fall—and the truth sets us free.
+[الخاتمة]
+جدار حماية الله يحمي من المياه فوق،
+جدار حمايتهم يحمي الأكاذيب من الحقيقة التي نحبها،
+لكن واحدًا بُني بمرسوم القدير،
+والآخر سيسقط - والحقيقة تحررنا.

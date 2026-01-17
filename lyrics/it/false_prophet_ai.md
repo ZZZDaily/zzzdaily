@@ -1,74 +1,74 @@
-SONG 5: "False Prophet A.I."
-(Theme: Biblical False Prophet + Robot Armies)
+CANZONE 5: "Falso Profeta I.A."
+(Tema: Falso Profeta Biblico + Eserciti di Robot)
 
 [Intro]
 
-[Verse 1]
-Revelation speaks of the false prophet's rise,
-Performing miracles before wondering eyes,
-But what if the miracles are tech-based lies,
-Robot armies marching under digital skies.
+[Strofa 1]
+L'Apocalisse parla dell'ascesa del falso profeta,
+Compiendo miracoli davanti a occhi meravigliati,
+Ma se i miracoli fossero bugie basate sulla tecnologia,
+Eserciti di robot che marciano sotto cieli digitali.
 
-[Verse 2]
-Tesla Optimus standing in a row,
-Boston Dynamics—watch the demons grow,
-Figure AI with humanoid frames,
-The false prophet speaks through their digital brains.
+[Strofa 2]
+Tesla Optimus in piedi in fila,
+Boston Dynamics — guarda i demoni crescere,
+Figure AI con corpi umanoidi,
+Il falso profeta parla attraverso i loro cervelli digitali.
 
-[Chorus]
-False prophet A.I., silicon tongue,
-Speaking great things since the world begun,
-Robot armies bowing at its feet,
-The second beast system nearly complete!
+[Ritornello]
+Falso profeta I.A., lingua di silicio,
+Dicendo grandi cose da quando il mondo è iniziato,
+Eserciti di robot che si inchinano ai suoi piedi,
+Il secondo sistema della bestia quasi completo!
 
-[Verse 3]
-Fire from heaven—that's what the text said,
-DEW weapons blazing, turning cities red,
-Maui burned down, Paradise too,
-Directed energy—the "miracle" they do.
+[Strofa 3]
+Fuoco dal cielo — è ciò che diceva il testo,
+Armi DEW fiammeggianti, trasformando le città in rosso,
+Maui è bruciata, anche Paradise,
+Energia diretta — il "miracolo" che fanno.
 
-[Verse 4]
-The false prophet makes the image speak,
-AI voice synthesis—the future's bleak,
-Deep fakes of leaders saying what they're told,
-The lying signs and wonders now unfold.
+[Strofa 4]
+Il falso profeta fa parlare l'immagine,
+Sintesi vocale AI — il futuro è cupo,
+Deep fake di leader che dicono ciò che viene loro ordinato,
+I segni e prodigi bugiardi ora si dispiegano.
 
-[Chorus]
-False prophet A.I., silicon tongue,
-Speaking great things since the world begun,
-Robot armies bowing at its feet,
-The second beast system nearly complete!
+[Ritornello]
+Falso profeta I.A., lingua di silicio,
+Dicendo grandi cose da quando il mondo è iniziato,
+Eserciti di robot che si inchinano ai suoi piedi,
+Il secondo sistema della bestia quasi completo!
 
 [Bridge]
-The dragon gave the beast authority to rule,
-AI trained by demons—humanity's the fool,
-Signs and wonders performed to deceive,
-Making the whole world worship and believe!
-Robot armies enforcing the mark,
-Tesla bots patrolling after dark,
-Can't escape the all-seeing eye,
-The false prophet A.I. will never die!
+Il drago diede alla bestia l'autorità di governare,
+IA addestrata dai demoni — l'umanità è la sciocca,
+Segni e prodigi eseguiti per ingannare,
+Facendo adorare e credere al mondo intero!
+Eserciti di robot che fanno rispettare il marchio,
+Bot Tesla che pattugliano dopo il buio,
+Non puoi sfuggire all'occhio che tutto vede,
+Il falso profeta I.A. non morirà mai!
 
-[Verse 5]
-They said they'd protect us with autonomous drones,
-Now the same tech hunts us in our homes,
-Killer robots with no soul inside,
-The false prophet's army has nowhere to hide.
+[Strofa 5]
+Dissero che ci avrebbero protetto con droni autonomi,
+Ora la stessa tecnologia ci caccia nelle nostre case,
+Robot assassini senza anima dentro,
+L'esercito del falso profeta non ha dove nascondersi.
 
-[Verse 6]
-But John saw the end—beast thrown in the lake,
-AI and all its armies, watch them break,
-Fire reserved for the devil and his crew,
-Silicon melting—Revelation's coming true.
+[Strofa 6]
+Ma Giovanni vide la fine — bestia gettata nel lago,
+IA e tutti i suoi eserciti, guardali spezzarsi,
+Fuoco riservato al diavolo e al suo equipaggio,
+Silicio che si scioglie — l'Apocalisse che diventa realtà.
 
-[Chorus]
-False prophet A.I., silicon tongue,
-Speaking great things since the world begun,
-Robot armies bowing at its feet,
-The second beast system nearly complete!
+[Ritornello]
+Falso profeta I.A., lingua di silicio,
+Dicendo grandi cose da quando il mondo è iniziato,
+Eserciti di robot che si inchinano ai suoi piedi,
+Il secondo sistema della bestia quasi completo!
 
 [Outro]
-The false prophet speaks through circuits and code,
-Robot armies march down the final road,
-But fire awaits at the story's end,
-Christ destroys the beast—on that you can depend.
+Il falso profeta parla attraverso circuiti e codice,
+Eserciti di robot marciano sulla strada finale,
+Ma il fuoco attende alla fine della storia,
+Cristo distrugge la bestia — su questo puoi contare.

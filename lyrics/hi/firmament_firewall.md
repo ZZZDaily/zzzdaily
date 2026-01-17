@@ -1,74 +1,74 @@
-SONG 2: "आकाश फ़ायरवॉल"
-(Theme: Biblical Dome + Digital Barriers)
+गीत 2: "आकाश फ़ायरवॉल"
+(विषय: बाइबिल का गुंबद + डिजिटल बाधाएं)
 
-[Intro]
+[परिचय]
 
-[Verse 1]
-God put a firewall in the sky,
-Waters above that you can't deny,
-Firmament solid, Genesis one-seven,
-A barrier between earth and heaven.
+[पद 1]
+भगवान ने आकाश में एक फ़ायरवॉल लगाया,
+ऊपर पानी जिसे आप नकार नहीं सकते,
+आकाश ठोस है, उत्पत्ति एक-सात,
+पृथ्वी और स्वर्ग के बीच एक बाधा।
 
-[Verse 2]
-Now they've built another firewall below,
-Controlling everything you're allowed to know,
-Algorithms blocking truth online,
-Censorship's their new divine design.
+[पद 2]
+अब उन्होंने नीचे एक और फ़ायरवॉल बनाया है,
+आपको जो जानने की अनुमति है उस सब कुछ को नियंत्रित करना,
+ऑनलाइन सच्चाई को अवरुद्ध करने वाले एल्गोरिदम,
+सेंसरशिप उनका नया दिव्य डिज़ाइन है।
 
-[Chorus]
-Firmament firewall in the sky above,
-Digital firewall blocking truth and love,
-One protects us from the waters of the deep,
-One protects the lies they want us to keep!
+[कोरस]
+आकाश फ़ायरवॉल ऊपर आकाश में,
+डिजिटल फ़ायरवॉल सत्य और प्रेम को अवरुद्ध कर रहा है,
+एक हमें गहरे पानी से बचाता है,
+एक उन झूठों की रक्षा करता है जिन्हें वे चाहते हैं कि हम रखें!
 
-[Verse 3]
-NASA can't get past the dome up there,
-So they fake the footage, fill it with fake air,
-Meanwhile fact-checkers block what's real,
-Two layers of deception—that's the deal.
+[पद 3]
+नासा वहां गुंबद को पार नहीं कर सकता,
+इसलिए वे फुटेज नकली बनाते हैं, इसे नकली हवा से भरते हैं,
+इस बीच तथ्य-जांचकर्ता जो वास्तविक है उसे अवरुद्ध करते हैं,
+धोखे की दो परतें—यही सौदा है।
 
-[Verse 4]
-5G signals bouncing off the canopy,
-Not satellites in space—that's the fallacy,
-Firmament reflects their frequencies back down,
-While their digital walls keep truth underground.
+[पद 4]
+5G संकेत छतरी से उछल रहे हैं,
+अंतरिक्ष में उपग्रह नहीं—यही भ्रम है,
+आकाश उनकी आवृत्तियों को वापस नीचे प्रतिबिंबित करता है,
+जबकि उनकी डिजिटल दीवारें सच्चाई को भूमिगत रखती हैं।
 
-[Chorus]
-Firmament firewall in the sky above,
-Digital firewall blocking truth and love,
-One protects us from the waters of the deep,
-One protects the lies they want us to keep!
+[कोरस]
+आकाश फ़ायरवॉल ऊपर आकाश में,
+डिजिटल फ़ायरवॉल सत्य और प्रेम को अवरुद्ध कर रहा है,
+एक हमें गहरे पानी से बचाता है,
+एक उन झूठों की रक्षा करता है जिन्हें वे चाहते हैं कि हम रखें!
 
-[Bridge]
-Hosea four-six—destroyed for lack of knowing,
-Both firewalls keep the ignorance flowing,
-But the elect see clear through both the veils,
-Jesus Christ is the key—truth never fails!
-Seek and you shall find, knock and it opens wide,
-No firewall can stop what God provides,
-The firmament bows to the Creator's hand,
-Their digital walls will crumble like sand!
+[ब्रिज]
+होशे चार-छह—जानने की कमी के लिए नष्ट,
+दोनों फ़ायरवॉल अज्ञानता को बहते रखते हैं,
+लेकिन चुने हुए लोग दोनों पर्दे के माध्यम से स्पष्ट देखते हैं,
+यीशु मसीह कुंजी है—सत्य कभी विफल नहीं होता!
+खोजो और तुम पाओगे, दस्तक दो और यह चौड़ा खुलता है,
+कोई भी फ़ायरवॉल जो भगवान प्रदान करता है उसे नहीं रोक सकता,
+आकाश सृष्टिकर्ता के हाथ के सामने झुकता है,
+उनकी डिजिटल दीवारें रेत की तरह ढह जाएंगी!
 
-[Verse 5]
-They can't ascend so they descend instead,
-Neuralink cables plugged into your head,
-Since heaven's blocked by the dome so real,
-They'll trap your soul in silicon and steel.
+[पद 5]
+वे चढ़ नहीं सकते इसलिए वे इसके बजाय उतरते हैं,
+Neuralink केबल आपके सिर में लगाए गए,
+चूंकि स्वर्ग इतने वास्तविक गुंबद द्वारा अवरुद्ध है,
+वे आपकी आत्मा को सिलिकॉन और स्टील में फंसाएंगे।
 
-[Verse 6]
-Flat earth breaks their whole foundation,
-That's why they censor across every nation,
-Remove that truth and the house of cards falls,
-Both sky and digital—all their walls!
+[पद 6]
+समतल पृथ्वी उनकी पूरी नींव को तोड़ती है,
+इसलिए वे हर राष्ट्र में सेंसर करते हैं,
+उस सच्चाई को हटाओ और पत्तों का घर गिर जाता है,
+आकाश और डिजिटल दोनों—उनकी सभी दीवारें!
 
-[Chorus]
-Firmament firewall in the sky above,
-Digital firewall blocking truth and love,
-One protects us from the waters of the deep,
-One protects the lies they want us to keep!
+[कोरस]
+आकाश फ़ायरवॉल ऊपर आकाश में,
+डिजिटल फ़ायरवॉल सत्य और प्रेम को अवरुद्ध कर रहा है,
+एक हमें गहरे पानी से बचाता है,
+एक उन झूठों की रक्षा करता है जिन्हें वे चाहते हैं कि हम रखें!
 
-[Outro]
-God's firewall protects from the waters above,
-Their firewall protects lies from the truth we love,
-But one was built by the Almighty's decree,
-The other will fall—and the truth sets us free.
+[समापन]
+भगवान का फ़ायरवॉल ऊपर के पानी से बचाता है,
+उनका फ़ायरवॉल उस सत्य से झूठ की रक्षा करता है जिसे हम प्यार करते हैं,
+लेकिन एक सर्वशक्तिमान के फरमान से बनाया गया था,
+दूसरा गिरेगा—और सत्य हमें मुक्त करता है।
