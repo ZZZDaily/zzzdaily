@@ -1,0 +1,60 @@
+LAGU 4: "Bola di Mukamu"
+(Tema: Bumi Datar, Luar Angkasa Palsu)
+
+
+[Intro]
+
+[Chorus Chant]
+Mereka menaruh bola di muka kita, bola di muka, bola di muka,
+Mereka tidak bilang hisap, tidak bilang jilat,
+Tidak bilang cium—
+Tapi mereka menaruh bola di muka kita, bola di muka,
+Dari sangat muda kita tidak bisa lepas dari cengkeraman luar angkasa palsu!
+
+[Bait 1]
+Cakrawala di atas, air dipisahkan,
+Kejadian satu tujuh, tapi mereka sembunyikan,
+Langit biru adalah pantulan air di atas,
+Tapi mereka menjualmu vakum tanpa udara.
+
+[Bait 2]
+Pertama bola, lalu pir, lalu datar,
+Neil dan badutnya tidak bisa menjaga cerita,
+Testis, kepala penis, selanjutnya apa—poros?
+Sementara seluruh dunia ditipu, mereka duduk dan tertawa.
+
+[Chorus Chant]
+Mereka menaruh bola di muka kita, bola di muka, bola di muka,
+Mereka tidak bilang hisap, tidak bilang jilat,
+Tidak bilang cium—
+Tapi mereka menaruh bola di muka kita, bola di muka,
+Dari sangat muda kita tidak bisa lepas dari cengkeraman luar angkasa palsu!
+
+[Bait 3]
+Zoom P900, tidak ada kelengkungan ditemukan,
+Datar dan diam, kaki di tanah,
+Ruang bawah tanah Hollywood tempat mereka memalsukan bintang,
+Penipuan pendaratan bulan, tidak pernah ke Mars.
+
+[Bait 4]
+Telepon di saku, kamera dan mikrofon,
+Mata untuk iblis, kesenangan pengawasan,
+Dia tidak maha ada jadi butuh teknologi,
+Membangun sistem binatang, apa yang kau harapkan?
+
+[Chorus Chant]
+Mereka menaruh bola di muka kita, bola di muka, bola di muka,
+Mereka tidak bilang hisap, tidak bilang jilat,
+Tidak bilang cium—
+Tapi mereka menaruh bola di muka kita, bola di muka,
+Dari sangat muda kita tidak bisa lepas dari cengkeraman luar angkasa palsu!
+
+[Jembatan]
+Hosea empat enam, dihancurkan karena kurang pengetahuan,
+Matius dua puluh empat, kejahatan terus tumbuh,
+Tapi yang terpilih melihat jelas melalui kabut dan asap,
+Kebenaran bumi akan membakar semuanya!
+
+[Outro]
+Tidak ada lagi bola... kita melihat melalui semua,
+Datar dan tenang... di bawah kehendak Bapa.
