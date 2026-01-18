@@ -1,0 +1,49 @@
+ŞARKI 30: "Korku Tabanlı Kontrol"
+
+
+[Giriş]
+[kıta]
+Düşen asteroidler, işte bir sonraki büyük korku,
+CGI kayalar sahte havadan yuvarlanıyor,
+Gökyüzünde Proje Mavi Işın şeytanları,
+"Özgürlüğünü bırak yoksa öleceksin!"
+Apophis geliyor, öyle diyorlar,
+Yirmi-yirmi-dokuz, günü işaretle,
+Ama hepsi COVID gibi bir aldatmaca,
+Korku tabanlı kontrol, tek yaptığı bu.
+Uzaydan bir düşmana ihtiyaçları var,
+Ulusları birleştirmek, ırkı kontrol etmek için,
+Reagan seksen yedide söyledi,
+"Uzaylı tehdidi bizi cennetin altında birleştirir."
+Ama uzay sahte, yukarıda hiçbir şey yok,
+Vakum havada yüzen asteroit yok,
+Kubbe sağlam, tepede kubbe,
+Hiçbir şey çarpamaz—bu anlatı öldü.
+Bir çarpma sahte yapacaklar, patlamayı CGI yapacaklar,
+"Acil yetkiler" kontrolü sürdürmek için,
+Her ulusta ilan edilen sıkıyönetim,
+Tek dünya hükümeti—Şeytan'ın yaratışı.
+Don't Look Up, film oyunu gösterdi,
+Zihnini itaat et ve itaat et diye şartlandır,
+Bilime güven, hükümet planına güven,
+Ruhunu canavara ve onun markasına teslim et.
+Armageddon, Deep Impact, tüm filmler,
+Zihnini kıyamet heyecanlarıyla programlıyor,
+Böylece sahte yaptıklarında zaten inanacaksın,
+Kollarındaki başka bir şeytani numara.
+NASA bütçelerini haklı çıkarmak için yalana ihtiyaç duyuyor,
+Trilyonlarca dolar, çalıyorlar ve sahtekarlık yapıyorlar,
+"Uzay araştırması" koyunları hizada tutuyor,
+Tasarım gereği canavar sistemini inşa ediyorlar.
+Elon Musk roketleri ve Mars hayalleriyle,
+Hiçbir şey gerçek değil, hepsi duman ve plan,
+SpaceX, Blue Origin, hepsi sahte,
+İnsanlığın hatırı için bir hapishane inşa ediyorlar.
+Von Braun ölüm döşeğinde gerçeği anlattı,
+"Asteroidler son aldatmaca olacak,
+Önce Rusya, sonra teröristler, sonra üçüncü dünya,
+Sonra asteroidler—yalanların açılmasını izle."
+Carol Rosin dudaklarından direkt duydu,
+Her şey tersine dönmeden önce oynayacakları son kart,
+Sahte uzaylı istilası, gökten kayalar,
+Milyonlar ölmeden önceki son yalan.
