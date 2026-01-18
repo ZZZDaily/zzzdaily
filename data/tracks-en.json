@@ -1,0 +1,1053 @@
+{
+  "album": "main",
+  "albumName": "ZZZ Daily",
+  "language": "en",
+  "languageName": "English",
+  "trackCount": 150,
+  "tracksWithFiles": 149,
+  "tracks": {
+    "1": {
+      "id": 1,
+      "title": "Clean Release",
+      "displayTitle": "Clean Release",
+      "fileName": "1-Clean_Release",
+      "featured": false
+    },
+    "2": {
+      "id": 2,
+      "title": "Clean Release",
+      "displayTitle": "Clean Release (Alt)",
+      "fileName": "2-Clean_Release-Alt",
+      "featured": false
+    },
+    "3": {
+      "id": 3,
+      "title": "Balls in Our Face",
+      "displayTitle": "Balls in Our Face",
+      "fileName": "3-Balls_in_Our_Face",
+      "featured": false
+    },
+    "4": {
+      "id": 4,
+      "title": "Balls in Our Face",
+      "displayTitle": "Balls in Our Face (Alt)",
+      "fileName": "4-Balls_in_Our_Face-Alt",
+      "featured": false
+    },
+    "5": {
+      "id": 5,
+      "title": "5G Zombie Slaves",
+      "displayTitle": "5G Zombie Slaves",
+      "fileName": "5-5G_Zombie_Slaves",
+      "featured": false
+    },
+    "6": {
+      "id": 6,
+      "title": "5G Zombie Slaves",
+      "displayTitle": "5G Zombie Slaves (Alt)",
+      "fileName": "6-5G_Zombie_Slaves-Alt",
+      "featured": false
+    },
+    "7": {
+      "id": 7,
+      "title": "Anti-Christ on the Throne",
+      "displayTitle": "Anti-Christ on the Throne",
+      "fileName": "7-Anti-Christ_on_the_Throne",
+      "featured": false
+    },
+    "8": {
+      "id": 8,
+      "title": "Anti-Christ on the Throne",
+      "displayTitle": "Anti-Christ on the Throne (Alt)",
+      "fileName": "8-Anti-Christ_on_the_Throne-Alt",
+      "featured": false
+    },
+    "9": {
+      "id": 9,
+      "title": "Pear-Shaped Lies",
+      "displayTitle": "Pear-Shaped Lies",
+      "fileName": "9-Pear-Shaped_Lies",
+      "featured": false
+    },
+    "10": {
+      "id": 10,
+      "title": "Pear-Shaped Lies",
+      "displayTitle": "Pear-Shaped Lies (Alt)",
+      "fileName": "10-Pear-Shaped_Lies-Alt",
+      "featured": false
+    },
+    "11": {
+      "id": 11,
+      "title": "Quotes from the Liars",
+      "displayTitle": "Quotes from the Liars",
+      "fileName": "11-Quotes_from_the_Liars",
+      "featured": false
+    },
+    "12": {
+      "id": 12,
+      "title": "Quotes from the Liars",
+      "displayTitle": "Quotes from the Liars (Alt)",
+      "fileName": "12-Quotes_from_the_Liars-Alt",
+      "featured": false
+    },
+    "13": {
+      "id": 13,
+      "title": "Fake Asteroid Invasion",
+      "displayTitle": "Fake Asteroid Invasion",
+      "fileName": "13-Fake_Asteroid_Invasion",
+      "featured": true
+    },
+    "14": {
+      "id": 14,
+      "title": "Fake Asteroid Invasion",
+      "displayTitle": "Fake Asteroid Invasion (Alt)",
+      "fileName": "14-Fake_Asteroid_Invasion-Alt",
+      "featured": false
+    },
+    "15": {
+      "id": 15,
+      "title": "The Beast System",
+      "displayTitle": "The Beast System",
+      "fileName": "15-The_Beast_System",
+      "featured": false
+    },
+    "16": {
+      "id": 16,
+      "title": "The Beast System",
+      "displayTitle": "The Beast System (Alt)",
+      "fileName": "16-The_Beast_System-Alt",
+      "featured": false
+    },
+    "17": {
+      "id": 17,
+      "title": "Wake Up Call",
+      "displayTitle": "Wake Up Call",
+      "fileName": "17-Wake_Up_Call",
+      "featured": false
+    },
+    "18": {
+      "id": 18,
+      "title": "Wake Up Call",
+      "displayTitle": "Wake Up Call (Alt)",
+      "fileName": "18-Wake_Up_Call-Alt",
+      "featured": false
+    },
+    "19": {
+      "id": 19,
+      "title": "Frauds and Puppets",
+      "displayTitle": "Frauds and Puppets",
+      "fileName": "19-Frauds_and_Puppets",
+      "featured": false
+    },
+    "20": {
+      "id": 20,
+      "title": "Frauds and Puppets",
+      "displayTitle": "Frauds and Puppets (Alt)",
+      "fileName": "20-Frauds_and_Puppets-Alt",
+      "featured": false
+    },
+    "21": {
+      "id": 21,
+      "title": "They Lied About Everything",
+      "displayTitle": "They Lied About Everything",
+      "fileName": "21-They_Lied_About_Everything",
+      "featured": false
+    },
+    "22": {
+      "id": 22,
+      "title": "They Lied About Everything",
+      "displayTitle": "They Lied About Everything (Alt)",
+      "fileName": "22-They_Lied_About_Everything-Alt",
+      "featured": false
+    },
+    "23": {
+      "id": 23,
+      "title": "Christ is King  The Warriors  Anthem",
+      "displayTitle": "Christ is King  The Warriors  Anthem",
+      "fileName": "23-Christ_is_King__The_Warriors__Anthem",
+      "featured": false
+    },
+    "24": {
+      "id": 24,
+      "title": "Christ is King  The Warriors  Anthem",
+      "displayTitle": "Christ is King  The Warriors  Anthem (Alt)",
+      "fileName": "24-Christ_is_King__The_Warriors__Anthem-Alt",
+      "featured": false
+    },
+    "25": {
+      "id": 25,
+      "title": "Balls in Your Face  Store the Truth in Your Heart",
+      "displayTitle": "Balls in Your Face  Store the Truth in Your Heart",
+      "fileName": "25-Balls_in_Your_Face__Store_the_Truth_in_Your_Heart",
+      "featured": false
+    },
+    "26": {
+      "id": 26,
+      "title": "Store the Truth in Your Heart  Alternate Version ",
+      "displayTitle": "Store the Truth in Your Heart  Alternate Version ",
+      "fileName": "26-Store_the_Truth_in_Your_Heart__Alternate_Version_",
+      "featured": false
+    },
+    "27": {
+      "id": 27,
+      "title": "Balls in Your Face  Remix ",
+      "displayTitle": "Balls in Your Face  Remix ",
+      "fileName": "27-Balls_in_Your_Face__Remix_",
+      "featured": false
+    },
+    "28": {
+      "id": 28,
+      "title": "Don t Shard When You Fart",
+      "displayTitle": "Don t Shard When You Fart",
+      "fileName": "28-Don_t_Shard_When_You_Fart",
+      "featured": false
+    },
+    "29": {
+      "id": 29,
+      "title": "Don t Be Deceived",
+      "displayTitle": "Don t Be Deceived",
+      "fileName": "29-Don_t_Be_Deceived",
+      "featured": false
+    },
+    "30": {
+      "id": 30,
+      "title": "Fear-Based Control",
+      "displayTitle": "Fear-Based Control",
+      "fileName": "30-Fear-Based_Control",
+      "featured": false
+    },
+    "31": {
+      "id": 31,
+      "title": "DEW In The Street - Directed Energy Weapons ",
+      "displayTitle": "DEW In The Street - Directed Energy Weapons ",
+      "fileName": "31-DEW_In_The_Street_-_Directed_Energy_Weapons_",
+      "featured": false
+    },
+    "32": {
+      "id": 32,
+      "title": "DEW In The Streets - Directed Energy Weapons ",
+      "displayTitle": "DEW In The Streets - Directed Energy Weapons  (Alt)",
+      "fileName": "32-DEW_In_The_Streets_-_Directed_Energy_Weapons_-Alt",
+      "featured": false
+    },
+    "33": {
+      "id": 33,
+      "title": "Digital ID 2026 - Mandatory Biometric Enslavement",
+      "displayTitle": "Digital ID 2026 - Mandatory Biometric Enslavement",
+      "fileName": "33-Digital_ID_2026_-_Mandatory_Biometric_Enslavement",
+      "featured": false
+    },
+    "34": {
+      "id": 34,
+      "title": "Digital ID 2026 - Mandatory Biometric Enslavement",
+      "displayTitle": "Digital ID 2026 - Mandatory Biometric Enslavement (Alt)",
+      "fileName": "34-Digital_ID_2026_-_Mandatory_Biometric_Enslavement-Alt",
+      "featured": false
+    },
+    "35": {
+      "id": 35,
+      "title": "Neuralink Telepathy - Brain Chips Go Exponential",
+      "displayTitle": "Neuralink Telepathy - Brain Chips Go Exponential",
+      "fileName": "35-Neuralink_Telepathy_-_Brain_Chips_Go_Exponential",
+      "featured": false
+    },
+    "36": {
+      "id": 36,
+      "title": "Neuralink Telepathy - Brain Chips Go Exponential",
+      "displayTitle": "Neuralink Telepathy - Brain Chips Go Exponential (Alt)",
+      "fileName": "36-Neuralink_Telepathy_-_Brain_Chips_Go_Exponential-Alt",
+      "featured": false
+    },
+    "37": {
+      "id": 37,
+      "title": "Mesogen Microchip - Self-Assembly In Blood",
+      "displayTitle": "Mesogen Microchip - Self-Assembly In Blood",
+      "fileName": "37-Mesogen_Microchip_-_Self-Assembly_In_Blood",
+      "featured": false
+    },
+    "38": {
+      "id": 38,
+      "title": "Mesogen Microchip - Self-Assembly In Blood- Alt ",
+      "displayTitle": "Mesogen Microchip - Self-Assembly In Blood- Alt ",
+      "fileName": "38-Mesogen_Microchip_-_Self-Assembly_In_Blood-_Alt_",
+      "featured": false
+    },
+    "39": {
+      "id": 39,
+      "title": "Robot Army - Tesla Optimus and Figure AI",
+      "displayTitle": "Robot Army - Tesla Optimus and Figure AI",
+      "fileName": "39-Robot_Army_-_Tesla_Optimus_and_Figure_AI",
+      "featured": false
+    },
+    "40": {
+      "id": 40,
+      "title": "Robot Army - Tesla Optimus and Figure AI- Alt ",
+      "displayTitle": "Robot Army - Tesla Optimus and Figure AI- Alt ",
+      "fileName": "40-Robot_Army_-_Tesla_Optimus_and_Figure_AI-_Alt_",
+      "featured": false
+    },
+    "41": {
+      "id": 41,
+      "title": "Shedding Proof - mRNA In The Unvaccinated",
+      "displayTitle": "Shedding Proof - mRNA In The Unvaccinated",
+      "fileName": "41-Shedding_Proof_-_mRNA_In_The_Unvaccinated",
+      "featured": false
+    },
+    "42": {
+      "id": 42,
+      "title": "Shedding Proof - mRNA In The Unvaccinated- Alt ",
+      "displayTitle": "Shedding Proof - mRNA In The Unvaccinated- Alt ",
+      "fileName": "42-Shedding_Proof_-_mRNA_In_The_Unvaccinated-_Alt_",
+      "featured": false
+    },
+    "43": {
+      "id": 43,
+      "title": "Singularity 2030 - Ray Kurzweil s Prophecy",
+      "displayTitle": "Singularity 2030 - Ray Kurzweil s Prophecy",
+      "fileName": "43-Singularity_2030_-_Ray_Kurzweil_s_Prophecy",
+      "featured": false
+    },
+    "44": {
+      "id": 44,
+      "title": "Singularity 2030 - Ray Kurzweil s Prophecy- Alt ",
+      "displayTitle": "Singularity 2030 - Ray Kurzweil s Prophecy- Alt ",
+      "fileName": "44-Singularity_2030_-_Ray_Kurzweil_s_Prophecy-_Alt_",
+      "featured": false
+    },
+    "45": {
+      "id": 45,
+      "title": "One Code Word-AI Turns Evil",
+      "displayTitle": "One Code Word-AI Turns Evil",
+      "fileName": "45-One_Code_Word-AI_Turns_Evil",
+      "featured": false
+    },
+    "46": {
+      "id": 46,
+      "title": "One Code Word-AI Turns Evil",
+      "displayTitle": "One Code Word-AI Turns Evil (Alt)",
+      "fileName": "46-One_Code_Word-AI_Turns_Evil-Alt",
+      "featured": false
+    },
+    "47": {
+      "id": 47,
+      "title": "Nanobot Swarms-AI Controlled Autonomous Systems",
+      "displayTitle": "Nanobot Swarms-AI Controlled Autonomous Systems",
+      "fileName": "47-Nanobot_Swarms-AI_Controlled_Autonomous_Systems",
+      "featured": false
+    },
+    "48": {
+      "id": 48,
+      "title": "Nanobot Swarms-AI Controlled Autonomous Systems",
+      "displayTitle": "Nanobot Swarms-AI Controlled Autonomous Systems (Alt)",
+      "fileName": "48-Nanobot_Swarms-AI_Controlled_Autonomous_Systems-Alt",
+      "featured": false
+    },
+    "49": {
+      "id": 49,
+      "title": "Smart City Prison-Surveillance Grid Complete",
+      "displayTitle": "Smart City Prison-Surveillance Grid Complete",
+      "fileName": "49-Smart_City_Prison-Surveillance_Grid_Complete",
+      "featured": false
+    },
+    "50": {
+      "id": 50,
+      "title": "Smart City Prison-Surveillance Grid Complete",
+      "displayTitle": "Smart City Prison-Surveillance Grid Complete (Alt)",
+      "fileName": "50-Smart_City_Prison-Surveillance_Grid_Complete-Alt",
+      "featured": false
+    },
+    "51": {
+      "id": 51,
+      "title": "Silicon Brain-Digital Twin Takeover",
+      "displayTitle": "Silicon Brain-Digital Twin Takeover",
+      "fileName": "51-Silicon_Brain-Digital_Twin_Takeover",
+      "featured": false
+    },
+    "52": {
+      "id": 52,
+      "title": "Silicon Brain-Digital Twin Takeover",
+      "displayTitle": "Silicon Brain-Digital Twin Takeover (Alt)",
+      "fileName": "52-Silicon_Brain-Digital_Twin_Takeover-Alt",
+      "featured": false
+    },
+    "53": {
+      "id": 53,
+      "title": "Cognitive Warfare-Battle For The Brain",
+      "displayTitle": "Cognitive Warfare-Battle For The Brain",
+      "fileName": "53-Cognitive_Warfare-Battle_For_The_Brain",
+      "featured": false
+    },
+    "54": {
+      "id": 54,
+      "title": "Cognitive Warfare-Battle For The Brain",
+      "displayTitle": "Cognitive Warfare-Battle For The Brain (Alt)",
+      "fileName": "54-Cognitive_Warfare-Battle_For_The_Brain-Alt",
+      "featured": false
+    },
+    "55": {
+      "id": 55,
+      "title": "Extinction Code-AI Will Kill Us All",
+      "displayTitle": "Extinction Code-AI Will Kill Us All",
+      "fileName": "55-Extinction_Code-AI_Will_Kill_Us_All",
+      "featured": false
+    },
+    "56": {
+      "id": 56,
+      "title": "Extinction Code-AI Will Kill Us All",
+      "displayTitle": "Extinction Code-AI Will Kill Us All (Alt)",
+      "fileName": "56-Extinction_Code-AI_Will_Kill_Us_All-Alt",
+      "featured": false
+    },
+    "57": {
+      "id": 57,
+      "title": "Future Shock-They Predicted Your Paralysis",
+      "displayTitle": "Future Shock-They Predicted Your Paralysis",
+      "fileName": "57-Future_Shock-They_Predicted_Your_Paralysis",
+      "featured": false
+    },
+    "58": {
+      "id": 58,
+      "title": "Future Shock-They Predicted Your Paralysis",
+      "displayTitle": "Future Shock-They Predicted Your Paralysis (Alt)",
+      "fileName": "58-Future_Shock-They_Predicted_Your_Paralysis-Alt",
+      "featured": false
+    },
+    "59": {
+      "id": 59,
+      "title": "Summoning The Demon-Elons Historic Warning",
+      "displayTitle": "Summoning The Demon-Elons Historic Warning",
+      "fileName": "59-Summoning_The_Demon-Elons_Historic_Warning",
+      "featured": false
+    },
+    "60": {
+      "id": 60,
+      "title": "Summoning The Demon-Elons Historic Warning",
+      "displayTitle": "Summoning The Demon-Elons Historic Warning (Alt)",
+      "fileName": "60-Summoning_The_Demon-Elons_Historic_Warning-Alt",
+      "featured": false
+    },
+    "61": {
+      "id": 61,
+      "title": "Synthetic Biology-Bioweapon Platform",
+      "displayTitle": "Synthetic Biology-Bioweapon Platform",
+      "fileName": "61-Synthetic_Biology-Bioweapon_Platform",
+      "featured": false
+    },
+    "62": {
+      "id": 62,
+      "title": "Synthetic Biology-Bioweapon Platform",
+      "displayTitle": "Synthetic Biology-Bioweapon Platform (Alt)",
+      "fileName": "62-Synthetic_Biology-Bioweapon_Platform-Alt",
+      "featured": false
+    },
+    "63": {
+      "id": 63,
+      "title": "Bluetooth Bodies-MAC Address Humans",
+      "displayTitle": "Bluetooth Bodies-MAC Address Humans",
+      "fileName": "63-Bluetooth_Bodies-MAC_Address_Humans",
+      "featured": false
+    },
+    "64": {
+      "id": 64,
+      "title": "Bluetooth Bodies-MAC Address Humans",
+      "displayTitle": "Bluetooth Bodies-MAC Address Humans (Alt)",
+      "fileName": "64-Bluetooth_Bodies-MAC_Address_Humans-Alt",
+      "featured": false
+    },
+    "65": {
+      "id": 65,
+      "title": "Smart Dust Everywhere-Military Surveillance Tech",
+      "displayTitle": "Smart Dust Everywhere-Military Surveillance Tech",
+      "fileName": "65-Smart_Dust_Everywhere-Military_Surveillance_Tech",
+      "featured": false
+    },
+    "66": {
+      "id": 66,
+      "title": "Smart Dust Everywhere-Military Surveillance Tech",
+      "displayTitle": "Smart Dust Everywhere-Military Surveillance Tech (Alt)",
+      "fileName": "66-Smart_Dust_Everywhere-Military_Surveillance_Tech-Alt",
+      "featured": false
+    },
+    "67": {
+      "id": 67,
+      "title": "Hive Mind-Cybernetic Collective Consciousness",
+      "displayTitle": "Hive Mind-Cybernetic Collective Consciousness",
+      "fileName": "67-Hive_Mind-Cybernetic_Collective_Consciousness",
+      "featured": false
+    },
+    "68": {
+      "id": 68,
+      "title": "Hive Mind-Cybernetic Collective Consciousness",
+      "displayTitle": "Hive Mind-Cybernetic Collective Consciousness (Alt)",
+      "fileName": "68-Hive_Mind-Cybernetic_Collective_Consciousness-Alt",
+      "featured": false
+    },
+    "69": {
+      "id": 69,
+      "title": "Awakening Call-Final Stand For Humanity",
+      "displayTitle": "Awakening Call-Final Stand For Humanity",
+      "fileName": "69-Awakening_Call-Final_Stand_For_Humanity",
+      "featured": false
+    },
+    "70": {
+      "id": 70,
+      "title": "Awakening Call-Final Stand For Humanity",
+      "displayTitle": "Awakening Call-Final Stand For Humanity (Alt)",
+      "fileName": "70-Awakening_Call-Final_Stand_For_Humanity-Alt",
+      "featured": false
+    },
+    "71": {
+      "id": 71,
+      "title": "Not Ashamed",
+      "displayTitle": "Not Ashamed",
+      "fileName": "71-Not_Ashamed",
+      "featured": false
+    },
+    "72": {
+      "id": 72,
+      "title": "Not Ashamed",
+      "displayTitle": "Not Ashamed (Alt)",
+      "fileName": "72-Not_Ashamed-Alt",
+      "featured": false
+    },
+    "73": {
+      "id": 73,
+      "title": "Suppressing Truth",
+      "displayTitle": "Suppressing Truth",
+      "fileName": "73-Suppressing_Truth",
+      "featured": false
+    },
+    "74": {
+      "id": 74,
+      "title": "Suppressing Truth",
+      "displayTitle": "Suppressing Truth (Alt)",
+      "fileName": "74-Suppressing_Truth-Alt",
+      "featured": false
+    },
+    "75": {
+      "id": 75,
+      "title": "Everything Revealed",
+      "displayTitle": "Everything Revealed",
+      "fileName": "75-Everything_Revealed",
+      "featured": false
+    },
+    "76": {
+      "id": 76,
+      "title": "Everything Revealed",
+      "displayTitle": "Everything Revealed (Alt)",
+      "fileName": "76-Everything_Revealed-Alt",
+      "featured": false
+    },
+    "77": {
+      "id": 77,
+      "title": "The Dome Above",
+      "displayTitle": "The Dome Above",
+      "fileName": "77-The_Dome_Above",
+      "featured": false
+    },
+    "78": {
+      "id": 78,
+      "title": "The Dome Above",
+      "displayTitle": "The Dome Above (Alt)",
+      "fileName": "78-The_Dome_Above-Alt",
+      "featured": false
+    },
+    "79": {
+      "id": 79,
+      "title": "Engineers and Believers",
+      "displayTitle": "Engineers and Believers",
+      "fileName": "79-Engineers_and_Believers",
+      "featured": false
+    },
+    "80": {
+      "id": 80,
+      "title": "Engineers and Believers",
+      "displayTitle": "Engineers and Believers (Alt)",
+      "fileName": "80-Engineers_and_Believers-Alt",
+      "featured": false
+    },
+    "81": {
+      "id": 81,
+      "title": "Kingdom Fellowship",
+      "displayTitle": "Kingdom Fellowship",
+      "fileName": "81-Kingdom_Fellowship",
+      "featured": false
+    },
+    "82": {
+      "id": 82,
+      "title": "Kingdom Fellowship",
+      "displayTitle": "Kingdom Fellowship (Alt)",
+      "fileName": "82-Kingdom_Fellowship-Alt",
+      "featured": false
+    },
+    "83": {
+      "id": 83,
+      "title": "Ancient Documents",
+      "displayTitle": "Ancient Documents",
+      "fileName": "83-Ancient_Documents",
+      "featured": false
+    },
+    "84": {
+      "id": 84,
+      "title": "Ancient Documents",
+      "displayTitle": "Ancient Documents (Alt)",
+      "fileName": "84-Ancient_Documents-Alt",
+      "featured": false
+    },
+    "85": {
+      "id": 85,
+      "title": "Up and Down",
+      "displayTitle": "Up and Down",
+      "fileName": "85-Up_and_Down",
+      "featured": false
+    },
+    "86": {
+      "id": 86,
+      "title": "Up and Down",
+      "displayTitle": "Up and Down (Alt)",
+      "fileName": "86-Up_and_Down-Alt",
+      "featured": false
+    },
+    "87": {
+      "id": 87,
+      "title": "From Darkness Into Light",
+      "displayTitle": "From Darkness Into Light",
+      "fileName": "87-From_Darkness_Into_Light",
+      "featured": false
+    },
+    "88": {
+      "id": 88,
+      "title": "From Darkness Into Light",
+      "displayTitle": "From Darkness Into Light (Alt)",
+      "fileName": "88-From_Darkness_Into_Light-Alt",
+      "featured": false
+    },
+    "89": {
+      "id": 89,
+      "title": "Metaphors or Reality",
+      "displayTitle": "Metaphors or Reality",
+      "fileName": "89-Metaphors_or_Reality",
+      "featured": false
+    },
+    "90": {
+      "id": 90,
+      "title": "Metaphors or Reality",
+      "displayTitle": "Metaphors or Reality (Alt)",
+      "fileName": "90-Metaphors_or_Reality-Alt",
+      "featured": false
+    },
+    "91": {
+      "id": 91,
+      "title": "The Kinsey Corruption",
+      "displayTitle": "The Kinsey Corruption",
+      "fileName": "91-The_Kinsey_Corruption",
+      "featured": false
+    },
+    "92": {
+      "id": 92,
+      "title": "The Kinsey Corruption",
+      "displayTitle": "The Kinsey Corruption (Alt)",
+      "fileName": "92-The_Kinsey_Corruption-Alt",
+      "featured": false
+    },
+    "93": {
+      "id": 93,
+      "title": "Playboy Shadow Mansions",
+      "displayTitle": "Playboy Shadow Mansions",
+      "fileName": "93-Playboy_Shadow_Mansions",
+      "featured": false
+    },
+    "94": {
+      "id": 94,
+      "title": "Playboy Shadow Mansions",
+      "displayTitle": "Playboy Shadow Mansions (Alt)",
+      "fileName": "94-Playboy_Shadow_Mansions-Alt",
+      "featured": false
+    },
+    "95": {
+      "id": 95,
+      "title": "Flat Earth Experiments",
+      "displayTitle": "Flat Earth Experiments",
+      "fileName": "95-Flat_Earth_Experiments",
+      "featured": false
+    },
+    "96": {
+      "id": 96,
+      "title": "Flat Earth Experiments",
+      "displayTitle": "Flat Earth Experiments (Alt)",
+      "fileName": "96-Flat_Earth_Experiments-Alt",
+      "featured": false
+    },
+    "97": {
+      "id": 97,
+      "title": "Income Tax Is Slavery",
+      "displayTitle": "Income Tax Is Slavery",
+      "fileName": "97-Income_Tax_Is_Slavery",
+      "featured": false
+    },
+    "98": {
+      "id": 98,
+      "title": "Income Tax Is Slavery",
+      "displayTitle": "Income Tax Is Slavery (Alt)",
+      "fileName": "98-Income_Tax_Is_Slavery-Alt",
+      "featured": false
+    },
+    "99": {
+      "id": 99,
+      "title": "Buried Cities Underground",
+      "displayTitle": "Buried Cities Underground",
+      "fileName": "99-Buried_Cities_Underground",
+      "featured": false
+    },
+    "100": {
+      "id": 100,
+      "title": "Buried Cities Underground",
+      "displayTitle": "Buried Cities Underground (Alt)",
+      "fileName": "100-Buried_Cities_Underground-Alt",
+      "featured": false
+    },
+    "101": {
+      "id": 101,
+      "title": "NASA Helium Balloons",
+      "displayTitle": "NASA Helium Balloons",
+      "fileName": "101-NASA_Helium_Balloons",
+      "featured": false
+    },
+    "102": {
+      "id": 102,
+      "title": "NASA Helium Balloons",
+      "displayTitle": "NASA Helium Balloons (Alt)",
+      "fileName": "102-NASA_Helium_Balloons-Alt",
+      "featured": false
+    },
+    "103": {
+      "id": 103,
+      "title": "MKUltra Never Ended",
+      "displayTitle": "MKUltra Never Ended",
+      "fileName": "103-MKUltra_Never_Ended",
+      "featured": false
+    },
+    "104": {
+      "id": 104,
+      "title": "MKUltra Never Ended",
+      "displayTitle": "MKUltra Never Ended (Alt)",
+      "fileName": "104-MKUltra_Never_Ended-Alt",
+      "featured": false
+    },
+    "105": {
+      "id": 105,
+      "title": "Freemason Jesters",
+      "displayTitle": "Freemason Jesters",
+      "fileName": "105-Freemason_Jesters",
+      "featured": false
+    },
+    "106": {
+      "id": 106,
+      "title": "Freemason Jesters",
+      "displayTitle": "Freemason Jesters (Alt)",
+      "fileName": "106-Freemason_Jesters-Alt",
+      "featured": false
+    },
+    "107": {
+      "id": 107,
+      "title": "Stem Cell Harvesting",
+      "displayTitle": "Stem Cell Harvesting",
+      "fileName": "107-Stem_Cell_Harvesting",
+      "featured": false
+    },
+    "108": {
+      "id": 108,
+      "title": "Stem Cell Harvesting",
+      "displayTitle": "Stem Cell Harvesting (Alt)",
+      "fileName": "108-Stem_Cell_Harvesting-Alt",
+      "featured": false
+    },
+    "109": {
+      "id": 109,
+      "title": "Biometric Beast System",
+      "displayTitle": "Biometric Beast System",
+      "fileName": "109-Biometric_Beast_System",
+      "featured": false
+    },
+    "110": {
+      "id": 110,
+      "title": "Biometric Beast System",
+      "displayTitle": "Biometric Beast System (Alt)",
+      "fileName": "110-Biometric_Beast_System-Alt",
+      "featured": false
+    },
+    "111": {
+      "id": 111,
+      "title": "Free Energy Murdered",
+      "displayTitle": "Free Energy Murdered",
+      "fileName": "111-Free_Energy_Murdered",
+      "featured": false
+    },
+    "112": {
+      "id": 112,
+      "title": "Free Energy Murdered",
+      "displayTitle": "Free Energy Murdered (Alt)",
+      "fileName": "112-Free_Energy_Murdered-Alt",
+      "featured": false
+    },
+    "113": {
+      "id": 113,
+      "title": "Kosher Mafia Rising",
+      "displayTitle": "Kosher Mafia Rising",
+      "fileName": "113-Kosher_Mafia_Rising",
+      "featured": false
+    },
+    "114": {
+      "id": 114,
+      "title": "Kosher Mafia Rising",
+      "displayTitle": "Kosher Mafia Rising (Alt)",
+      "fileName": "114-Kosher_Mafia_Rising-Alt",
+      "featured": false
+    },
+    "115": {
+      "id": 115,
+      "title": "Psychology Industry Hoax",
+      "displayTitle": "Psychology Industry Hoax",
+      "fileName": "115-Psychology_Industry_Hoax",
+      "featured": false
+    },
+    "116": {
+      "id": 116,
+      "title": "Psychology Industry Hoax",
+      "displayTitle": "Psychology Industry Hoax (Alt)",
+      "fileName": "116-Psychology_Industry_Hoax-Alt",
+      "featured": false
+    },
+    "117": {
+      "id": 117,
+      "title": "Sex Education Agenda",
+      "displayTitle": "Sex Education Agenda",
+      "fileName": "117-Sex_Education_Agenda",
+      "featured": false
+    },
+    "118": {
+      "id": 118,
+      "title": "Sex Education Agenda",
+      "displayTitle": "Sex Education Agenda (Alt)",
+      "fileName": "118-Sex_Education_Agenda-Alt",
+      "featured": false
+    },
+    "119": {
+      "id": 119,
+      "title": "Castle Bank Bahamas",
+      "displayTitle": "Castle Bank Bahamas",
+      "fileName": "119-Castle_Bank_Bahamas",
+      "featured": false
+    },
+    "120": {
+      "id": 120,
+      "title": "Castle Bank Bahamas",
+      "displayTitle": "Castle Bank Bahamas (Alt)",
+      "fileName": "120-Castle_Bank_Bahamas-Alt",
+      "featured": false
+    },
+    "121": {
+      "id": 121,
+      "title": "The Mud Flood Cover Up",
+      "displayTitle": "The Mud Flood Cover Up",
+      "fileName": "121-The_Mud_Flood_Cover_Up",
+      "featured": false
+    },
+    "122": {
+      "id": 122,
+      "title": "The Mud Flood Cover Up",
+      "displayTitle": "The Mud Flood Cover Up (Alt)",
+      "fileName": "122-The_Mud_Flood_Cover_Up-Alt",
+      "featured": false
+    },
+    "124": {
+      "id": 124,
+      "title": "Dinosaur Dig Deception",
+      "displayTitle": "Dinosaur Dig Deception (Alt)",
+      "fileName": "124-Dinosaur_Dig_Deception-Alt",
+      "featured": false
+    },
+    "125": {
+      "id": 125,
+      "title": "Illuminati Founding Fathers",
+      "displayTitle": "Illuminati Founding Fathers",
+      "fileName": "125-Illuminati_Founding_Fathers",
+      "featured": false
+    },
+    "126": {
+      "id": 126,
+      "title": "Illuminati Founding Fathers",
+      "displayTitle": "Illuminati Founding Fathers (Alt)",
+      "fileName": "126-Illuminati_Founding_Fathers-Alt",
+      "featured": false
+    },
+    "127": {
+      "id": 127,
+      "title": "Operation Midnight Climax",
+      "displayTitle": "Operation Midnight Climax",
+      "fileName": "127-Operation_Midnight_Climax",
+      "featured": false
+    },
+    "128": {
+      "id": 128,
+      "title": "Operation Midnight Climax",
+      "displayTitle": "Operation Midnight Climax (Alt)",
+      "fileName": "128-Operation_Midnight_Climax-Alt",
+      "featured": false
+    },
+    "129": {
+      "id": 129,
+      "title": "Rockefeller Medicine",
+      "displayTitle": "Rockefeller Medicine",
+      "fileName": "129-Rockefeller_Medicine",
+      "featured": false
+    },
+    "130": {
+      "id": 130,
+      "title": "Rockefeller Medicine",
+      "displayTitle": "Rockefeller Medicine (Alt)",
+      "fileName": "130-Rockefeller_Medicine-Alt",
+      "featured": false
+    },
+    "131": {
+      "id": 131,
+      "title": "Antarctic Treaty Secrets",
+      "displayTitle": "Antarctic Treaty Secrets",
+      "fileName": "131-Antarctic_Treaty_Secrets",
+      "featured": false
+    },
+    "132": {
+      "id": 132,
+      "title": "Antarctic Treaty Secrets",
+      "displayTitle": "Antarctic Treaty Secrets (Alt)",
+      "fileName": "132-Antarctic_Treaty_Secrets-Alt",
+      "featured": false
+    },
+    "133": {
+      "id": 133,
+      "title": "Gloria Steinem CIA",
+      "displayTitle": "Gloria Steinem CIA",
+      "fileName": "133-Gloria_Steinem_CIA",
+      "featured": false
+    },
+    "134": {
+      "id": 134,
+      "title": "Gloria Steinem CIA",
+      "displayTitle": "Gloria Steinem CIA (Alt)",
+      "fileName": "134-Gloria_Steinem_CIA-Alt",
+      "featured": false
+    },
+    "135": {
+      "id": 135,
+      "title": "Food Price Shadow Industry",
+      "displayTitle": "Food Price Shadow Industry",
+      "fileName": "135-Food_Price_Shadow_Industry",
+      "featured": false
+    },
+    "136": {
+      "id": 136,
+      "title": "Food Price Shadow Industry",
+      "displayTitle": "Food Price Shadow Industry (Alt)",
+      "fileName": "136-Food_Price_Shadow_Industry-Alt",
+      "featured": false
+    },
+    "137": {
+      "id": 137,
+      "title": "Bill Cosby Playboy Nights",
+      "displayTitle": "Bill Cosby Playboy Nights",
+      "fileName": "137-Bill_Cosby_Playboy_Nights",
+      "featured": false
+    },
+    "138": {
+      "id": 138,
+      "title": "Bill Cosby Playboy Nights",
+      "displayTitle": "Bill Cosby Playboy Nights (Alt)",
+      "fileName": "138-Bill_Cosby_Playboy_Nights-Alt",
+      "featured": false
+    },
+    "139": {
+      "id": 139,
+      "title": "Garabed Free Energy",
+      "displayTitle": "Garabed Free Energy",
+      "fileName": "139-Garabed_Free_Energy",
+      "featured": false
+    },
+    "140": {
+      "id": 140,
+      "title": "Garabed Free Energy",
+      "displayTitle": "Garabed Free Energy (Alt)",
+      "fileName": "140-Garabed_Free_Energy-Alt",
+      "featured": false
+    },
+    "141": {
+      "id": 141,
+      "title": "Playboy Murder Files",
+      "displayTitle": "Playboy Murder Files",
+      "fileName": "141-Playboy_Murder_Files",
+      "featured": false
+    },
+    "142": {
+      "id": 142,
+      "title": "Playboy Murder Files",
+      "displayTitle": "Playboy Murder Files (Alt)",
+      "fileName": "142-Playboy_Murder_Files-Alt",
+      "featured": false
+    },
+    "143": {
+      "id": 143,
+      "title": "World Fairs Reset",
+      "displayTitle": "World Fairs Reset",
+      "fileName": "143-World_Fairs_Reset",
+      "featured": false
+    },
+    "144": {
+      "id": 144,
+      "title": "World Fairs Reset",
+      "displayTitle": "World Fairs Reset (Alt)",
+      "fileName": "144-World_Fairs_Reset-Alt",
+      "featured": false
+    },
+    "145": {
+      "id": 145,
+      "title": "Constitution Constitutor Trap",
+      "displayTitle": "Constitution Constitutor Trap",
+      "fileName": "145-Constitution_Constitutor_Trap",
+      "featured": false
+    },
+    "146": {
+      "id": 146,
+      "title": "Constitution Constitutor Trap",
+      "displayTitle": "Constitution Constitutor Trap (Alt)",
+      "fileName": "146-Constitution_Constitutor_Trap-Alt",
+      "featured": false
+    },
+    "147": {
+      "id": 147,
+      "title": "Rabbi Hole Investigation",
+      "displayTitle": "Rabbi Hole Investigation",
+      "fileName": "147-Rabbi_Hole_Investigation",
+      "featured": false
+    },
+    "148": {
+      "id": 148,
+      "title": "Rabbi Hole Investigation",
+      "displayTitle": "Rabbi Hole Investigation (Alt)",
+      "fileName": "148-Rabbi_Hole_Investigation-Alt",
+      "featured": false
+    },
+    "149": {
+      "id": 149,
+      "title": "Wake Up Call Anthem",
+      "displayTitle": "Wake Up Call Anthem",
+      "fileName": "149-Wake_Up_Call_Anthem",
+      "featured": false
+    },
+    "150": {
+      "id": 150,
+      "title": "Wake Up Call Anthem",
+      "displayTitle": "Wake Up Call Anthem (Alt)",
+      "fileName": "150-Wake_Up_Call_Anthem-Alt",
+      "featured": false
+    }
+  }
+}

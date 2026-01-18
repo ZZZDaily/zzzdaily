@@ -1,0 +1,535 @@
+{
+  "album": "main",
+  "albumName": "ZZZ Daily",
+  "language": "es",
+  "languageName": "Spanish",
+  "trackCount": 150,
+  "tracksWithFiles": 75,
+  "tracks": {
+    "1": {
+      "id": 1,
+      "title": "Liberacion Limpia",
+      "displayTitle": "Liberacion Limpia",
+      "fileName": "1-Liberacion_Limpia",
+      "featured": false
+    },
+    "2": {
+      "id": 2,
+      "title": "Liberacion Limpia",
+      "displayTitle": "Liberacion Limpia (Alt)",
+      "fileName": "2-Liberacion_Limpia-Alt",
+      "featured": false
+    },
+    "3": {
+      "id": 3,
+      "title": "Bolas en Tu Cara",
+      "displayTitle": "Bolas en Tu Cara",
+      "fileName": "3-Bolas_en_Tu_Cara",
+      "featured": false
+    },
+    "4": {
+      "id": 4,
+      "title": "Bolas en Tu Cara",
+      "displayTitle": "Bolas en Tu Cara (Alt)",
+      "fileName": "4-Bolas_en_Tu_Cara-Alt",
+      "featured": false
+    },
+    "5": {
+      "id": 5,
+      "title": "Esclavos Zombis del 5G",
+      "displayTitle": "Esclavos Zombis del 5G",
+      "fileName": "5-Esclavos_Zombis_del_5G",
+      "featured": false
+    },
+    "6": {
+      "id": 6,
+      "title": "Esclavos Zombis del 5G",
+      "displayTitle": "Esclavos Zombis del 5G (Alt)",
+      "fileName": "6-Esclavos_Zombis_del_5G-Alt",
+      "featured": false
+    },
+    "7": {
+      "id": 7,
+      "title": "El Anticristo en el Trono",
+      "displayTitle": "El Anticristo en el Trono",
+      "fileName": "7-El_Anticristo_en_el_Trono",
+      "featured": false
+    },
+    "8": {
+      "id": 8,
+      "title": "El Anticristo en el Trono",
+      "displayTitle": "El Anticristo en el Trono (Alt)",
+      "fileName": "8-El_Anticristo_en_el_Trono-Alt",
+      "featured": false
+    },
+    "9": {
+      "id": 9,
+      "title": "Mentiras en Forma de Pera",
+      "displayTitle": "Mentiras en Forma de Pera",
+      "fileName": "9-Mentiras_en_Forma_de_Pera",
+      "featured": false
+    },
+    "10": {
+      "id": 10,
+      "title": "Mentiras en Forma de Pera",
+      "displayTitle": "Mentiras en Forma de Pera (Alt)",
+      "fileName": "10-Mentiras_en_Forma_de_Pera-Alt",
+      "featured": false
+    },
+    "11": {
+      "id": 11,
+      "title": "Citas de los Mentirosos",
+      "displayTitle": "Citas de los Mentirosos",
+      "fileName": "11-Citas_de_los_Mentirosos",
+      "featured": false
+    },
+    "12": {
+      "id": 12,
+      "title": "Citas de los Mentirosos",
+      "displayTitle": "Citas de los Mentirosos (Alt)",
+      "fileName": "12-Citas_de_los_Mentirosos-Alt",
+      "featured": false
+    },
+    "13": {
+      "id": 13,
+      "title": "Invasión de Asteroides Falsos",
+      "displayTitle": "Invasión de Asteroides Falsos",
+      "fileName": "13-Invasión_de_Asteroides_Falsos",
+      "featured": true
+    },
+    "14": {
+      "id": 14,
+      "title": "Invasión de Asteroides Falsos",
+      "displayTitle": "Invasión de Asteroides Falsos (Alt)",
+      "fileName": "14-Invasión_de_Asteroides_Falsos-Alt",
+      "featured": false
+    },
+    "15": {
+      "id": 15,
+      "title": "El Sistema de la Bestia",
+      "displayTitle": "El Sistema de la Bestia",
+      "fileName": "15-El_Sistema_de_la_Bestia",
+      "featured": false
+    },
+    "16": {
+      "id": 16,
+      "title": "El Sistema de la Bestia",
+      "displayTitle": "El Sistema de la Bestia (Alt)",
+      "fileName": "16-El_Sistema_de_la_Bestia-Alt",
+      "featured": false
+    },
+    "17": {
+      "id": 17,
+      "title": "Llamada a Despertar",
+      "displayTitle": "Llamada a Despertar",
+      "fileName": "17-Llamada_a_Despertar",
+      "featured": false
+    },
+    "18": {
+      "id": 18,
+      "title": "Llamada a Despertar",
+      "displayTitle": "Llamada a Despertar (Alt)",
+      "fileName": "18-Llamada_a_Despertar-Alt",
+      "featured": false
+    },
+    "19": {
+      "id": 19,
+      "title": "Fraudes y Titeres",
+      "displayTitle": "Fraudes y Titeres",
+      "fileName": "19-Fraudes_y_Titeres",
+      "featured": false
+    },
+    "20": {
+      "id": 20,
+      "title": "Fraudes y Titeres",
+      "displayTitle": "Fraudes y Titeres (Alt)",
+      "fileName": "20-Fraudes_y_Titeres-Alt",
+      "featured": false
+    },
+    "21": {
+      "id": 21,
+      "title": "Mintieron Sobre Todo",
+      "displayTitle": "Mintieron Sobre Todo",
+      "fileName": "21-Mintieron_Sobre_Todo",
+      "featured": false
+    },
+    "22": {
+      "id": 22,
+      "title": "Mintieron Sobre Todo",
+      "displayTitle": "Mintieron Sobre Todo (Alt)",
+      "fileName": "22-Mintieron_Sobre_Todo-Alt",
+      "featured": false
+    },
+    "23": {
+      "id": 23,
+      "title": "Cristo es Rey (El Himno de los Guerreros)",
+      "displayTitle": "Cristo es Rey (El Himno de los Guerreros)",
+      "fileName": "23-Cristo_es_Rey_(El_Himno_de_los_Guerreros)",
+      "featured": false
+    },
+    "24": {
+      "id": 24,
+      "title": "Cristo es Rey (El Himno de los Guerreros)",
+      "displayTitle": "Cristo es Rey (El Himno de los Guerreros) (Alt)",
+      "fileName": "24-Cristo_es_Rey_(El_Himno_de_los_Guerreros)-Alt",
+      "featured": false
+    },
+    "25": {
+      "id": 25,
+      "title": "Bolas en Tu Cara Guarda la Verdad en Tu Corazon",
+      "displayTitle": "Bolas en Tu Cara Guarda la Verdad en Tu Corazon",
+      "fileName": "25-Bolas_en_Tu_Cara_Guarda_la_Verdad_en_Tu_Corazon",
+      "featured": false
+    },
+    "26": {
+      "id": 26,
+      "title": "Guarda la Verdad en Tu Corazon",
+      "displayTitle": "Guarda la Verdad en Tu Corazon (Alt)",
+      "fileName": "26-Guarda_la_Verdad_en_Tu_Corazon-Alt",
+      "featured": false
+    },
+    "27": {
+      "id": 27,
+      "title": "Bolas en Tu Cara (Remix)",
+      "displayTitle": "Bolas en Tu Cara (Remix)",
+      "fileName": "27-Bolas_en_Tu_Cara_(Remix)",
+      "featured": false
+    },
+    "28": {
+      "id": 28,
+      "title": "Bolas en Tu Cara (Remix)",
+      "displayTitle": "Bolas en Tu Cara (Remix) (Alt)",
+      "fileName": "28-Bolas_en_Tu_Cara_(Remix)-Alt",
+      "featured": false
+    },
+    "29": {
+      "id": 29,
+      "title": "No Seas Enganado",
+      "displayTitle": "No Seas Enganado",
+      "fileName": "29-No_Seas_Enganado",
+      "featured": false
+    },
+    "30": {
+      "id": 30,
+      "title": "No Seas Enganado",
+      "displayTitle": "No Seas Enganado (Alt)",
+      "fileName": "30-No_Seas_Enganado-Alt",
+      "featured": false
+    },
+    "31": {
+      "id": 31,
+      "title": "Control Basado en Miedo",
+      "displayTitle": "Control Basado en Miedo",
+      "fileName": "31-Control_Basado_en_Miedo",
+      "featured": false
+    },
+    "32": {
+      "id": 32,
+      "title": "Control Basado en Miedo",
+      "displayTitle": "Control Basado en Miedo (Alt)",
+      "fileName": "32-Control_Basado_en_Miedo-Alt",
+      "featured": false
+    },
+    "33": {
+      "id": 33,
+      "title": "DEW en las Calles",
+      "displayTitle": "DEW en las Calles",
+      "fileName": "33-DEW_en_las_Calles",
+      "featured": false
+    },
+    "34": {
+      "id": 34,
+      "title": "DEW en las Calles",
+      "displayTitle": "DEW en las Calles (Alt)",
+      "fileName": "34-DEW_en_las_Calles-Alt",
+      "featured": false
+    },
+    "35": {
+      "id": 35,
+      "title": "ID Digital 2026-Esclavitud Biometrica Obligatoria",
+      "displayTitle": "ID Digital 2026-Esclavitud Biometrica Obligatoria",
+      "fileName": "35-ID_Digital_2026-Esclavitud_Biometrica_Obligatoria",
+      "featured": false
+    },
+    "36": {
+      "id": 36,
+      "title": "ID Digital 2026-Esclavitud Biometrica Obligatoria",
+      "displayTitle": "ID Digital 2026-Esclavitud Biometrica Obligatoria (Alt)",
+      "fileName": "36-ID_Digital_2026-Esclavitud_Biometrica_Obligatoria-Alt",
+      "featured": false
+    },
+    "37": {
+      "id": 37,
+      "title": "Telepatia Neuralink",
+      "displayTitle": "Telepatia Neuralink",
+      "fileName": "37-Telepatia_Neuralink",
+      "featured": false
+    },
+    "38": {
+      "id": 38,
+      "title": "Telepatia Neuralink",
+      "displayTitle": "Telepatia Neuralink (Alt)",
+      "fileName": "38-Telepatia_Neuralink-Alt",
+      "featured": false
+    },
+    "39": {
+      "id": 39,
+      "title": "Microchip Mesogeno-Auto Ensamblaje en Sangre",
+      "displayTitle": "Microchip Mesogeno-Auto Ensamblaje en Sangre",
+      "fileName": "39-Microchip_Mesogeno-Auto_Ensamblaje_en_Sangre",
+      "featured": false
+    },
+    "40": {
+      "id": 40,
+      "title": "Microchip Mesogeno-Auto Ensamblaje en Sangre",
+      "displayTitle": "Microchip Mesogeno-Auto Ensamblaje en Sangre (Alt)",
+      "fileName": "40-Microchip_Mesogeno-Auto_Ensamblaje_en_Sangre-Alt",
+      "featured": false
+    },
+    "41": {
+      "id": 41,
+      "title": "Ejercito de Robots-Tesla Optimus y Figure AI",
+      "displayTitle": "Ejercito de Robots-Tesla Optimus y Figure AI",
+      "fileName": "41-Ejercito_de_Robots-Tesla_Optimus_y_Figure_AI",
+      "featured": false
+    },
+    "42": {
+      "id": 42,
+      "title": "Ejercito de Robots-Tesla Optimus y Figure AI",
+      "displayTitle": "Ejercito de Robots-Tesla Optimus y Figure AI (Alt)",
+      "fileName": "42-Ejercito_de_Robots-Tesla_Optimus_y_Figure_AI-Alt",
+      "featured": false
+    },
+    "43": {
+      "id": 43,
+      "title": "Prueba de Transmision-ARNm en No Vacunados",
+      "displayTitle": "Prueba de Transmision-ARNm en No Vacunados",
+      "fileName": "43-Prueba_de_Transmision-ARNm_en_No_Vacunados",
+      "featured": false
+    },
+    "44": {
+      "id": 44,
+      "title": "Prueba de Transmision-ARNm en No Vacunados",
+      "displayTitle": "Prueba de Transmision-ARNm en No Vacunados (Alt)",
+      "fileName": "44-Prueba_de_Transmision-ARNm_en_No_Vacunados-Alt",
+      "featured": false
+    },
+    "45": {
+      "id": 45,
+      "title": "Singularidad 2030-Profecia de Ray Kurzweil",
+      "displayTitle": "Singularidad 2030-Profecia de Ray Kurzweil",
+      "fileName": "45-Singularidad_2030-Profecia_de_Ray_Kurzweil",
+      "featured": false
+    },
+    "46": {
+      "id": 46,
+      "title": "Singularidad 2030-Profecia de Ray Kurzweil",
+      "displayTitle": "Singularidad 2030-Profecia de Ray Kurzweil (Alt)",
+      "fileName": "46-Singularidad_2030-Profecia_de_Ray_Kurzweil-Alt",
+      "featured": false
+    },
+    "47": {
+      "id": 47,
+      "title": "Una Palabra Clave-IA Se Vuelve Malvada",
+      "displayTitle": "Una Palabra Clave-IA Se Vuelve Malvada",
+      "fileName": "47-Una_Palabra_Clave-IA_Se_Vuelve_Malvada",
+      "featured": false
+    },
+    "48": {
+      "id": 48,
+      "title": "Una Palabra Clave-IA Se Vuelve Malvada",
+      "displayTitle": "Una Palabra Clave-IA Se Vuelve Malvada (Alt)",
+      "fileName": "48-Una_Palabra_Clave-IA_Se_Vuelve_Malvada-Alt",
+      "featured": false
+    },
+    "49": {
+      "id": 49,
+      "title": "Enjambres de Nanobots-Sistemas Autonomos Controlados por IA",
+      "displayTitle": "Enjambres de Nanobots-Sistemas Autonomos Controlados por IA",
+      "fileName": "49-Enjambres_de_Nanobots-Sistemas_Autonomos_Controlados_por_IA",
+      "featured": false
+    },
+    "50": {
+      "id": 50,
+      "title": "Enjambres de Nanobots-Sistemas Autonomos Controlados por IA",
+      "displayTitle": "Enjambres de Nanobots-Sistemas Autonomos Controlados por IA (Alt)",
+      "fileName": "50-Enjambres_de_Nanobots-Sistemas_Autonomos_Controlados_por_IA-Alt",
+      "featured": false
+    },
+    "51": {
+      "id": 51,
+      "title": "Prision de Ciudad Inteligente-Red de Vigilancia Completa",
+      "displayTitle": "Prision de Ciudad Inteligente-Red de Vigilancia Completa",
+      "fileName": "51-Prision_de_Ciudad_Inteligente-Red_de_Vigilancia_Completa",
+      "featured": false
+    },
+    "52": {
+      "id": 52,
+      "title": "Prision de Ciudad Inteligente-Red de Vigilancia Completa",
+      "displayTitle": "Prision de Ciudad Inteligente-Red de Vigilancia Completa (Alt)",
+      "fileName": "52-Prision_de_Ciudad_Inteligente-Red_de_Vigilancia_Completa-Alt",
+      "featured": false
+    },
+    "53": {
+      "id": 53,
+      "title": "Cerebro de Silicio-Toma del Gemelo Digital",
+      "displayTitle": "Cerebro de Silicio-Toma del Gemelo Digital",
+      "fileName": "53-Cerebro_de_Silicio-Toma_del_Gemelo_Digital",
+      "featured": false
+    },
+    "54": {
+      "id": 54,
+      "title": "Cerebro de Silicio-Toma del Gemelo Digital",
+      "displayTitle": "Cerebro de Silicio-Toma del Gemelo Digital (Alt)",
+      "fileName": "54-Cerebro_de_Silicio-Toma_del_Gemelo_Digital-Alt",
+      "featured": false
+    },
+    "55": {
+      "id": 55,
+      "title": "Guerra Cognitiva-Batalla por el Cerebro",
+      "displayTitle": "Guerra Cognitiva-Batalla por el Cerebro",
+      "fileName": "55-Guerra_Cognitiva-Batalla_por_el_Cerebro",
+      "featured": false
+    },
+    "56": {
+      "id": 56,
+      "title": "Guerra Cognitiva-Batalla por el Cerebro",
+      "displayTitle": "Guerra Cognitiva-Batalla por el Cerebro (Alt)",
+      "fileName": "56-Guerra_Cognitiva-Batalla_por_el_Cerebro-Alt",
+      "featured": false
+    },
+    "57": {
+      "id": 57,
+      "title": "Codigo de Extincion-IA Nos Matara a Todos",
+      "displayTitle": "Codigo de Extincion-IA Nos Matara a Todos",
+      "fileName": "57-Codigo_de_Extincion-IA_Nos_Matara_a_Todos",
+      "featured": false
+    },
+    "58": {
+      "id": 58,
+      "title": "Codigo de Extincion-IA Nos Matara a Todos",
+      "displayTitle": "Codigo de Extincion-IA Nos Matara a Todos (Alt)",
+      "fileName": "58-Codigo_de_Extincion-IA_Nos_Matara_a_Todos-Alt",
+      "featured": false
+    },
+    "59": {
+      "id": 59,
+      "title": "Shock del Futuro-Predijeron Tu Paralisis",
+      "displayTitle": "Shock del Futuro-Predijeron Tu Paralisis",
+      "fileName": "59-Shock_del_Futuro-Predijeron_Tu_Paralisis",
+      "featured": false
+    },
+    "60": {
+      "id": 60,
+      "title": "Shock del Futuro-Predijeron Tu Paralisis",
+      "displayTitle": "Shock del Futuro-Predijeron Tu Paralisis (Alt)",
+      "fileName": "60-Shock_del_Futuro-Predijeron_Tu_Paralisis-Alt",
+      "featured": false
+    },
+    "61": {
+      "id": 61,
+      "title": "Invocando al Demonio-Advertencia Historica de Elon",
+      "displayTitle": "Invocando al Demonio-Advertencia Historica de Elon",
+      "fileName": "61-Invocando_al_Demonio-Advertencia_Historica_de_Elon",
+      "featured": false
+    },
+    "62": {
+      "id": 62,
+      "title": "Invocando al Demonio-Advertencia Historica de Elon",
+      "displayTitle": "Invocando al Demonio-Advertencia Historica de Elon (Alt)",
+      "fileName": "62-Invocando_al_Demonio-Advertencia_Historica_de_Elon-Alt",
+      "featured": false
+    },
+    "63": {
+      "id": 63,
+      "title": "Biologia Sintetica-Plataforma de Bioarmas",
+      "displayTitle": "Biologia Sintetica-Plataforma de Bioarmas",
+      "fileName": "63-Biologia_Sintetica-Plataforma_de_Bioarmas",
+      "featured": false
+    },
+    "64": {
+      "id": 64,
+      "title": "Biologia Sintetica-Plataforma de Bioarmas",
+      "displayTitle": "Biologia Sintetica-Plataforma de Bioarmas (Alt)",
+      "fileName": "64-Biologia_Sintetica-Plataforma_de_Bioarmas-Alt",
+      "featured": false
+    },
+    "65": {
+      "id": 65,
+      "title": "Cuerpos Bluetooth-Humanos con Direccion MAC",
+      "displayTitle": "Cuerpos Bluetooth-Humanos con Direccion MAC",
+      "fileName": "65-Cuerpos_Bluetooth-Humanos_con_Direccion_MAC",
+      "featured": false
+    },
+    "66": {
+      "id": 66,
+      "title": "Cuerpos Bluetooth-Humanos con Direccion MAC",
+      "displayTitle": "Cuerpos Bluetooth-Humanos con Direccion MAC (Alt)",
+      "fileName": "66-Cuerpos_Bluetooth-Humanos_con_Direccion_MAC-Alt",
+      "featured": false
+    },
+    "67": {
+      "id": 67,
+      "title": "Polvo Inteligente por Todas Partes-Tecnologia de Vigilancia Militar",
+      "displayTitle": "Polvo Inteligente por Todas Partes-Tecnologia de Vigilancia Militar",
+      "fileName": "67-Polvo_Inteligente_por_Todas_Partes-Tecnologia_de_Vigilancia_Militar",
+      "featured": false
+    },
+    "68": {
+      "id": 68,
+      "title": "Polvo Inteligente por Todas Partes-Tecnologia de Vigilancia Militar",
+      "displayTitle": "Polvo Inteligente por Todas Partes-Tecnologia de Vigilancia Militar (Alt)",
+      "fileName": "68-Polvo_Inteligente_por_Todas_Partes-Tecnologia_de_Vigilancia_Militar-Alt",
+      "featured": false
+    },
+    "69": {
+      "id": 69,
+      "title": "Mente Colmena-Conciencia Colectiva Cibernetica",
+      "displayTitle": "Mente Colmena-Conciencia Colectiva Cibernetica",
+      "fileName": "69-Mente_Colmena-Conciencia_Colectiva_Cibernetica",
+      "featured": false
+    },
+    "70": {
+      "id": 70,
+      "title": "Mente Colmena-Conciencia Colectiva Cibernetica",
+      "displayTitle": "Mente Colmena-Conciencia Colectiva Cibernetica (Alt)",
+      "fileName": "70-Mente_Colmena-Conciencia_Colectiva_Cibernetica-Alt",
+      "featured": false
+    },
+    "71": {
+      "id": 71,
+      "title": "Llamada de Despertar-Ultima Resistencia de la Humanidad",
+      "displayTitle": "Llamada de Despertar-Ultima Resistencia de la Humanidad",
+      "fileName": "71-Llamada_de_Despertar-Ultima_Resistencia_de_la_Humanidad",
+      "featured": false
+    },
+    "72": {
+      "id": 72,
+      "title": "Llamada de Despertar-Ultima Resistencia de la Humanidad",
+      "displayTitle": "Llamada de Despertar-Ultima Resistencia de la Humanidad (Alt)",
+      "fileName": "72-Llamada_de_Despertar-Ultima_Resistencia_de_la_Humanidad-Alt",
+      "featured": false
+    },
+    "73": {
+      "id": 73,
+      "title": "Bolas en Tu Cara Guarda la Verdad en Tu Corazon variant",
+      "displayTitle": "Bolas en Tu Cara Guarda la Verdad en Tu Corazon variant",
+      "fileName": "73-Bolas_en_Tu_Cara_Guarda_la_Verdad_en_Tu_Corazon_variant",
+      "featured": false
+    },
+    "74": {
+      "id": 74,
+      "title": "Guarda la Verdad en Tu Corazon variant",
+      "displayTitle": "Guarda la Verdad en Tu Corazon variant (Alt)",
+      "fileName": "74-Guarda_la_Verdad_en_Tu_Corazon_variant-Alt",
+      "featured": false
+    },
+    "75": {
+      "id": 75,
+      "title": "Guarda la Verdad en Tu Corazon standalone",
+      "displayTitle": "Guarda la Verdad en Tu Corazon standalone",
+      "fileName": "75-Guarda_la_Verdad_en_Tu_Corazon_standalone",
+      "featured": false
+    }
+  }
+}

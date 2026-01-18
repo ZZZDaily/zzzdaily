@@ -1,0 +1,24 @@
+{
+  "album": "main",
+  "albumName": "ZZZ Daily",
+  "language": "de",
+  "languageName": "German",
+  "trackCount": 150,
+  "tracksWithFiles": 2,
+  "tracks": {
+    "13": {
+      "id": 13,
+      "title": "Falsche Asteroiden Invasion",
+      "displayTitle": "Falsche Asteroiden Invasion",
+      "fileName": "13-Falsche_Asteroiden_Invasion",
+      "featured": true
+    },
+    "14": {
+      "id": 14,
+      "title": "Falsche Asteroiden Invasion",
+      "displayTitle": "Falsche Asteroiden Invasion (Alt)",
+      "fileName": "14-Falsche_Asteroiden_Invasion-Alt",
+      "featured": false
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "album": "main",
+  "albumName": "ZZZ Daily",
+  "language": "uk",
+  "languageName": "Ukrainian",
+  "trackCount": 150,
+  "tracksWithFiles": 2,
+  "tracks": {
+    "13": {
+      "id": 13,
+      "title": "Фальшива Інвазія Астероїдів",
+      "displayTitle": "Фальшива Інвазія Астероїдів",
+      "fileName": "13-Фальшива_Інвазія_Астероїдів",
+      "featured": true
+    },
+    "14": {
+      "id": 14,
+      "title": "Фальшива Інвазія Астероїдів",
+      "displayTitle": "Фальшива Інвазія Астероїдів (Alt)",
+      "fileName": "14-Фальшива_Інвазія_Астероїдів-Alt",
+      "featured": false
+    }
+  }
+}

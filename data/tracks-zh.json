@@ -1,0 +1,24 @@
+{
+  "album": "main",
+  "albumName": "ZZZ Daily",
+  "language": "zh",
+  "languageName": "Chinese",
+  "trackCount": 150,
+  "tracksWithFiles": 2,
+  "tracks": {
+    "13": {
+      "id": 13,
+      "title": "假小行星入侵",
+      "displayTitle": "假小行星入侵",
+      "fileName": "13-假小行星入侵",
+      "featured": true
+    },
+    "14": {
+      "id": 14,
+      "title": "假小行星入侵",
+      "displayTitle": "假小行星入侵 (Alt)",
+      "fileName": "14-假小行星入侵-Alt",
+      "featured": false
+    }
+  }
+}

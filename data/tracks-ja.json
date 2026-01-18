@@ -1,0 +1,24 @@
+{
+  "album": "main",
+  "albumName": "ZZZ Daily",
+  "language": "ja",
+  "languageName": "Japanese",
+  "trackCount": 150,
+  "tracksWithFiles": 2,
+  "tracks": {
+    "13": {
+      "id": 13,
+      "title": "偽の小惑星侵略",
+      "displayTitle": "偽の小惑星侵略",
+      "fileName": "13-偽の小惑星侵略",
+      "featured": true
+    },
+    "14": {
+      "id": 14,
+      "title": "偽の小惑星侵略",
+      "displayTitle": "偽の小惑星侵略 (Alt)",
+      "fileName": "14-偽の小惑星侵略-Alt",
+      "featured": false
+    }
+  }
+}

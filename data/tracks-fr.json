@@ -1,0 +1,24 @@
+{
+  "album": "main",
+  "albumName": "ZZZ Daily",
+  "language": "fr",
+  "languageName": "French",
+  "trackCount": 150,
+  "tracksWithFiles": 2,
+  "tracks": {
+    "13": {
+      "id": 13,
+      "title": "Fausse Invasion d Astéroïdes",
+      "displayTitle": "Fausse Invasion d Astéroïdes",
+      "fileName": "13-Fausse_Invasion_d_Astéroïdes",
+      "featured": true
+    },
+    "14": {
+      "id": 14,
+      "title": "Fausse Invasion d Astéroïdes",
+      "displayTitle": "Fausse Invasion d Astéroïdes (Alt)",
+      "fileName": "14-Fausse_Invasion_d_Astéroïdes-Alt",
+      "featured": false
+    }
+  }
+}

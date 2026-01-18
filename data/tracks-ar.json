@@ -1,0 +1,24 @@
+{
+  "album": "main",
+  "albumName": "ZZZ Daily",
+  "language": "ar",
+  "languageName": "Arabic",
+  "trackCount": 150,
+  "tracksWithFiles": 2,
+  "tracks": {
+    "13": {
+      "id": 13,
+      "title": "غزو الكويكبات المزيف",
+      "displayTitle": "غزو الكويكبات المزيف",
+      "fileName": "13-غزو_الكويكبات_المزيف",
+      "featured": true
+    },
+    "14": {
+      "id": 14,
+      "title": "غزو الكويكبات المزيف",
+      "displayTitle": "غزو الكويكبات المزيف (Alt)",
+      "fileName": "14-غزو_الكويكبات_المزيف-Alt",
+      "featured": false
+    }
+  }
+}

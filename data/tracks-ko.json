@@ -1,0 +1,24 @@
+{
+  "album": "main",
+  "albumName": "ZZZ Daily",
+  "language": "ko",
+  "languageName": "Korean",
+  "trackCount": 150,
+  "tracksWithFiles": 2,
+  "tracks": {
+    "13": {
+      "id": 13,
+      "title": "가짜 소행성 침공",
+      "displayTitle": "가짜 소행성 침공",
+      "fileName": "13-가짜_소행성_침공",
+      "featured": true
+    },
+    "14": {
+      "id": 14,
+      "title": "가짜 소행성 침공",
+      "displayTitle": "가짜 소행성 침공 (Alt)",
+      "fileName": "14-가짜_소행성_침공-Alt",
+      "featured": false
+    }
+  }
+}
