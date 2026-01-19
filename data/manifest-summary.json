@@ -1,8 +1,9 @@
 {
-  "generated": "2026-01-18T22:36:54.382Z",
+  "generated": "2026-01-19T00:01:57.652Z",
   "album": {
-    "id": "main",
-    "name": "ZZZ Daily",
+    "id": "zzzdaily",
+    "name": "Store The Truth In Your Heart",
+    "nameTranslated": true,
     "trackCount": 150,
     "featuredTrackId": 13
   },
