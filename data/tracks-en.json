@@ -4,7 +4,7 @@
   "language": "en",
   "languageName": "English",
   "trackCount": 150,
-  "tracksWithFiles": 149,
+  "tracksWithFiles": 499,
   "tracks": {
     "1": {
       "id": 1,
@@ -1047,6 +1047,2456 @@
       "title": "Wake Up Call Anthem",
       "displayTitle": "Wake Up Call Anthem (Alt)",
       "fileName": "150-Wake_Up_Call_Anthem-Alt",
+      "featured": false
+    },
+    "151": {
+      "id": 151,
+      "title": "One Nation Under Blackmail",
+      "displayTitle": "One Nation Under Blackmail",
+      "fileName": "151-One_Nation_Under_Blackmail",
+      "featured": false
+    },
+    "152": {
+      "id": 152,
+      "title": "One Nation Under Blackmail",
+      "displayTitle": "One Nation Under Blackmail (Alt)",
+      "fileName": "152-One_Nation_Under_Blackmail-Alt",
+      "featured": false
+    },
+    "153": {
+      "id": 153,
+      "title": "Epstein Island Blues",
+      "displayTitle": "Epstein Island Blues",
+      "fileName": "153-Epstein_Island_Blues",
+      "featured": false
+    },
+    "154": {
+      "id": 154,
+      "title": "Epstein Island Blues",
+      "displayTitle": "Epstein Island Blues (Alt)",
+      "fileName": "154-Epstein_Island_Blues-Alt",
+      "featured": false
+    },
+    "155": {
+      "id": 155,
+      "title": "Cyber Polygon Prophecy",
+      "displayTitle": "Cyber Polygon Prophecy",
+      "fileName": "155-Cyber_Polygon_Prophecy",
+      "featured": false
+    },
+    "156": {
+      "id": 156,
+      "title": "Cyber Polygon Prophecy",
+      "displayTitle": "Cyber Polygon Prophecy (Alt)",
+      "fileName": "156-Cyber_Polygon_Prophecy-Alt",
+      "featured": false
+    },
+    "157": {
+      "id": 157,
+      "title": "Palantir Panopticon",
+      "displayTitle": "Palantir Panopticon",
+      "fileName": "157-Palantir_Panopticon",
+      "featured": false
+    },
+    "158": {
+      "id": 158,
+      "title": "Palantir Panopticon",
+      "displayTitle": "Palantir Panopticon (Alt)",
+      "fileName": "158-Palantir_Panopticon-Alt",
+      "featured": false
+    },
+    "159": {
+      "id": 159,
+      "title": "PayPal Mafia Blues",
+      "displayTitle": "PayPal Mafia Blues",
+      "fileName": "159-PayPal_Mafia_Blues",
+      "featured": false
+    },
+    "160": {
+      "id": 160,
+      "title": "PayPal Mafia Blues",
+      "displayTitle": "PayPal Mafia Blues (Alt)",
+      "fileName": "160-PayPal_Mafia_Blues-Alt",
+      "featured": false
+    },
+    "161": {
+      "id": 161,
+      "title": "CBDC Chains",
+      "displayTitle": "CBDC Chains",
+      "fileName": "161-CBDC_Chains",
+      "featured": false
+    },
+    "162": {
+      "id": 162,
+      "title": "CBDC Chains",
+      "displayTitle": "CBDC Chains (Alt)",
+      "fileName": "162-CBDC_Chains-Alt",
+      "featured": false
+    },
+    "163": {
+      "id": 163,
+      "title": "Carbon Credit Coup",
+      "displayTitle": "Carbon Credit Coup",
+      "fileName": "163-Carbon_Credit_Coup",
+      "featured": false
+    },
+    "164": {
+      "id": 164,
+      "title": "Carbon Credit Coup",
+      "displayTitle": "Carbon Credit Coup (Alt)",
+      "fileName": "164-Carbon_Credit_Coup-Alt",
+      "featured": false
+    },
+    "165": {
+      "id": 165,
+      "title": "Event 201 Came True",
+      "displayTitle": "Event 201 Came True",
+      "fileName": "165-Event_201_Came_True",
+      "featured": false
+    },
+    "166": {
+      "id": 166,
+      "title": "Event 201 Came True",
+      "displayTitle": "Event 201 Came True (Alt)",
+      "fileName": "166-Event_201_Came_True-Alt",
+      "featured": false
+    },
+    "167": {
+      "id": 167,
+      "title": "DARPA Dark Winter",
+      "displayTitle": "DARPA Dark Winter",
+      "fileName": "167-DARPA_Dark_Winter",
+      "featured": false
+    },
+    "168": {
+      "id": 168,
+      "title": "DARPA Dark Winter",
+      "displayTitle": "DARPA Dark Winter (Alt)",
+      "fileName": "168-DARPA_Dark_Winter-Alt",
+      "featured": false
+    },
+    "169": {
+      "id": 169,
+      "title": "Diddy Shadow Network",
+      "displayTitle": "Diddy Shadow Network",
+      "fileName": "169-Diddy_Shadow_Network",
+      "featured": false
+    },
+    "170": {
+      "id": 170,
+      "title": "Diddy Shadow Network",
+      "displayTitle": "Diddy Shadow Network (Alt)",
+      "fileName": "170-Diddy_Shadow_Network-Alt",
+      "featured": false
+    },
+    "171": {
+      "id": 171,
+      "title": "Great Reset Rising",
+      "displayTitle": "Great Reset Rising",
+      "fileName": "171-Great_Reset_Rising",
+      "featured": false
+    },
+    "172": {
+      "id": 172,
+      "title": "Great Reset Rising",
+      "displayTitle": "Great Reset Rising (Alt)",
+      "fileName": "172-Great_Reset_Rising-Alt",
+      "featured": false
+    },
+    "173": {
+      "id": 173,
+      "title": "Technocratic Dark State",
+      "displayTitle": "Technocratic Dark State",
+      "fileName": "173-Technocratic_Dark_State",
+      "featured": false
+    },
+    "174": {
+      "id": 174,
+      "title": "Technocratic Dark State",
+      "displayTitle": "Technocratic Dark State (Alt)",
+      "fileName": "174-Technocratic_Dark_State-Alt",
+      "featured": false
+    },
+    "175": {
+      "id": 175,
+      "title": "Biometric Beast System",
+      "displayTitle": "Biometric Beast System",
+      "fileName": "175-Biometric_Beast_System",
+      "featured": false
+    },
+    "176": {
+      "id": 176,
+      "title": "Biometric Beast System",
+      "displayTitle": "Biometric Beast System (Alt)",
+      "fileName": "176-Biometric_Beast_System-Alt",
+      "featured": false
+    },
+    "177": {
+      "id": 177,
+      "title": "Smart Wall Smart Cage",
+      "displayTitle": "Smart Wall Smart Cage",
+      "fileName": "177-Smart_Wall_Smart_Cage",
+      "featured": false
+    },
+    "178": {
+      "id": 178,
+      "title": "Smart Wall Smart Cage",
+      "displayTitle": "Smart Wall Smart Cage (Alt)",
+      "fileName": "178-Smart_Wall_Smart_Cage-Alt",
+      "featured": false
+    },
+    "179": {
+      "id": 179,
+      "title": "Engineering Contagion",
+      "displayTitle": "Engineering Contagion",
+      "fileName": "179-Engineering_Contagion",
+      "featured": false
+    },
+    "180": {
+      "id": 180,
+      "title": "Engineering Contagion",
+      "displayTitle": "Engineering Contagion (Alt)",
+      "fileName": "180-Engineering_Contagion-Alt",
+      "featured": false
+    },
+    "181": {
+      "id": 181,
+      "title": "Ending Anonymity",
+      "displayTitle": "Ending Anonymity",
+      "fileName": "181-Ending_Anonymity",
+      "featured": false
+    },
+    "182": {
+      "id": 182,
+      "title": "Ending Anonymity",
+      "displayTitle": "Ending Anonymity (Alt)",
+      "fileName": "182-Ending_Anonymity-Alt",
+      "featured": false
+    },
+    "183": {
+      "id": 183,
+      "title": "Ukraine Testing Ground",
+      "displayTitle": "Ukraine Testing Ground",
+      "fileName": "183-Ukraine_Testing_Ground",
+      "featured": false
+    },
+    "184": {
+      "id": 184,
+      "title": "Ukraine Testing Ground",
+      "displayTitle": "Ukraine Testing Ground (Alt)",
+      "fileName": "184-Ukraine_Testing_Ground-Alt",
+      "featured": false
+    },
+    "185": {
+      "id": 185,
+      "title": "Maxwell Dynasty",
+      "displayTitle": "Maxwell Dynasty",
+      "fileName": "185-Maxwell_Dynasty",
+      "featured": false
+    },
+    "186": {
+      "id": 186,
+      "title": "Maxwell Dynasty",
+      "displayTitle": "Maxwell Dynasty (Alt)",
+      "fileName": "186-Maxwell_Dynasty-Alt",
+      "featured": false
+    },
+    "187": {
+      "id": 187,
+      "title": "Natural Asset Corporations",
+      "displayTitle": "Natural Asset Corporations",
+      "fileName": "187-Natural_Asset_Corporations",
+      "featured": false
+    },
+    "188": {
+      "id": 188,
+      "title": "Natural Asset Corporations",
+      "displayTitle": "Natural Asset Corporations (Alt)",
+      "fileName": "188-Natural_Asset_Corporations-Alt",
+      "featured": false
+    },
+    "189": {
+      "id": 189,
+      "title": "Operation Warp Speed",
+      "displayTitle": "Operation Warp Speed",
+      "fileName": "189-Operation_Warp_Speed",
+      "featured": false
+    },
+    "190": {
+      "id": 190,
+      "title": "Operation Warp Speed",
+      "displayTitle": "Operation Warp Speed (Alt)",
+      "fileName": "190-Operation_Warp_Speed-Alt",
+      "featured": false
+    },
+    "191": {
+      "id": 191,
+      "title": "Rockefeller Medicine",
+      "displayTitle": "Rockefeller Medicine",
+      "fileName": "191-Rockefeller_Medicine",
+      "featured": false
+    },
+    "192": {
+      "id": 192,
+      "title": "Rockefeller Medicine",
+      "displayTitle": "Rockefeller Medicine (Alt)",
+      "fileName": "192-Rockefeller_Medicine-Alt",
+      "featured": false
+    },
+    "193": {
+      "id": 193,
+      "title": "Bitcoin Trojan Horse",
+      "displayTitle": "Bitcoin Trojan Horse",
+      "fileName": "193-Bitcoin_Trojan_Horse",
+      "featured": false
+    },
+    "194": {
+      "id": 194,
+      "title": "Bitcoin Trojan Horse",
+      "displayTitle": "Bitcoin Trojan Horse (Alt)",
+      "fileName": "194-Bitcoin_Trojan_Horse-Alt",
+      "featured": false
+    },
+    "195": {
+      "id": 195,
+      "title": "GENIUS Act Takeover",
+      "displayTitle": "GENIUS Act Takeover",
+      "fileName": "195-GENIUS_Act_Takeover",
+      "featured": false
+    },
+    "196": {
+      "id": 196,
+      "title": "GENIUS Act Takeover",
+      "displayTitle": "GENIUS Act Takeover (Alt)",
+      "fileName": "196-GENIUS_Act_Takeover-Alt",
+      "featured": false
+    },
+    "197": {
+      "id": 197,
+      "title": "Mega Group Mafia",
+      "displayTitle": "Mega Group Mafia",
+      "fileName": "197-Mega_Group_Mafia",
+      "featured": false
+    },
+    "198": {
+      "id": 198,
+      "title": "Mega Group Mafia",
+      "displayTitle": "Mega Group Mafia (Alt)",
+      "fileName": "198-Mega_Group_Mafia-Alt",
+      "featured": false
+    },
+    "199": {
+      "id": 199,
+      "title": "MCA Spook Records",
+      "displayTitle": "MCA Spook Records",
+      "fileName": "199-MCA_Spook_Records",
+      "featured": false
+    },
+    "200": {
+      "id": 200,
+      "title": "MCA Spook Records",
+      "displayTitle": "MCA Spook Records (Alt)",
+      "fileName": "200-MCA_Spook_Records-Alt",
+      "featured": false
+    },
+    "201": {
+      "id": 201,
+      "title": "Private Prison Hip Hop",
+      "displayTitle": "Private Prison Hip Hop",
+      "fileName": "201-Private_Prison_Hip_Hop",
+      "featured": false
+    },
+    "202": {
+      "id": 202,
+      "title": "Private Prison Hip Hop",
+      "displayTitle": "Private Prison Hip Hop (Alt)",
+      "fileName": "202-Private_Prison_Hip_Hop-Alt",
+      "featured": false
+    },
+    "203": {
+      "id": 203,
+      "title": "Howard Lutnick Commerce",
+      "displayTitle": "Howard Lutnick Commerce",
+      "fileName": "203-Howard_Lutnick_Commerce",
+      "featured": false
+    },
+    "204": {
+      "id": 204,
+      "title": "Howard Lutnick Commerce",
+      "displayTitle": "Howard Lutnick Commerce (Alt)",
+      "fileName": "204-Howard_Lutnick_Commerce-Alt",
+      "featured": false
+    },
+    "205": {
+      "id": 205,
+      "title": "Jim ONeill Biotech",
+      "displayTitle": "Jim ONeill Biotech",
+      "fileName": "205-Jim_ONeill_Biotech",
+      "featured": false
+    },
+    "206": {
+      "id": 206,
+      "title": "Jim ONeill Biotech",
+      "displayTitle": "Jim ONeill Biotech (Alt)",
+      "fileName": "206-Jim_ONeill_Biotech-Alt",
+      "featured": false
+    },
+    "207": {
+      "id": 207,
+      "title": "Erik Prince Blackwater",
+      "displayTitle": "Erik Prince Blackwater",
+      "fileName": "207-Erik_Prince_Blackwater",
+      "featured": false
+    },
+    "208": {
+      "id": 208,
+      "title": "Erik Prince Blackwater",
+      "displayTitle": "Erik Prince Blackwater (Alt)",
+      "fileName": "208-Erik_Prince_Blackwater-Alt",
+      "featured": false
+    },
+    "209": {
+      "id": 209,
+      "title": "Scientology Intelligence",
+      "displayTitle": "Scientology Intelligence",
+      "fileName": "209-Scientology_Intelligence",
+      "featured": false
+    },
+    "210": {
+      "id": 210,
+      "title": "Scientology Intelligence",
+      "displayTitle": "Scientology Intelligence (Alt)",
+      "fileName": "210-Scientology_Intelligence-Alt",
+      "featured": false
+    },
+    "211": {
+      "id": 211,
+      "title": "Total Information Awareness",
+      "displayTitle": "Total Information Awareness",
+      "fileName": "211-Total_Information_Awareness",
+      "featured": false
+    },
+    "212": {
+      "id": 212,
+      "title": "Total Information Awareness",
+      "displayTitle": "Total Information Awareness (Alt)",
+      "fileName": "212-Total_Information_Awareness-Alt",
+      "featured": false
+    },
+    "213": {
+      "id": 213,
+      "title": "Predictive Policing",
+      "displayTitle": "Predictive Policing",
+      "fileName": "213-Predictive_Policing",
+      "featured": false
+    },
+    "214": {
+      "id": 214,
+      "title": "Predictive Policing",
+      "displayTitle": "Predictive Policing (Alt)",
+      "fileName": "214-Predictive_Policing-Alt",
+      "featured": false
+    },
+    "215": {
+      "id": 215,
+      "title": "Brain Machine Interface",
+      "displayTitle": "Brain Machine Interface",
+      "fileName": "215-Brain_Machine_Interface",
+      "featured": false
+    },
+    "216": {
+      "id": 216,
+      "title": "Brain Machine Interface",
+      "displayTitle": "Brain Machine Interface (Alt)",
+      "fileName": "216-Brain_Machine_Interface-Alt",
+      "featured": false
+    },
+    "217": {
+      "id": 217,
+      "title": "Manufacturing Far Right",
+      "displayTitle": "Manufacturing Far Right",
+      "fileName": "217-Manufacturing_Far_Right",
+      "featured": false
+    },
+    "218": {
+      "id": 218,
+      "title": "Manufacturing Far Right",
+      "displayTitle": "Manufacturing Far Right (Alt)",
+      "fileName": "218-Manufacturing_Far_Right-Alt",
+      "featured": false
+    },
+    "219": {
+      "id": 219,
+      "title": "TrumpED 2025",
+      "displayTitle": "TrumpED 2025",
+      "fileName": "219-TrumpED_2025",
+      "featured": false
+    },
+    "220": {
+      "id": 220,
+      "title": "TrumpED 2025",
+      "displayTitle": "TrumpED 2025 (Alt)",
+      "fileName": "220-TrumpED_2025-Alt",
+      "featured": false
+    },
+    "221": {
+      "id": 221,
+      "title": "Flavio Briatore Files",
+      "displayTitle": "Flavio Briatore Files",
+      "fileName": "221-Flavio_Briatore_Files",
+      "featured": false
+    },
+    "222": {
+      "id": 222,
+      "title": "Flavio Briatore Files",
+      "displayTitle": "Flavio Briatore Files (Alt)",
+      "fileName": "222-Flavio_Briatore_Files-Alt",
+      "featured": false
+    },
+    "223": {
+      "id": 223,
+      "title": "Sustainable Development Trap",
+      "displayTitle": "Sustainable Development Trap",
+      "fileName": "223-Sustainable_Development_Trap",
+      "featured": false
+    },
+    "224": {
+      "id": 224,
+      "title": "Sustainable Development Trap",
+      "displayTitle": "Sustainable Development Trap (Alt)",
+      "fileName": "224-Sustainable_Development_Trap-Alt",
+      "featured": false
+    },
+    "225": {
+      "id": 225,
+      "title": "Catherine Austin Fitts Warning",
+      "displayTitle": "Catherine Austin Fitts Warning",
+      "fileName": "225-Catherine_Austin_Fitts_Warning",
+      "featured": false
+    },
+    "226": {
+      "id": 226,
+      "title": "Catherine Austin Fitts Warning",
+      "displayTitle": "Catherine Austin Fitts Warning (Alt)",
+      "fileName": "226-Catherine_Austin_Fitts_Warning-Alt",
+      "featured": false
+    },
+    "227": {
+      "id": 227,
+      "title": "Gloria Steinem CIA",
+      "displayTitle": "Gloria Steinem CIA",
+      "fileName": "227-Gloria_Steinem_CIA",
+      "featured": false
+    },
+    "228": {
+      "id": 228,
+      "title": "Gloria Steinem CIA",
+      "displayTitle": "Gloria Steinem CIA (Alt)",
+      "fileName": "228-Gloria_Steinem_CIA-Alt",
+      "featured": false
+    },
+    "229": {
+      "id": 229,
+      "title": "Digital Dollar Dragnet",
+      "displayTitle": "Digital Dollar Dragnet",
+      "fileName": "229-Digital_Dollar_Dragnet",
+      "featured": false
+    },
+    "230": {
+      "id": 230,
+      "title": "Digital Dollar Dragnet",
+      "displayTitle": "Digital Dollar Dragnet (Alt)",
+      "fileName": "230-Digital_Dollar_Dragnet-Alt",
+      "featured": false
+    },
+    "231": {
+      "id": 231,
+      "title": "Vaccine Credential Initiative",
+      "displayTitle": "Vaccine Credential Initiative",
+      "fileName": "231-Vaccine_Credential_Initiative",
+      "featured": false
+    },
+    "232": {
+      "id": 232,
+      "title": "Vaccine Credential Initiative",
+      "displayTitle": "Vaccine Credential Initiative (Alt)",
+      "fileName": "232-Vaccine_Credential_Initiative-Alt",
+      "featured": false
+    },
+    "233": {
+      "id": 233,
+      "title": "James Corbett Collaboration",
+      "displayTitle": "James Corbett Collaboration",
+      "fileName": "233-James_Corbett_Collaboration",
+      "featured": false
+    },
+    "234": {
+      "id": 234,
+      "title": "James Corbett Collaboration",
+      "displayTitle": "James Corbett Collaboration (Alt)",
+      "fileName": "234-James_Corbett_Collaboration-Alt",
+      "featured": false
+    },
+    "235": {
+      "id": 235,
+      "title": "Four Horsemen Finance",
+      "displayTitle": "Four Horsemen Finance",
+      "fileName": "235-Four_Horsemen_Finance",
+      "featured": false
+    },
+    "236": {
+      "id": 236,
+      "title": "Four Horsemen Finance",
+      "displayTitle": "Four Horsemen Finance (Alt)",
+      "fileName": "236-Four_Horsemen_Finance-Alt",
+      "featured": false
+    },
+    "237": {
+      "id": 237,
+      "title": "Amazon Tokenization",
+      "displayTitle": "Amazon Tokenization",
+      "fileName": "237-Amazon_Tokenization",
+      "featured": false
+    },
+    "238": {
+      "id": 238,
+      "title": "Amazon Tokenization",
+      "displayTitle": "Amazon Tokenization (Alt)",
+      "fileName": "238-Amazon_Tokenization-Alt",
+      "featured": false
+    },
+    "239": {
+      "id": 239,
+      "title": "Sberbank WEF Alliance",
+      "displayTitle": "Sberbank WEF Alliance",
+      "fileName": "239-Sberbank_WEF_Alliance",
+      "featured": false
+    },
+    "240": {
+      "id": 240,
+      "title": "Sberbank WEF Alliance",
+      "displayTitle": "Sberbank WEF Alliance (Alt)",
+      "fileName": "240-Sberbank_WEF_Alliance-Alt",
+      "featured": false
+    },
+    "241": {
+      "id": 241,
+      "title": "Mark Goodwin Chain Series",
+      "displayTitle": "Mark Goodwin Chain Series",
+      "fileName": "241-Mark_Goodwin_Chain_Series",
+      "featured": false
+    },
+    "242": {
+      "id": 242,
+      "title": "Mark Goodwin Chain Series",
+      "displayTitle": "Mark Goodwin Chain Series (Alt)",
+      "fileName": "242-Mark_Goodwin_Chain_Series-Alt",
+      "featured": false
+    },
+    "243": {
+      "id": 243,
+      "title": "Cybereason CIA",
+      "displayTitle": "Cybereason CIA",
+      "fileName": "243-Cybereason_CIA",
+      "featured": false
+    },
+    "244": {
+      "id": 244,
+      "title": "Cybereason CIA",
+      "displayTitle": "Cybereason CIA (Alt)",
+      "fileName": "244-Cybereason_CIA-Alt",
+      "featured": false
+    },
+    "245": {
+      "id": 245,
+      "title": "Solari Report Solutions",
+      "displayTitle": "Solari Report Solutions",
+      "fileName": "245-Solari_Report_Solutions",
+      "featured": false
+    },
+    "246": {
+      "id": 246,
+      "title": "Solari Report Solutions",
+      "displayTitle": "Solari Report Solutions (Alt)",
+      "fileName": "246-Solari_Report_Solutions-Alt",
+      "featured": false
+    },
+    "247": {
+      "id": 247,
+      "title": "Techno Fascism Rising",
+      "displayTitle": "Techno Fascism Rising",
+      "fileName": "247-Techno_Fascism_Rising",
+      "featured": false
+    },
+    "248": {
+      "id": 248,
+      "title": "Techno Fascism Rising",
+      "displayTitle": "Techno Fascism Rising (Alt)",
+      "fileName": "248-Techno_Fascism_Rising-Alt",
+      "featured": false
+    },
+    "249": {
+      "id": 249,
+      "title": "Wake Up And Build",
+      "displayTitle": "Wake Up And Build",
+      "fileName": "249-Wake_Up_And_Build",
+      "featured": false
+    },
+    "250": {
+      "id": 250,
+      "title": "Wake Up And Build",
+      "displayTitle": "Wake Up And Build (Alt)",
+      "fileName": "250-Wake_Up_And_Build-Alt",
+      "featured": false
+    },
+    "251": {
+      "id": 251,
+      "title": "Mystery Babylon Burns",
+      "displayTitle": "Mystery Babylon Burns",
+      "fileName": "251-Mystery_Babylon_Burns",
+      "featured": false
+    },
+    "252": {
+      "id": 252,
+      "title": "Mystery Babylon Burns",
+      "displayTitle": "Mystery Babylon Burns (Alt)",
+      "fileName": "252-Mystery_Babylon_Burns-Alt",
+      "featured": false
+    },
+    "253": {
+      "id": 253,
+      "title": "The Nephilim Return",
+      "displayTitle": "The Nephilim Return",
+      "fileName": "253-The_Nephilim_Return",
+      "featured": false
+    },
+    "254": {
+      "id": 254,
+      "title": "The Nephilim Return",
+      "displayTitle": "The Nephilim Return (Alt)",
+      "fileName": "254-The_Nephilim_Return-Alt",
+      "featured": false
+    },
+    "255": {
+      "id": 255,
+      "title": "Vaccine Of The Beast",
+      "displayTitle": "Vaccine Of The Beast",
+      "fileName": "255-Vaccine_Of_The_Beast",
+      "featured": false
+    },
+    "256": {
+      "id": 256,
+      "title": "Vaccine Of The Beast",
+      "displayTitle": "Vaccine Of The Beast (Alt)",
+      "fileName": "256-Vaccine_Of_The_Beast-Alt",
+      "featured": false
+    },
+    "257": {
+      "id": 257,
+      "title": "Russia Will Rise",
+      "displayTitle": "Russia Will Rise",
+      "fileName": "257-Russia_Will_Rise",
+      "featured": false
+    },
+    "258": {
+      "id": 258,
+      "title": "Russia Will Rise",
+      "displayTitle": "Russia Will Rise (Alt)",
+      "fileName": "258-Russia_Will_Rise-Alt",
+      "featured": false
+    },
+    "259": {
+      "id": 259,
+      "title": "The Fallen Angels Descend",
+      "displayTitle": "The Fallen Angels Descend",
+      "fileName": "259-The_Fallen_Angels_Descend",
+      "featured": false
+    },
+    "260": {
+      "id": 260,
+      "title": "The Fallen Angels Descend",
+      "displayTitle": "The Fallen Angels Descend (Alt)",
+      "fileName": "260-The_Fallen_Angels_Descend-Alt",
+      "featured": false
+    },
+    "261": {
+      "id": 261,
+      "title": "Mermaids In The Deep",
+      "displayTitle": "Mermaids In The Deep",
+      "fileName": "261-Mermaids_In_The_Deep",
+      "featured": false
+    },
+    "262": {
+      "id": 262,
+      "title": "Mermaids In The Deep",
+      "displayTitle": "Mermaids In The Deep (Alt)",
+      "fileName": "262-Mermaids_In_The_Deep-Alt",
+      "featured": false
+    },
+    "263": {
+      "id": 263,
+      "title": "Zombies Walk America",
+      "displayTitle": "Zombies Walk America",
+      "fileName": "263-Zombies_Walk_America",
+      "featured": false
+    },
+    "264": {
+      "id": 264,
+      "title": "Zombies Walk America",
+      "displayTitle": "Zombies Walk America (Alt)",
+      "fileName": "264-Zombies_Walk_America-Alt",
+      "featured": false
+    },
+    "265": {
+      "id": 265,
+      "title": "New York Will Drown",
+      "displayTitle": "New York Will Drown",
+      "fileName": "265-New_York_Will_Drown",
+      "featured": false
+    },
+    "266": {
+      "id": 266,
+      "title": "New York Will Drown",
+      "displayTitle": "New York Will Drown (Alt)",
+      "fileName": "266-New_York_Will_Drown-Alt",
+      "featured": false
+    },
+    "267": {
+      "id": 267,
+      "title": "The Iron Kingdom Rises",
+      "displayTitle": "The Iron Kingdom Rises",
+      "fileName": "267-The_Iron_Kingdom_Rises",
+      "featured": false
+    },
+    "268": {
+      "id": 268,
+      "title": "The Iron Kingdom Rises",
+      "displayTitle": "The Iron Kingdom Rises (Alt)",
+      "fileName": "268-The_Iron_Kingdom_Rises-Alt",
+      "featured": false
+    },
+    "269": {
+      "id": 269,
+      "title": "China Is Ready",
+      "displayTitle": "China Is Ready",
+      "fileName": "269-China_Is_Ready",
+      "featured": false
+    },
+    "270": {
+      "id": 270,
+      "title": "China Is Ready",
+      "displayTitle": "China Is Ready (Alt)",
+      "fileName": "270-China_Is_Ready-Alt",
+      "featured": false
+    },
+    "271": {
+      "id": 271,
+      "title": "Humanoids Among Us",
+      "displayTitle": "Humanoids Among Us",
+      "fileName": "271-Humanoids_Among_Us",
+      "featured": false
+    },
+    "272": {
+      "id": 272,
+      "title": "Humanoids Among Us",
+      "displayTitle": "Humanoids Among Us (Alt)",
+      "fileName": "272-Humanoids_Among_Us-Alt",
+      "featured": false
+    },
+    "273": {
+      "id": 273,
+      "title": "The Dollar Falls",
+      "displayTitle": "The Dollar Falls",
+      "fileName": "273-The_Dollar_Falls",
+      "featured": false
+    },
+    "274": {
+      "id": 274,
+      "title": "The Dollar Falls",
+      "displayTitle": "The Dollar Falls (Alt)",
+      "fileName": "274-The_Dollar_Falls-Alt",
+      "featured": false
+    },
+    "275": {
+      "id": 275,
+      "title": "The gods Return",
+      "displayTitle": "The gods Return",
+      "fileName": "275-The_gods_Return",
+      "featured": false
+    },
+    "276": {
+      "id": 276,
+      "title": "The gods Return",
+      "displayTitle": "The gods Return (Alt)",
+      "fileName": "276-The_gods_Return-Alt",
+      "featured": false
+    },
+    "277": {
+      "id": 277,
+      "title": "Famine In The Land",
+      "displayTitle": "Famine In The Land",
+      "fileName": "277-Famine_In_The_Land",
+      "featured": false
+    },
+    "278": {
+      "id": 278,
+      "title": "Famine In The Land",
+      "displayTitle": "Famine In The Land (Alt)",
+      "fileName": "278-Famine_In_The_Land-Alt",
+      "featured": false
+    },
+    "279": {
+      "id": 279,
+      "title": "The Alien Deception",
+      "displayTitle": "The Alien Deception",
+      "fileName": "279-The_Alien_Deception",
+      "featured": false
+    },
+    "280": {
+      "id": 280,
+      "title": "The Alien Deception",
+      "displayTitle": "The Alien Deception (Alt)",
+      "fileName": "280-The_Alien_Deception-Alt",
+      "featured": false
+    },
+    "281": {
+      "id": 281,
+      "title": "Civil War Coming",
+      "displayTitle": "Civil War Coming",
+      "fileName": "281-Civil_War_Coming",
+      "featured": false
+    },
+    "282": {
+      "id": 282,
+      "title": "Civil War Coming",
+      "displayTitle": "Civil War Coming (Alt)",
+      "fileName": "282-Civil_War_Coming-Alt",
+      "featured": false
+    },
+    "283": {
+      "id": 283,
+      "title": "Human Trafficking Nation",
+      "displayTitle": "Human Trafficking Nation",
+      "fileName": "283-Human_Trafficking_Nation",
+      "featured": false
+    },
+    "284": {
+      "id": 284,
+      "title": "Human Trafficking Nation",
+      "displayTitle": "Human Trafficking Nation (Alt)",
+      "fileName": "284-Human_Trafficking_Nation-Alt",
+      "featured": false
+    },
+    "285": {
+      "id": 285,
+      "title": "Lockstep With The Beast",
+      "displayTitle": "Lockstep With The Beast",
+      "fileName": "285-Lockstep_With_The_Beast",
+      "featured": false
+    },
+    "286": {
+      "id": 286,
+      "title": "Lockstep With The Beast",
+      "displayTitle": "Lockstep With The Beast (Alt)",
+      "fileName": "286-Lockstep_With_The_Beast-Alt",
+      "featured": false
+    },
+    "287": {
+      "id": 287,
+      "title": "The Beast Is Here",
+      "displayTitle": "The Beast Is Here",
+      "fileName": "287-The_Beast_Is_Here",
+      "featured": false
+    },
+    "288": {
+      "id": 288,
+      "title": "The Beast Is Here",
+      "displayTitle": "The Beast Is Here (Alt)",
+      "fileName": "288-The_Beast_Is_Here-Alt",
+      "featured": false
+    },
+    "289": {
+      "id": 289,
+      "title": "Slavery Returns",
+      "displayTitle": "Slavery Returns",
+      "fileName": "289-Slavery_Returns",
+      "featured": false
+    },
+    "290": {
+      "id": 290,
+      "title": "Slavery Returns",
+      "displayTitle": "Slavery Returns (Alt)",
+      "fileName": "290-Slavery_Returns-Alt",
+      "featured": false
+    },
+    "291": {
+      "id": 291,
+      "title": "Demons Walk New York",
+      "displayTitle": "Demons Walk New York",
+      "fileName": "291-Demons_Walk_New_York",
+      "featured": false
+    },
+    "292": {
+      "id": 292,
+      "title": "Demons Walk New York",
+      "displayTitle": "Demons Walk New York (Alt)",
+      "fileName": "292-Demons_Walk_New_York-Alt",
+      "featured": false
+    },
+    "293": {
+      "id": 293,
+      "title": "Arrows In The Sky",
+      "displayTitle": "Arrows In The Sky",
+      "fileName": "293-Arrows_In_The_Sky",
+      "featured": false
+    },
+    "294": {
+      "id": 294,
+      "title": "Arrows In The Sky",
+      "displayTitle": "Arrows In The Sky (Alt)",
+      "fileName": "294-Arrows_In_The_Sky-Alt",
+      "featured": false
+    },
+    "295": {
+      "id": 295,
+      "title": "The Walking Dead",
+      "displayTitle": "The Walking Dead",
+      "fileName": "295-The_Walking_Dead",
+      "featured": false
+    },
+    "296": {
+      "id": 296,
+      "title": "The Walking Dead",
+      "displayTitle": "The Walking Dead (Alt)",
+      "fileName": "296-The_Walking_Dead-Alt",
+      "featured": false
+    },
+    "297": {
+      "id": 297,
+      "title": "The Sodomy Ritual",
+      "displayTitle": "The Sodomy Ritual",
+      "fileName": "297-The_Sodomy_Ritual",
+      "featured": false
+    },
+    "298": {
+      "id": 298,
+      "title": "The Sodomy Ritual",
+      "displayTitle": "The Sodomy Ritual (Alt)",
+      "fileName": "298-The_Sodomy_Ritual-Alt",
+      "featured": false
+    },
+    "299": {
+      "id": 299,
+      "title": "Gog And Magog",
+      "displayTitle": "Gog And Magog",
+      "fileName": "299-Gog_And_Magog",
+      "featured": false
+    },
+    "300": {
+      "id": 300,
+      "title": "Gog And Magog",
+      "displayTitle": "Gog And Magog (Alt)",
+      "fileName": "300-Gog_And_Magog-Alt",
+      "featured": false
+    },
+    "301": {
+      "id": 301,
+      "title": "The Survivors",
+      "displayTitle": "The Survivors",
+      "fileName": "301-The_Survivors",
+      "featured": false
+    },
+    "302": {
+      "id": 302,
+      "title": "The Survivors",
+      "displayTitle": "The Survivors (Alt)",
+      "fileName": "302-The_Survivors-Alt",
+      "featured": false
+    },
+    "303": {
+      "id": 303,
+      "title": "Digital ID Coming",
+      "displayTitle": "Digital ID Coming",
+      "fileName": "303-Digital_ID_Coming",
+      "featured": false
+    },
+    "304": {
+      "id": 304,
+      "title": "Digital ID Coming",
+      "displayTitle": "Digital ID Coming (Alt)",
+      "fileName": "304-Digital_ID_Coming-Alt",
+      "featured": false
+    },
+    "305": {
+      "id": 305,
+      "title": "Fire From The Sky",
+      "displayTitle": "Fire From The Sky",
+      "fileName": "305-Fire_From_The_Sky",
+      "featured": false
+    },
+    "306": {
+      "id": 306,
+      "title": "Fire From The Sky",
+      "displayTitle": "Fire From The Sky (Alt)",
+      "fileName": "306-Fire_From_The_Sky-Alt",
+      "featured": false
+    },
+    "307": {
+      "id": 307,
+      "title": "Leviathan Rises",
+      "displayTitle": "Leviathan Rises",
+      "fileName": "307-Leviathan_Rises",
+      "featured": false
+    },
+    "308": {
+      "id": 308,
+      "title": "Leviathan Rises",
+      "displayTitle": "Leviathan Rises (Alt)",
+      "fileName": "308-Leviathan_Rises-Alt",
+      "featured": false
+    },
+    "309": {
+      "id": 309,
+      "title": "Repent America",
+      "displayTitle": "Repent America",
+      "fileName": "309-Repent_America",
+      "featured": false
+    },
+    "310": {
+      "id": 310,
+      "title": "Repent America",
+      "displayTitle": "Repent America (Alt)",
+      "fileName": "310-Repent_America-Alt",
+      "featured": false
+    },
+    "311": {
+      "id": 311,
+      "title": "Mirror Mirror",
+      "displayTitle": "Mirror Mirror",
+      "fileName": "311-Mirror_Mirror",
+      "featured": false
+    },
+    "312": {
+      "id": 312,
+      "title": "Mirror Mirror",
+      "displayTitle": "Mirror Mirror (Alt)",
+      "fileName": "312-Mirror_Mirror-Alt",
+      "featured": false
+    },
+    "313": {
+      "id": 313,
+      "title": "The Hole In The Sky",
+      "displayTitle": "The Hole In The Sky",
+      "fileName": "313-The_Hole_In_The_Sky",
+      "featured": false
+    },
+    "314": {
+      "id": 314,
+      "title": "The Hole In The Sky",
+      "displayTitle": "The Hole In The Sky (Alt)",
+      "fileName": "314-The_Hole_In_The_Sky-Alt",
+      "featured": false
+    },
+    "315": {
+      "id": 315,
+      "title": "The Grapes Of Wrath",
+      "displayTitle": "The Grapes Of Wrath",
+      "fileName": "315-The_Grapes_Of_Wrath",
+      "featured": false
+    },
+    "316": {
+      "id": 316,
+      "title": "The Grapes Of Wrath",
+      "displayTitle": "The Grapes Of Wrath (Alt)",
+      "fileName": "316-The_Grapes_Of_Wrath-Alt",
+      "featured": false
+    },
+    "317": {
+      "id": 317,
+      "title": "The Vaccination Booths",
+      "displayTitle": "The Vaccination Booths",
+      "fileName": "317-The_Vaccination_Booths",
+      "featured": false
+    },
+    "318": {
+      "id": 318,
+      "title": "The Vaccination Booths",
+      "displayTitle": "The Vaccination Booths (Alt)",
+      "fileName": "318-The_Vaccination_Booths-Alt",
+      "featured": false
+    },
+    "319": {
+      "id": 319,
+      "title": "Tanks In America",
+      "displayTitle": "Tanks In America",
+      "fileName": "319-Tanks_In_America",
+      "featured": false
+    },
+    "320": {
+      "id": 320,
+      "title": "Tanks In America",
+      "displayTitle": "Tanks In America (Alt)",
+      "fileName": "320-Tanks_In_America-Alt",
+      "featured": false
+    },
+    "321": {
+      "id": 321,
+      "title": "Strange Flesh",
+      "displayTitle": "Strange Flesh",
+      "fileName": "321-Strange_Flesh",
+      "featured": false
+    },
+    "322": {
+      "id": 322,
+      "title": "Strange Flesh",
+      "displayTitle": "Strange Flesh (Alt)",
+      "fileName": "322-Strange_Flesh-Alt",
+      "featured": false
+    },
+    "323": {
+      "id": 323,
+      "title": "The Russian Occupation",
+      "displayTitle": "The Russian Occupation",
+      "fileName": "323-The_Russian_Occupation",
+      "featured": false
+    },
+    "324": {
+      "id": 324,
+      "title": "The Russian Occupation",
+      "displayTitle": "The Russian Occupation (Alt)",
+      "fileName": "324-The_Russian_Occupation-Alt",
+      "featured": false
+    },
+    "325": {
+      "id": 325,
+      "title": "They Will Die",
+      "displayTitle": "They Will Die",
+      "fileName": "325-They_Will_Die",
+      "featured": false
+    },
+    "326": {
+      "id": 326,
+      "title": "They Will Die",
+      "displayTitle": "They Will Die (Alt)",
+      "fileName": "326-They_Will_Die-Alt",
+      "featured": false
+    },
+    "327": {
+      "id": 327,
+      "title": "UFO Pyramids",
+      "displayTitle": "UFO Pyramids",
+      "fileName": "327-UFO_Pyramids",
+      "featured": false
+    },
+    "328": {
+      "id": 328,
+      "title": "UFO Pyramids",
+      "displayTitle": "UFO Pyramids (Alt)",
+      "fileName": "328-UFO_Pyramids-Alt",
+      "featured": false
+    },
+    "329": {
+      "id": 329,
+      "title": "Damascus Falls",
+      "displayTitle": "Damascus Falls",
+      "fileName": "329-Damascus_Falls",
+      "featured": false
+    },
+    "330": {
+      "id": 330,
+      "title": "Damascus Falls",
+      "displayTitle": "Damascus Falls (Alt)",
+      "fileName": "330-Damascus_Falls-Alt",
+      "featured": false
+    },
+    "331": {
+      "id": 331,
+      "title": "The Taskmasters Return",
+      "displayTitle": "The Taskmasters Return",
+      "fileName": "331-The_Taskmasters_Return",
+      "featured": false
+    },
+    "332": {
+      "id": 332,
+      "title": "The Taskmasters Return",
+      "displayTitle": "The Taskmasters Return (Alt)",
+      "fileName": "332-The_Taskmasters_Return-Alt",
+      "featured": false
+    },
+    "333": {
+      "id": 333,
+      "title": "The Silver Mist",
+      "displayTitle": "The Silver Mist",
+      "fileName": "333-The_Silver_Mist",
+      "featured": false
+    },
+    "334": {
+      "id": 334,
+      "title": "The Silver Mist",
+      "displayTitle": "The Silver Mist (Alt)",
+      "fileName": "334-The_Silver_Mist-Alt",
+      "featured": false
+    },
+    "335": {
+      "id": 335,
+      "title": "Biden Plus Harris",
+      "displayTitle": "Biden Plus Harris",
+      "fileName": "335-Biden_Plus_Harris",
+      "featured": false
+    },
+    "336": {
+      "id": 336,
+      "title": "Biden Plus Harris",
+      "displayTitle": "Biden Plus Harris (Alt)",
+      "fileName": "336-Biden_Plus_Harris-Alt",
+      "featured": false
+    },
+    "337": {
+      "id": 337,
+      "title": "Heart Attack America",
+      "displayTitle": "Heart Attack America",
+      "fileName": "337-Heart_Attack_America",
+      "featured": false
+    },
+    "338": {
+      "id": 338,
+      "title": "Heart Attack America",
+      "displayTitle": "Heart Attack America (Alt)",
+      "fileName": "338-Heart_Attack_America-Alt",
+      "featured": false
+    },
+    "339": {
+      "id": 339,
+      "title": "The New Man",
+      "displayTitle": "The New Man",
+      "fileName": "339-The_New_Man",
+      "featured": false
+    },
+    "340": {
+      "id": 340,
+      "title": "The New Man",
+      "displayTitle": "The New Man (Alt)",
+      "fileName": "340-The_New_Man-Alt",
+      "featured": false
+    },
+    "341": {
+      "id": 341,
+      "title": "Catastrophic Flooding",
+      "displayTitle": "Catastrophic Flooding",
+      "fileName": "341-Catastrophic_Flooding",
+      "featured": false
+    },
+    "342": {
+      "id": 342,
+      "title": "Catastrophic Flooding",
+      "displayTitle": "Catastrophic Flooding (Alt)",
+      "fileName": "342-Catastrophic_Flooding-Alt",
+      "featured": false
+    },
+    "343": {
+      "id": 343,
+      "title": "The Fig And The Seeds",
+      "displayTitle": "The Fig And The Seeds",
+      "fileName": "343-The_Fig_And_The_Seeds",
+      "featured": false
+    },
+    "344": {
+      "id": 344,
+      "title": "The Fig And The Seeds",
+      "displayTitle": "The Fig And The Seeds (Alt)",
+      "fileName": "344-The_Fig_And_The_Seeds-Alt",
+      "featured": false
+    },
+    "345": {
+      "id": 345,
+      "title": "Enemy At The Gates",
+      "displayTitle": "Enemy At The Gates",
+      "fileName": "345-Enemy_At_The_Gates",
+      "featured": false
+    },
+    "346": {
+      "id": 346,
+      "title": "Enemy At The Gates",
+      "displayTitle": "Enemy At The Gates (Alt)",
+      "fileName": "346-Enemy_At_The_Gates-Alt",
+      "featured": false
+    },
+    "347": {
+      "id": 347,
+      "title": "The Abomination Of Desolation",
+      "displayTitle": "The Abomination Of Desolation",
+      "fileName": "347-The_Abomination_Of_Desolation",
+      "featured": false
+    },
+    "348": {
+      "id": 348,
+      "title": "The Abomination Of Desolation",
+      "displayTitle": "The Abomination Of Desolation (Alt)",
+      "fileName": "348-The_Abomination_Of_Desolation-Alt",
+      "featured": false
+    },
+    "349": {
+      "id": 349,
+      "title": "The Unclean Frog",
+      "displayTitle": "The Unclean Frog",
+      "fileName": "349-The_Unclean_Frog",
+      "featured": false
+    },
+    "350": {
+      "id": 350,
+      "title": "The Unclean Frog",
+      "displayTitle": "The Unclean Frog (Alt)",
+      "fileName": "350-The_Unclean_Frog-Alt",
+      "featured": false
+    },
+    "351": {
+      "id": 351,
+      "title": "Broken Weather",
+      "displayTitle": "Broken Weather",
+      "fileName": "351-Broken_Weather",
+      "featured": false
+    },
+    "352": {
+      "id": 352,
+      "title": "Broken Weather",
+      "displayTitle": "Broken Weather (Alt)",
+      "fileName": "352-Broken_Weather-Alt",
+      "featured": false
+    },
+    "353": {
+      "id": 353,
+      "title": "Ten Squares And Oil",
+      "displayTitle": "Ten Squares And Oil",
+      "fileName": "353-Ten_Squares_And_Oil",
+      "featured": false
+    },
+    "354": {
+      "id": 354,
+      "title": "Ten Squares And Oil",
+      "displayTitle": "Ten Squares And Oil (Alt)",
+      "fileName": "354-Ten_Squares_And_Oil-Alt",
+      "featured": false
+    },
+    "355": {
+      "id": 355,
+      "title": "The Bloody City",
+      "displayTitle": "The Bloody City",
+      "fileName": "355-The_Bloody_City",
+      "featured": false
+    },
+    "356": {
+      "id": 356,
+      "title": "The Bloody City",
+      "displayTitle": "The Bloody City (Alt)",
+      "fileName": "356-The_Bloody_City-Alt",
+      "featured": false
+    },
+    "357": {
+      "id": 357,
+      "title": "Portals Opening",
+      "displayTitle": "Portals Opening",
+      "fileName": "357-Portals_Opening",
+      "featured": false
+    },
+    "358": {
+      "id": 358,
+      "title": "Portals Opening",
+      "displayTitle": "Portals Opening (Alt)",
+      "fileName": "358-Portals_Opening-Alt",
+      "featured": false
+    },
+    "359": {
+      "id": 359,
+      "title": "The Boiling Pot",
+      "displayTitle": "The Boiling Pot",
+      "fileName": "359-The_Boiling_Pot",
+      "featured": false
+    },
+    "360": {
+      "id": 360,
+      "title": "The Boiling Pot",
+      "displayTitle": "The Boiling Pot (Alt)",
+      "fileName": "360-The_Boiling_Pot-Alt",
+      "featured": false
+    },
+    "361": {
+      "id": 361,
+      "title": "No More Grace",
+      "displayTitle": "No More Grace",
+      "fileName": "361-No_More_Grace",
+      "featured": false
+    },
+    "362": {
+      "id": 362,
+      "title": "No More Grace",
+      "displayTitle": "No More Grace (Alt)",
+      "fileName": "362-No_More_Grace-Alt",
+      "featured": false
+    },
+    "363": {
+      "id": 363,
+      "title": "Wicked Devices Of Satan",
+      "displayTitle": "Wicked Devices Of Satan",
+      "fileName": "363-Wicked_Devices_Of_Satan",
+      "featured": false
+    },
+    "364": {
+      "id": 364,
+      "title": "Wicked Devices Of Satan",
+      "displayTitle": "Wicked Devices Of Satan (Alt)",
+      "fileName": "364-Wicked_Devices_Of_Satan-Alt",
+      "featured": false
+    },
+    "365": {
+      "id": 365,
+      "title": "The Angel Who Entered",
+      "displayTitle": "The Angel Who Entered",
+      "fileName": "365-The_Angel_Who_Entered",
+      "featured": false
+    },
+    "366": {
+      "id": 366,
+      "title": "The Angel Who Entered",
+      "displayTitle": "The Angel Who Entered (Alt)",
+      "fileName": "366-The_Angel_Who_Entered-Alt",
+      "featured": false
+    },
+    "367": {
+      "id": 367,
+      "title": "Undone America",
+      "displayTitle": "Undone America",
+      "fileName": "367-Undone_America",
+      "featured": false
+    },
+    "368": {
+      "id": 368,
+      "title": "Undone America",
+      "displayTitle": "Undone America (Alt)",
+      "fileName": "368-Undone_America-Alt",
+      "featured": false
+    },
+    "369": {
+      "id": 369,
+      "title": "The Cost Of Staying Alive",
+      "displayTitle": "The Cost Of Staying Alive",
+      "fileName": "369-The_Cost_Of_Staying_Alive",
+      "featured": false
+    },
+    "370": {
+      "id": 370,
+      "title": "The Cost Of Staying Alive",
+      "displayTitle": "The Cost Of Staying Alive (Alt)",
+      "fileName": "370-The_Cost_Of_Staying_Alive-Alt",
+      "featured": false
+    },
+    "371": {
+      "id": 371,
+      "title": "D Day America",
+      "displayTitle": "D Day America",
+      "fileName": "371-D_Day_America",
+      "featured": false
+    },
+    "372": {
+      "id": 372,
+      "title": "D Day America",
+      "displayTitle": "D Day America (Alt)",
+      "fileName": "372-D_Day_America-Alt",
+      "featured": false
+    },
+    "373": {
+      "id": 373,
+      "title": "The Cockfight",
+      "displayTitle": "The Cockfight",
+      "fileName": "373-The_Cockfight",
+      "featured": false
+    },
+    "374": {
+      "id": 374,
+      "title": "The Cockfight",
+      "displayTitle": "The Cockfight (Alt)",
+      "fileName": "374-The_Cockfight-Alt",
+      "featured": false
+    },
+    "375": {
+      "id": 375,
+      "title": "A Word For Germany",
+      "displayTitle": "A Word For Germany",
+      "fileName": "375-A_Word_For_Germany",
+      "featured": false
+    },
+    "376": {
+      "id": 376,
+      "title": "A Word For Germany",
+      "displayTitle": "A Word For Germany (Alt)",
+      "fileName": "376-A_Word_For_Germany-Alt",
+      "featured": false
+    },
+    "377": {
+      "id": 377,
+      "title": "Survival Of The Fittest",
+      "displayTitle": "Survival Of The Fittest",
+      "fileName": "377-Survival_Of_The_Fittest",
+      "featured": false
+    },
+    "378": {
+      "id": 378,
+      "title": "Survival Of The Fittest",
+      "displayTitle": "Survival Of The Fittest (Alt)",
+      "fileName": "378-Survival_Of_The_Fittest-Alt",
+      "featured": false
+    },
+    "379": {
+      "id": 379,
+      "title": "The Dogs Are Coming",
+      "displayTitle": "The Dogs Are Coming",
+      "fileName": "379-The_Dogs_Are_Coming",
+      "featured": false
+    },
+    "380": {
+      "id": 380,
+      "title": "The Dogs Are Coming",
+      "displayTitle": "The Dogs Are Coming (Alt)",
+      "fileName": "380-The_Dogs_Are_Coming-Alt",
+      "featured": false
+    },
+    "381": {
+      "id": 381,
+      "title": "Devi And Shet",
+      "displayTitle": "Devi And Shet",
+      "fileName": "381-Devi_And_Shet",
+      "featured": false
+    },
+    "382": {
+      "id": 382,
+      "title": "Devi And Shet",
+      "displayTitle": "Devi And Shet (Alt)",
+      "fileName": "382-Devi_And_Shet-Alt",
+      "featured": false
+    },
+    "383": {
+      "id": 383,
+      "title": "The Ways Of A King",
+      "displayTitle": "The Ways Of A King",
+      "fileName": "383-The_Ways_Of_A_King",
+      "featured": false
+    },
+    "384": {
+      "id": 384,
+      "title": "The Ways Of A King",
+      "displayTitle": "The Ways Of A King (Alt)",
+      "fileName": "384-The_Ways_Of_A_King-Alt",
+      "featured": false
+    },
+    "385": {
+      "id": 385,
+      "title": "Light It Up",
+      "displayTitle": "Light It Up",
+      "fileName": "385-Light_It_Up",
+      "featured": false
+    },
+    "386": {
+      "id": 386,
+      "title": "Light It Up",
+      "displayTitle": "Light It Up (Alt)",
+      "fileName": "386-Light_It_Up-Alt",
+      "featured": false
+    },
+    "387": {
+      "id": 387,
+      "title": "The Brick Breaker Game",
+      "displayTitle": "The Brick Breaker Game",
+      "fileName": "387-The_Brick_Breaker_Game",
+      "featured": false
+    },
+    "388": {
+      "id": 388,
+      "title": "The Brick Breaker Game",
+      "displayTitle": "The Brick Breaker Game (Alt)",
+      "fileName": "388-The_Brick_Breaker_Game-Alt",
+      "featured": false
+    },
+    "389": {
+      "id": 389,
+      "title": "Out Of The North",
+      "displayTitle": "Out Of The North",
+      "fileName": "389-Out_Of_The_North",
+      "featured": false
+    },
+    "390": {
+      "id": 390,
+      "title": "Out Of The North",
+      "displayTitle": "Out Of The North (Alt)",
+      "fileName": "390-Out_Of_The_North-Alt",
+      "featured": false
+    },
+    "391": {
+      "id": 391,
+      "title": "Write The Decree",
+      "displayTitle": "Write The Decree",
+      "fileName": "391-Write_The_Decree",
+      "featured": false
+    },
+    "392": {
+      "id": 392,
+      "title": "Write The Decree",
+      "displayTitle": "Write The Decree (Alt)",
+      "fileName": "392-Write_The_Decree-Alt",
+      "featured": false
+    },
+    "393": {
+      "id": 393,
+      "title": "Ascendancy Of The Beast",
+      "displayTitle": "Ascendancy Of The Beast",
+      "fileName": "393-Ascendancy_Of_The_Beast",
+      "featured": false
+    },
+    "394": {
+      "id": 394,
+      "title": "Ascendancy Of The Beast",
+      "displayTitle": "Ascendancy Of The Beast (Alt)",
+      "fileName": "394-Ascendancy_Of_The_Beast-Alt",
+      "featured": false
+    },
+    "395": {
+      "id": 395,
+      "title": "The Hub",
+      "displayTitle": "The Hub",
+      "fileName": "395-The_Hub",
+      "featured": false
+    },
+    "396": {
+      "id": 396,
+      "title": "The Hub",
+      "displayTitle": "The Hub (Alt)",
+      "fileName": "396-The_Hub-Alt",
+      "featured": false
+    },
+    "397": {
+      "id": 397,
+      "title": "Hovercrafts And Weapons",
+      "displayTitle": "Hovercrafts And Weapons",
+      "fileName": "397-Hovercrafts_And_Weapons",
+      "featured": false
+    },
+    "398": {
+      "id": 398,
+      "title": "Hovercrafts And Weapons",
+      "displayTitle": "Hovercrafts And Weapons (Alt)",
+      "fileName": "398-Hovercrafts_And_Weapons-Alt",
+      "featured": false
+    },
+    "399": {
+      "id": 399,
+      "title": "Closer Than You Think",
+      "displayTitle": "Closer Than You Think",
+      "fileName": "399-Closer_Than_You_Think",
+      "featured": false
+    },
+    "400": {
+      "id": 400,
+      "title": "Closer Than You Think",
+      "displayTitle": "Closer Than You Think (Alt)",
+      "fileName": "400-Closer_Than_You_Think-Alt",
+      "featured": false
+    },
+    "401": {
+      "id": 401,
+      "title": "A Proud Boaster",
+      "displayTitle": "A Proud Boaster",
+      "fileName": "401-A_Proud_Boaster",
+      "featured": false
+    },
+    "402": {
+      "id": 402,
+      "title": "A Proud Boaster",
+      "displayTitle": "A Proud Boaster (Alt)",
+      "fileName": "402-A_Proud_Boaster-Alt",
+      "featured": false
+    },
+    "403": {
+      "id": 403,
+      "title": "The Betrayer Betrays",
+      "displayTitle": "The Betrayer Betrays",
+      "fileName": "403-The_Betrayer_Betrays",
+      "featured": false
+    },
+    "404": {
+      "id": 404,
+      "title": "The Betrayer Betrays",
+      "displayTitle": "The Betrayer Betrays (Alt)",
+      "fileName": "404-The_Betrayer_Betrays-Alt",
+      "featured": false
+    },
+    "405": {
+      "id": 405,
+      "title": "From Underground",
+      "displayTitle": "From Underground",
+      "fileName": "405-From_Underground",
+      "featured": false
+    },
+    "406": {
+      "id": 406,
+      "title": "From Underground",
+      "displayTitle": "From Underground (Alt)",
+      "fileName": "406-From_Underground-Alt",
+      "featured": false
+    },
+    "407": {
+      "id": 407,
+      "title": "The Fall Of America",
+      "displayTitle": "The Fall Of America",
+      "fileName": "407-The_Fall_Of_America",
+      "featured": false
+    },
+    "408": {
+      "id": 408,
+      "title": "The Fall Of America",
+      "displayTitle": "The Fall Of America (Alt)",
+      "fileName": "408-The_Fall_Of_America-Alt",
+      "featured": false
+    },
+    "409": {
+      "id": 409,
+      "title": "Mene Mene Tekel",
+      "displayTitle": "Mene Mene Tekel",
+      "fileName": "409-Mene_Mene_Tekel",
+      "featured": false
+    },
+    "410": {
+      "id": 410,
+      "title": "Mene Mene Tekel",
+      "displayTitle": "Mene Mene Tekel (Alt)",
+      "fileName": "410-Mene_Mene_Tekel-Alt",
+      "featured": false
+    },
+    "411": {
+      "id": 411,
+      "title": "Send For Their Flesh",
+      "displayTitle": "Send For Their Flesh",
+      "fileName": "411-Send_For_Their_Flesh",
+      "featured": false
+    },
+    "412": {
+      "id": 412,
+      "title": "Send For Their Flesh",
+      "displayTitle": "Send For Their Flesh (Alt)",
+      "fileName": "412-Send_For_Their_Flesh-Alt",
+      "featured": false
+    },
+    "413": {
+      "id": 413,
+      "title": "The Penalty Of Error",
+      "displayTitle": "The Penalty Of Error",
+      "fileName": "413-The_Penalty_Of_Error",
+      "featured": false
+    },
+    "414": {
+      "id": 414,
+      "title": "The Penalty Of Error",
+      "displayTitle": "The Penalty Of Error (Alt)",
+      "fileName": "414-The_Penalty_Of_Error-Alt",
+      "featured": false
+    },
+    "415": {
+      "id": 415,
+      "title": "A Broken Rule Of Law",
+      "displayTitle": "A Broken Rule Of Law",
+      "fileName": "415-A_Broken_Rule_Of_Law",
+      "featured": false
+    },
+    "416": {
+      "id": 416,
+      "title": "A Broken Rule Of Law",
+      "displayTitle": "A Broken Rule Of Law (Alt)",
+      "fileName": "416-A_Broken_Rule_Of_Law-Alt",
+      "featured": false
+    },
+    "417": {
+      "id": 417,
+      "title": "A People Of Madness",
+      "displayTitle": "A People Of Madness",
+      "fileName": "417-A_People_Of_Madness",
+      "featured": false
+    },
+    "418": {
+      "id": 418,
+      "title": "A People Of Madness",
+      "displayTitle": "A People Of Madness (Alt)",
+      "fileName": "418-A_People_Of_Madness-Alt",
+      "featured": false
+    },
+    "419": {
+      "id": 419,
+      "title": "The Fire Pit",
+      "displayTitle": "The Fire Pit",
+      "fileName": "419-The_Fire_Pit",
+      "featured": false
+    },
+    "420": {
+      "id": 420,
+      "title": "The Fire Pit",
+      "displayTitle": "The Fire Pit (Alt)",
+      "fileName": "420-The_Fire_Pit-Alt",
+      "featured": false
+    },
+    "421": {
+      "id": 421,
+      "title": "The Year Of The Test",
+      "displayTitle": "The Year Of The Test",
+      "fileName": "421-The_Year_Of_The_Test",
+      "featured": false
+    },
+    "422": {
+      "id": 422,
+      "title": "The Year Of The Test",
+      "displayTitle": "The Year Of The Test (Alt)",
+      "fileName": "422-The_Year_Of_The_Test-Alt",
+      "featured": false
+    },
+    "423": {
+      "id": 423,
+      "title": "I Saw The End Of The World",
+      "displayTitle": "I Saw The End Of The World",
+      "fileName": "423-I_Saw_The_End_Of_The_World",
+      "featured": false
+    },
+    "424": {
+      "id": 424,
+      "title": "I Saw The End Of The World",
+      "displayTitle": "I Saw The End Of The World (Alt)",
+      "fileName": "424-I_Saw_The_End_Of_The_World-Alt",
+      "featured": false
+    },
+    "425": {
+      "id": 425,
+      "title": "The Shield Of Nations",
+      "displayTitle": "The Shield Of Nations",
+      "fileName": "425-The_Shield_Of_Nations",
+      "featured": false
+    },
+    "426": {
+      "id": 426,
+      "title": "The Shield Of Nations",
+      "displayTitle": "The Shield Of Nations (Alt)",
+      "fileName": "426-The_Shield_Of_Nations-Alt",
+      "featured": false
+    },
+    "427": {
+      "id": 427,
+      "title": "Who Is Worthy",
+      "displayTitle": "Who Is Worthy",
+      "fileName": "427-Who_Is_Worthy",
+      "featured": false
+    },
+    "428": {
+      "id": 428,
+      "title": "Who Is Worthy",
+      "displayTitle": "Who Is Worthy (Alt)",
+      "fileName": "428-Who_Is_Worthy-Alt",
+      "featured": false
+    },
+    "429": {
+      "id": 429,
+      "title": "Upheaval Of Nations",
+      "displayTitle": "Upheaval Of Nations",
+      "fileName": "429-Upheaval_Of_Nations",
+      "featured": false
+    },
+    "430": {
+      "id": 430,
+      "title": "Upheaval Of Nations",
+      "displayTitle": "Upheaval Of Nations (Alt)",
+      "fileName": "430-Upheaval_Of_Nations-Alt",
+      "featured": false
+    },
+    "431": {
+      "id": 431,
+      "title": "Run America Run",
+      "displayTitle": "Run America Run",
+      "fileName": "431-Run_America_Run",
+      "featured": false
+    },
+    "432": {
+      "id": 432,
+      "title": "Run America Run",
+      "displayTitle": "Run America Run (Alt)",
+      "fileName": "432-Run_America_Run-Alt",
+      "featured": false
+    },
+    "433": {
+      "id": 433,
+      "title": "Build My House",
+      "displayTitle": "Build My House",
+      "fileName": "433-Build_My_House",
+      "featured": false
+    },
+    "434": {
+      "id": 434,
+      "title": "Build My House",
+      "displayTitle": "Build My House (Alt)",
+      "fileName": "434-Build_My_House-Alt",
+      "featured": false
+    },
+    "435": {
+      "id": 435,
+      "title": "The Rainbow And Men",
+      "displayTitle": "The Rainbow And Men",
+      "fileName": "435-The_Rainbow_And_Men",
+      "featured": false
+    },
+    "436": {
+      "id": 436,
+      "title": "The Rainbow And Men",
+      "displayTitle": "The Rainbow And Men (Alt)",
+      "fileName": "436-The_Rainbow_And_Men-Alt",
+      "featured": false
+    },
+    "437": {
+      "id": 437,
+      "title": "The Breakdown Of Everything",
+      "displayTitle": "The Breakdown Of Everything",
+      "fileName": "437-The_Breakdown_Of_Everything",
+      "featured": false
+    },
+    "438": {
+      "id": 438,
+      "title": "The Breakdown Of Everything",
+      "displayTitle": "The Breakdown Of Everything (Alt)",
+      "fileName": "438-The_Breakdown_Of_Everything-Alt",
+      "featured": false
+    },
+    "439": {
+      "id": 439,
+      "title": "Headlines Of The Future",
+      "displayTitle": "Headlines Of The Future",
+      "fileName": "439-Headlines_Of_The_Future",
+      "featured": false
+    },
+    "440": {
+      "id": 440,
+      "title": "Headlines Of The Future",
+      "displayTitle": "Headlines Of The Future (Alt)",
+      "fileName": "440-Headlines_Of_The_Future-Alt",
+      "featured": false
+    },
+    "441": {
+      "id": 441,
+      "title": "Peanut Butter",
+      "displayTitle": "Peanut Butter",
+      "fileName": "441-Peanut_Butter",
+      "featured": false
+    },
+    "442": {
+      "id": 442,
+      "title": "Peanut Butter",
+      "displayTitle": "Peanut Butter (Alt)",
+      "fileName": "442-Peanut_Butter-Alt",
+      "featured": false
+    },
+    "443": {
+      "id": 443,
+      "title": "The Money Drain",
+      "displayTitle": "The Money Drain",
+      "fileName": "443-The_Money_Drain",
+      "featured": false
+    },
+    "444": {
+      "id": 444,
+      "title": "The Money Drain",
+      "displayTitle": "The Money Drain (Alt)",
+      "fileName": "444-The_Money_Drain-Alt",
+      "featured": false
+    },
+    "445": {
+      "id": 445,
+      "title": "Counterfeits Among Us",
+      "displayTitle": "Counterfeits Among Us",
+      "fileName": "445-Counterfeits_Among_Us",
+      "featured": false
+    },
+    "446": {
+      "id": 446,
+      "title": "Counterfeits Among Us",
+      "displayTitle": "Counterfeits Among Us (Alt)",
+      "fileName": "446-Counterfeits_Among_Us-Alt",
+      "featured": false
+    },
+    "447": {
+      "id": 447,
+      "title": "Modded Humans",
+      "displayTitle": "Modded Humans",
+      "fileName": "447-Modded_Humans",
+      "featured": false
+    },
+    "448": {
+      "id": 448,
+      "title": "Modded Humans",
+      "displayTitle": "Modded Humans (Alt)",
+      "fileName": "448-Modded_Humans-Alt",
+      "featured": false
+    },
+    "449": {
+      "id": 449,
+      "title": "Synthetics Walk Among Us",
+      "displayTitle": "Synthetics Walk Among Us",
+      "fileName": "449-Synthetics_Walk_Among_Us",
+      "featured": false
+    },
+    "450": {
+      "id": 450,
+      "title": "Synthetics Walk Among Us",
+      "displayTitle": "Synthetics Walk Among Us (Alt)",
+      "fileName": "450-Synthetics_Walk_Among_Us-Alt",
+      "featured": false
+    },
+    "451": {
+      "id": 451,
+      "title": "The Little Men Walking",
+      "displayTitle": "The Little Men Walking",
+      "fileName": "451-The_Little_Men_Walking",
+      "featured": false
+    },
+    "452": {
+      "id": 452,
+      "title": "The Little Men Walking",
+      "displayTitle": "The Little Men Walking (Alt)",
+      "fileName": "452-The_Little_Men_Walking-Alt",
+      "featured": false
+    },
+    "453": {
+      "id": 453,
+      "title": "Dinner At The UN",
+      "displayTitle": "Dinner At The UN",
+      "fileName": "453-Dinner_At_The_UN",
+      "featured": false
+    },
+    "454": {
+      "id": 454,
+      "title": "Dinner At The UN",
+      "displayTitle": "Dinner At The UN (Alt)",
+      "fileName": "454-Dinner_At_The_UN-Alt",
+      "featured": false
+    },
+    "455": {
+      "id": 455,
+      "title": "Tear You To Pieces",
+      "displayTitle": "Tear You To Pieces",
+      "fileName": "455-Tear_You_To_Pieces",
+      "featured": false
+    },
+    "456": {
+      "id": 456,
+      "title": "Tear You To Pieces",
+      "displayTitle": "Tear You To Pieces (Alt)",
+      "fileName": "456-Tear_You_To_Pieces-Alt",
+      "featured": false
+    },
+    "457": {
+      "id": 457,
+      "title": "The Fairest Of Them All",
+      "displayTitle": "The Fairest Of Them All",
+      "fileName": "457-The_Fairest_Of_Them_All",
+      "featured": false
+    },
+    "458": {
+      "id": 458,
+      "title": "The Fairest Of Them All",
+      "displayTitle": "The Fairest Of Them All (Alt)",
+      "fileName": "458-The_Fairest_Of_Them_All-Alt",
+      "featured": false
+    },
+    "459": {
+      "id": 459,
+      "title": "Over The Tops Of Buildings",
+      "displayTitle": "Over The Tops Of Buildings",
+      "fileName": "459-Over_The_Tops_Of_Buildings",
+      "featured": false
+    },
+    "460": {
+      "id": 460,
+      "title": "Over The Tops Of Buildings",
+      "displayTitle": "Over The Tops Of Buildings (Alt)",
+      "fileName": "460-Over_The_Tops_Of_Buildings-Alt",
+      "featured": false
+    },
+    "461": {
+      "id": 461,
+      "title": "The Many Words Of God",
+      "displayTitle": "The Many Words Of God",
+      "fileName": "461-The_Many_Words_Of_God",
+      "featured": false
+    },
+    "462": {
+      "id": 462,
+      "title": "The Many Words Of God",
+      "displayTitle": "The Many Words Of God (Alt)",
+      "fileName": "462-The_Many_Words_Of_God-Alt",
+      "featured": false
+    },
+    "463": {
+      "id": 463,
+      "title": "Daniel Seventy Weeks",
+      "displayTitle": "Daniel Seventy Weeks",
+      "fileName": "463-Daniel_Seventy_Weeks",
+      "featured": false
+    },
+    "464": {
+      "id": 464,
+      "title": "Daniel Seventy Weeks",
+      "displayTitle": "Daniel Seventy Weeks (Alt)",
+      "fileName": "464-Daniel_Seventy_Weeks-Alt",
+      "featured": false
+    },
+    "465": {
+      "id": 465,
+      "title": "The Liberty Crown Falls",
+      "displayTitle": "The Liberty Crown Falls",
+      "fileName": "465-The_Liberty_Crown_Falls",
+      "featured": false
+    },
+    "466": {
+      "id": 466,
+      "title": "The Liberty Crown Falls",
+      "displayTitle": "The Liberty Crown Falls (Alt)",
+      "fileName": "466-The_Liberty_Crown_Falls-Alt",
+      "featured": false
+    },
+    "467": {
+      "id": 467,
+      "title": "The End Of America",
+      "displayTitle": "The End Of America",
+      "fileName": "467-The_End_Of_America",
+      "featured": false
+    },
+    "468": {
+      "id": 468,
+      "title": "The End Of America",
+      "displayTitle": "The End Of America (Alt)",
+      "fileName": "468-The_End_Of_America-Alt",
+      "featured": false
+    },
+    "469": {
+      "id": 469,
+      "title": "Antichrist Algorithm",
+      "displayTitle": "Antichrist Algorithm",
+      "fileName": "469-Antichrist_Algorithm",
+      "featured": false
+    },
+    "470": {
+      "id": 470,
+      "title": "Antichrist Algorithm",
+      "displayTitle": "Antichrist Algorithm (Alt)",
+      "fileName": "470-Antichrist_Algorithm-Alt",
+      "featured": false
+    },
+    "471": {
+      "id": 471,
+      "title": "Beast System Bluetooth",
+      "displayTitle": "Beast System Bluetooth",
+      "fileName": "471-Beast_System_Bluetooth",
+      "featured": false
+    },
+    "472": {
+      "id": 472,
+      "title": "Beast System Bluetooth",
+      "displayTitle": "Beast System Bluetooth (Alt)",
+      "fileName": "472-Beast_System_Bluetooth-Alt",
+      "featured": false
+    },
+    "473": {
+      "id": 473,
+      "title": "Digital Rapture",
+      "displayTitle": "Digital Rapture",
+      "fileName": "473-Digital_Rapture",
+      "featured": false
+    },
+    "474": {
+      "id": 474,
+      "title": "Digital Rapture",
+      "displayTitle": "Digital Rapture (Alt)",
+      "fileName": "474-Digital_Rapture-Alt",
+      "featured": false
+    },
+    "475": {
+      "id": 475,
+      "title": "Dome Dwellers Awakening",
+      "displayTitle": "Dome Dwellers Awakening",
+      "fileName": "475-Dome_Dwellers_Awakening",
+      "featured": false
+    },
+    "476": {
+      "id": 476,
+      "title": "Dome Dwellers Awakening",
+      "displayTitle": "Dome Dwellers Awakening (Alt)",
+      "fileName": "476-Dome_Dwellers_Awakening-Alt",
+      "featured": false
+    },
+    "477": {
+      "id": 477,
+      "title": "Dome Of Silicon",
+      "displayTitle": "Dome Of Silicon",
+      "fileName": "477-Dome_Of_Silicon",
+      "featured": false
+    },
+    "478": {
+      "id": 478,
+      "title": "Dome Of Silicon",
+      "displayTitle": "Dome Of Silicon (Alt)",
+      "fileName": "478-Dome_Of_Silicon-Alt",
+      "featured": false
+    },
+    "479": {
+      "id": 479,
+      "title": "Electromagnetic Exodus",
+      "displayTitle": "Electromagnetic Exodus",
+      "fileName": "479-Electromagnetic_Exodus",
+      "featured": false
+    },
+    "480": {
+      "id": 480,
+      "title": "Electromagnetic Exodus",
+      "displayTitle": "Electromagnetic Exodus (Alt)",
+      "fileName": "480-Electromagnetic_Exodus-Alt",
+      "featured": false
+    },
+    "481": {
+      "id": 481,
+      "title": "Fake Stars Real Chains",
+      "displayTitle": "Fake Stars Real Chains",
+      "fileName": "481-Fake_Stars_Real_Chains",
+      "featured": false
+    },
+    "482": {
+      "id": 482,
+      "title": "Fake Stars Real Chains",
+      "displayTitle": "Fake Stars Real Chains (Alt)",
+      "fileName": "482-Fake_Stars_Real_Chains-Alt",
+      "featured": false
+    },
+    "483": {
+      "id": 483,
+      "title": "False Prophet AI",
+      "displayTitle": "False Prophet AI",
+      "fileName": "483-False_Prophet_AI",
+      "featured": false
+    },
+    "484": {
+      "id": 484,
+      "title": "False Prophet AI",
+      "displayTitle": "False Prophet AI (Alt)",
+      "fileName": "484-False_Prophet_AI-Alt",
+      "featured": false
+    },
+    "485": {
+      "id": 485,
+      "title": "Firmament Firewall",
+      "displayTitle": "Firmament Firewall",
+      "fileName": "485-Firmament_Firewall",
+      "featured": false
+    },
+    "486": {
+      "id": 486,
+      "title": "Firmament Firewall",
+      "displayTitle": "Firmament Firewall (Alt)",
+      "fileName": "486-Firmament_Firewall-Alt",
+      "featured": false
+    },
+    "487": {
+      "id": 487,
+      "title": "Mark Of The Nanobot",
+      "displayTitle": "Mark Of The Nanobot",
+      "fileName": "487-Mark_Of_The_Nanobot",
+      "featured": false
+    },
+    "488": {
+      "id": 488,
+      "title": "Mark Of The Nanobot",
+      "displayTitle": "Mark Of The Nanobot (Alt)",
+      "fileName": "488-Mark_Of_The_Nanobot-Alt",
+      "featured": false
+    },
+    "489": {
+      "id": 489,
+      "title": "Nephilim Nanobots",
+      "displayTitle": "Nephilim Nanobots",
+      "fileName": "489-Nephilim_Nanobots",
+      "featured": false
+    },
+    "490": {
+      "id": 490,
+      "title": "Nephilim Nanobots",
+      "displayTitle": "Nephilim Nanobots (Alt)",
+      "fileName": "490-Nephilim_Nanobots-Alt",
+      "featured": false
+    },
+    "491": {
+      "id": 491,
+      "title": "Revelations Reboot",
+      "displayTitle": "Revelations Reboot",
+      "fileName": "491-Revelations_Reboot",
+      "featured": false
+    },
+    "492": {
+      "id": 492,
+      "title": "Revelations Reboot",
+      "displayTitle": "Revelations Reboot (Alt)",
+      "fileName": "492-Revelations_Reboot-Alt",
+      "featured": false
+    },
+    "493": {
+      "id": 493,
+      "title": "Serpents Circuit",
+      "displayTitle": "Serpents Circuit",
+      "fileName": "493-Serpents_Circuit",
+      "featured": false
+    },
+    "494": {
+      "id": 494,
+      "title": "Serpents Circuit",
+      "displayTitle": "Serpents Circuit (Alt)",
+      "fileName": "494-Serpents_Circuit-Alt",
+      "featured": false
+    },
+    "495": {
+      "id": 495,
+      "title": "Tower Of Babel 2",
+      "displayTitle": "Tower Of Babel 2",
+      "fileName": "495-Tower_Of_Babel_2",
+      "featured": false
+    },
+    "496": {
+      "id": 496,
+      "title": "Tower Of Babel 2",
+      "displayTitle": "Tower Of Babel 2 (Alt)",
+      "fileName": "496-Tower_Of_Babel_2-Alt",
+      "featured": false
+    },
+    "497": {
+      "id": 497,
+      "title": "Tribulation Tech",
+      "displayTitle": "Tribulation Tech",
+      "fileName": "497-Tribulation_Tech",
+      "featured": false
+    },
+    "498": {
+      "id": 498,
+      "title": "Tribulation Tech",
+      "displayTitle": "Tribulation Tech (Alt)",
+      "fileName": "498-Tribulation_Tech-Alt",
+      "featured": false
+    },
+    "499": {
+      "id": 499,
+      "title": "Jesus Is Coming Soon",
+      "displayTitle": "Jesus Is Coming Soon",
+      "fileName": "499-Jesus_Is_Coming_Soon",
+      "featured": false
+    },
+    "500": {
+      "id": 500,
+      "title": "Jesus Is Coming Soon",
+      "displayTitle": "Jesus Is Coming Soon (Alt)",
+      "fileName": "500-Jesus_Is_Coming_Soon-Alt",
       "featured": false
     }
   }
